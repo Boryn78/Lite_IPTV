@@ -1,4 +1,4 @@
-﻿#EXTM3U url-tvg="https://iptvx.one/EPG_NOARCH" Num="channel-id="
+#EXTM3U url-tvg="https://iptvx.one/EPG_NOARCH" Num="channel-id="
 #EXTINF:-1 tvg-logo="https://dtv.plus/wp-content/uploads/2023/06/ace-stream-engine-for-android-tv.webp" group-title="🔺 ИНФОКАНАЛ 🔺", Для каналов (Torrent TV) запустите Ace Stream Engine
 #EXTGRP:🔺 ИНФОКАНАЛ 🔺
 https://drive.google.com/uc?export=download&id=1GDaCvBteVvxKR19l2FXP9cw1fHj2nHE
@@ -660,7 +660,7 @@ http://127.0.0.1:6878/ace/getstream?id=762e1d11f7d07029f316c6f61b8ef73289c6673c
 #EXTINF:-1 tvg-id="Матч! Страна" tvg-name="МАТЧ! СТРАНА" tvg-logo="https://iptvx.one/picons/match-strana.png" group-title="🏅 СПОРТ", МАТЧ! СТРАНА HD
 #EXTGRP:🏅 СПОРТ
 http://server-2.onlinetv-sochi.ru:8080/live/limeHD5_vip.php?id=201&token=Ym9yeW43ODpMYW5jZXIxNg==
-#EXTINF:-1 tvg-id="Матч! Страна" tvg-name="МАТЧ! СТРАНА" tvg-logo="https://iptvx.one/picons/match-strana.png" group-title="🏅 СПОРТ", МАТЧ! СТРАНА FHD 50 (Torrent TV)
+#EXTINF:-1 tvg-id="Матч! Страна" tvg-name="МАТЧ! СТРАНА" tvg-logo="https://iptvx.one/picons/match-strana.png" group-title="🏅 СПОРТ", МАТЧ! СТРАНА FHD 50 (Torren TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=ef9c77bd94783448b8edb552109f5f15b2bd82d1
 #EXTINF:-1 tvg-id="match-planeta" tvg-name="МАТЧ! ПЛАНЕТА" tvg-logo="https://iptvx.one/picons/match-planeta.png" group-title="🏅 СПОРТ", МАТЧ! ПЛАНЕТА
