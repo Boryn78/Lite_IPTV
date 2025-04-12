@@ -545,7 +545,7 @@ http://127.0.0.1:6878/ace/getstream?id=7e515477cf191b1e4e33c7151c7cf84925f16780&
 http://list.onlinetv-sochi.ru:8080/live/cosmostv1.php?id=278&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="avto-plus" tvg-name="АВТО ПЛЮС" tvg-logo="https://iptvx.one/picons/avto-plus.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", АВТО ПЛЮС FHD (Torrent TV)
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://127.0.0.1:6878/ace/getstream?id=c3ff9e5243014a19c3cee52159d68fd750eeecb9
+http://127.0.0.1:6878/ace/manifest.m3u8?id=c3ff9e5243014a19c3cee52159d68fd750eeecb9
 #EXTINF:-1 tvg-id="avto-plus" tvg-name="АВТО ПЛЮС" tvg-logo="https://iptvx.one/picons/avto-plus.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", АВТО ПЛЮС
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://server-2.onlinetv-sochi.ru:8080/live/limeHD5_vip.php?id=108&token=Ym9yeW43ODpMYW5jZXIxNg==
