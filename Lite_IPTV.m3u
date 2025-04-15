@@ -501,7 +501,7 @@ http://127.0.0.1:6878/ace/getstream?id=b5e4d600404702a7d50e01e64f82ea1d26b68f63&
 #EXTINF:-1 tvg-id="h2-hd" tvg-name="H2" tvg-logo="https://karnei4.github.io/convert/index_files/h2.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", HISTORY 2 FHD (Torrent TV)
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://127.0.0.1:6878/ace/getstream?id=88e804faf482b3caa0a680c931bdd1578c4bfbee&.mp4
-#EXTINF:-1 tvg-id="HDL" tvg-name="HDL" tvg-logo="https://iptvx.one/picons/hdl.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", HDL FHD (Torrent TV)
+#EXTINF:-1 tvg-id="HDL" tvg-name="HDL" tvg-logo="https://iptvx.one/picons/hdl.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ТОЧКА.РФ FHD (Torrent TV)
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://127.0.0.1:6878/ace/getstream?id=74a1634a8fe44e5058c865d4de63cde90b14f107&.mp4
 #EXTINF:-1 tvg-id="sovsek" tvg-name="СОВЕРШЕННО СЕКРЕТНО" tvg-logo="http://epg.it999.ru/img2/275.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", СОВЕРШЕННО СЕКРЕТНО
