@@ -2200,7 +2200,7 @@ http://188.225.31.197/bpk-tv/000002649/tve/index.m3u8
 http://185.221.213.254:8080/Okkofut/index.m3u8
 #EXTINF:-1 tvg-id="okko-sport" tvg-name="ОККО СПОРТ" tvg-logo="https://iptvx.one/picons/okko-sport.png" group-title="🏅 СПОРТ", ОККО СПОРТ FHD 50
 #EXTGRP:🏅 СПОРТ
-http://185.221.213.254:8080/Okkosport/index.m3u8
+http://194.26.229.4/live/stream6.php?q=reG0WUFqFThRGiNuVdm4ZhpG7cyjqqoolypJMzMmXL5NqSGzBtVy8TA1TTbWRFkJtU79YPeg8sU6xvgbfz-27A0D3MVdvnMXin9IRbTIcTY&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="tennis-cnl-us" tvg-name="Tennis Channel [US]" tvg-logo="https://epg.iptvx.one/picons/tennis-cnl-us.png" group-title="🏅 СПОРТ", TENNIS CHANNEL [US]
 #EXTGRP:🏅 СПОРТ
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
