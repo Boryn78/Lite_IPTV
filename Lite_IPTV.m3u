@@ -2097,7 +2097,7 @@ http://188.225.31.197/bpk-tv/000004498/tve/index.m3u8
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kinopokaz_9.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc1NDA4NzQ5MSwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzUzNDgyNjkxLCJzZXNzaW9uX2lkIjoiYzZjNTIyOTNiZThkYmJiYjRhMmVkZTlkMDdkNzg5MGIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.mBtIQ8OM_QtI4W-i7Q5E5IcSiqvQ1gj0Xgs6dZVTuko
 #EXTINF:-1 tvg-id="kvn-tv" tvg-name="КВН ТВ" tvg-logo="https://iptvx.one/picons/kvn-tv.png" group-title="👀 РАЗНОЕ", КВН ТВ
 #EXTGRP:👀 РАЗНОЕ
-http://194.26.229.4/live/stream6.php?q=reG0WUFqFThRGiNuVdm4ZmT9e941EOWQSihC0fYVObGBuVducnQBbEKekZZ-MjU7umwyJllvmA1ErXXo59E6Dg&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://158.101.222.193:88/georgia_play.php?id=kvntv
 #EXTINF:-1 tvg-id="setanta-sports2" tvg-name="SETANTA SPORTS 2" tvg-logo="https://iptvx.one/picons/setanta-sports-plus.png" group-title="🏅 СПОРТ", SETANTA SPORTS 2 FHD
 #EXTGRP:🏅 СПОРТ
 http://188.225.31.197/bpk-tv/000004499/tve/index.m3u8
