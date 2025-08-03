@@ -28,13 +28,13 @@ https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
 http://cdngw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=tnt_hd.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc1NDY5MjY1MywiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzU0MDg3ODUzLCJzZXNzaW9uX2lkIjoiMmY2MjZkZjkwMGU2NTY4Nzk0ZmIyNTA4ZWVlYzNlODAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.lNuwOEOkQDFU7h-YHNn1jQXIvaP4AdrQ3lYD4uxcqKg
 #EXTINF:-1 tvg-id="sts" tvg-name="СТС HD" tvg-logo="https://iptvx.one/picons/sts.png" group-title="🇷🇺 ФЕДЕРАЛЬНЫЕ HD", СТС FHD
 #EXTGRP:🇷🇺 ФЕДЕРАЛЬНЫЕ HD
-http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=STS_0_hd
+http://list.onlinetv-sochi.ru:8080/live/channel.php?id=25&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="sts" tvg-name="СТС HD" tvg-logo="https://iptvx.one/picons/sts.png" group-title="🇷🇺 ФЕДЕРАЛЬНЫЕ HD", СТС HD
 #EXTGRP:🇷🇺 ФЕДЕРАЛЬНЫЕ HD
 http://cdngw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=STS_0_hd.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc1NDY5MjY1MywiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzU0MDg3ODUzLCJzZXNzaW9uX2lkIjoiMmY2MjZkZjkwMGU2NTY4Nzk0ZmIyNTA4ZWVlYzNlODAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.lNuwOEOkQDFU7h-YHNn1jQXIvaP4AdrQ3lYD4uxcqKg
 #EXTINF:-1 tvg-id="rentv" tvg-name="РЕН ТВ HD" tvg-logo="https://iptvx.one/picons/rentv.png" group-title="🇷🇺 ФЕДЕРАЛЬНЫЕ HD", РЕН ТВ FHD
 #EXTGRP:🇷🇺 ФЕДЕРАЛЬНЫЕ HD
-http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=REN-TV_0_hd
+http://list.onlinetv-sochi.ru:8080/live/channel.php?id=27&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="rentv" tvg-name="РЕН ТВ HD" tvg-logo="https://iptvx.one/picons/rentv.png" group-title="🇷🇺 ФЕДЕРАЛЬНЫЕ HD", РЕН ТВ HD
 #EXTGRP:🇷🇺 ФЕДЕРАЛЬНЫЕ HD
 http://cdngw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=REN-TV_0_hd.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc1NDY5MjY1MywiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzU0MDg3ODUzLCJzZXNzaW9uX2lkIjoiMmY2MjZkZjkwMGU2NTY4Nzk0ZmIyNTA4ZWVlYzNlODAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.lNuwOEOkQDFU7h-YHNn1jQXIvaP4AdrQ3lYD4uxcqKg
