@@ -16,7 +16,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 http://cdngw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Rossia_1_0_hd.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc1NTkwMjUzMywiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzU1Mjk3NzMzLCJzZXNzaW9uX2lkIjoiMWQwNjg1ZWE0NjQ5YzU4ZmIwYjdiYzdjMDMxMWU2YjgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KWOJLrw-5IR8oI17WTMd94iaLpLBYL65ixpI-j49xtA
 #EXTINF:-1 tvg-id="ntv" tvg-name="НТВ HD" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="🇷🇺 ФЕДЕРАЛЬНЫЕ HD", НТВ FHD
 #EXTGRP:🇷🇺 ФЕДЕРАЛЬНЫЕ HD
-https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
+http://list.onlinetv-sochi.ru:8080/live/channel.php?id=14&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="ntv" tvg-name="НТВ HD" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="🇷🇺 ФЕДЕРАЛЬНЫЕ HD", НТВ HD
 #EXTGRP:🇷🇺 ФЕДЕРАЛЬНЫЕ HD
 http://cdngw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=NTV_0_hd.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc1NTkwMjUzMywiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzU1Mjk3NzMzLCJzZXNzaW9uX2lkIjoiMWQwNjg1ZWE0NjQ5YzU4ZmIwYjdiYzdjMDMxMWU2YjgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KWOJLrw-5IR8oI17WTMd94iaLpLBYL65ixpI-j49xtA
