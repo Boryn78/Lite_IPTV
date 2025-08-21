@@ -3013,9 +3013,9 @@ http://server-2.onlinetv-sochi.ru:8080/live/limeHD5_vip.php?id=33&token=Ym9yeW43
 #EXTINF:-1 tvg-id="cineman-rukino" tvg-name="CINEMAN РУКИНО" tvg-logo="https://iptvx.one/picons/cineman-rukino.png" group-title="🎞️ КИНОЗАЛЫ", CINEMAN РУКИНО HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
 http://127.0.0.1:6878/ace/getstream?id=51a8548ddcff18ba9f89c4c4cb6eb359fc24b30b&.mp4
-#EXTINF:-1 tvg-id="CineMan Катастрофы" tvg-id="cineman-katastrofy" tvg-logo="https://epg.iptvx.one/picons/cineman-katastrofy.png" group-title="🎞️ КИНОЗАЛЫ", CINEMAN КАТАСТРОФЫ HD (тест)
+#EXTINF:-1 tvg-id="CineMan Action" tvg-id="cineman-action" tvg-logo="https://epg.iptvx.one/picons/cineman-action.png" group-title="🎞️ КИНОЗАЛЫ", CINEMAN ACTION HD (тест)
 #EXTGRP:🎞️ КИНОЗАЛЫ
-http://list.onlinetv-sochi.ru:8080/live/channel.php?id=677&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://178.217.72.66:8080/CineMan_Action/index.m3u8
 #EXTINF:-1 tvg-name="CARTOONITO" tvg-logo="https://iptvx.one/picons/boomerang.png" group-title="🧸 ДЕТСКИЕ", CARTOONITO (Torrent TV)
 #EXTGRP:🧸 ДЕТСКИЕ
 http://127.0.0.1:6878/ace/getstream?id=7c1eb7f914bc0dcddfa79cc9e2693cf39aa32ed5&.mp4
