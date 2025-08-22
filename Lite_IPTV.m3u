@@ -1593,9 +1593,18 @@ https://shoppinglive.mediacdn.ru/cdn/shopping/playlist_sdhigh.m3u8
 #EXTINF:-1 tvg-name="LEOMAX 24" tvg-logo="https://karnei4.github.io/convert/index_files/leomax.png" group-title="👀 РАЗНОЕ", LEOMAX 24
 #EXTGRP:👀 РАЗНОЕ
 https://tvshops.bonus-tv.ru/cdn/shop24/tracks-v1a1/mono.m3u8?token=cdn
+#EXTINF:-1 tvg-id="kino18plus-tviksel" tvg-name="Кино 18+" tvg-logo="https://epg.iptvx.one/picons/kino18plus-tviksel.png" group-title="💘 ВЗРОСЛЫЕ", КИНО 18+
+#EXTGRP:💘 ВЗРОСЛЫЕ
+https://autopilot.catcast.tv/content/40381/index.m3u8
 #EXTINF:-1 tvg-id="exxxotica" tvg-name="EXXXOTICA" tvg-logo="https://ntvplus.tv/files/image/88/97/03/-channel!avk.png" group-title="💘 ВЗРОСЛЫЕ", EXXXOTICA
 #EXTGRP:💘 ВЗРОСЛЫЕ
 http://31.148.48.15:80/O-la-la/index.m3u8
+#EXTINF:-1 tvg-id="russkaya-noch" tvg-name="Русская ночь" tvg-logo="https://epg.iptvx.one/picons/russkaya-noch.png" group-title="💘 ВЗРОСЛЫЕ", РУССКАЯ НОЧЬ
+#EXTGRP:💘 ВЗРОСЛЫЕ
+http://77.235.1.19:8000/play/a007/index.m3u8
+#EXTINF:-1 tvg-id="redlips" tvg-name="Red Lips" tvg-logo="https://epg.iptvx.one/picons/redlips.png" group-title="💘 ВЗРОСЛЫЕ", RED LIPS
+#EXTGRP:💘 ВЗРОСЛЫЕ
+http://77.235.1.19:8000/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="erox" tvg-name="EROX" tvg-logo="https://karnei4.github.io/convert/EroX.png" group-title="💘 ВЗРОСЛЫЕ", EROX
 #EXTGRP:💘 ВЗРОСЛЫЕ
 #EXTVLCOPT:http-user-agent=SmartTV
@@ -1632,6 +1641,10 @@ http://78.108.251.120:8082/Super_One
 #EXTGRP:💘 ВЗРОСЛЫЕ
 #EXTVLCOPT:http-user-agent=SmartTV
 http://103.49.40.100:30010/VIVIDREDHD
+#EXTINF:-1 tvg-id="" tvg-name="Pink TV" tvg-logo="https://avatars.mds.yandex.net/i?id=c5524d61b4646d9eb1a5cf927dbf4b8b15afc852-9847129-images-thumbs&n=13" group-title="💘 ВЗРОСЛЫЕ", PINK CLUB TV
+#EXTGRP:💘 ВЗРОСЛЫЕ
+#EXTVLCOPT:http-user-agent=SmartTV
+https://5f22d76e220e1.streamlock.net/canale7/canale7/playlist.m3u8
 #EXTINF:-1 tvg-name="Сочи - Пляж Мамайка" group-title="📷 WEB КАМЕРЫ", Сочи - Пляж Мамайка
 #EXTGRP:📷 WEB КАМЕРЫ
 https://fl.tvintel.info:8443/mix-kukuruza-plyaz/index.m3u8
@@ -2601,6 +2614,10 @@ http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
 #EXTGRP:💘 ВЗРОСЛЫЕ
 #EXTVLCOPT:http-user-agent=SmartTV
 http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="no_epg_xxx" tvg-name="VENUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Canal_Venus_logo_%282%29.svg/1200px-Canal_Venus_logo_%282%29.svg.png" group-title="💘 ВЗРОСЛЫЕ", VENUS
+#EXTGRP:💘 ВЗРОСЛЫЕ
+#EXTVLCOPT:http-user-agent=SmartTV
+http://181.188.216.5:18000/play/a01h/index.m3u8
 #EXTINF:-1 tvg-id="kinojam1" tvg-name="KINOJAM 1 HD" tvg-logo="https://iptvx.one/picons/kinojam1.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", KINOJAM 1 HD
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kinojam_1.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc1NTkwMjUzMywiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzU1Mjk3NzMzLCJzZXNzaW9uX2lkIjoiMWQwNjg1ZWE0NjQ5YzU4ZmIwYjdiYzdjMDMxMWU2YjgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KWOJLrw-5IR8oI17WTMd94iaLpLBYL65ixpI-j49xtA
