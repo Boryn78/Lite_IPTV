@@ -1656,9 +1656,9 @@ https://fl.tvintel.info:8443/mix-partizanskaya15/index.m3u8
 #EXTINF:-1 tvg-name="Сочи - Обзорная камера с Сан. Мыс видный" group-title="📷 WEB КАМЕРЫ", Сочи - Обзорная камера с Сан. Мыс видный
 #EXTGRP:📷 WEB КАМЕРЫ
 https://fl.tvintel.info:8443/mix-mysvidnyi-PTZ/index.m3u8
-#EXTINF:-1 tvg-name="Иссык-Куль (KG)" group-title="📷 WEB КАМЕРЫ", Иссык-Куль (KG)
+#EXTINF:-1 tvg-name="" group-title="📷 WEB КАМЕРЫ", Сочи - Пляж Мандарин
 #EXTGRP:📷 WEB КАМЕРЫ
-http://213.145.131.243/cam2/stream.m3u8?checkedby:iptvlister.com
+https://sochi.camera:8443/cam_75/tracks-v1/mono.m3u8?token=522e65d72ca08f0a8f475d0bc9ac8830962ce451-a90495f09904f9f8d4b1a41cab86ab02-1755914685-1755885885
 #EXTINF:-1 tvg-name="Флорида Грейтон-Бич Пляж" group-title="📷 WEB КАМЕРЫ", Флорида Грейтон-Бич Пляж
 #EXTGRP:📷 WEB КАМЕРЫ
 https://59b69eab8875b.streamlock.net/live/Beach_Cam_01.stream/playlist.m3u8
