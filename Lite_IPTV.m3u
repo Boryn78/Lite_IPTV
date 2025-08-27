@@ -16,7 +16,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 http://cdngw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Rossia_1_0_hd.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc1NjUwNjY3OSwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzU1OTAxODc5LCJzZXNzaW9uX2lkIjoiZTU2NTgyZDI3ZWE2MzRiOGRjZjU0MWM2YTMwODZjMWMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.W5j6NWNKyn0kAYfsTe_y_c_VYmjR5PvMj70jqnG91II
 #EXTINF:-1 tvg-id="ntv" tvg-name="НТВ HD" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="🇷🇺 ФЕДЕРАЛЬНЫЕ HD", НТВ FHD
 #EXTGRP:🇷🇺 ФЕДЕРАЛЬНЫЕ HD
-http://list.onlinetv-sochi.ru:8080/live/channel.php?id=14&token=Ym9yeW43ODpMYW5jZXIxNg==
+https://cdn.ntv.ru/ntv-msk_hd/rewind-7150.m3u8?filter.tracks=v2v1v3v4v5a1l1t1
 #EXTINF:-1 tvg-id="ntv" tvg-name="НТВ HD" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="🇷🇺 ФЕДЕРАЛЬНЫЕ HD", НТВ HD
 #EXTGRP:🇷🇺 ФЕДЕРАЛЬНЫЕ HD
 http://cdngw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=NTV_0_hd.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc1NjUwNjY3OSwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzU1OTAxODc5LCJzZXNzaW9uX2lkIjoiZTU2NTgyZDI3ZWE2MzRiOGRjZjU0MWM2YTMwODZjMWMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.W5j6NWNKyn0kAYfsTe_y_c_VYmjR5PvMj70jqnG91II
@@ -70,10 +70,6 @@ http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="МИР 24" tvg-logo="https://iptvx.one/picons/mir24.png" group-title="🇷🇺 ФЕДЕРАЛЬНЫЕ HD", МИР 24 HD
 #EXTGRP:🇷🇺 ФЕДЕРАЛЬНЫЕ HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 tvg-id="ntv" tvg-name="НТВ HD" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="🇷🇺 ФЕДЕРАЛЬНЫЕ HD", НТВ HD (тест)
-#EXTGRP:🇷🇺 ФЕДЕРАЛЬНЫЕ HD
-#EXTVLCOPT:http-user-agent=WINK/1.130.1 (AndroidTV/9) HlsWinkPlayer
-https://cdn.ntv.ru/ntv-msk_hd/rewind-7150.m3u8?filter.tracks=v2v1v3v4v5a1l1t1
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ПЕРВЫЙ КАНАЛ" tvg-logo="http://i120.fastpic.org/big/2022/0731/5a/975757b7227dd15519c6a0e0d5f0065a.png" group-title="🇷🇺 ФЕДЕРАЛЬНЫЕ", ПЕРВЫЙ КАНАЛ
 #EXTGRP:🇷🇺 ФЕДЕРАЛЬНЫЕ
 #EXTVLCOPT:http-user-agent=WINK/1.130.1 (AndroidTV/9) HlsWinkPlayer
