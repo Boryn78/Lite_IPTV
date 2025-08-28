@@ -52,7 +52,7 @@ http://list.onlinetv-sochi.ru:8080/live/channel.php?id=24&token=Ym9yeW43ODpMYW5j
 http://cdngw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=domashny.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc1NjUwNjY3OSwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzU1OTAxODc5LCJzZXNzaW9uX2lkIjoiZTU2NTgyZDI3ZWE2MzRiOGRjZjU0MWM2YTMwODZjMWMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.W5j6NWNKyn0kAYfsTe_y_c_VYmjR5PvMj70jqnG91II
 #EXTINF:-1 tvg-id="piatnica" tvg-name="ПЯТНИЦА! HD" tvg-logo="https://iptvx.one/picons/piatnica.png" group-title="🇷🇺 ФЕДЕРАЛЬНЫЕ HD", ПЯТНИЦА! FHD
 #EXTGRP:🇷🇺 ФЕДЕРАЛЬНЫЕ HD
-http://list.onlinetv-sochi.ru:8080/live/channel.php?id=57&token=Ym9yeW43ODpMYW5jZXIxNg==
+https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=icEogsXdSb3KvR0z01J79w&e=1756422996&scheme=https
 #EXTINF:-1 tvg-id="piatnica" tvg-name="ПЯТНИЦА! HD" tvg-logo="https://iptvx.one/picons/piatnica.png" group-title="🇷🇺 ФЕДЕРАЛЬНЫЕ HD", ПЯТНИЦА! HD
 #EXTGRP:🇷🇺 ФЕДЕРАЛЬНЫЕ HD
 http://cdngw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Friday_0_hd.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc1NjUwNjY3OSwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzU1OTAxODc5LCJzZXNzaW9uX2lkIjoiZTU2NTgyZDI3ZWE2MzRiOGRjZjU0MWM2YTMwODZjMWMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.W5j6NWNKyn0kAYfsTe_y_c_VYmjR5PvMj70jqnG91II
