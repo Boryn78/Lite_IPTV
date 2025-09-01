@@ -1658,10 +1658,10 @@ https://fl.tvintel.info:8443/mix-mysvidnyi-PTZ/index.m3u8
 #EXTINF:-1 tvg-name="" group-title="📷 WEB КАМЕРЫ", Сочи - Пляж возле ресторана "Старград"
 #EXTGRP:📷 WEB КАМЕРЫ
 http://95.143.188.242:8080/live/camera.php?id=1502&token=VmlwaXBUdjpWaXBpcFR2Nzc=&OnlineTV=MGdPa0ZMNC9JOXFkNE5mQTkxSEJPMHdHSXVIVzk2L0FlR25NRm43ZWg4az06Omnn76FJSVWm06ftNtuMUG0%3D|User-Agent=1
-#EXTINF:-1 tvg-name="" group-title="📷 WEB КАМЕРЫ", Сочи - Пляж возле ресторана "Старград"
+#EXTINF:-1 tvg-name="" group-title="📷 WEB КАМЕРЫ", Сочи - Ресторана "Старград"
 #EXTGRP:📷 WEB КАМЕРЫ
 http://95.143.188.242:8080/live/camera.php?id=1506&token=VmlwaXBUdjpWaXBpcFR2Nzc=&OnlineTV=M01salE1c2VUSU9ScVJidkExbjl5RXd4YUdncGdHbW84NElJemZUdE16bz06OsBdsTWMIhKxtN3ErZskINg%3D|User-Agent=1
-#EXTINF:-1 tvg-name="" group-title="📷 WEB КАМЕРЫ", Сочи - Пляж возле ТРЦ "Мандарин"
+#EXTINF:-1 tvg-name="" group-title="📷 WEB КАМЕРЫ", Сочи - ТРЦ "Мандарин"
 #EXTGRP:📷 WEB КАМЕРЫ
 http://95.143.188.242:8080/live/camera.php?id=1537&token=VmlwaXBUdjpWaXBpcFR2Nzc=&OnlineTV=TGlHWGZ5U0JONmJlWTl0T3JPSThaNEJ1QXpGRWNBMC8yenFNbzhJQitxcz06OpcST6aoiAc2DOCnjgHP3%2FQ%3D|User-Agent=1
 #EXTINF:-1 tvg-name="" group-title="📷 WEB КАМЕРЫ", Сочи - Пляж Дагомыс
@@ -1670,6 +1670,12 @@ http://95.143.188.242:8080/live/camera.php?id=1541&token=VmlwaXBUdjpWaXBpcFR2Nzc
 #EXTINF:-1 tvg-name="" group-title="📷 WEB КАМЕРЫ", Сочи - Пляж "Cosmos Stay Le Rond Sochi"
 #EXTGRP:📷 WEB КАМЕРЫ
 http://95.143.188.242:8080/live/camera.php?id=1543&token=VmlwaXBUdjpWaXBpcFR2Nzc=&OnlineTV=ZXBqelRrTjd6NFk4cUpFdEpySG53TGM3bnJodTZNUUhyZEd2RzdLOC8xQT06OvUWNmLrhtmlv2Qq8DmtWp0%3D|User-Agent=1
+#EXTINF:-1 tvg-name="" group-title="📷 WEB КАМЕРЫ", Озеро Рица
+#EXTGRP:📷 WEB КАМЕРЫ
+http://95.143.188.242:8080/live/camera.php?id=1894&token=VmlwaXBUdjpWaXBpcFR2Nzc=&OnlineTV=YnZDbzVSS2JiamozSXNVNUtDRGEwRGw3blNTbjNWSzdqVmhZZG5kY2Iybz06OoBSbqKVg726JifJ%2BrpW9d8%3D|User-Agent=1
+#EXTINF:-1 tvg-name="" group-title="📷 WEB КАМЕРЫ", Сочи - Пляж "Куба"
+#EXTGRP:📷 WEB КАМЕРЫ
+http://95.143.188.242:8080/live/camera.php?id=1932&token=VmlwaXBUdjpWaXBpcFR2Nzc=&OnlineTV=SGhGTVpBWVVNZ1ZhNDBQc0VOQWJBZ1NYTnAvUkV6TmdGek5sQUJpRjlOST06Og1KP6BNANrL4A54ahE3%2FEA%3D|User-Agent=1
 #EXTINF:-1 tvg-name="Флорида Грейтон-Бич Пляж" group-title="📷 WEB КАМЕРЫ", Флорида Грейтон-Бич Пляж
 #EXTGRP:📷 WEB КАМЕРЫ
 https://59b69eab8875b.streamlock.net/live/Beach_Cam_01.stream/playlist.m3u8
