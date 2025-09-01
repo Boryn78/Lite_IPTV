@@ -1655,9 +1655,15 @@ https://fl.tvintel.info:8443/mix-partizanskaya15/index.m3u8
 #EXTINF:-1 tvg-name="Сочи - Обзорная камера с Сан. Мыс видный" group-title="📷 WEB КАМЕРЫ", Сочи - Обзорная камера с Сан. Мыс видный
 #EXTGRP:📷 WEB КАМЕРЫ
 https://fl.tvintel.info:8443/mix-mysvidnyi-PTZ/index.m3u8
-#EXTINF:-1 tvg-name="" group-title="📷 WEB КАМЕРЫ", Сочи - Пляж Мандарин
+#EXTINF:-1 tvg-name="" group-title="📷 WEB КАМЕРЫ", Сочи - Пляж возле ресторана "Старград"
 #EXTGRP:📷 WEB КАМЕРЫ
-https://sochi.camera:8443/cam_75/tracks-v1/mono.m3u8?token=522e65d72ca08f0a8f475d0bc9ac8830962ce451-a90495f09904f9f8d4b1a41cab86ab02-1755914685-1755885885
+http://95.143.188.242:8080/live/camera.php?id=1502&token=VmlwaXBUdjpWaXBpcFR2Nzc=&OnlineTV=MGdPa0ZMNC9JOXFkNE5mQTkxSEJPMHdHSXVIVzk2L0FlR25NRm43ZWg4az06Omnn76FJSVWm06ftNtuMUG0%3D|User-Agent=1
+#EXTINF:-1 tvg-name="" group-title="📷 WEB КАМЕРЫ", Сочи - Пляж возле ресторана "Старград"
+#EXTGRP:📷 WEB КАМЕРЫ
+http://95.143.188.242:8080/live/camera.php?id=1506&token=VmlwaXBUdjpWaXBpcFR2Nzc=&OnlineTV=M01salE1c2VUSU9ScVJidkExbjl5RXd4YUdncGdHbW84NElJemZUdE16bz06OsBdsTWMIhKxtN3ErZskINg%3D|User-Agent=1
+#EXTINF:-1 tvg-name="" group-title="📷 WEB КАМЕРЫ", Сочи - Пляж возле ТРЦ "Мандарин"
+#EXTGRP:📷 WEB КАМЕРЫ
+http://95.143.188.242:8080/live/camera.php?id=1537&token=VmlwaXBUdjpWaXBpcFR2Nzc=&OnlineTV=TGlHWGZ5U0JONmJlWTl0T3JPSThaNEJ1QXpGRWNBMC8yenFNbzhJQitxcz06OpcST6aoiAc2DOCnjgHP3%2FQ%3D|User-Agent=1
 #EXTINF:-1 tvg-name="Флорида Грейтон-Бич Пляж" group-title="📷 WEB КАМЕРЫ", Флорида Грейтон-Бич Пляж
 #EXTGRP:📷 WEB КАМЕРЫ
 https://59b69eab8875b.streamlock.net/live/Beach_Cam_01.stream/playlist.m3u8
