@@ -63,6 +63,9 @@ https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/0.m3u8
 #EXTINF:-1 tvg-id="tvcentr" tvg-name="ТВ Центр" tvg-logo="https://iptvx.one/picons/tvcentr.png" group-title="🇷🇺 ФЕДЕРАЛЬНЫЕ HD", ТВ ЦЕНТР HD
 #EXTGRP:🇷🇺 ФЕДЕРАЛЬНЫЕ HD
 https://live-mirror-01.ott.tricolor.tv/live/live/TV_Center_HD/hls_enc/TV_Center_HD.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc1NzcxNTc3NCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzU3MTEwOTc0LCJzZXNzaW9uX2lkIjoiYmFlMmVhNjMwNzMxMzVlZmYwMGQ4NmI1MDUzNjM3MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.tdeuqmMHHAg9-Uxjco4CUR88Dqwtu7Uhh72-VbWtbZo
+#EXTINF:-1 tvg-id="kultura" tvg-name="Россия К" tvg-logo="https://epg.iptvx.one/picons/kultura.png" group-title="🇷🇺 ФЕДЕРАЛЬНЫЕ HD", РОССИЯ К HD
+#EXTGRP:🇷🇺 ФЕДЕРАЛЬНЫЕ HD
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 tvg-name="ИЗВЕСТИЯ HD" tvg-logo="https://iptvx.one/picons/izvestia.png" group-title="🇷🇺 ФЕДЕРАЛЬНЫЕ HD", ИЗВЕСТИЯ HD
 #EXTGRP:🇷🇺 ФЕДЕРАЛЬНЫЕ HD
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/mono.m3u8
