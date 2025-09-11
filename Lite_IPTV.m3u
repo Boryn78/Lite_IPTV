@@ -223,7 +223,7 @@ http://188.225.31.197/bpk-tv/000000134/tve/index.m3u8
 http://127.0.0.1:6878/ace/getstream?id=f9cad853d220c9d7c3ec88ad65681a611b8ec280
 #EXTINF:-1 tvg-id="ntv-xit" tvg-name="НТВ ХИТ" tvg-logo="https://iptvx.one/picons/ntv-xit.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", НТВ ХИТ
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://server-1.onlinetv-sochi.ru/live/server-7.php?id=3781&token=Ym9yeW43ODpMYW5jZXIxNg=
+http://178.217.72.66:8080/NTV_Khit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ntv-serial" tvg-name="НТВ СЕРИАЛ" tvg-logo="https://iptvx.one/picons/ntv-serial.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", НТВ СЕРИАЛ FHD (Torrent TV)
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://127.0.0.1:6878/ace/getstream?id=4419e27b1f86679b2741e2f0d096922b05c00993
