@@ -1628,10 +1628,10 @@ http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
 #EXTGRP:💘 ВЗРОСЛЫЕ
 #EXTVLCOPT:http-user-agent=SmartTV
 http://193.111.244.35:7474/hustlerhd/manifest.m3u8
-#EXTINF:-1 tvg-id="private-tv" tvg-name="Private TV" tvg-logo="https://epg.iptvx.one/picons/private-tv.png" group-title="💘 ВЗРОСЛЫЕ", PRIVATE HD
+#EXTINF:-1 tvg-id="private-tv" tvg-name="Private TV" tvg-logo="https://epg.iptvx.one/picons/private-tv.png" group-title="💘 ВЗРОСЛЫЕ", PRIVATE
 #EXTGRP:💘 ВЗРОСЛЫЕ
 #EXTVLCOPT:http-user-agent=SmartTV
-http://78.108.251.120:8082/Private_HD
+http://213.169.39.30:5036
 #EXTINF:-1 tvg-id="super-one" tvg-name="Super One" tvg-logo="https://epg.iptvx.one/picons/super-one.png" group-title="💘 ВЗРОСЛЫЕ", SUPER ONE HD
 #EXTGRP:💘 ВЗРОСЛЫЕ
 #EXTVLCOPT:http-user-agent=SmartTV
