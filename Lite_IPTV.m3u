@@ -2871,7 +2871,7 @@ http://127.0.0.1:6878/ace/getstream?id=51a8548ddcff18ba9f89c4c4cb6eb359fc24b30b&
 http://list.onlinetv-sochi.ru:8080/live/channel.php?id=678&token=Ym9yeW43ODpMYW5jZXIxNg=
 #EXTINF:-1 tvg-name="CineMan Катастрофы" tvg-id="cineman-katastrofy" tvg-logo="https://epg.iptvx.one/picons/cineman-katastrofy.png" group-title="🎞️ КИНОЗАЛЫ", CINEMAN КАТАСТРОФЫ HD (тест)
 #EXTGRP:🎞️ КИНОЗАЛЫ
-http://cdn-2.bisv.tv:81/CineMan_Catastrophe/index.m3u8?token=100c94e6da4929bb6749e9839a6f3127
+http://list.onlinetv-sochi.ru:8080/live/channel.php?id=677&token=Ym9yeW43ODpMYW5jZXIxNg=
 #EXTINF:-1 tvg-name="CARTOONITO" tvg-logo="https://iptvx.one/picons/boomerang.png" group-title="🧸 ДЕТСКИЕ", CARTOONITO (Torrent TV)
 #EXTGRP:🧸 ДЕТСКИЕ
 http://127.0.0.1:6878/ace/getstream?id=7c1eb7f914bc0dcddfa79cc9e2693cf39aa32ed5&.mp4
