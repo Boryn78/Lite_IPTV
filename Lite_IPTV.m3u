@@ -1613,7 +1613,7 @@ http://list.onlinetv-sochi.ru:8080/live/channel.php?id=703&token=Ym9yeW43ODpMYW5
 #EXTINF:-1 tvg-id="playboy-tv" tvg-name="PLAYBOY TV" tvg-logo="https://karnei4.github.io/convert/Playboy_TV_(18).png" group-title="💘 ВЗРОСЛЫЕ", PLAYBOY TV
 #EXTGRP:💘 ВЗРОСЛЫЕ
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="brazzers-tv-europe" agerestriction="0" tvg-name="BRAZZERS TV HD" tvg-logo="https://dvb.by/sources/logos/3011s.png" group-title="💘 ВЗРОСЛЫЕ", BRAZZERS TV HD
+#EXTINF:-1 tvg-id="brazzers-tv-europe" agerestriction="0" tvg-name="BRAZZERS TV HD" tvg-logo="https://epg.iptvx.one/picons/brazzers.png" group-title="💘 ВЗРОСЛЫЕ", BRAZZERS TV HD
 #EXTGRP:💘 ВЗРОСЛЫЕ
 http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="dorcel-xxx" tvg-name="DORCEL HD" tvg-logo="https://karnei4.github.io/convert/index_files/dorcel.png" group-title="💘 ВЗРОСЛЫЕ", DORCEL HD
