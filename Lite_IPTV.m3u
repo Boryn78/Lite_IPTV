@@ -1600,10 +1600,10 @@ https://autopilot.catcast.tv/content/40381/index.m3u8
 http://31.148.48.15:80/O-la-la/index.m3u8
 #EXTINF:-1 tvg-id="russkaya-noch" tvg-name="Русская ночь" tvg-logo="https://epg.iptvx.one/picons/russkaya-noch.png" group-title="💘 ВЗРОСЛЫЕ", РУССКАЯ НОЧЬ
 #EXTGRP:💘 ВЗРОСЛЫЕ
-http://77.235.1.19:8000/play/a007/index.m3u8
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=russkayanoch&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="redlips" tvg-name="Red Lips" tvg-logo="https://epg.iptvx.one/picons/redlips.png" group-title="💘 ВЗРОСЛЫЕ", RED LIPS
 #EXTGRP:💘 ВЗРОСЛЫЕ
-http://77.235.1.19:8000/play/a006/index.m3u8
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=red_lips_hd&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="erox" tvg-name="EROX" tvg-logo="https://karnei4.github.io/convert/EroX.png" group-title="💘 ВЗРОСЛЫЕ", EROX
 #EXTGRP:💘 ВЗРОСЛЫЕ
 http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
