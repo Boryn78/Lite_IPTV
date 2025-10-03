@@ -1606,8 +1606,10 @@ http://77.235.1.19:8000/play/a007/index.m3u8
 http://77.235.1.19:8000/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="erox" tvg-name="EROX" tvg-logo="https://karnei4.github.io/convert/EroX.png" group-title="💘 ВЗРОСЛЫЕ", EROX
 #EXTGRP:💘 ВЗРОСЛЫЕ
-#EXTVLCOPT:http-user-agent=SmartTV
 http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="bcu-charm" tvg-name="BCU Charm HD" tvg-logo="https://epg.iptvx.one/picons/bcu-charm.png" group-title="💘 ВЗРОСЛЫЕ", BCU CHARM
+#EXTGRP:💘 ВЗРОСЛЫЕ
+http://list.onlinetv-sochi.ru:8080/live/channel.php?id=703&token=Ym9yeW43ODpMYW5jZXIxNg=
 #EXTINF:-1 tvg-id="playboy-tv" tvg-name="PLAYBOY TV" tvg-logo="https://karnei4.github.io/convert/Playboy_TV_(18).png" group-title="💘 ВЗРОСЛЫЕ", PLAYBOY TV
 #EXTGRP:💘 ВЗРОСЛЫЕ
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
@@ -1632,9 +1634,8 @@ http://193.111.244.35:7474/hustlerhd/manifest.m3u8
 #EXTGRP:💘 ВЗРОСЛЫЕ
 #EXTVLCOPT:http-user-agent=SmartTV
 http://213.169.39.30:5036
-#EXTINF:-1 tvg-id="super-one" tvg-name="Super One" tvg-logo="https://epg.iptvx.one/picons/super-one.png" group-title="💘 ВЗРОСЛЫЕ", SUPER ONE HD
+#EXTINF:-1 tvg-id="hustler-tv tvg-name="Hustler TV" tvg-logo="https://epg.iptvx.one/picons/hustler-tv.png" group-title="💘 ВЗРОСЛЫЕ", HUSTLER TV
 #EXTGRP:💘 ВЗРОСЛЫЕ
-#EXTVLCOPT:http-user-agent=SmartTV
 http://213.169.39.30:5115
 #EXTINF:-1 tvg-id="vivid-red" tvg-name="Vivid Red" tvg-logo="https://epg.iptvx.one/picons/vivid-red.png" group-title="💘 ВЗРОСЛЫЕ", VIVID RED HD
 #EXTGRP:💘 ВЗРОСЛЫЕ
