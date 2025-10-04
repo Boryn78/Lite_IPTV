@@ -2879,6 +2879,12 @@ http://list.onlinetv-sochi.ru:8080/live/channel.php?id=679&token=Ym9yeW43ODpMYW5
 #EXTINF:-1 tvg-name="CineMan Военные Сериалы" tvg-id="cineman-vovserials" tvg-logo="https://epg.iptvx.one/picons/cineman-vovserials.png" group-title="🎞️ КИНОЗАЛЫ", CINEMAN ВОЕННЫЕ СЕРИАЛЫ HD (тест)
 #EXTGRP:🎞️ КИНОЗАЛЫ
 http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlNWy1qs0Jb_67TpbuciEMMMKZ1v_&token=Ym9yeW43ODpMYW5jZXIxNg=
+#EXTINF:-1 tvg-name="CineMan Криминальные Сериалы" tvg-id="cineman-gluhar" tvg-logo="https://epg.iptvx.one/picons/cineman-gluhar.png" group-title="🎞️ КИНОЗАЛЫ", CINEMAN КРИМИНАЛЬНЫЕ СЕРИАЛЫ HD (тест)
+#EXTGRP:🎞️ КИНОЗАЛЫ
+http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlNWy1qsLutzNq6Ek7aBTpQwkJO-m&token=Ym9yeW43ODpMYW5jZXIxNg=
+#EXTINF:-1 tvg-name="CineMan Комедийные Сериалы" tvg-id="cineman-komseri" tvg-logo="https://epg.iptvx.one/picons/cineman-komseri.png" group-title="🎞️ КИНОЗАЛЫ", CINEMAN КОМЕДИЙНЫЕ СЕРИАЛЫ HD (тест)
+#EXTGRP:🎞️ КИНОЗАЛЫ
+http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlNWy1quSX9wp60j4CZreTXbrE-Hv&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-name="CARTOONITO" tvg-logo="https://iptvx.one/picons/boomerang.png" group-title="🧸 ДЕТСКИЕ", CARTOONITO (Torrent TV)
 #EXTGRP:🧸 ДЕТСКИЕ
 http://127.0.0.1:6878/ace/getstream?id=7c1eb7f914bc0dcddfa79cc9e2693cf39aa32ed5&.mp4
