@@ -2831,9 +2831,6 @@ https://stream-msk-08.ott.tricolor.tv/dtv/id669_MSKSG-PVR-1--Flix_Snip/03/plst.m
 #EXTINF:-1 tvg-name="KINO 24" tvg-logo="https://iptvx.one/picons/kino-24.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", KINO 24
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://sirius.greenhosting.ru/Kino24Ru/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="КОШМАР" tvg-logo="https://smotret.tv/images/koshmar-hd.jpg" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КОШМАР
-#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://195.9.195.3:8080/hls/204709.m3u8
 #EXTINF:-1 tvg-name="VHS-ка" tvg-logo="https://iptvx.one/picons/vhs-ka.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VHS-ка
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://list.onlinetv-sochi.ru:8080/live/channel.php?id=726&token=Ym9yeW43ODpMYW5jZXIxNg==
@@ -2885,6 +2882,9 @@ http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlN
 #EXTINF:-1 tvg-name="CineMan Комедийные Сериалы" tvg-id="cineman-komseri" tvg-logo="https://epg.iptvx.one/picons/cineman-komseri.png" group-title="🎞️ КИНОЗАЛЫ", CINEMAN КОМЕДИЙНЫЕ СЕРИАЛЫ HD (тест)
 #EXTGRP:🎞️ КИНОЗАЛЫ
 http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlNWy1quSX9wp60j4CZreTXbrE-Hv&token=Ym9yeW43ODpMYW5jZXIxNg==
+#EXTINF:-1 tvg-name="CineMan MiniSeries" tvg-id="cineman-miniseries" tvg-logo="https://epg.iptvx.one/picons/cineman-miniseries.png" group-title="🎞️ КИНОЗАЛЫ", CINEMAN MINISERIES HD (тест)
+#EXTGRP:🎞️ КИНОЗАЛЫ
+http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlNWy1qs48rRwKotbV8Ao_Je1nUYz&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-name="CARTOONITO" tvg-logo="https://iptvx.one/picons/boomerang.png" group-title="🧸 ДЕТСКИЕ", CARTOONITO (Torrent TV)
 #EXTGRP:🧸 ДЕТСКИЕ
 http://127.0.0.1:6878/ace/getstream?id=7c1eb7f914bc0dcddfa79cc9e2693cf39aa32ed5&.mp4
