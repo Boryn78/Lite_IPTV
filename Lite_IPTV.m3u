@@ -2822,6 +2822,9 @@ http://127.0.0.1:6878/ace/getstream?id=e2db1c6451aeff66756ae166cf507a0b2743b69a&
 #EXTINF:-1 tvg-name="BCU МУЛЬТСЕРИАЛ" tvg-logo="https://iptvx.one/picons/bcu-multserial.png" group-title="🧸 ДЕТСКИЕ", BCU МУЛЬТСЕРИАЛ (Torrent TV)
 #EXTGRP:🧸 ДЕТСКИЕ
 http://127.0.0.1:6878/ace/getstream?id=8bff31504247530c1be06395c11c38ecd1895964&.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://static.kinoafisha.info/upload/articles/732396549084.jpg" group-title="🧸 ДЕТСКИЕ", МАША И МЕДВЕДЬ (тест)
+#EXTGRP:🧸 ДЕТСКИЕ
+http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlNWy1qv6tyaD4_19IgzOeWHJEu38&token=Ym9yeW43ODpMYW5jZXIxNg=
 #EXTINF:-1 tvg-name="SCREAM" tvg-logo="https://iptvx.one/picons/scream.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", SCREAM
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Scream.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2MDEzNTE3NywiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzU5NTMwMzc3LCJzZXNzaW9uX2lkIjoiYzA0MjNlNmM1OTQ1Nzc0NTBhMmY0NWFjNjlkNjQ0NmIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.QnKXQAifmyniRO7BgeiPZUtbV-OeY4FoDKzv-kMACFQ
@@ -2891,6 +2894,9 @@ http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlN
 #EXTINF:-1 tvg-name="CineMan Лесник" tvg-id="cineman-lesnik" tvg-logo="https://epg.iptvx.one/picons/cineman-lesnik.png" group-title="🎞️ КИНОЗАЛЫ", CINEMAN ЛЕСНИК HD (тест)
 #EXTGRP:🎞️ КИНОЗАЛЫ
 http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlNWy1qsZSAFE9oSDczXNM-156e2n&token=Ym9yeW43ODpMYW5jZXIxNg==
+#EXTINF:-1 tvg-name="Clarity4K Netflix" tvg-id="clarity4k-netflix" tvg-logo="https://epg.iptvx.one/picons/clarity4k-netflix.png" group-title="🎞️ КИНОЗАЛЫ", CLARITY4K NETFLIX (тест)
+#EXTGRP:🎞️ КИНОЗАЛЫ
+http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlNWy1qtbyWj4_eqsyo1_HmmmQpLE&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-name="CARTOONITO" tvg-logo="https://iptvx.one/picons/boomerang.png" group-title="🧸 ДЕТСКИЕ", CARTOONITO (Torrent TV)
 #EXTGRP:🧸 ДЕТСКИЕ
 http://127.0.0.1:6878/ace/getstream?id=7c1eb7f914bc0dcddfa79cc9e2693cf39aa32ed5&.mp4
