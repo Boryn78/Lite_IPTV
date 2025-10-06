@@ -2933,3 +2933,12 @@ http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlN
 #EXTINF:-1 tvg-name="SKY HIGH UNDEAD FHD" tvg-id="sky-high-undead-fhd" tvg-logo="https://epg.iptvx.one/picons/sky-high-undead-fhd.png" group-title="🎞️ КИНОЗАЛЫ", SKY HIGH UNDEAD HD (тест)
 #EXTGRP:🎞️ КИНОЗАЛЫ
 http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlNWy1qtLnW4uXwqzssE1PO2jJlu_&token=Ym9yeW43ODpMYW5jZXIxNg==
+#EXTINF:-1 tvg-name="SKY HIGH BRICK S FHD" tvg-id="sky-high-brick-s-fh" tvg-logo="https://epg.iptvx.one/picons/sky-high-brick-s-fhd.png" group-title="🎞️ КИНОЗАЛЫ", SKY HIGH BRICK S HD (тест)
+#EXTGRP:🎞️ КИНОЗАЛЫ
+http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlNWy1qvVCj5vqCfjLkq-AG5NwZyr&token=Ym9yeW43ODpMYW5jZXIxNg==
+#EXTINF:-1 tvg-name="SKY HIGH DUSTS FHD" tvg-id="sky-high-dusts-fhd" tvg-logo="https://epg.iptvx.one/picons/sky-high-dusts-fhd.png" group-title="🎞️ КИНОЗАЛЫ", SKY HIGH DUST S HD (тест)
+#EXTGRP:🎞️ КИНОЗАЛЫ
+http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlNWy1qtecgiA8KNXrNwdF017R3O9&token=Ym9yeW43ODpMYW5jZXIxNg==
+#EXTINF:-1 tvg-name="SKY HIGH STRIKE VHS FHD" tvg-id="sky-high-strike-vhs-fhd" tvg-logo="https://epg.iptvx.one/picons/sky-high-strike-vhs-fhd.png" group-title="🎞️ КИНОЗАЛЫ", SKY HIGH STRIKE VHS HD (тест)
+#EXTGRP:🎞️ КИНОЗАЛЫ
+http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlNWy1qvkrPYdzqXMrJbXkIo9PxDY&token=Ym9yeW43ODpMYW5jZXIxNg==
