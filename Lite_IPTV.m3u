@@ -2906,6 +2906,15 @@ http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlN
 #EXTINF:-1 tvg-name="SKY HIGH NEONVHS FHD" tvg-id="sky-high-neonvhs-fhd" tvg-logo="https://epg.iptvx.one/picons/sky-high-neonvhs-fhd.png" group-title="🎞️ КИНОЗАЛЫ", SKY HIGH NEON VHS HD (тест)
 #EXTGRP:🎞️ КИНОЗАЛЫ
 http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlNWy1qtLtAK2wZEgVZDgKTOowNdu&token=Ym9yeW43ODpMYW5jZXIxNg==
+#EXTINF:-1 tvg-name="SKY HIGH FUTURE FHD" tvg-id="sky-high-future-fhd" tvg-logo="https://epg.iptvx.one/picons/sky-high-future-fhd.png" group-title="🎞️ КИНОЗАЛЫ", SKY HIGH FUTURE HD (тест)
+#EXTGRP:🎞️ КИНОЗАЛЫ
+http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlNWy1qvEAv9Si8s5EkU5gAa_TYZz&token=Ym9yeW43ODpMYW5jZXIxNg==
+#EXTINF:-1 tvg-name="SKY HIGH SCREAM FHD" tvg-id="sky-high-scream-fhd" tvg-logo="https://epg.iptvx.one/picons/sky-high-scream-fhd.png" group-title="🎞️ КИНОЗАЛЫ", SKY HIGH SCREAM HD (тест)
+#EXTGRP:🎞️ КИНОЗАЛЫ
+http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlNWy1qs-AonLAohqU7D3UFbvhWmH&token=Ym9yeW43ODpMYW5jZXIxNg==
+#EXTINF:-1 tvg-name="SKY HIGH FEAR VHS FHD" tvg-id="sky-high-fear-vhs-fhd" tvg-logo="https://epg.iptvx.one/picons/sky-high-fear-vhs-fhd.png" group-title="🎞️ КИНОЗАЛЫ", SKY HIGH FEAR VHS HD (тест)
+#EXTGRP:🎞️ КИНОЗАЛЫ
+http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlNWy1qt28a0Y_HwW8VpPxrdfHlhu&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-name="FX HD" tvg-logo="https://iptvx.one/picons/fox.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", FX HD (Torrent TV)
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://127.0.0.1:6878/ace/getstream?id=df94afd23701839b3fdcdf669c73f2e3d656126e&.mp4
