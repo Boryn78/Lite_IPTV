@@ -2939,3 +2939,12 @@ http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlN
 #EXTINF:-1 tvg-name="SKY HIGH STRIKE VHS FHD" tvg-id="sky-high-strike-vhs-fhd" tvg-logo="https://epg.iptvx.one/picons/sky-high-strike-vhs-fhd.png" group-title="🎞️ КИНОЗАЛЫ", SKY HIGH STRIKE VHS HD (тест)
 #EXTGRP:🎞️ КИНОЗАЛЫ
 http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlNWy1qvkrPYdzqXMrJbXkIo9PxDY&token=Ym9yeW43ODpMYW5jZXIxNg==
+#EXTINF:-1 tvg-name="SKY HIGH FIREZONE FHD" tvg-id="sky-high-firezone-fhd" tvg-logo="https://epg.iptvx.one/picons/sky-high-firezone-fhd.png" group-title="🎞️ КИНОЗАЛЫ", SKY HIGH FIREZONE HD (тест)
+#EXTGRP:🎞️ КИНОЗАЛЫ
+http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlNWy1qtUSEBsFfwEwS5fgu_GMIZB&token=Ym9yeW43ODpMYW5jZXIxNg==
+#EXTINF:-1 tvg-name="SKY HIGH GUNRUSH FHD" tvg-id="sky-high-gunrush-fhd" tvg-logo="https://epg.iptvx.one/picons/sky-high-gunrush-fhd.png" group-title="🎞️ КИНОЗАЛЫ", SKY HIGH GUNRUSH HD (тест)
+#EXTGRP:🎞️ КИНОЗАЛЫ
+http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlNWy1quNJdnK9MnQqrPgknxXZGYZ&token=Ym9yeW43ODpMYW5jZXIxNg==
+#EXTINF:-1 tvg-name="SKY HIGH ARCHIVE FHD" tvg-id="sky-high-archive-fhd" tvg-logo="https://epg.iptvx.one/picons/sky-high-archive-fhd.png" group-title="🎞️ КИНОЗАЛЫ", SKY HIGH GUNRUSH HD (тест)
+#EXTGRP:🎞️ КИНОЗАЛЫ
+http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlNWy1qsFpiFAKnp3dlI_l3ki6zPW&token=Ym9yeW43ODpMYW5jZXIxNg==
