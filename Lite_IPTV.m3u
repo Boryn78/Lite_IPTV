@@ -2903,15 +2903,6 @@ http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlN
 #EXTINF:-1 tvg-name="CineMan Лесник" tvg-id="cineman-lesnik" tvg-logo="https://epg.iptvx.one/picons/cineman-lesnik.png" group-title="🎞️ КИНОЗАЛЫ", CINEMAN ЛЕСНИК HD (тест)
 #EXTGRP:🎞️ КИНОЗАЛЫ
 http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlNWy1qsZSAFE9oSDczXNM-156e2n&token=Ym9yeW43ODpMYW5jZXIxNg==
-#EXTINF:-1 tvg-name="Clarity4K Netflix" tvg-id="clarity4k-netflix" tvg-logo="https://epg.iptvx.one/picons/clarity4k-netflix.png" group-title="🎞️ КИНОЗАЛЫ", CLARITY4K NETFLIX (тест)
-#EXTGRP:🎞️ КИНОЗАЛЫ
-http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlNWy1qtbyWj4_eqsyo1_HmmmQpLE&token=Ym9yeW43ODpMYW5jZXIxNg==
-#EXTINF:-1 tvg-name="Clarity4K Приключения" tvg-id="clarity4k-prikluchenia" tvg-logo="https://epg.iptvx.one/picons/clarity4k-prikluchenia.png" group-title="🎞️ КИНОЗАЛЫ", CLARITY4K ПРИКЛЮЧЕНИЯ (тест)
-#EXTGRP:🎞️ КИНОЗАЛЫ
-http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlNWy1qtlaE1rXZNrGCKmA7hnII0R&token=Ym9yeW43ODpMYW5jZXIxNg==
-#EXTINF:-1 tvg-name="Clarity4K КиноСССР" tvg-id="clarity4k-sdelanowsssr" tvg-logo="https://epg.iptvx.one/picons/clarity4k-sdelanowsssr.png" group-title="🎞️ КИНОЗАЛЫ", CLARITY4K КИНО СССР (тест)
-#EXTGRP:🎞️ КИНОЗАЛЫ
-http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlNWy1quZNA3AFXeDvmSKLERi6w1D&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-name="SKY HIGH NEONVHS FHD" tvg-id="sky-high-neonvhs-fhd" tvg-logo="https://epg.iptvx.one/picons/sky-high-neonvhs-fhd.png" group-title="🎞️ КИНОЗАЛЫ", SKY HIGH NEON VHS HD (тест)
 #EXTGRP:🎞️ КИНОЗАЛЫ
 http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlNWy1qtLtAK2wZEgVZDgKTOowNdu&token=Ym9yeW43ODpMYW5jZXIxNg==
@@ -2948,3 +2939,9 @@ http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlN
 #EXTINF:-1 tvg-name="SKY HIGH ARCHIVE FHD" tvg-id="sky-high-archive-fhd" tvg-logo="https://epg.iptvx.one/picons/sky-high-archive-fhd.png" group-title="🎞️ КИНОЗАЛЫ", SKY HIGH ARCHIVE HD (тест)
 #EXTGRP:🎞️ КИНОЗАЛЫ
 http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlNWy1qsFpiFAKnp3dlI_l3ki6zPW&token=Ym9yeW43ODpMYW5jZXIxNg==
+#EXTINF:-1 tvg-name="Clarity4K Netflix" tvg-id="clarity4k-netflix" tvg-logo="https://epg.iptvx.one/picons/clarity4k-netflix.png" group-title="🎞️ КИНОЗАЛЫ", CLARITY4K NETFLIX (тест)
+#EXTGRP:🎞️ КИНОЗАЛЫ
+http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlNWy1qtbyWj4_eqsyo1_HmmmQpLE&token=Ym9yeW43ODpMYW5jZXIxNg==
+#EXTINF:-1 tvg-name="Clarity4K КиноСССР" tvg-id="clarity4k-sdelanowsssr" tvg-logo="https://epg.iptvx.one/picons/clarity4k-sdelanowsssr.png" group-title="🎞️ КИНОЗАЛЫ", CLARITY4K КИНО СССР (тест)
+#EXTGRP:🎞️ КИНОЗАЛЫ
+http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlNWy1quZNA3AFXeDvmSKLERi6w1D&token=Ym9yeW43ODpMYW5jZXIxNg==
