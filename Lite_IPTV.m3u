@@ -2885,6 +2885,21 @@ http://list.onlinetv-sochi.ru:8080/live/channel.php?id=677&token=Ym9yeW43ODpMYW5
 #EXTINF:-1 tvg-name="CineMan Thriller" tvg-id="cineman-thriller" tvg-logo="https://epg.iptvx.one/picons/cineman-thriller.png" group-title="🎞️ КИНОЗАЛЫ", CINEMAN THRILLER HD (тест)
 #EXTGRP:🎞️ КИНОЗАЛЫ
 http://list.onlinetv-sochi.ru:8080/live/channel.php?id=679&token=Ym9yeW43ODpMYW5jZXIxNg=
+#EXTINF:-1 tvg-name="CineMan Melodrama" tvg-id="cineman-melodrama" tvg-logo="https://epg.iptvx.one/picons/cineman-melodrama.png" group-title="🎞️ КИНОЗАЛЫ", CINEMAN MELODRAMA HD (тест)
+#EXTGRP:🎞️ КИНОЗАЛЫ
+http://list.onlinetv-sochi.ru:8080/live/channel.php?id=680&token=Ym9yeW43ODpMYW5jZXIxNg=
+#EXTINF:-1 tvg-name="CineMan Marvel" tvg-id="cineman-marvel" tvg-logo="https://epg.iptvx.one/picons/cineman-marvel.png" group-title="🎞️ КИНОЗАЛЫ", CINEMAN MARVEL HD (тест)
+#EXTGRP:🎞️ КИНОЗАЛЫ
+http://list.onlinetv-sochi.ru:8080/live/channel.php?id=681&token=Ym9yeW43ODpMYW5jZXIxNg=
+#EXTINF:-1 tvg-name="CineMan Ужасы" tvg-id="cineman-uzhasy" tvg-logo="https://epg.iptvx.one/picons/cineman-uzhasy.png" group-title="🎞️ КИНОЗАЛЫ", CINEMAN УЖАСЫ HD (тест)
+#EXTGRP:🎞️ КИНОЗАЛЫ
+http://list.onlinetv-sochi.ru:8080/live/channel.php?id=682&token=Ym9yeW43ODpMYW5jZXIxNg=
+#EXTINF:-1 tvg-name="CineMan Комедия" tvg-id="cineman-comedy" tvg-logo="https://epg.iptvx.one/picons/cineman-comedy.png" group-title="🎞️ КИНОЗАЛЫ", CINEMAN КОМЕДИЯ HD (тест)
+#EXTGRP:🎞️ КИНОЗАЛЫ
+http://list.onlinetv-sochi.ru:8080/live/channel.php?id=683&token=Ym9yeW43ODpMYW5jZXIxNg=
+#EXTINF:-1 tvg-name="CineMan VHS" tvg-id="cineman-vhs" tvg-logo="https://epg.iptvx.one/picons/cineman-vhs.png" group-title="🎞️ КИНОЗАЛЫ", CINEMAN VHS HD (тест)
+#EXTGRP:🎞️ КИНОЗАЛЫ
+http://list.onlinetv-sochi.ru:8080/live/channel.php?id=684&token=Ym9yeW43ODpMYW5jZXIxNg=
 #EXTINF:-1 tvg-name="CineMan Военные Сериалы" tvg-id="cineman-vovserials" tvg-logo="https://epg.iptvx.one/picons/cineman-vovserials.png" group-title="🎞️ КИНОЗАЛЫ", CINEMAN ВОЕННЫЕ СЕРИАЛЫ HD (тест)
 #EXTGRP:🎞️ КИНОЗАЛЫ
 http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlNWy1qs0Jb_67TpbuciEMMMKZ1v_&token=Ym9yeW43ODpMYW5jZXIxNg=
