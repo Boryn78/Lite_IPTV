@@ -1613,6 +1613,9 @@ http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="brazzers-tv-europe" agerestriction="0" tvg-name="BRAZZERS TV HD" tvg-logo="https://epg.iptvx.one/picons/brazzers.png" group-title="💘 ВЗРОСЛЫЕ", BRAZZERS TV HD
 #EXTGRP:💘 ВЗРОСЛЫЕ
 http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="brazzers-tv-europe-ru" agerestriction="0" tvg-name="Brazzers TV Россия" tvg-logo="https://epg.iptvx.one/picons/brazzers.png" group-title="💘 ВЗРОСЛЫЕ", BRAZZERS TV 
+#EXTGRP:💘 ВЗРОСЛЫЕ
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=brazzers_tv_europe_18&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="dorcel-xxx" tvg-name="DORCEL HD" tvg-logo="https://karnei4.github.io/convert/index_files/dorcel.png" group-title="💘 ВЗРОСЛЫЕ", DORCEL HD
 #EXTGRP:💘 ВЗРОСЛЫЕ
 http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
