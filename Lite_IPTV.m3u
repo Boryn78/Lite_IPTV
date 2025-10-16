@@ -2921,6 +2921,9 @@ http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlN
 #EXTINF:-1 tvg-name="BOX Franchise HD" tvg-id="box-franchise" tvg-logo="https://epg.iptvx.one/picons/box-franchise.png" group-title="🎞️ КИНОЗАЛЫ", BOX FRANCHISE HD (тест)
 #EXTGRP:🎞️ КИНОЗАЛЫ
 http://list.onlinetv-sochi.ru:8080/live/channel.php?id=707&token=Ym9yeW43ODpMYW5jZXIxNg==
+#EXTINF:-1 tvg-name="BOX Hybrid HD" tvg-id="box-hybrid" tvg-logo="https://epg.iptvx.one/picons/box-hybrid.png" group-title="🎞️ КИНОЗАЛЫ", BOX HYBRID HD (тест)
+#EXTGRP:🎞️ КИНОЗАЛЫ
+http://list.onlinetv-sochi.ru:8080/live/channel.php?id=708&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-name="SKY HIGH NEONVHS FHD" tvg-id="sky-high-neonvhs-fhd" tvg-logo="https://epg.iptvx.one/picons/sky-high-neonvhs-fhd.png" group-title="🎞️ КИНОЗАЛЫ", SKY HIGH NEON VHS HD (тест)
 #EXTGRP:🎞️ КИНОЗАЛЫ
 http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlNWy1qtLtAK2wZEgVZDgKTOowNdu&token=Ym9yeW43ODpMYW5jZXIxNg==
