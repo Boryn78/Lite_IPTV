@@ -2911,13 +2911,16 @@ http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlN
 http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlNWy1quSX9wp60j4CZreTXbrE-Hv&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-name="CineMan MiniSeries" tvg-id="cineman-miniseries" tvg-logo="https://epg.iptvx.one/picons/cineman-miniseries.png" group-title="🎞️ КИНОЗАЛЫ", CINEMAN MINISERIES HD (тест)
 #EXTGRP:🎞️ КИНОЗАЛЫ
-http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlNWy1qs48rRwKotbV8Ao_Je1nUYz&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://list.onlinetv-sochi.ru:8080/live/channel.php?id=727&token=Ym9yeW43ODpMYW5jZXIxNg=
 #EXTINF:-1 tvg-name="CineMan ПёС + Лихач" tvg-id="cineman-pes" tvg-logo="https://epg.iptvx.one/picons/cineman-pes.png" group-title="🎞️ КИНОЗАЛЫ", CINEMAN ПЕС+ЛИХАЧ HD (тест)
 #EXTGRP:🎞️ КИНОЗАЛЫ
 http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlNWy1qvRXFfWC_U8tfdhULiyShDQ&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-name="CineMan Лесник" tvg-id="cineman-lesnik" tvg-logo="https://epg.iptvx.one/picons/cineman-lesnik.png" group-title="🎞️ КИНОЗАЛЫ", CINEMAN ЛЕСНИК HD (тест)
 #EXTGRP:🎞️ КИНОЗАЛЫ
 http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlNWy1qsZSAFE9oSDczXNM-156e2n&token=Ym9yeW43ODpMYW5jZXIxNg==
+#EXTINF:-1 tvg-name="BOX Franchise HD" tvg-id="box-franchise" tvg-logo="https://epg.iptvx.one/picons/box-franchise.png" group-title="🎞️ КИНОЗАЛЫ", BOX FRANCHISE HD (тест)
+#EXTGRP:🎞️ КИНОЗАЛЫ
+http://list.onlinetv-sochi.ru:8080/live/channel.php?id=707&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-name="SKY HIGH NEONVHS FHD" tvg-id="sky-high-neonvhs-fhd" tvg-logo="https://epg.iptvx.one/picons/sky-high-neonvhs-fhd.png" group-title="🎞️ КИНОЗАЛЫ", SKY HIGH NEON VHS HD (тест)
 #EXTGRP:🎞️ КИНОЗАЛЫ
 http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlNWy1qtLtAK2wZEgVZDgKTOowNdu&token=Ym9yeW43ODpMYW5jZXIxNg==
