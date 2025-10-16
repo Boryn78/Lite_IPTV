@@ -2819,9 +2819,6 @@ http://127.0.0.1:6878/ace/getstream?id=e2db1c6451aeff66756ae166cf507a0b2743b69a&
 #EXTINF:-1 tvg-name="BCU МУЛЬТСЕРИАЛ" tvg-logo="https://iptvx.one/picons/bcu-multserial.png" group-title="🧸 ДЕТСКИЕ", BCU МУЛЬТСЕРИАЛ (Torrent TV)
 #EXTGRP:🧸 ДЕТСКИЕ
 http://127.0.0.1:6878/ace/getstream?id=8bff31504247530c1be06395c11c38ecd1895964&.mp4
-#EXTINF:-1 tvg-name="" tvg-logo="https://static.kinoafisha.info/upload/articles/732396549084.jpg" group-title="🧸 ДЕТСКИЕ", МАША И МЕДВЕДЬ (тест)
-#EXTGRP:🧸 ДЕТСКИЕ
-http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlNWy1qv6tyaD4_19IgzOeWHJEu38&token=Ym9yeW43ODpMYW5jZXIxNg=
 #EXTINF:-1 tvg-name="SCREAM" tvg-logo="https://iptvx.one/picons/scream.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", SCREAM
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Scream.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2MDczOTU0MSwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTM0NzQxLCJzZXNzaW9uX2lkIjoiODJjYTZiMWM3MjNiM2YzZGZkNWVkNDgwNGY3YWMzODUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GKzMwXfaa90KioeeyX7tdFE72N3hrZrvgAHWOGjNJco
@@ -2900,24 +2897,9 @@ http://list.onlinetv-sochi.ru:8080/live/channel.php?id=683&token=Ym9yeW43ODpMYW5
 #EXTINF:-1 tvg-name="CineMan VHS" tvg-id="cineman-vhs" tvg-logo="https://epg.iptvx.one/picons/cineman-vhs.png" group-title="🎞️ КИНОЗАЛЫ", CINEMAN VHS HD (тест)
 #EXTGRP:🎞️ КИНОЗАЛЫ
 http://list.onlinetv-sochi.ru:8080/live/channel.php?id=684&token=Ym9yeW43ODpMYW5jZXIxNg=
-#EXTINF:-1 tvg-name="CineMan Военные Сериалы" tvg-id="cineman-vovserials" tvg-logo="https://epg.iptvx.one/picons/cineman-vovserials.png" group-title="🎞️ КИНОЗАЛЫ", CINEMAN ВОЕННЫЕ СЕРИАЛЫ HD (тест)
-#EXTGRP:🎞️ КИНОЗАЛЫ
-http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlNWy1qs0Jb_67TpbuciEMMMKZ1v_&token=Ym9yeW43ODpMYW5jZXIxNg=
-#EXTINF:-1 tvg-name="CineMan Криминальные Сериалы" tvg-id="cineman-gluhar" tvg-logo="https://epg.iptvx.one/picons/cineman-gluhar.png" group-title="🎞️ КИНОЗАЛЫ", CINEMAN КРИМИНАЛЬНЫЕ СЕРИАЛЫ HD (тест)
-#EXTGRP:🎞️ КИНОЗАЛЫ
-http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlNWy1qsLutzNq6Ek7aBTpQwkJO-m&token=Ym9yeW43ODpMYW5jZXIxNg=
-#EXTINF:-1 tvg-name="CineMan Комедийные Сериалы" tvg-id="cineman-komseri" tvg-logo="https://epg.iptvx.one/picons/cineman-komseri.png" group-title="🎞️ КИНОЗАЛЫ", CINEMAN КОМЕДИЙНЫЕ СЕРИАЛЫ HD (тест)
-#EXTGRP:🎞️ КИНОЗАЛЫ
-http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlNWy1quSX9wp60j4CZreTXbrE-Hv&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-name="CineMan MiniSeries" tvg-id="cineman-miniseries" tvg-logo="https://epg.iptvx.one/picons/cineman-miniseries.png" group-title="🎞️ КИНОЗАЛЫ", CINEMAN MINISERIES HD (тест)
 #EXTGRP:🎞️ КИНОЗАЛЫ
 http://list.onlinetv-sochi.ru:8080/live/channel.php?id=727&token=Ym9yeW43ODpMYW5jZXIxNg=
-#EXTINF:-1 tvg-name="CineMan ПёС + Лихач" tvg-id="cineman-pes" tvg-logo="https://epg.iptvx.one/picons/cineman-pes.png" group-title="🎞️ КИНОЗАЛЫ", CINEMAN ПЕС+ЛИХАЧ HD (тест)
-#EXTGRP:🎞️ КИНОЗАЛЫ
-http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlNWy1qvRXFfWC_U8tfdhULiyShDQ&token=Ym9yeW43ODpMYW5jZXIxNg==
-#EXTINF:-1 tvg-name="CineMan Лесник" tvg-id="cineman-lesnik" tvg-logo="https://epg.iptvx.one/picons/cineman-lesnik.png" group-title="🎞️ КИНОЗАЛЫ", CINEMAN ЛЕСНИК HD (тест)
-#EXTGRP:🎞️ КИНОЗАЛЫ
-http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlNWy1qsZSAFE9oSDczXNM-156e2n&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-name="BOX Franchise HD" tvg-id="box-franchise" tvg-logo="https://epg.iptvx.one/picons/box-franchise.png" group-title="🎞️ КИНОЗАЛЫ", BOX FRANCHISE HD (тест)
 #EXTGRP:🎞️ КИНОЗАЛЫ
 http://list.onlinetv-sochi.ru:8080/live/channel.php?id=707&token=Ym9yeW43ODpMYW5jZXIxNg==
@@ -2963,42 +2945,3 @@ http://list.onlinetv-sochi.ru:8080/live/channel.php?id=753&token=Ym9yeW43ODpMYW5
 #EXTINF:-1 tvg-name="SKY HIGH NEONVHS FHD" tvg-id="sky-high-neonvhs-fhd" tvg-logo="https://epg.iptvx.one/picons/sky-high-neonvhs-fhd.png" group-title="🎞️ КИНОЗАЛЫ", SKY HIGH NEON VHS HD (тест)
 #EXTGRP:🎞️ КИНОЗАЛЫ
 http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlNWy1qtLtAK2wZEgVZDgKTOowNdu&token=Ym9yeW43ODpMYW5jZXIxNg==
-#EXTINF:-1 tvg-name="SKY HIGH FUTURE FHD" tvg-id="sky-high-future-fhd" tvg-logo="https://epg.iptvx.one/picons/sky-high-future-fhd.png" group-title="🎞️ КИНОЗАЛЫ", SKY HIGH FUTURE HD (тест)
-#EXTGRP:🎞️ КИНОЗАЛЫ
-http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlNWy1qvEAv9Si8s5EkU5gAa_TYZz&token=Ym9yeW43ODpMYW5jZXIxNg==
-#EXTINF:-1 tvg-name="SKY HIGH SCREAM FHD" tvg-id="sky-high-scream-fhd" tvg-logo="https://epg.iptvx.one/picons/sky-high-scream-fhd.png" group-title="🎞️ КИНОЗАЛЫ", SKY HIGH SCREAM HD (тест)
-#EXTGRP:🎞️ КИНОЗАЛЫ
-http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlNWy1qs-AonLAohqU7D3UFbvhWmH&token=Ym9yeW43ODpMYW5jZXIxNg==
-#EXTINF:-1 tvg-name="SKY HIGH FEAR VHS FHD" tvg-id="sky-high-fear-vhs-fhd" tvg-logo="https://epg.iptvx.one/picons/sky-high-fear-vhs-fhd.png" group-title="🎞️ КИНОЗАЛЫ", SKY HIGH FEAR VHS HD (тест)
-#EXTGRP:🎞️ КИНОЗАЛЫ
-http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlNWy1qt28a0Y_HwW8VpPxrdfHlhu&token=Ym9yeW43ODpMYW5jZXIxNg==
-#EXTINF:-1 tvg-name="SKY HIGH REDROOM FHD" tvg-id="sky-high-redroom-fhd" tvg-logo="https://epg.iptvx.one/picons/sky-high-redroom-fhd.png" group-title="🎞️ КИНОЗАЛЫ", SKY HIGH REDROOM HD (тест)
-#EXTGRP:🎞️ КИНОЗАЛЫ
-http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlNWy1qtAd-XkO81IU54ONKxMYKF1&token=Ym9yeW43ODpMYW5jZXIxNg==
-#EXTINF:-1 tvg-name="SKY HIGH UNDEAD FHD" tvg-id="sky-high-undead-fhd" tvg-logo="https://epg.iptvx.one/picons/sky-high-undead-fhd.png" group-title="🎞️ КИНОЗАЛЫ", SKY HIGH UNDEAD HD (тест)
-#EXTGRP:🎞️ КИНОЗАЛЫ
-http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlNWy1qtLnW4uXwqzssE1PO2jJlu_&token=Ym9yeW43ODpMYW5jZXIxNg==
-#EXTINF:-1 tvg-name="SKY HIGH BRICK S FHD" tvg-id="sky-high-brick-s-fh" tvg-logo="https://epg.iptvx.one/picons/sky-high-brick-s-fhd.png" group-title="🎞️ КИНОЗАЛЫ", SKY HIGH BRICK S HD (тест)
-#EXTGRP:🎞️ КИНОЗАЛЫ
-http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlNWy1qvVCj5vqCfjLkq-AG5NwZyr&token=Ym9yeW43ODpMYW5jZXIxNg==
-#EXTINF:-1 tvg-name="SKY HIGH DUSTS FHD" tvg-id="sky-high-dusts-fhd" tvg-logo="https://epg.iptvx.one/picons/sky-high-dusts-fhd.png" group-title="🎞️ КИНОЗАЛЫ", SKY HIGH DUST S HD (тест)
-#EXTGRP:🎞️ КИНОЗАЛЫ
-http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlNWy1qtecgiA8KNXrNwdF017R3O9&token=Ym9yeW43ODpMYW5jZXIxNg==
-#EXTINF:-1 tvg-name="SKY HIGH STRIKE VHS FHD" tvg-id="sky-high-strike-vhs-fhd" tvg-logo="https://epg.iptvx.one/picons/sky-high-strike-vhs-fhd.png" group-title="🎞️ КИНОЗАЛЫ", SKY HIGH STRIKE VHS HD (тест)
-#EXTGRP:🎞️ КИНОЗАЛЫ
-http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlNWy1qvkrPYdzqXMrJbXkIo9PxDY&token=Ym9yeW43ODpMYW5jZXIxNg==
-#EXTINF:-1 tvg-name="SKY HIGH FIREZONE FHD" tvg-id="sky-high-firezone-fhd" tvg-logo="https://epg.iptvx.one/picons/sky-high-firezone-fhd.png" group-title="🎞️ КИНОЗАЛЫ", SKY HIGH FIREZONE HD (тест)
-#EXTGRP:🎞️ КИНОЗАЛЫ
-http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlNWy1qtUSEBsFfwEwS5fgu_GMIZB&token=Ym9yeW43ODpMYW5jZXIxNg==
-#EXTINF:-1 tvg-name="SKY HIGH GUNRUSH FHD" tvg-id="sky-high-gunrush-fhd" tvg-logo="https://epg.iptvx.one/picons/sky-high-gunrush-fhd.png" group-title="🎞️ КИНОЗАЛЫ", SKY HIGH GUNRUSH HD (тест)
-#EXTGRP:🎞️ КИНОЗАЛЫ
-http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlNWy1quNJdnK9MnQqrPgknxXZGYZ&token=Ym9yeW43ODpMYW5jZXIxNg==
-#EXTINF:-1 tvg-name="SKY HIGH ARCHIVE FHD" tvg-id="sky-high-archive-fhd" tvg-logo="https://epg.iptvx.one/picons/sky-high-archive-fhd.png" group-title="🎞️ КИНОЗАЛЫ", SKY HIGH ARCHIVE HD (тест)
-#EXTGRP:🎞️ КИНОЗАЛЫ
-http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlNWy1qsFpiFAKnp3dlI_l3ki6zPW&token=Ym9yeW43ODpMYW5jZXIxNg==
-#EXTINF:-1 tvg-name="Clarity4K Netflix" tvg-id="clarity4k-netflix" tvg-logo="https://epg.iptvx.one/picons/clarity4k-netflix.png" group-title="🎞️ КИНОЗАЛЫ", CLARITY4K NETFLIX (тест)
-#EXTGRP:🎞️ КИНОЗАЛЫ
-http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlNWy1qtbyWj4_eqsyo1_HmmmQpLE&token=Ym9yeW43ODpMYW5jZXIxNg==
-#EXTINF:-1 tvg-name="Clarity4K КиноСССР" tvg-id="clarity4k-sdelanowsssr" tvg-logo="https://epg.iptvx.one/picons/clarity4k-sdelanowsssr.png" group-title="🎞️ КИНОЗАЛЫ", CLARITY4K КИНО СССР (тест)
-#EXTGRP:🎞️ КИНОЗАЛЫ
-http://185.221.213.254/live/stream2.php?q=-sy8jgK2rCb4emxdiCoB00u2TDpth7xyZIJXlNWy1quZNA3AFXeDvmSKLERi6w1D&token=Ym9yeW43ODpMYW5jZXIxNg==
