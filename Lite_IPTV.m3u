@@ -689,10 +689,10 @@ http://127.0.0.1:6878/ace/getstream?id=dcda9de85f7d662c5c3c2efd74eca0fb5c6aab3b&
 #EXTINF:-1 tvg-name="Для каналов (Torrent TV) запустите Ace Serve" tvg-logo="https://dtv.plus/wp-content/uploads/2023/06/ace-stream-engine-for-android-tv.webp" group-title="📡 ULTRA HD", Для каналов (Torrent TV) запустите Ace Serve
 #EXTGRP:📡 ULTRA HD
 https://drive.google.com/uc?export=download&id=1GDaCvBteVvxKR19l2FXP9cw1fHj2nHE
-#EXTINF:-1 tvg-id="ultra-hd-cinema" tvg-name="ULTRA HD CINEMA" tvg-logo="https://www.msk-ix.ru/images/1423922.png" group-title="📡 ULTRA HD", ULTRA HD CINEMA (Torrent TV)
+#EXTINF:-1 tvg-id="ultra-hd-cinema" tvg-name="ULTRA HD CINEMA" tvg-logo="https://www.msk-ix.ru/images/1423922.png" group-title="📡 ULTRA HD", ULTRA HD CINEMA (тест)
 #EXTGRP:📡 ULTRA HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://127.0.0.1:6878/ace/getstream?id=6c76dccd15ff935fb1442223529d1aecc8f515d8
+http://list.onlinetv-sochi.ru:8080/live/channel.php?id=581&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="xokkejny" tvg-name="ХОККЕЙ ТВ" tvg-logo="https://iptvx.one/picons/xokkejny.png" group-title="🏅 СПОРТ", ХОККЕЙ ТВ HD
 #EXTGRP:🏅 СПОРТ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Hokeinii_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2MDczOTU0MSwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTM0NzQxLCJzZXNzaW9uX2lkIjoiODJjYTZiMWM3MjNiM2YzZGZkNWVkNDgwNGY3YWMzODUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GKzMwXfaa90KioeeyX7tdFE72N3hrZrvgAHWOGjNJco
