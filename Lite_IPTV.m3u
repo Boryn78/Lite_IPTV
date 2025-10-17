@@ -2416,7 +2416,7 @@ http://127.0.0.1:6878/ace/getstream?id=3cacfef48b11ea2a81282c4b49b3eac4d7cce501&
 http://127.0.0.1:6878/ace/getstream?id=67cf1b59347125a57a5ea62844a6b77075a3d9dd&.mp4
 #EXTINF:-1 tvg-id="bcu-kinozal-prem-2" tvg-name="BCU КИНОЗАЛ PREMIERE 2 HD" tvg-logo="https://iptvx.one/picons/bcu-kinozal-prem-2.png" group-title="🎞️ КИНОЗАЛЫ", BCU КИНОЗАЛ PREMIERE 2 HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
-http://127.0.0.1:6878/ace/manifest.m3u8?id=d488e696aba7b6a2d3a8977d762bcf4eee1bfd07
+http://list.onlinetv-sochi.ru:8080/live/channel.php?id=606&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-name="ВЗВЕШЕННЫЕ ЛЮДИ" tvg-logo="https://kino.tricolor.tv/upload/iblock/d24/8604dkf7atmkauhty44gtafjpxietwmf.webp" group-title="👀 РАЗНОЕ", ВЗВЕШЕННЫЕ ЛЮДИ
 #EXTGRP:👀 РАЗНОЕ
 https://stream-msk-15.ott.tricolor.tv/dtv/id904_MSKSG-PVR-1--Kinozal_1/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2MDczOTU0MSwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTM0NzQxLCJzZXNzaW9uX2lkIjoiODJjYTZiMWM3MjNiM2YzZGZkNWVkNDgwNGY3YWMzODUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GKzMwXfaa90KioeeyX7tdFE72N3hrZrvgAHWOGjNJco
@@ -2646,10 +2646,10 @@ http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a&
 http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80&.mp4
 #EXTINF:-1 tvg-id="bcu-kinozal-prem-3" tvg-name="BCU КИНОЗАЛ PREMIERE 3 HD" tvg-logo="https://iptvx.one/picons/bcu-kinozal-prem-3.png" group-title="🎞️ КИНОЗАЛЫ", BCU КИНОЗАЛ PREMIERE 3 HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
-http://127.0.0.1:6878/ace/getstream?id=ffa797e65b8307a13b2805284e28295884c7e7e1&.mp4
-#EXTINF:-1 tvg-id="bcu-premiere" tvg-name="BCU PREMIERE HD" tvg-logo="https://bcumedia.pro/images/homepage/ch_11.png" group-title="🎞️ КИНОЗАЛЫ", BCU PREMIERE HD (Torrent TV)
+http://list.onlinetv-sochi.ru:8080/live/channel.php?id=607&token=Ym9yeW43ODpMYW5jZXIxNg==
+#EXTINF:-1 tvg-id="bcu-premiere" tvg-name="BCU PREMIERE HD" tvg-logo="https://bcumedia.pro/images/homepage/ch_11.png" group-title="🎞️ КИНОЗАЛЫ", BCU PREMIERE HD
 #EXTGRP:🎞️ КИНОЗАЛЫ
-http://127.0.0.1:6878/ace/getstream?infohash=c248c963c8de10771ace5f3d370566c1b4a6e4ad&.mp4
+http://list.onlinetv-sochi.ru:8080/live/channel.php?id=599&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="5544" tvg-name="СМЕШАРИКИ" tvg-logo="https://profranch.com/wp-content/uploads/2013/11/frrDTq0y.jpg" group-title="🧸 ДЕТСКИЕ", СМЕШАРИКИ
 #EXTGRP:🧸 ДЕТСКИЕ
 https://stream-msk-20.ott.tricolor.tv/dtv/id976_MSKSG-PVR-1--Kinozal_11/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2MDczOTU0MSwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTM0NzQxLCJzZXNzaW9uX2lkIjoiODJjYTZiMWM3MjNiM2YzZGZkNWVkNDgwNGY3YWMzODUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GKzMwXfaa90KioeeyX7tdFE72N3hrZrvgAHWOGjNJco
