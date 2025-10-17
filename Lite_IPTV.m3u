@@ -2644,7 +2644,7 @@ http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a&
 #EXTINF:-1 tvg-id="eleven-sport6-pt" tvg-name="DAZN 6 PT" tvg-logo="https://iptvx.one/picons/eleven-sport6-pt.png" group-title="🏅 СПОРТ", DAZN 6 HD (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80&.mp4
-#EXTINF:-1 tvg-id="bcu-kinozal-prem-3" tvg-name="BCU КИНОЗАЛ PREMIERE 3 HD" tvg-logo="https://iptvx.one/picons/bcu-kinozal-prem-3.png" group-title="🎞️ КИНОЗАЛЫ", BCU КИНОЗАЛ PREMIERE 3 HD (Torrent TV)
+#EXTINF:-1 tvg-id="bcu-kinozal-prem-3" tvg-name="BCU КИНОЗАЛ PREMIERE 3 HD" tvg-logo="https://iptvx.one/picons/bcu-kinozal-prem-3.png" group-title="🎞️ КИНОЗАЛЫ", BCU КИНОЗАЛ PREMIERE 3 HD
 #EXTGRP:🎞️ КИНОЗАЛЫ
 http://list.onlinetv-sochi.ru:8080/live/channel.php?id=607&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="bcu-premiere" tvg-name="BCU PREMIERE HD" tvg-logo="https://bcumedia.pro/images/homepage/ch_11.png" group-title="🎞️ КИНОЗАЛЫ", BCU PREMIERE HD
@@ -2662,9 +2662,9 @@ http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 tvg-id="fashion-tv" tvg-name="Fashion TV" tvg-logo="https://iptvx.one/picons/fashion-tv.png" group-title="📡 ULTRA HD", FTV UHD
 #EXTGRP:📡 ULTRA HD
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="bcu-romantic" tvg-name="BCU Romantic HD" tvg-logo="https://bcumedia.pro/images/homepage/ch_16.png" group-title="🎞️ КИНОЗАЛЫ", BCU ROMANTIC HD (Torrent TV)
+#EXTINF:-1 tvg-id="bcu-romantic" tvg-name="BCU Romantic HD" tvg-logo="https://bcumedia.pro/images/homepage/ch_16.png" group-title="🎞️ КИНОЗАЛЫ", BCU ROMANTIC HD
 #EXTGRP:🎞️ КИНОЗАЛЫ
-http://127.0.0.1:6878/ace/getstream?id=62f68471bab075eb96e5db4559e7994427db111b&.mp4
+http://list.onlinetv-sochi.ru:8080/live/channel.php?id=600&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="fox-sports-1" tvg-name="FS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/400px-2015_Fox_Sports_1_logo.svg.png" group-title="🏅 СПОРТ", FS1 HD (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=c9c062941fbecb16ce29437f346ea7177d720898&.mp4
@@ -2686,9 +2686,9 @@ http://127.0.0.1:6878/ace/getstream?infohash=22452120c704f34daea284fbd64b2527bc8
 #EXTINF:-1 tvg-id="detective-jam-hd" tvg-name="DetectiveJam" tvg-logo="https://iptvx.one/picons/detectivejam.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", DETECTIVE JAM HD
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=DetectiveJam.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2MDczOTU0MSwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTM0NzQxLCJzZXNzaW9uX2lkIjoiODJjYTZiMWM3MjNiM2YzZGZkNWVkNDgwNGY3YWMzODUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GKzMwXfaa90KioeeyX7tdFE72N3hrZrvgAHWOGjNJco
-#EXTINF:-1 tvg-id="bcu-ruserial" tvg-name="BCU RUSERIAL HD" tvg-logo="https://iptvx.one/picons/bcu-ruserial.png" group-title="🎞️ КИНОЗАЛЫ", BCU RUSERIAL HD (Torrent TV)
+#EXTINF:-1 tvg-id="bcu-ruserial" tvg-name="BCU RUSERIAL HD" tvg-logo="https://iptvx.one/picons/bcu-ruserial.png" group-title="🎞️ КИНОЗАЛЫ", BCU RUSERIAL HD
 #EXTGRP:🎞️ КИНОЗАЛЫ
-http://127.0.0.1:6878/ace/getstream?id=49552fcef0397a9f48f7520247ee414a085f61e2&.mp4
+http://194.26.229.4/live/stream9.php?q=Sb8oSRKhtCNTkd9hYifCZoVhlWwdZdW2mPjFByhnwGMMi2vNS0RODqjsYy-hTSSlVX-EvY0Wv0TAxbpzDvwvgqdGp4_J_mhoFcSGpgTj6P2otFYaiD8-W92uwMyYwzL7gjbVkNmPl9HClEElE9UaQ21dlbbFYv6DbaK72tzBMp4&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-name="Южная Каролина Норт-Миртл-Бич 17-я авеню" group-title="📷 WEB КАМЕРЫ", Южная Каролина Норт-Миртл-Бич 17-я авеню
 #EXTGRP:📷 WEB КАМЕРЫ
 https://5ed7b8fd7bf40.streamlock.net:444/condoworld/condoworldcam/chunklist_w1918045463.m3u8
