@@ -750,18 +750,18 @@ http://127.0.0.1:6878/ace/getstream?id=96951e5de62a3e7095a1ed8a191817c8935e7017&
 #EXTINF:-1 tvg-id="sportivny" tvg-name="ТВ СПОРТ" tvg-logo="https://iptvx.one/picons/sportivny.png" group-title="🏅 СПОРТ", ТВ СПОРТ
 #EXTGRP:🏅 СПОРТ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Sportivnii.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2MDczOTU0MSwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTM0NzQxLCJzZXNzaW9uX2lkIjoiODJjYTZiMWM3MjNiM2YzZGZkNWVkNDgwNGY3YWMzODUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GKzMwXfaa90KioeeyX7tdFE72N3hrZrvgAHWOGjNJco
-#EXTINF:-1 tvg-id="kino-ultra-hd" tvg-name="КИНО UHD" tvg-logo="https://karnei4.github.io/convert/kino_uhd.png" group-title="📡 ULTRA HD", КИНО UHD (Torrent TV)
+#EXTINF:-1 tvg-id="kino-ultra-hd" tvg-name="КИНО UHD" tvg-logo="https://karnei4.github.io/convert/kino_uhd.png" group-title="📡 ULTRA HD", КИНО UHD (тест)
 #EXTGRP:📡 ULTRA HD
-http://127.0.0.1:6878/ace/getstream?id=038b448c810cad19a2a9e615d94696a23141e379&.mp4
-#EXTINF:-1 tvg-id="bcu-premiere-4k" tvg-name="BCU PREMIERE ULTRA 4K" tvg-logo="https://epg.openboxfan.com/picon/bcupremiereultra4k.png" group-title="📡 ULTRA HD", BCU PREMIERE ULTRA 4K (Torrent TV)
+http://list.onlinetv-sochi.ru:8080/live/channel.php?id=580&token=Ym9yeW43ODpMYW5jZXIxNg==
+#EXTINF:-1 tvg-id="bcu-premiere-4k" tvg-name="BCU PREMIERE ULTRA 4K" tvg-logo="https://epg.openboxfan.com/picon/bcupremiereultra4k.png" group-title="📡 ULTRA HD", BCU PREMIERE ULTRA 4K (тест)
 #EXTGRP:📡 ULTRA HD
-http://127.0.0.1:6878/ace/getstream?id=30b1dba65edffa2c0c8ade75257508b00d8a61ea&.mp4
-#EXTINF:-1 tvg-id="bcu-ultra4k" tvg-name="BCU Ultra 4K" tvg-logo="https://karnei4.github.io/convert/img/3906.png" group-title="📡 ULTRA HD", BCU ULTRA 4K (Torrent TV)
+http://list.onlinetv-sochi.ru:8080/live/channel.php?id=699&token=Ym9yeW43ODpMYW5jZXIxNg==
+#EXTINF:-1 tvg-id="bcu-ultra4k" tvg-name="BCU Ultra 4K" tvg-logo="https://karnei4.github.io/convert/img/3906.png" group-title="📡 ULTRA HD", BCU ULTRA 4K (тест)
 #EXTGRP:📡 ULTRA HD
-http://127.0.0.1:6878/ace/getstream?id=6c82a952053419ef358907fc2fc52151626be0b7&.mp4
-#EXTINF:-1 tvg-id="bcu-kids-4k" tvg-name="BCU KIDS 4K" tvg-logo="https://avatars.mds.yandex.net/i?id=48cf01db4ddd6a46f21726699c30744901d73a3797b7bf7d-12985844-images-thumbs&n=13" group-title="📡 ULTRA HD", BCU KIDS 4K (Torrent TV)
+http://list.onlinetv-sochi.ru:8080/live/channel.php?id=659&token=Ym9yeW43ODpMYW5jZXIxNg==
+#EXTINF:-1 tvg-id="bcu-kids-4k" tvg-name="BCU KIDS 4K" tvg-logo="https://avatars.mds.yandex.net/i?id=48cf01db4ddd6a46f21726699c30744901d73a3797b7bf7d-12985844-images-thumbs&n=13" group-title="📡 ULTRA HD", BCU KIDS 4K (тест)
 #EXTGRP:📡 ULTRA HD
-http://127.0.0.1:6878/ace/getstream?id=c3aa52aab6bd48c3b79189410fbf716f2e4dd293&.mp4
+http://list.onlinetv-sochi.ru:8080/live/channel.php?id=700&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="russian-extreme-uhd" tvg-name="Russian Extreme UHD" tvg-logo="https://www.msk-ix.ru/images/1423921.png" group-title="📡 ULTRA HD", RUSSIAN EXTREME UHD (Torrent TV)
 #EXTGRP:📡 ULTRA HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
