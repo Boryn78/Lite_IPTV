@@ -443,9 +443,9 @@ http://188.225.31.197/bpk-tv/000004157/tve/index.m3u8
 #EXTINF:-1 tvg-id="viasat-explore" tvg-name="VIJU EXPLORE" tvg-logo="https://fast.ntvplus.tv/files/image/80/00/03/-channel!djf.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", VIJU EXPLORE FHD (Torrent TV)
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://127.0.0.1:6878/ace/getstream?id=192ca66e1e39bec710e286780c49bcc432258636&.mp4
-#EXTINF:-1 tvg-id="viasat-history" tvg-name="VIJU HISTORY" tvg-logo="https://ntvplus.tv/files/image/79/84/28/e2e.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", VIJU HISTORY HD (Torrent TV)
+#EXTINF:-1 tvg-id="viasat-history" tvg-name="VIJU HISTORY" tvg-logo="https://ntvplus.tv/files/image/79/84/28/e2e.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", VIJU HISTORY HD
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://127.0.0.1:6878/ace/getstream?id=05a4d3a925f74cd093dfe2313617a97d1b74c6ab&.mp4
+http://list.onlinetv-sochi.ru:8080/live/channel.php?id=129&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="viasat-nature-history-hd" tvg-name="VIJU+ PLANET" tvg-logo="https://fast.ntvplus.tv/files/image/79/84/42/-channel!k6r.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", VIJU+ PLANET FHD (Torrent TV)
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://127.0.0.1:6878/ace/getstream?id=0d59f0292f9e5569f4dff50ac4c3c89913b32a7a&.mp4
