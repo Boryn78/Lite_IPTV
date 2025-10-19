@@ -2321,9 +2321,6 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 #EXTINF:-1 tvg-id="hollywood-hd" tvg-name="HOLLYWOOD HD" tvg-logo="https://iptvx.one/picons/hollywood-hd.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", HOLLYWOOD HD (Torrent TV)
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://127.0.0.1:6878/ace/getstream?id=3cacfef48b11ea2a81282c4b49b3eac4d7cce501&.mp4
-#EXTINF:-1 tvg-id="dorama" tvg-name="ДОРАМА" tvg-logo="https://iptvx.one/picons/dorama.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", ДОРАМА FHD (Torrent TV)
-#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://127.0.0.1:6878/ace/getstream?id=67cf1b59347125a57a5ea62844a6b77075a3d9dd&.mp4
 #EXTINF:-1 tvg-id="bcu-kinozal-prem-2" tvg-name="BCU КИНОЗАЛ PREMIERE 2 HD" tvg-logo="https://iptvx.one/picons/bcu-kinozal-prem-2.png" group-title="🎞️ КИНОЗАЛЫ", BCU КИНОЗАЛ PREMIERE 2 HD (тест)
 #EXTGRP:🎞️ КИНОЗАЛЫ
 http://list.onlinetv-sochi.ru:8080/live/channel.php?id=606&token=Ym9yeW43ODpMYW5jZXIxNg==
