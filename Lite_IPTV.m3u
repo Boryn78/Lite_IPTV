@@ -182,9 +182,6 @@ http://188.225.31.197/bpk-tv/000000134/tve/index.m3u8
 #EXTINF:-1 tvg-id="ntv-xit" tvg-name="НТВ ХИТ" tvg-logo="https://iptvx.one/picons/ntv-xit.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", НТВ ХИТ
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://server-1.onlinetv-sochi.ru/live/server-7.php?id=3781&token=Ym9yeW43ODpMYW5jZXIxNg=
-#EXTINF:-1 tvg-id="ntv-serial" tvg-name="НТВ СЕРИАЛ" tvg-logo="https://iptvx.one/picons/ntv-serial.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", НТВ СЕРИАЛ FHD (Torrent TV)
-#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://127.0.0.1:6878/ace/getstream?id=4419e27b1f86679b2741e2f0d096922b05c00993
 #EXTINF:-1 tvg-id="ntv-serial" tvg-name="НТВ СЕРИАЛ" tvg-logo="https://iptvx.one/picons/ntv-serial.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", НТВ СЕРИАЛ
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 https://stream-msk-15.ott.tricolor.tv/dtv/id939_MSKSG-PVR-1--NTV_Serial_SD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2MTM0NDgwNCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYwNzQwMDA0LCJzZXNzaW9uX2lkIjoiODdiMTI2MjlhMzk2NmJhNjdlYzVlN2Y2YWJlY2Y3ZGUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.JwBaGukcZTjogAhQfeckwC9d24WoJOEQAq4a27IFP8A
@@ -197,15 +194,9 @@ https://stream-msk-08.ott.tricolor.tv/dtv/id517_MSKSG-PVR-1--Rus_Bests/03/plst.m
 #EXTINF:-1 tvg-id="russky-roman" tvg-name="РУССКИЙ РОМАН" tvg-logo="https://iptvx.one/picons/russky-roman.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", РУССКИЙ РОМАН
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Ruskiy_roman_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2MTM0NDgwNCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYwNzQwMDA0LCJzZXNzaW9uX2lkIjoiODdiMTI2MjlhMzk2NmJhNjdlYzVlN2Y2YWJlY2Y3ZGUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.JwBaGukcZTjogAhQfeckwC9d24WoJOEQAq4a27IFP8A
-#EXTINF:-1 tvg-id="russky-illuzion" tvg-name="РУССКИЙ ИЛЛЮЗИОН" tvg-logo="https://iptvx.one/picons/russky-illuzion.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", РУССКИЙ ИЛЛЮЗИОН FHD (Torrent TV)
-#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://127.0.0.1:6878/ace/getstream?id=9f476ff8038d54604d17b15e25e57a041372cde1
 #EXTINF:-1 tvg-id="russky-illuzion" tvg-name="РУССКИЙ ИЛЛЮЗИОН" tvg-logo="https://iptvx.one/picons/russky-illuzion.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", РУССКИЙ ИЛЛЮЗИОН
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://188.225.31.197/bpk-tv/000004207/tve/index.m3u8
-#EXTINF:-1 tvg-id="illuzion-plus" tvg-name="ИЛЛЮЗИОН+" tvg-logo="https://iptvx.one/picons/illuzion-plus.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", ИЛЛЮЗИОН+ FHD (Torrent TV)
-#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://127.0.0.1:6878/ace/getstream?id=cc4b12985ef1c75d786cc5fafa5d0deb960312fd&.mp4
 #EXTINF:-1 tvg-id="illuzion-plus" tvg-name="ИЛЛЮЗИОН+" tvg-logo="https://iptvx.one/picons/illuzion-plus.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", ИЛЛЮЗИОН+
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://server-2.onlinetv-sochi.ru:8080/live/limeHD5_vip.php?id=17&token=Ym9yeW43ODpMYW5jZXIxNg==
@@ -218,9 +209,6 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=HD_Dom_Kino_
 #EXTINF:-1 tvg-id="domkino" tvg-name="ДОМ КИНО" tvg-logo="https://iptvx.one/picons/domkino.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", ДОМ КИНО
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 https://stream-msk-13.ott.tricolor.tv:443/dtv/id176_MSKSG-PVR-1--D_Kino/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2MTM0NDgwNCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYwNzQwMDA0LCJzZXNzaW9uX2lkIjoiODdiMTI2MjlhMzk2NmJhNjdlYzVlN2Y2YWJlY2Y3ZGUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.JwBaGukcZTjogAhQfeckwC9d24WoJOEQAq4a27IFP8A
-#EXTINF:-1 tvg-id="evrokino" tvg-name="ЕВРОКИНО" tvg-logo="https://iptvx.one/picons/eurokino.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", ЕВРОКИНО FHD (Torrent TV)
-#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://127.0.0.1:6878/ace/getstream?id=cda16e6d488958942dcd9cd96284c0910dc29cce&.mp4
 #EXTINF:-1 tvg-id="evrokino" tvg-name="ЕВРОКИНО" tvg-logo="https://iptvx.one/picons/eurokino.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", ЕВРОКИНО
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://188.225.31.197/bpk-tv/000000152/tve/index.m3u8
@@ -233,15 +221,9 @@ https://stream-msk-06.ott.tricolor.tv/dtv/id423_MSKSG-PVR-1--Cinema/03/plst.m3u8
 #EXTINF:-1 tvg-id="kinopremiera-hd" tvg-name="КИНОПРЕМЬЕРА" tvg-logo="https://iptvx.one/picons/kinopremiera.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНОПРЕМЬЕРА
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://server-2.onlinetv-sochi.ru:8080/live/limeHD5_vip.php?id=3013&token=Ym9yeW43ODpMYW5jZXIxNg==
-#EXTINF:-1 tvg-id="kinopremiera-hd" tvg-name="КИНОПРЕМЬЕРА" tvg-logo="https://iptvx.one/picons/kinopremiera.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНОПРЕМЬЕРА FHD (Torrent TV)
-#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://127.0.0.1:6878/ace/getstream?id=94ed8b55a5e30f9ce93b018c80fba3c0a29a3ce6&.mp4
 #EXTINF:-1 tvg-id="kinosvidanie" tvg-name="КИНОСВИДАНИЕ" tvg-logo="https://iptvx.one/picons/kinosvidanie.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНОСВИДАНИЕ
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://list.onlinetv-sochi.ru:8080/live/arx.php?id=kinoklub&token=Ym9yeW43ODpMYW5jZXIxNg==
-#EXTINF:-1 tvg-id="kinosvidanie" tvg-name="КИНОСВИДАНИЕ" tvg-logo="https://iptvx.one/picons/kinosvidanie.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНОСВИДАНИЕ FHD (Torrent TV)
-#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://127.0.0.1:6878/ace/getstream?id=f5302ed56cf6af61378b2527524398558d9cddde&.mp4
 #EXTINF:-1 tvg-name="Для каналов (Torrent TV) запустите Ace Serve" tvg-logo="https://dtv.plus/wp-content/uploads/2023/06/ace-stream-engine-for-android-tv.webp" group-title="🎞️ КИНОЗАЛЫ", Для каналов (Torrent TV) запустите Ace Serve
 #EXTGRP:🎞️ КИНОЗАЛЫ
 https://drive.google.com/uc?export=download&id=1GDaCvBteVvxKR19l2FXP9cw1fHj2nHE
@@ -299,9 +281,6 @@ http://127.0.0.1:6878/ace/getstream?id=dfb83e3ff3c570ba7346641c827d89bd472a18a2
 #EXTINF:-1 tvg-id="kinoseria" tvg-name="КИНОСЕРИЯ" tvg-logo="https://iptvx.one/picons/kinoseria.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНОСЕРИЯ
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://server-2.onlinetv-sochi.ru:8080/live/limeHD5_vip.php?id=105&token=Ym9yeW43ODpMYW5jZXIxNg==
-#EXTINF:-1 tvg-id="kinoseria" tvg-name="КИНОСЕРИЯ" tvg-logo="https://iptvx.one/picons/kinoseria.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНОСЕРИЯ FHD (Torrent TV)
-#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://127.0.0.1:6878/ace/getstream?id=f4fbf1c1f58b77f1343675b0aeb7b1c22feebbbd&.mp4
 #EXTINF:-1 tvg-id="komedijnoe-hd" tvg-name="КОМЕДИЙНОЕ HD" tvg-logo="https://iptvx.one/picons/komedijnoe-hd.png" group-title="🎞️ КИНОЗАЛЫ", КОМЕДИЙНОЕ HD
 #EXTGRP:🎞️ КИНОЗАЛЫ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Komediinoe.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2MTM0NDgwNCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYwNzQwMDA0LCJzZXNzaW9uX2lkIjoiODdiMTI2MjlhMzk2NmJhNjdlYzVlN2Y2YWJlY2Y3ZGUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.JwBaGukcZTjogAhQfeckwC9d24WoJOEQAq4a27IFP8A
