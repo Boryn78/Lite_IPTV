@@ -669,9 +669,6 @@ http://server-2.onlinetv-sochi.ru:8080/live/limeHD_vip.php?id=185&token=Ym9yeW43
 #EXTINF:-1 tvg-id="box-tv" tvg-name="БОКС ТВ" tvg-logo="https://karnei4.github.io/convert/index_files/box-tv.png" group-title="🏅 СПОРТ", БОКС ТВ FHD (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=1acaf203502983cd2993c6835bf0cbde8d016c3d&.mp4
-#EXTINF:-1 tvg-id="sila" tvg-name="СИЛА" tvg-logo="https://karnei4.github.io/convert/sila_hd.png" group-title="🏅 СПОРТ", СИЛА
-#EXTGRP:🏅 СПОРТ
-https://d12a2vxqkkh1bo.cloudfront.net/hls/720phi/playlist.m3u8
 #EXTINF:-1 tvg-id="MMA-TV" tvg-name="MMA-TV" tvg-logo="https://ntvplus.tv/files/image/88/57/77/7z5.png" group-title="🏅 СПОРТ", MMA-TV.COM (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?infohash=f562d8a45a5475599fbd2ad18886b0cc847f75e4&.mp4
