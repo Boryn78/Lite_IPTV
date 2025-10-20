@@ -2308,10 +2308,10 @@ https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
 http://127.0.0.1:6878/ace/manifest.m3u8?id=122b81e6c37b49a37c3b1984efaf5626371d5df5
 #EXTINF:-1 tvg-id="lubimoe-kino" tvg-name="ЛЮБИМОЕ КИНО" tvg-logo="https://iptvx.one/picons/lubimoe-kino.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", ЛЮБИМОЕ КИНО
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://188.225.31.197/bpk-tv/000000283/tve/index.m3u8
+http://list.onlinetv-sochi.ru:8080/live/channel.php?id=267&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="mir-seriala" tvg-name="МИР СЕРИАЛА" tvg-logo="https://iptvx.one/picons/mir-seriala.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", МИР СЕРИАЛА
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://188.225.31.197/bpk-tv/000000319/tve/index.m3u8
+http://list.onlinetv-sochi.ru:8080/live/channel.php?id=265&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="doverie" tvg-name="Москва. Доверие" tvg-logo="https://iptvx.one/picons/doverie.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", МОСКВА ДОВЕРИЕ
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
