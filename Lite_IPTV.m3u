@@ -395,9 +395,9 @@ http://188.225.31.197/bpk-tv/000002510/tve/index.m3u8
 #EXTINF:-1 tvg-id="Рыболов" tvg-name="РЫБОЛОВ" tvg-logo="https://iptvx.one/picons/oxotnik-i-rybolov.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", РЫБОЛОВ
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 https://stream-msk-12.ott.tricolor.tv:443/dtv/id665_MSKSG-PVR-1--Rybalov/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2MTM0NDgwNCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYwNzQwMDA0LCJzZXNzaW9uX2lkIjoiODdiMTI2MjlhMzk2NmJhNjdlYzVlN2Y2YWJlY2Y3ZGUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.JwBaGukcZTjogAhQfeckwC9d24WoJOEQAq4a27IFP8A
-#EXTINF:-1 tvg-id="dikiy" tvg-name="ДИКИЙ" tvg-logo="http://epg.it999.ru/img2/2283.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ДИКИЙ (Torrent TV)
+#EXTINF:-1 tvg-id="dikiy" tvg-name="ДИКИЙ" tvg-logo="http://epg.it999.ru/img2/2283.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ДИКИЙ
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://127.0.0.1:6878/ace/getstream?id=c60f8614f11e0f11338e25567a92f5fb84eb4832&.mp4
+http://server-2.onlinetv-sochi.ru:8080/live/limeHD5_vip.php?id=86&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="tlc" tvg-name="TLC HD" tvg-logo="https://iptvx.one/picons/tlc.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", TLC
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://list.onlinetv-sochi.ru:8080/live/channel.php?id=147&token=Ym9yeW43ODpMYW5jZXIxNg==
