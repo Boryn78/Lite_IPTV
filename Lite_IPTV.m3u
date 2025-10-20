@@ -353,27 +353,15 @@ https://drive.google.com/uc?export=download&id=1GDaCvBteVvxKR19l2FXP9cw1fHj2nHE
 #EXTINF:-1 tvg-id="national-geographic" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/NATGEO200.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", NATIONAL GEOGRAPHIC HD
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://188.225.31.197/bpk-tv/000000034/tve/index.m3u8
-#EXTINF:-1 tvg-id="national-geographic" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/NATGEO200.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", NATIONAL GEOGRAPHIC FHD (Torrent TV)
-#EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://127.0.0.1:6878/ace/getstream?id=3a08c5a973e162429910f441bf8aa45b24d667e0&.mp4
 #EXTINF:-1 tvg-id="nat-geo-wild" tvg-name="NAT GEO WILD" tvg-logo="https://iptvx.one/picons/nat-geo-wild.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", NAT GEO WILD HD
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://188.225.31.197/bpk-tv/000004474/tve/index.m3u8
-#EXTINF:-1 tvg-id="nat-geo-wild" tvg-name="NAT GEO WILD" tvg-logo="https://iptvx.one/picons/nat-geo-wild.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", NAT GEO WILD FHD (Torrent TV)
-#EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://127.0.0.1:6878/ace/manifest.m3u8?id=5347a5417c376ac10cdf9c1a3a26eadbe76c280a
 #EXTINF:-1 tvg-id="viasat-nature" tvg-name="VIJU NATURE" tvg-logo="https://fast.ntvplus.tv/files/image/79/84/30/-channel!9rl.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", VIJU NATURE HD
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://188.225.31.197/bpk-tv/000006482/tve/index.m3u8
-#EXTINF:-1 tvg-id="viasat-nature" tvg-name="VIJU NATURE" tvg-logo="https://fast.ntvplus.tv/files/image/79/84/30/-channel!9rl.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", VIJU NATURE FHD (Torrent TV)
-#EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://127.0.0.1:6878/ace/getstream?id=2128074a1ebba9d320b148d25001b356f1057dda&.mp4
 #EXTINF:-1 tvg-id="viasat-explore" tvg-name="VIJU EXPLORE" tvg-logo="https://fast.ntvplus.tv/files/image/80/00/03/-channel!djf.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", VIJU EXPLORE HD
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://188.225.31.197/bpk-tv/000004157/tve/index.m3u8
-#EXTINF:-1 tvg-id="viasat-explore" tvg-name="VIJU EXPLORE" tvg-logo="https://fast.ntvplus.tv/files/image/80/00/03/-channel!djf.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", VIJU EXPLORE FHD (Torrent TV)
-#EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://127.0.0.1:6878/ace/getstream?id=192ca66e1e39bec710e286780c49bcc432258636&.mp4
 #EXTINF:-1 tvg-id="viasat-history" tvg-name="VIJU HISTORY" tvg-logo="https://ntvplus.tv/files/image/79/84/28/e2e.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", VIJU HISTORY HD
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://list.onlinetv-sochi.ru:8080/live/channel.php?id=129&token=Ym9yeW43ODpMYW5jZXIxNg==
@@ -389,15 +377,9 @@ http://127.0.0.1:6878/ace/getstream?id=8b0600c72af71a12e844135c93c759ce1eb3dfa0&
 #EXTINF:-1 tvg-id="dikaya-rybalka-hd" tvg-name="ДИКАЯ РЫБАЛКА HD" tvg-logo="http://epg.it999.ru/img2/2484.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ДИКАЯ РЫБАЛКА HD
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://server-2.onlinetv-sochi.ru:8080/live/limeHD5_vip.php?id=213&token=Ym9yeW43ODpMYW5jZXIxNg==
-#EXTINF:-1 tvg-id="dikaya-rybalka-hd" tvg-name="ДИКАЯ РЫБАЛКА" tvg-logo="http://epg.it999.ru/img2/2484.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ДИКАЯ РЫБАЛКА FHD (Torrent TV)
-#EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://127.0.0.1:6878/ace/getstream?id=b85a8f5825dc7fca3e8046af445bb776541b8bd0
 #EXTINF:-1 tvg-id="dikaya-oxota-hd" tvg-name="ДИКАЯ ОХОТА HD" tvg-logo="http://epg.it999.ru/img2/2483.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ДИКАЯ ОХОТА HD
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://server-2.onlinetv-sochi.ru:8080/live/limeHD5_vip.php?id=98&token=Ym9yeW43ODpMYW5jZXIxNg==
-#EXTINF:-1 tvg-id="dikaya-oxota-hd" tvg-name="ДИКАЯ ОХОТА" tvg-logo="http://epg.it999.ru/img2/2483.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ДИКАЯ ОХОТА HD (Torrent TV)
-#EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://127.0.0.1:6878/ace/getstream?id=cd421b221ef7bae31a599542cd9c061fc66b30aa
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov-hd" tvg-name="ОХОТНИК И РЫБОЛОВ HD" tvg-logo="https://karnei4.github.io/convert/ohotnik_i_ribolov_hd.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ОХОТНИК И РЫБОЛОВ HD
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=HD_Oh_Rbl.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2MTM0NDgwNCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYwNzQwMDA0LCJzZXNzaW9uX2lkIjoiODdiMTI2MjlhMzk2NmJhNjdlYzVlN2Y2YWJlY2Y3ZGUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.JwBaGukcZTjogAhQfeckwC9d24WoJOEQAq4a27IFP8A
