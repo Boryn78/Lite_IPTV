@@ -2094,9 +2094,6 @@ https://stream-msk-15.ott.tricolor.tv/dtv/id904_MSKSG-PVR-1--Kinozal_1/04/plst.m
 #EXTINF:-1 tvg-name="БАНДИТСКИЙ ПЕТЕРБУРГ" tvg-logo="https://sun9-71.userapi.com/c4226/u16211411/121473247/x_fa9a2340.jpg" group-title="🎞️ КИНОЗАЛЫ", БАНДИТСКИЙ ПЕТЕРБУРГ
 #EXTGRP:🎞️ КИНОЗАЛЫ
 https://stream-msk-17.ott.tricolor.tv/dtv/id1038_MSKSG-PVR-1--Kinozal_32/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2MTM0NDgwNCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYwNzQwMDA0LCJzZXNzaW9uX2lkIjoiODdiMTI2MjlhMzk2NmJhNjdlYzVlN2Y2YWJlY2Y3ZGUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.JwBaGukcZTjogAhQfeckwC9d24WoJOEQAq4a27IFP8A
-#EXTINF:-1 tvg-id="lubimoe-kino" tvg-name="ЛЮБИМОЕ КИНО" tvg-logo="https://iptvx.one/picons/lubimoe-kino.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", ЛЮБИМОЕ КИНО FHD (Torrent TV)
-#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://127.0.0.1:6878/ace/getstream?id=ed833df0a763fa26f180acac44634eb4c3918d86&.mp4
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="Якутия 24" tvg-name="ЯКУТИЯ 24" tvg-logo="https://karnei4.github.io/convert/logo-z/ec13e06757f6238f6924b6427913b4e5.png" group-title="🗺️ РЕГИОНАЛЬНЫЕ", ЯКУТИЯ 24
 #EXTGRP:🗺️ РЕГИОНАЛЬНЫЕ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
