@@ -2454,6 +2454,12 @@ http://188.225.31.197/bpk-tv/000008490/tve/index.m3u8
 #EXTINF:-1 tvg-id="semejnoe-kino-kz" tvg-name="Семейное Кино KZ" tvg-logo="https://iptvx.one/picons/semejnoe-kino-kz.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", СЕМЕЙНОЕ КИНО HD
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://188.225.31.197/bpk-tv/000008489/tve/index.m3u8
+#EXTINF:-1 tvg-id="q-kino-hit" tvg-name="Кинодрама HD [KZ]" tvg-logo="https://epg.iptvx.one/picons/q-kino-hit.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНОДРАМА HD
+#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
+http://188.225.31.197/bpk-tv/000005449/tve/index.m3u8
+#EXTINF:-1 tvg-id="q-kino-alem" tvg-name="Киносериал HD [KZ]" tvg-logo="https://epg.iptvx.one/picons/q-kino-alem.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНОСЕРИАЛ HD
+#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
+http://188.225.31.197/bpk-tv/000005450/tve/index.m3u8
 #EXTINF:-1 tvg-id="fanhd" tvg-name="FAN HD" tvg-logo="https://iptvx.one/picons/fanhd.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", FAN HD
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=FAN_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2MTk0OTMzMCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYxMzQ0NTMwLCJzZXNzaW9uX2lkIjoiYzQ3NWU3NGZjZjYyZDE0YTA0NzQ0N2Y3YWVlMDNlNTAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.QJ2BbmC-rrYMNVcfG3PlR_OyYzp1YWuRv7M-dyCsIHc
@@ -2752,3 +2758,9 @@ http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5
 #EXTINF:-1 tvg-name="Comedy Central" tvg-logo="https://epg.iptvx.one/picons/paramount-comedy.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", COMEDY CENTRAL
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://46.8.46.14/paramountcomedy/index.m3u8
+#EXTINF:-1 tvg-name="Plan B" tvg-id="plan-b" tvg-logo="https://epg.iptvx.one/picons/plan-b.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", PLAN B
+#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
+http://188.225.31.197/bpk-tv/000007625/tve/index.m3u
+#EXTINF:-1 tvg-name="BeeTV Семейные мелодрамы" tvg-id="beetv-sm" tvg-logo="https://epg.iptvx.one/picons/beetv-sm.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", СЕМЕЙНЫЕ МЕЛОДРАМЫ
+#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
+http://188.225.31.197/bpk-tv/000009429/tve/index.m3u8
