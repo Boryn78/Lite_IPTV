@@ -364,7 +364,7 @@ http://188.225.31.197/bpk-tv/000006482/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000004157/tve/index.m3u8
 #EXTINF:-1 tvg-id="viasat-history" tvg-name="VIJU HISTORY" tvg-logo="https://ntvplus.tv/files/image/79/84/28/e2e.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", VIJU HISTORY HD
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://188.225.31.197/bpk-tv/000003174/tve/index.m3u8
+http://188.225.31.197/bpk-tv/000005528/tve/index.m3u8
 #EXTINF:-1 tvg-id="viasat-nature-history-hd" tvg-name="VIJU+ PLANET" tvg-logo="https://fast.ntvplus.tv/files/image/79/84/42/-channel!k6r.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", VIJU+ PLANET FHD (Torrent TV)
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://127.0.0.1:6878/ace/getstream?id=0d59f0292f9e5569f4dff50ac4c3c89913b32a7a&.mp4
