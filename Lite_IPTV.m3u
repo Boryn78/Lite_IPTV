@@ -2704,7 +2704,7 @@ https://stream-msk-08.ott.tricolor.tv/dtv/id669_MSKSG-PVR-1--Flix_Snip/03/plst.m
 #EXTINF:-1 tvg-name="Киносат" tvg-id="kinosat" tvg-logo="https://epg.iptvx.one/picons/kinosat.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНОСАТ
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://188.225.31.197/bpk-tv/000003871/tve/index.m3u8
-#EXTINF:-1 tvg-name="KINO 24" tvg-logo="https://iptvx.one/picons/kino-24.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", KINO 24
+#EXTINF:-1 tvg-name="Kino 24" tvg-id="kino-24" tvg-logo="https://iptvx.one/picons/kino-24.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", KINO 24
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://sirius.greenhosting.ru/Kino24Ru/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="VHS-ка" tvg-logo="https://iptvx.one/picons/vhs-ka.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VHS-ка
