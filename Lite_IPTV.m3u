@@ -2782,9 +2782,6 @@ https://stream-msk-18.ott.tricolor.tv/dtv/id1016_MSKSG-PVR-1--Kinozal28_SD/03/pl
 #EXTINF:-1 tvg-name="РБК" tvg-logo="https://epg.iptvx.one/picons/rbk.png" group-title="👀 РАЗНОЕ", РБК ТВ
 #EXTGRP:👀 РАЗНОЕ
 http://server-2.onlinetv-sochi.ru:8080/live/limeHD5_vip.php?id=33&token=Ym9yeW43ODpMYW5jZXIxNg==
-#EXTINF:-1 tvg-name="ОРЕЛ ИЛИ РЕШКА" tvg-logo="http://avatars.mds.yandex.net/get-vthumb/3746404/0a221f09350d6b8adadbe331743b01a9/800x450" group-title="👀 РАЗНОЕ", ОРЕЛ ИЛИ РЕШКА
-#EXTGRP:👀 РАЗНОЕ
-http://188.225.31.197/bpk-tv/000009427/tve/index.m3u8
 #EXTINF:-1 tvg-name="FX HD" tvg-logo="https://iptvx.one/picons/fox.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", FX HD
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://188.225.31.197/bpk-tv/000004472/tve/index.m3u8
