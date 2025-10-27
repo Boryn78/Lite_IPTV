@@ -530,6 +530,12 @@ http://188.225.31.197/bpk-tv/000000195/tve/index.m3u8
 #EXTINF:-1 tvg-name="FASHION & LIFESTYLE" tvg-logo="https://ntvplus.tv/files/image/68/79/05/8rb.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", FASHION & LIFESTYLE
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://188.225.31.197/bpk-tv/000000439/tve/index.m3u8
+#EXTINF:-1 tvg-id="glazami-turista" tvg-name="Глазами туриста HD" tvg-logo="https://iptvx.one/picons/glazami-turista.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ГЛАЗАМИ ТУРИСТА HD
+#EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
+http://188.225.31.197/bpk-tv/000001414/tve/index.m3u8
+#EXTINF:-1 tvg-id="terra-ru" tvg-name="Terra" tvg-logo="https://epg.iptvx.one/picons/terra-ru.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", TERRA
+#EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
+http://188.225.31.197/bpk-tv/000008142/tve/index.m3u8
 #EXTINF:-1 tvg-name="Для каналов (Torrent TV) запустите Ace Serve" tvg-logo="https://dtv.plus/wp-content/uploads/2023/06/ace-stream-engine-for-android-tv.webp" group-title="🏅 СПОРТ", Для каналов (Torrent TV) запустите Ace Serve
 #EXTGRP:🏅 СПОРТ
 https://drive.google.com/uc?export=download&id=1GDaCvBteVvxKR19l2FXP9cw1fHj2nHE
@@ -2021,6 +2027,9 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kinopokaz_9.
 #EXTINF:-1 tvg-id="kvn-tv" tvg-name="КВН ТВ" tvg-logo="https://iptvx.one/picons/kvn-tv.png" group-title="👀 РАЗНОЕ", КВН ТВ
 #EXTGRP:👀 РАЗНОЕ
 http://158.101.222.193:88/georgia_play.php?id=kvntv
+#EXTINF:-1 tvg-name="Новый игровой канал" tvg-id="nowy-igrowoj" tvg-logo="https://epg.iptvx.one/picons/nowy-igrowoj.png" group-title="👀 РАЗНОЕ", НОВЫЙ ИГРОВОЙ КАНАЛ
+#EXTGRP:👀 РАЗНОЕ
+http://188.225.31.197/bpk-tv/000008615/tve/index.m3u8
 #EXTINF:-1 tvg-id="setanta-sports2" tvg-name="SETANTA SPORTS 2" tvg-logo="https://iptvx.one/picons/setanta-sports-plus.png" group-title="🏅 СПОРТ", SETANTA SPORTS 2 FHD
 #EXTGRP:🏅 СПОРТ
 http://188.225.31.197/bpk-tv/000004499/tve/index.m3u8
@@ -2178,9 +2187,6 @@ http://127.0.0.1:6878/ace/getstream?id=38d8789a448dd0eaf99e0274b555974e4e8f3f3b&
 #EXTINF:-1 tvg-id="bolshoj-efir" tvg-name="Большой эфир" tvg-logo="https://iptvx.one/picons/bolshoj-efir.png" group-title="👀 РАЗНОЕ", Большой эфир
 #EXTGRP:👀 РАЗНОЕ
 https://stream-msk-10.ott.tricolor.tv:443/dtv/id621_MSKSG-PVR-1--ChannelLIVE/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2MTk0OTMzMCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYxMzQ0NTMwLCJzZXNzaW9uX2lkIjoiYzQ3NWU3NGZjZjYyZDE0YTA0NzQ0N2Y3YWVlMDNlNTAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.QJ2BbmC-rrYMNVcfG3PlR_OyYzp1YWuRv7M-dyCsIHc
-#EXTINF:-1 tvg-id="glazami-turista" tvg-name="Глазами туриста HD" tvg-logo="https://iptvx.one/picons/glazami-turista.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ГЛАЗАМИ ТУРИСТА HD
-#EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://188.225.31.197/bpk-tv/000001414/tve/index.m3u8
 #EXTINF:-1 tvg-id="4KurdHD.fr" tvg-logo="https://i.imgur.com/xy7W0wD.png" group-title="КУРДИСТАН",4Kurd HD
 https://4kuhls.persiana.live/hls/stream.m3u8
 #EXTGRP:КУРДИСТАН
@@ -2794,6 +2800,12 @@ http://188.225.31.197/bpk-tv/000007625/tve/index.m3u8
 #EXTINF:-1 tvg-name="TV XXI" tvg-id="tvxxi" tvg-logo="https://epg.iptvx.one/picons/tvxxi.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", ТВ 21
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://188.225.31.197/bpk-tv/000000006/tve/index.m3u8
+#EXTINF:-1 tvg-name="Suspense" tvg-id="suspense" tvg-logo="https://epg.iptvx.one/picons/suspense.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", SUSPENSE
+#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
+http://188.225.31.197/bpk-tv/000008739/tve/index.m3u8
+#EXTINF:-1 tvg-name="Romance" tvg-id="romance" tvg-logo="https://epg.iptvx.one/picons/romance.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", ROMANCE
+#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
+http://188.225.31.197/bpk-tv/000008780/tve/index.m3u8
 #EXTINF:-1 tvg-name="BeeTV Семейные мелодрамы" tvg-id="beetv-sm" tvg-logo="https://epg.iptvx.one/picons/beetv-sm.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", СЕМЕЙНЫЕ МЕЛОДРАМЫ
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://188.225.31.197/bpk-tv/000009429/tve/index.m3u8
