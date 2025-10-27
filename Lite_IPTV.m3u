@@ -524,6 +524,12 @@ http://188.225.31.197/bpk-tv/000002991/tve/index.m3u8
 #EXTINF:-1 tvg-id="mir-uvlecheniy" tvg-name="Кто Куда" tvg-logo="https://epg.iptvx.one/picons/mir-uvlecheniy.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", КТОКУДА
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://188.225.31.197/bpk-tv/000001377/tve/index.m3u8
+#EXTINF:-1 tvg-id="voprosy-i-otvety" tvg-name="Вопросы и ответы" tvg-logo="https://epg.iptvx.one/picons/voprosy-i-otvety.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ВОПРОСЫ и ОТВЕТЫ
+#EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
+http://188.225.31.197/bpk-tv/000000195/tve/index.m3u8
+#EXTINF:-1 tvg-name="FASHION & LIFESTYLE" tvg-logo="https://ntvplus.tv/files/image/68/79/05/8rb.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", FASHION & LIFESTYLE
+#EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
+http://188.225.31.197/bpk-tv/000000439/tve/index.m3u8
 #EXTINF:-1 tvg-name="Для каналов (Torrent TV) запустите Ace Serve" tvg-logo="https://dtv.plus/wp-content/uploads/2023/06/ace-stream-engine-for-android-tv.webp" group-title="🏅 СПОРТ", Для каналов (Torrent TV) запустите Ace Serve
 #EXTGRP:🏅 СПОРТ
 https://drive.google.com/uc?export=download&id=1GDaCvBteVvxKR19l2FXP9cw1fHj2nHE
