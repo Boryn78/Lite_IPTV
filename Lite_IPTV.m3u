@@ -1933,7 +1933,7 @@ http://list.onlinetv-sochi.ru:8080/live/arx.php?id=lyova&token=Ym9yeW43ODpMYW5jZ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kinozal_7.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2MTk0OTMzMCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYxMzQ0NTMwLCJzZXNzaW9uX2lkIjoiYzQ3NWU3NGZjZjYyZDE0YTA0NzQ0N2Y3YWVlMDNlNTAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.QJ2BbmC-rrYMNVcfG3PlR_OyYzp1YWuRv7M-dyCsIHc
 #EXTINF:-1 tvg-id="v-gostiax-u-skazki" tvg-name="В ГОСТЯХ У СКАЗКИ" tvg-logo="https://iptvx.one/picons/v-gostiax-u-skazki.png" group-title="🧸 ДЕТСКИЕ", В ГОСТЯХ У СКАЗКИ
 #EXTGRP:🧸 ДЕТСКИЕ
-http://188.225.31.197/bpk-tv/000002762/tve/index.m3u8
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=V_gostyakh_u_skazki.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2MTk0OTMzMCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYxMzQ0NTMwLCJzZXNzaW9uX2lkIjoiYzQ3NWU3NGZjZjYyZDE0YTA0NzQ0N2Y3YWVlMDNlNTAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.QJ2BbmC-rrYMNVcfG3PlR_OyYzp1YWuRv7M-dyCsIHc
 #EXTINF:-1 tvg-name="OCKO EXPRES" tvg-logo="https://iptvx.one/picons/ocko-expres-cz.png" group-title="🎵 МУЗЫКА", OCKO EXPRES
 #EXTGRP:🎵 МУЗЫКА
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
