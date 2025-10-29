@@ -533,9 +533,12 @@ http://188.225.31.197/bpk-tv/000001414/tve/index.m3u8
 #EXTINF:-1 tvg-id="terra-ru" tvg-name="Terra" tvg-logo="https://epg.iptvx.one/picons/terra-ru.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", TERRA
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://188.225.31.197/bpk-tv/000008142/tve/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Авиакатастрофы" tvg-logo="https://n1s1.hsmedia.ru/18/9b/09/189b09690d1edc6d96939bf91fb6fb9d/728x357_1_3bf6419735c3a2e419ae741b8573b717@1122x549_0xns7DZMlF_3635115561156025187.jpg.webp" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", АВИАКАТАСТРОФЫ
+#EXTINF:-1 tvg-id="" tvg-name="Авиакатастрофы" tvg-logo="https://avatars.dzeninfra.ru/get-zen-logos/271828/pub_6576254009834966a4064394_657c12ff4ef0b47f700a009a/orig" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", РЕКОНСТРУКЦИЯ АВИАКАТАСТРОФ
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kinozal_31.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2MTk0OTMzMCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYxMzQ0NTMwLCJzZXNzaW9uX2lkIjoiYzQ3NWU3NGZjZjYyZDE0YTA0NzQ0N2Y3YWVlMDNlNTAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.QJ2BbmC-rrYMNVcfG3PlR_OyYzp1YWuRv7M-dyCsIHc
+#EXTINF:-1 tvg-id="" tvg-name="ЖИЗНЬ в деревне" tvg-logo="https://avatars.dzeninfra.ru/get-zen_doc/10191615/pub_649ca0635bf5f342be69a195_649ca07e5bf5f342be69a65a/scale_1200" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ЖИЗНЬ В ДЕРЕВНЕ
+#EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kinozal_13.m3u8&serviceArea=MSK-SA-1&drmreq==eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2MTk0OTMzMCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYxMzQ0NTMwLCJzZXNzaW9uX2lkIjoiYzQ3NWU3NGZjZjYyZDE0YTA0NzQ0N2Y3YWVlMDNlNTAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.QJ2BbmC-rrYMNVcfG3PlR_OyYzp1YWuRv7M-dyCsIHc
 #EXTINF:-1 tvg-name="Для каналов (Torrent TV) запустите Ace Serve" tvg-logo="https://dtv.plus/wp-content/uploads/2023/06/ace-stream-engine-for-android-tv.webp" group-title="🏅 СПОРТ", Для каналов (Torrent TV) запустите Ace Serve
 #EXTGRP:🏅 СПОРТ
 https://drive.google.com/uc?export=download&id=1GDaCvBteVvxKR19l2FXP9cw1fHj2nHE
