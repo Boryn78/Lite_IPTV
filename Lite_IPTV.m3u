@@ -23,7 +23,7 @@ https://cdn.ntv.ru/ntv-msk_hd/rewind-7150.m3u8?filter.tracks=v2v1v3v4v5a1l1t1
 http://cdngw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=NTV_0_hd.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2MjU1NDM2OSwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYxOTQ5NTY5LCJzZXNzaW9uX2lkIjoiZTJhMGFmNzE5OWQzMjc2NGJhNWYwN2YzNTM4OWE1NjciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.v9GAkd7V3NQLeXw6M0Xlbq98mu5RsbogGgIaze7J8ls
 #EXTINF:-1 tvg-id="tnt" tvg-name="ТНТ HD" tvg-logo="https://iptvx.one/picons/tnt.png" group-title="🇷🇺 ФЕДЕРАЛЬНЫЕ HD", ТНТ FHD
 #EXTGRP:🇷🇺 ФЕДЕРАЛЬНЫЕ HD
-http://list.onlinetv-sochi.ru:8080/live/channel.php?id=28&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://188.225.31.197/bpk-tv/000007833/tve/index.m3u8
 #EXTINF:-1 tvg-id="tnt" tvg-name="ТНТ HD" tvg-logo="https://iptvx.one/picons/tnt.png" group-title="🇷🇺 ФЕДЕРАЛЬНЫЕ HD", ТНТ HD
 #EXTGRP:🇷🇺 ФЕДЕРАЛЬНЫЕ HD
 http://cdngw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=tnt_hd.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2MjU1NDM2OSwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYxOTQ5NTY5LCJzZXNzaW9uX2lkIjoiZTJhMGFmNzE5OWQzMjc2NGJhNWYwN2YzNTM4OWE1NjciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.v9GAkd7V3NQLeXw6M0Xlbq98mu5RsbogGgIaze7J8ls
