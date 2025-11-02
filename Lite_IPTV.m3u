@@ -2541,9 +2541,6 @@ http://185.166.252.230/SuperOne/index.m3u83u8
 #EXTINF:-1 tvg-id="" tvg-name="XY Plus" tvg-logo="https://www.digicom.bg/assets/img/tv_logos/xyplus.svg" group-title="💘 ВЗРОСЛЫЕ", XY PLUS
 #EXTGRP:💘 ВЗРОСЛЫЕ
 http://85.11.144.9:50999/35
-#EXTINF:-1 tvg-id="" tvg-name="XY Mix" tvg-logo="https://crdtv.net/b/templates/ottch/xy-mix.png" group-title="💘 ВЗРОСЛЫЕ", XY MIX
-#EXTGRP:💘 ВЗРОСЛЫЕ
-http://85.11.144.9:50999/101
 #EXTINF:-1 tvg-id="" tvg-name="XY Max" tvg-logo="https://crdtv.net/b/templates/ottch/xy-max.png" group-title="💘 ВЗРОСЛЫЕ", XY MAX
 #EXTGRP:💘 ВЗРОСЛЫЕ
 http://85.11.144.9:50999/102
