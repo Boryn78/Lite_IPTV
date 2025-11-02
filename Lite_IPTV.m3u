@@ -2527,21 +2527,24 @@ http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
 #EXTGRP:💘 ВЗРОСЛЫЕ
 #EXTVLCOPT:http-user-agent=SmartTV
 http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="no_epg_xxx" tvg-name="VENUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Canal_Venus_logo_%282%29.svg/1200px-Canal_Venus_logo_%282%29.svg.png" group-title="💘 ВЗРОСЛЫЕ", VENUS
+#EXTINF:-1 tvg-id="no_epg_xxx" tvg-name="ERORA" tvg-logo="https://i.pinimg.com/736x/ad/7c/6d/ad7c6d98eb766b2010f7c9d4efea1774.jpg" group-title="💘 ВЗРОСЛЫЕ", ERORA
 #EXTGRP:💘 ВЗРОСЛЫЕ
-#EXTVLCOPT:http-user-agent=SmartTV
-http://181.188.216.5:18000/play/a01h/index.m3u8
+http://85.11.144.9:50999/31
+#EXTINF:-1 tvg-id="vivid-tv" tvg-name="Vivid TV" tvg-logo="https://epg.iptvx.one/picons/vivid-tv.png" group-title="💘 ВЗРОСЛЫЕ", VIVID TV
+#EXTGRP:💘 ВЗРОСЛЫЕ
+http://85.11.144.9:50999/41
 #EXTINF:-1 tvg-id="super-one" tvg-name="Super One" tvg-logo="https://epg.iptvx.one/picons/super-one.png" group-title="💘 ВЗРОСЛЫЕ", SUPER ONE
 #EXTGRP:💘 ВЗРОСЛЫЕ
-http://185.166.252.230/SuperOne/index.m#EXTINF:-1 tvg-id="super-one" tvg-name="Super One" tvg-logo="https://epg.iptvx.one/picons/super-one.png" group-title="💘 ВЗРОСЛЫЕ", SUPER ONE
-#EXTGRP:💘 ВЗРОСЛЫЕ
-http://185.166.252.230/SuperOne/index.m3u83u8
+http://185.166.252.230/SuperOne/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="XY Plus" tvg-logo="https://www.digicom.bg/assets/img/tv_logos/xyplus.svg" group-title="💘 ВЗРОСЛЫЕ", XY PLUS
 #EXTGRP:💘 ВЗРОСЛЫЕ
 http://85.11.144.9:50999/35
 #EXTINF:-1 tvg-id="" tvg-name="XY Max" tvg-logo="https://crdtv.net/b/templates/ottch/xy-max.png" group-title="💘 ВЗРОСЛЫЕ", XY MAX
 #EXTGRP:💘 ВЗРОСЛЫЕ
 http://85.11.144.9:50999/102
+#EXTINF:-1 tvg-id="no_epg_xxx" tvg-name="HOT 1" tvg-logo="https://avatars.mds.yandex.net/i?id=54504029160905d2767ece8f22399a14_sr-5232931-images-thumbs&n=13" group-title="💘 ВЗРОСЛЫЕ", HOT 1
+#EXTGRP:💘 ВЗРОСЛЫЕ
+http://85.11.144.9:50999/34
 #EXTINF:-1 tvg-id="kinojam1" tvg-name="KINOJAM 1 HD" tvg-logo="https://iptvx.one/picons/kinojam1.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", KINOJAM 1 HD
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kinojam_1.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2MjU1NDM2OSwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYxOTQ5NTY5LCJzZXNzaW9uX2lkIjoiZTJhMGFmNzE5OWQzMjc2NGJhNWYwN2YzNTM4OWE1NjciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.v9GAkd7V3NQLeXw6M0Xlbq98mu5RsbogGgIaze7J8ls
