@@ -2533,6 +2533,9 @@ http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
 #EXTGRP:💘 ВЗРОСЛЫЕ
 #EXTVLCOPT:http-user-agent=SmartTV
 http://181.188.216.5:18000/play/a01h/index.m3u8
+#EXTINF:-1 tvg-id="super-one" tvg-name="Super One" tvg-logo="https://epg.iptvx.one/picons/super-one.png" group-title="💘 ВЗРОСЛЫЕ", SUPER ONE
+#EXTGRP:💘 ВЗРОСЛЫЕ
+http://185.166.252.230/SuperOne/index.m3u8
 #EXTINF:-1 tvg-id="kinojam1" tvg-name="KINOJAM 1 HD" tvg-logo="https://iptvx.one/picons/kinojam1.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", KINOJAM 1 HD
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kinojam_1.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2MjU1NDM2OSwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYxOTQ5NTY5LCJzZXNzaW9uX2lkIjoiZTJhMGFmNzE5OWQzMjc2NGJhNWYwN2YzNTM4OWE1NjciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.v9GAkd7V3NQLeXw6M0Xlbq98mu5RsbogGgIaze7J8ls
