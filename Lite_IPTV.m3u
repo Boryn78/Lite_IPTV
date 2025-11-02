@@ -2535,7 +2535,18 @@ http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
 http://181.188.216.5:18000/play/a01h/index.m3u8
 #EXTINF:-1 tvg-id="super-one" tvg-name="Super One" tvg-logo="https://epg.iptvx.one/picons/super-one.png" group-title="💘 ВЗРОСЛЫЕ", SUPER ONE
 #EXTGRP:💘 ВЗРОСЛЫЕ
-http://185.166.252.230/SuperOne/index.m3u8
+http://185.166.252.230/SuperOne/index.m#EXTINF:-1 tvg-id="super-one" tvg-name="Super One" tvg-logo="https://epg.iptvx.one/picons/super-one.png" group-title="💘 ВЗРОСЛЫЕ", SUPER ONE
+#EXTGRP:💘 ВЗРОСЛЫЕ
+http://185.166.252.230/SuperOne/index.m3u83u8
+#EXTINF:-1 tvg-id="" tvg-name="XY Plus" tvg-logo="https://www.digicom.bg/assets/img/tv_logos/xyplus.svg" group-title="💘 ВЗРОСЛЫЕ", XY PLUS
+#EXTGRP:💘 ВЗРОСЛЫЕ
+http://85.11.144.9:50999/35
+#EXTINF:-1 tvg-id="" tvg-name="XY Mix" tvg-logo="https://crdtv.net/b/templates/ottch/xy-mix.png" group-title="💘 ВЗРОСЛЫЕ", XY MIX
+#EXTGRP:💘 ВЗРОСЛЫЕ
+http://85.11.144.9:50999/101
+#EXTINF:-1 tvg-id="" tvg-name="XY Max" tvg-logo="https://crdtv.net/b/templates/ottch/xy-max.png" group-title="💘 ВЗРОСЛЫЕ", XY MAX
+#EXTGRP:💘 ВЗРОСЛЫЕ
+http://85.11.144.9:50999/102
 #EXTINF:-1 tvg-id="kinojam1" tvg-name="KINOJAM 1 HD" tvg-logo="https://iptvx.one/picons/kinojam1.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", KINOJAM 1 HD
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kinojam_1.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2MjU1NDM2OSwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYxOTQ5NTY5LCJzZXNzaW9uX2lkIjoiZTJhMGFmNzE5OWQzMjc2NGJhNWYwN2YzNTM4OWE1NjciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.v9GAkd7V3NQLeXw6M0Xlbq98mu5RsbogGgIaze7J8ls
@@ -2725,7 +2736,7 @@ https://stream-msk-10.ott.tricolor.tv/dtv/id905_MSKSG-PVR-1--Kinozal_10/03/plst.
 #EXTINF:-1 tvg-name="" tvg-logo="https://news.store.rambler.ru/img/f77842bba3e0a8af004e6ebe428e5f76?img-format=auto&img-1-resize=height:350,fit:max&img-2-filter=sharpen" group-title="🧸 ДЕТСКИЕ", БОДО БОРОДО
 #EXTGRP:🧸 ДЕТСКИЕ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kinopokaz_3.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2MjU1NDM2OSwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYxOTQ5NTY5LCJzZXNzaW9uX2lkIjoiZTJhMGFmNzE5OWQzMjc2NGJhNWYwN2YzNTM4OWE1NjciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.v9GAkd7V3NQLeXw6M0Xlbq98mu5RsbogGgIaze7J8ls
-#EXTINF:-1 tvg-name="CARTOON NETWORK" tvg-logo="https://iptvx.one/picons/cartoon-network.png" group-title="🧸 ДЕТСКИЕ", CARTOON NETWORK (TORRENT TV)
+#EXTINF:-1 tvg-name="CARTOON NETWORK" tvg-logo="https://iptvx.one/picons/cartoon-network.png" group-title="🧸 ДЕТСКИЕ", CARTOON NETWORK (Torrent TV)
 #EXTGRP:🧸 ДЕТСКИЕ
 http://127.0.0.1:6878/ace/manifest.m3u8?id=6578fed493fdf327038e74d9d967888d3dbb9c2d
 #EXTINF:-1 tvg-name="BCU KIDS 4K" tvg-logo="https://iptvx.one/picons/bcu-kids-4k.png" group-title="🧸 ДЕТСКИЕ", BCU KIDS 4K (Torrent TV)
