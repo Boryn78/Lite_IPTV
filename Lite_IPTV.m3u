@@ -1538,7 +1538,7 @@ http://list.onlinetv-sochi.ru:8080/live/arx.php?id=blue_hustler_18&token=Ym9yeW4
 #EXTINF:-1 tvg-id="bcu-charm" tvg-name="BCU Charm HD" tvg-logo="https://epg.iptvx.one/picons/bcu-charm.png" group-title="💘 ВЗРОСЛЫЕ", BCU CHARM
 #EXTGRP:💘 ВЗРОСЛЫЕ
 http://list.onlinetv-sochi.ru:8080/live/channel.php?id=703&token=Ym9yeW43ODpMYW5jZXIxNg=
-#EXTINF:-1 tvg-id="shalun" tvg-name="Шалун" tvg-logo="https://epg.iptvx.one/picons/bcu-charm.png" group-title="💘 ВЗРОСЛЫЕ", ШАЛУН
+#EXTINF:-1 tvg-id="shalun" tvg-name="Шалун" tvg-logo="https://epg.iptvx.one/picons/shalun.png" group-title="💘 ВЗРОСЛЫЕ", ШАЛУН
 #EXTGRP:💘 ВЗРОСЛЫЕ
 http://list.onlinetv-sochi.ru:8080/live/arx.php?id=shalun&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="playboy-tv" tvg-name="PLAYBOY TV" tvg-logo="https://karnei4.github.io/convert/Playboy_TV_(18).png" group-title="💘 ВЗРОСЛЫЕ", PLAYBOY TV
@@ -2527,7 +2527,7 @@ http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
 #EXTGRP:💘 ВЗРОСЛЫЕ
 #EXTVLCOPT:http-user-agent=SmartTV
 http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="no_epg_xxx" tvg-name="ERORA" tvg-logo="https://i.pinimg.com/736x/ad/7c/6d/ad7c6d98eb766b2010f7c9d4efea1774.jpg" group-title="💘 ВЗРОСЛЫЕ", ERORA
+#EXTINF:-1 tvg-id="no_epg_xxx" tvg-name="ERORA" tvg-logo="https://avatars.mds.yandex.net/i?id=74f9af487d39e51f19b57309cd992ee1_sr-10815143-images-thumbs&n=13" group-title="💘 ВЗРОСЛЫЕ", EROTA
 #EXTGRP:💘 ВЗРОСЛЫЕ
 http://85.11.144.9:50999/31
 #EXTINF:-1 tvg-id="vivid-tv" tvg-name="Vivid TV" tvg-logo="https://epg.iptvx.one/picons/vivid-tv.png" group-title="💘 ВЗРОСЛЫЕ", VIVID TV
@@ -2542,7 +2542,7 @@ http://85.11.144.9:50999/35
 #EXTINF:-1 tvg-id="" tvg-name="XY Max" tvg-logo="https://crdtv.net/b/templates/ottch/xy-max.png" group-title="💘 ВЗРОСЛЫЕ", XY MAX
 #EXTGRP:💘 ВЗРОСЛЫЕ
 http://85.11.144.9:50999/102
-#EXTINF:-1 tvg-id="no_epg_xxx" tvg-name="HOT 1" tvg-logo="https://avatars.mds.yandex.net/i?id=54504029160905d2767ece8f22399a14_sr-5232931-images-thumbs&n=13" group-title="💘 ВЗРОСЛЫЕ", HOT 1
+#EXTINF:-1 tvg-id="no_epg_xxx" tvg-name="HOT 1" tvg-logo="https://avatars.mds.yandex.net/i?id=74f9af487d39e51f19b57309cd992ee1_sr-10815143-images-thumbs&n=13" group-title="💘 ВЗРОСЛЫЕ", HOT 1
 #EXTGRP:💘 ВЗРОСЛЫЕ
 http://85.11.144.9:50999/34
 #EXTINF:-1 tvg-id="kinojam1" tvg-name="KINOJAM 1 HD" tvg-logo="https://iptvx.one/picons/kinojam1.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", KINOJAM 1 HD
