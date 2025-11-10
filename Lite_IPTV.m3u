@@ -2566,6 +2566,9 @@ http://194.26.203.25:80/8869/video.m3u8?token=w8AT5yczJA2WKHY3
 #EXTINF:-1 tvg-id="xxl-xxx" tvg-name="XXL" tvg-logo="https://epg.iptvx.one/picons/xxl-xxx.png" group-title="💘 ВЗРОСЛЫЕ", XXL (тест)
 #EXTGRP:💘 ВЗРОСЛЫЕ
 http://194.26.203.25:80/9249/video.m3u8?token=w8AT5yczJA2WKHY3
+#EXTINF:-1 tvg-id="" tvg-name="Fap tv Teens" tvg-logo="https://avatars.mds.yandex.net/i?id=74f9af487d39e51f19b57309cd992ee1_sr-10815143-images-thumbs&n=13" group-title="💘 ВЗРОСЛЫЕ", FAP TV TEENS (тест)
+#EXTGRP:💘 ВЗРОСЛЫЕ
+http://194.26.203.25:80/9238/video.m3u8?token=w8AT5yczJA2WKHY3
 #EXTINF:-1 tvg-id="kinojam1" tvg-name="KINOJAM 1 HD" tvg-logo="https://iptvx.one/picons/kinojam1.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", KINOJAM 1 HD
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kinojam_1.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2MzE1OTM1NSwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYyNTU0NTU1LCJzZXNzaW9uX2lkIjoiNWEwZjA3ZGQwNzA1YTA3NWE3ZjgxM2E4YmRmZjY4N2IiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.J_BOmak8aM2fhaPYL_HmPLa0ZWBhdDgNAE5y6V8KO6M
