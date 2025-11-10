@@ -1569,7 +1569,7 @@ http://85.11.144.9:50999/30
 http://213.169.39.30:5036
 #EXTINF:-1 tvg-id="hustler-tv tvg-name="Hustler TV" tvg-logo="https://epg.iptvx.one/picons/hustler-tv.png" group-title="💘 ВЗРОСЛЫЕ", HUSTLER TV
 #EXTGRP:💘 ВЗРОСЛЫЕ
-http://213.169.39.30:5115
+http://194.26.203.25:80/8128/video.m3u8?token=w8AT5yczJA2WKHY3
 #EXTINF:-1 tvg-id="redlight-hd" tvg-name="Redlight HD" tvg-logo="https://epg.iptvx.one/picons/redlight-hd.png" group-title="💘 ВЗРОСЛЫЕ", REDLIGHT HD
 #EXTGRP:💘 ВЗРОСЛЫЕ
 http://85.11.144.9:50999/39
