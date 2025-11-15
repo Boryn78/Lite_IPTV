@@ -1550,9 +1550,12 @@ http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="brazzers-tv-europe-ru" agerestriction="0" tvg-name="Brazzers TV Россия" tvg-logo="https://epg.iptvx.one/picons/brazzers.png" group-title="💘 ВЗРОСЛЫЕ", BRAZZERS TV 
 #EXTGRP:💘 ВЗРОСЛЫЕ
 http://list.onlinetv-sochi.ru:8080/live/arx.php?id=brazzers_tv_europe_18&token=Ym9yeW43ODpMYW5jZXIxNg==
-#EXTINF:-1 tvg-id="dorcel-xxx" tvg-name="DORCEL HD" tvg-logo="https://karnei4.github.io/convert/index_files/dorcel.png" group-title="💘 ВЗРОСЛЫЕ", DORCEL HD
+#EXTINF:-1 tvg-id="dorcel" tvg-name="DORCEL" tvg-logo="https://epg.iptvx.one/picons/dorcel.png" group-title="💘 ВЗРОСЛЫЕ", DORCEL HD
 #EXTGRP:💘 ВЗРОСЛЫЕ
 http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="dorcel-xxx" tvg-name="Dorcel XXX" tvg-logo="https://epg.iptvx.one/picons/dorcel-xxx.png" group-title="💘 ВЗРОСЛЫЕ", DORCEL XXX
+#EXTGRP:💘 ВЗРОСЛЫЕ
+http://85.11.144.9:50999/105
 #EXTINF:-1 tvg-id="eroxxxhd" tvg-name="ERO XXX HD" tvg-logo="https://karnei4.github.io/convert/EroX.png" group-title="💘 ВЗРОСЛЫЕ", ERO XXX HD
 #EXTGRP:💘 ВЗРОСЛЫЕ
 http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
