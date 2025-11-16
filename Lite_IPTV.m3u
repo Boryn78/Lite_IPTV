@@ -2655,7 +2655,7 @@ http://127.0.0.1:6878/ace/getstream?id=4ce55db7e578ff52a6e526cf610e477464b8a99f&
 http://127.0.0.1:6878/ace/getstream?id=3147c586346aee00c005d1caa55204d38678c95f&.mp4
 #EXTINF:-1 tvg-id="match-premier" tvg-name="МАТЧ! ПРЕМЬЕР HD" tvg-logo="https://iptvx.one/picons/match-premiere.png" group-title="🏅 СПОРТ", МАТЧ! ПРЕМЬЕР HD тест
 #EXTGRP:🏅 СПОРТ
-http://server-2.onlinetv-sochi.ru:8080/live/bol_tv.php?id=dvr01/hd1/NashFutHD&token=VmlwaXBUdjpWaXBpcFR2Nzc
+http://server-2.onlinetv-sochi.ru:8080/live/bol_tv.php?id=dvr01/hd1/NashFutHD&token=VmlwaXBUdjpWaXBpcFR2Nzc=|user-agent=VipipTv
 #EXTINF:-1 tvg-id="hgtv" tvg-name="HGTV" tvg-logo="https://image.pngaaa.com/0/3423000-middle.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", HGTV (Torrent TV)
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://127.0.0.1:6878/ace/getstream?infohash=22452120c704f34daea284fbd64b2527bc83f62d&.mp4
