@@ -559,7 +559,7 @@ http://server-2.onlinetv-sochi.ru:8080/live/limeHD5_vip.php?id=656&token=Ym9yeW4
 http://127.0.0.1:6878/ace/manifest.m3u8?id=b28db77c5084da7993395d77df96c30bb134f0a9
 #EXTINF:-1 tvg-id="match-football2" tvg-name="МАТЧ! ФУТБОЛ 2" tvg-logo="https://iptvx.one/picons/match-football2.png" group-title="🏅 СПОРТ", МАТЧ! ФУТБОЛ 2 HD
 #EXTGRP:🏅 СПОРТ
-http://server-2.onlinetv-sochi.ru:8080/live/limeHD5_vip.php?id=663&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://server-2.onlinetv-sochi.ru:8080/live/bol_tv.php?id=abr2/NTVplusfut2HD/71/copy&token=VmlwaXBUdjpWaXBpcFR2Nzc=|user-agent=VipipTv
 #EXTINF:-1 tvg-id="match-football2" tvg-name="МАТЧ! ФУТБОЛ 2" tvg-logo="https://iptvx.one/picons/match-football2.png" group-title="🏅 СПОРТ", МАТЧ! ФУТБОЛ 2 FHD 50 (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/manifest.m3u8?id=ffbf8c687c788d9a1a7c651e24802ee773ff3f04
@@ -572,12 +572,12 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=b6baa046075d82da300fc1b16de96067a8b95
 #EXTINF:-1 tvg-id="match-premier" tvg-name="МАТЧ! ПРЕМЬЕР HD" tvg-logo="https://iptvx.one/picons/match-premiere.png" group-title="🏅 СПОРТ", МАТЧ! ПРЕМЬЕР HD
 #EXTGRP:🏅 СПОРТ
 http://list.onlinetv-sochi.ru:8080/live/channel.php?id=546&token=Ym9yeW43ODpMYW5jZXIxNg=
-#EXTINF:-1 tvg-id="match-premier" tvg-name="МАТЧ! ПРЕМЬЕР" tvg-logo="https://iptvx.one/picons/match-premiere.png" group-title="🏅 СПОРТ", МАТЧ! ПРЕМЬЕР FHD 50 (Torrent TV)
-#EXTGRP:🏅 СПОРТ
-http://127.0.0.1:6878/ace/manifest.m3u8?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
 #EXTINF:-1 tvg-id="match-premier" tvg-name="МАТЧ! ПРЕМЬЕР HD" tvg-logo="https://iptvx.one/picons/match-premiere.png" group-title="🏅 СПОРТ", МАТЧ! ПРЕМЬЕР HD (тест)
 #EXTGRP:🏅 СПОРТ
 http://server-2.onlinetv-sochi.ru:8080/live/bol_tv.php?id=dvr01/hd1/NashFutHD&token=VmlwaXBUdjpWaXBpcFR2Nzc=|user-agent=VipipTv
+#EXTINF:-1 tvg-id="match-premier" tvg-name="МАТЧ! ПРЕМЬЕР" tvg-logo="https://iptvx.one/picons/match-premiere.png" group-title="🏅 СПОРТ", МАТЧ! ПРЕМЬЕР FHD 50 (Torrent TV)
+#EXTGRP:🏅 СПОРТ
+http://127.0.0.1:6878/ace/manifest.m3u8?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
 #EXTINF:-1 tvg-id="match-arena" tvg-name="МАТЧ! АРЕНА" tvg-logo="https://iptvx.one/picons/match-arena.png" group-title="🏅 СПОРТ", МАТЧ! АРЕНА HD
 #EXTGRP:🏅 СПОРТ
 http://list.onlinetv-sochi.ru:8080/live/arx.php?id=sport_1_hd&token=Ym9yeW43ODpMYW5jZXIxNg==
