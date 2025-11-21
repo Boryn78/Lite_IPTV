@@ -60,6 +60,9 @@ http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="360-news" tvg-name="360° Новости" tvg-logo="https://iptvx.one/picons/360-news.png" group-title="🇷🇺 ФЕДЕРАЛЬНЫЕ HD", 360° НОВОСТИ HD
 #EXTGRP:🇷🇺 ФЕДЕРАЛЬНЫЕ HD
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/0.m3u8
+#EXTINF:-1 tvg-id="rossia-24" tvg-name="Россия 24 HD" tvg-logo="https://epg.iptvx.one/picons/rossia-24.png" group-title="🇷🇺 ФЕДЕРАЛЬНЫЕ HD", РОССИЯ 24 HD
+#EXTGRP:🇷🇺 ФЕДЕРАЛЬНЫЕ HD
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
 #EXTINF:-1 tvg-id="tvcentr" tvg-name="ТВ Центр" tvg-logo="https://iptvx.one/picons/tvcentr.png" group-title="🇷🇺 ФЕДЕРАЛЬНЫЕ HD", ТВ ЦЕНТР HD
 #EXTGRP:🇷🇺 ФЕДЕРАЛЬНЫЕ HD
 https://live-mirror-01.ott.tricolor.tv/live/live/TV_Center_HD/hls_enc/TV_Center_HD.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2Mzc2MzE3NywiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYzMTU4Mzc3LCJzZXNzaW9uX2lkIjoiMTQ3OGVlZjBiMzU3ZDRlNmMyOGVhYTRjYjFmMTkzNTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.kRD2U8D-6jQpAzBXbB7rNtsFe92nCfR0aywwUpemQek
