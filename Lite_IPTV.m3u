@@ -54,6 +54,9 @@ http://server-2.onlinetv-sochi.ru:8080/live/limeHD5_vip.php?id=31&token=Ym9yeW43
 #EXTINF:-1 tvg-id="piatnica" tvg-name="ПЯТНИЦА! HD" tvg-logo="https://iptvx.one/picons/piatnica.png" group-title="🇷🇺 ФЕДЕРАЛЬНЫЕ HD", ПЯТНИЦА! HD
 #EXTGRP:🇷🇺 ФЕДЕРАЛЬНЫЕ HD
 http://cdngw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Friday_0_hd.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2Mzc2MzE3NywiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYzMTU4Mzc3LCJzZXNzaW9uX2lkIjoiMTQ3OGVlZjBiMzU3ZDRlNmMyOGVhYTRjYjFmMTkzNTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.kRD2U8D-6jQpAzBXbB7rNtsFe92nCfR0aywwUpemQek
+#EXTINF:-1 tvg-id="5kanal-ru" tvg-name="Пятый канал" tvg-logo="https://epg.iptvx.one/picons/5kanal-ru.png" group-title="🇷🇺 ФЕДЕРАЛЬНЫЕ HD", ПЯТЫЙ HD
+#EXTGRP:🇷🇺 ФЕДЕРАЛЬНЫЕ HD
+https://cdngw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=5_kanal.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2Mzc2MzE3NywiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYzMTU4Mzc3LCJzZXNzaW9uX2lkIjoiMTQ3OGVlZjBiMzU3ZDRlNmMyOGVhYTRjYjFmMTkzNTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.kRD2U8D-6jQpAzBXbB7rNtsFe92nCfR0aywwUpemQek
 #EXTINF:-1 tvg-id="zvezda" tvg-name="ЗВЕЗДА HD" tvg-logo="https://iptvx.one/picons/zvezda.png" group-title="🇷🇺 ФЕДЕРАЛЬНЫЕ HD", ЗВЕЗДА HD
 #EXTGRP:🇷🇺 ФЕДЕРАЛЬНЫЕ HD
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
