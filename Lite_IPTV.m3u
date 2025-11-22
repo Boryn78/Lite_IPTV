@@ -1520,9 +1520,6 @@ http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1 tvg-id="tnomer" tvg-name="E TV" tvg-logo="https://iptvx.one/picons/e-tv.png" group-title="👀 РАЗНОЕ", E TV
 #EXTGRP:👀 РАЗНОЕ
 http://cdn-01.bonus-tv.ru/gsl/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="shopping-live" tvg-name="SHOPPING LIVE" tvg-logo="http://media.24h.tv/img/ch/a8/ed/a8ed2f31d1a1b1d314bdd0baa0622a7e.png" group-title="👀 РАЗНОЕ", SHOPPING LIVE
-#EXTGRP:👀 РАЗНОЕ
-https://shoppinglive.mediacdn.ru/cdn/shopping/playlist_sdhigh.m3u8
 #EXTINF:-1 tvg-name="LEOMAX 24" tvg-logo="https://karnei4.github.io/convert/index_files/leomax.png" group-title="👀 РАЗНОЕ", LEOMAX 24
 #EXTGRP:👀 РАЗНОЕ
 https://tvshops.bonus-tv.ru/cdn/shop24/tracks-v1a1/mono.m3u8?token=cdn
@@ -2671,6 +2668,9 @@ http://127.0.0.1:6878/ace/getstream?infohash=22452120c704f34daea284fbd64b2527bc8
 #EXTINF:-1 tvg-id="minimax-ms-crime" tvg-name="MS Crime HD" tvg-logo="https://epg.iptvx.one/picons/minimax-ms-crime.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", MS CRIME HD (тест)
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://194.26.203.25:80/8637/video.m3u8?token=w8AT5yczJA2WKHY3
+#EXTINF:-1 tvg-id="womens-magazine" tvg-name="Women's Magazine" tvg-logo="https://epg.iptvx.one/picons/womens-magazine.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", WOMEN'S MAGAZINE
+#EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=WomensMagazine_SD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NDM2OTA2MCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYzNzY0MjYwLCJzZXNzaW9uX2lkIjoiOWE1MTNmNzg2MmQwZDQ5ZWMyMWUyZGJjY2M2NTUyYjQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EN8b35yHjJaN9n6F_7nDAmJU52DFsnHZDFlRLzNfWXo
 #EXTINF:-1 tvg-id="detective-jam-hd" tvg-name="DetectiveJam" tvg-logo="https://iptvx.one/picons/detectivejam.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", DETECTIVE JAM HD
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=DetectiveJam.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NDM2OTA2MCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzYzNzY0MjYwLCJzZXNzaW9uX2lkIjoiOWE1MTNmNzg2MmQwZDQ5ZWMyMWUyZGJjY2M2NTUyYjQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EN8b35yHjJaN9n6F_7nDAmJU52DFsnHZDFlRLzNfWXo
