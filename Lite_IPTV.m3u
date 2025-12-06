@@ -757,12 +757,9 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Chizhik.m3u8
 #EXTINF:-1 tvg-name="FAMILYJAM" tvg-logo="https://epg.iptvx.one/picons/familyjam.png" group-title="🧸 ДЕТСКИЕ", FAMILYJAM
 #EXTGRP:🧸 ДЕТСКИЕ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=FamilyJam.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NTU3ODQ4NiwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY0OTczNjg2LCJzZXNzaW9uX2lkIjoiYWNkZDczYWJkN2U4N2ViZDZjMWUyYTQyOTU4YmRkMTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.iVfm975Yg98PGxdSRdffs_PngTB_fXaemZM_p66oTDE
-#EXTINF:-1 tvg-name="ТНТ MUSIC HD" tvg-logo="https://iptvx.one/picons/tnt-music.png" group-title="🎵 МУЗЫКА", ТНТ MUSIC HD
+#EXTINF:-1 tvg-name="ТНТ MUSIC" tvg-logo="https://iptvx.one/picons/tnt-music.png" group-title="🎵 МУЗЫКА", ТНТ MUSIC
 #EXTGRP:🎵 МУЗЫКА
-http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
-#EXTINF:-1 tvg-name="Bridge TV Deluxe" tvg-logo="https://karnei4.github.io/convert/BRIDGETVDELUXEHD.png" group-title="🎵 МУЗЫКА", BRIDGE TV DELUXE HD
-#EXTGRP:🎵 МУЗЫКА
-http://server-2.onlinetv-sochi.ru:8080/live/limeHD_vip.php?id=7162&token=Ym9yeW43ODpMYW5jZXIxNg=
+http://list.onlinetv-sochi.ru:8080/live/channel.php?id=104&token=Ym9yeW43ODpMYW5jZXIxNg=
 #EXTINF:-1 tvg-name="BRIDGE TV" tvg-logo="https://karnei4.github.io/convert/BRIDGETVHD.png" group-title="🎵 МУЗЫКА", BRIDGE TV
 #EXTGRP:🎵 МУЗЫКА
 https://stream-msk-13.ott.tricolor.tv/dtv/id610_MSKSG-PVR-1--Bridge/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NTU3ODQ4NiwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY0OTczNjg2LCJzZXNzaW9uX2lkIjoiYWNkZDczYWJkN2U4N2ViZDZjMWUyYTQyOTU4YmRkMTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.iVfm975Yg98PGxdSRdffs_PngTB_fXaemZM_p66oTDE
@@ -775,9 +772,6 @@ https://stream-msk-03.ott.tricolor.tv/dtv/id617_MSKSG-PVR-1--BRIDGE_TV_Russkiy_h
 #EXTINF:-1 tvg-name="BRIDGE TV CLASSIC" tvg-logo="https://karnei4.github.io/convert/index_files/bridge-tv-classic.png" group-title="🎵 МУЗЫКА", BRIDGE TV CLASSIC
 #EXTGRP:🎵 МУЗЫКА
 https://stream-msk-09.ott.tricolor.tv/dtv/id387_MSKSG-PVR-1--Bridge_tv_classic/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NTU3ODQ4NiwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY0OTczNjg2LCJzZXNzaW9uX2lkIjoiYWNkZDczYWJkN2U4N2ViZDZjMWUyYTQyOTU4YmRkMTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.iVfm975Yg98PGxdSRdffs_PngTB_fXaemZM_p66oTDE
-#EXTINF:-1 tvg-name="BRIDGE TV ROCK" tvg-logo="https://ntvplus.tv/files/image/80/48/79/-channel!9b5.png" group-title="🎵 МУЗЫКА", BRIDGE TV ROCK
-#EXTGRP:🎵 МУЗЫКА
-http://server-2.onlinetv-sochi.ru:8080/live/limeHD_vip.php?id=9731&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-name="RUSSIAN MUSICBOX HD" tvg-logo="https://karnei4.github.io/convert/index_files/russian-musicbox.png" group-title="🎵 МУЗЫКА", RUSSIAN MUSICBOX HD
 #EXTGRP:🎵 МУЗЫКА
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Russian_Musicbox_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NTU3ODQ4NiwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY0OTczNjg2LCJzZXNzaW9uX2lkIjoiYWNkZDczYWJkN2U4N2ViZDZjMWUyYTQyOTU4YmRkMTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.iVfm975Yg98PGxdSRdffs_PngTB_fXaemZM_p66oTDE
