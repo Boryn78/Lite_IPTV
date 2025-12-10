@@ -283,7 +283,7 @@ http://127.0.0.1:6878/ace/getstream?id=d47c7365f67b9b8169404e1c4d86fd698307fa15
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Romantichnoe.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NTU3ODQ4NiwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY0OTczNjg2LCJzZXNzaW9uX2lkIjoiYWNkZDczYWJkN2U4N2ViZDZjMWUyYTQyOTU4YmRkMTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.iVfm975Yg98PGxdSRdffs_PngTB_fXaemZM_p66oTDE
 #EXTINF:-1 tvg-id="kinokomedia" tvg-name="КИНОКОМЕДИЯ" tvg-logo="https://iptvx.one/picons/kinokomedia.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНОКОМЕДИЯ
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://194.26.203.25:80/8042/video.m3u8?token=w8AT5yczJA2WKHY3
+http://8.47.69.0:80/8042/video.m3u8?token=w8AT5yczJA2WKHY3
 #EXTINF:-1 tvg-id="kinokomedia" tvg-name="КИНОКОМЕДИЯ" tvg-logo="https://iptvx.one/picons/kinokomedia.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНОКОМЕДИЯ FHD (Torrent TV)
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://127.0.0.1:6878/ace/getstream?id=dfb83e3ff3c570ba7346641c827d89bd472a18a2
@@ -574,7 +574,7 @@ http://server-2.onlinetv-sochi.ru:8080/live/bol_tv.php?id=abr2/NTVplusfut2HD/71/
 http://127.0.0.1:6878/ace/manifest.m3u8?id=ffbf8c687c788d9a1a7c651e24802ee773ff3f04
 #EXTINF:-1 tvg-id="match-football3" tvg-name="МАТЧ! ФУТБОЛ 3" tvg-logo="https://iptvx.one/picons/match-football3.png" group-title="🏅 СПОРТ", МАТЧ! ФУТБОЛ 3 HD
 #EXTGRP:🏅 СПОРТ
-http://194.26.203.25:80/8238/video.m3u8?token=w8AT5yczJA2WKHY3
+http://19
 #EXTINF:-1 tvg-id="match-football3" tvg-name="МАТЧ! ФУТБОЛ 3" tvg-logo="https://iptvx.one/picons/match-football3.png" group-title="🏅 СПОРТ", МАТЧ! ФУТБОЛ 3 FHD 50 (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/manifest.m3u8?id=b6baa046075d82da300fc1b16de96067a8b9540e
@@ -2530,7 +2530,7 @@ http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
 http://85.11.144.9:50999/31
 #EXTINF:-1 tvg-id="vivid-red" tvg-name="Vivid Red HD" tvg-logo="https://epg.iptvx.one/picons/vivid-red.png" group-title="💘 ВЗРОСЛЫЕ", VIVID RED HD 
 #EXTGRP:💘 ВЗРОСЛЫЕ
-http://194.26.203.25:80/8374/video.m3u8?token=w8AT5yczJA2WKHY3
+http://8.47.69.0:80/8374/video.m3u8?token=w8AT5yczJA2WKHY3
 #EXTINF:-1 tvg-id="vivid-tv" tvg-name="Vivid TV" tvg-logo="https://epg.iptvx.one/picons/vivid-tv.png" group-title="💘 ВЗРОСЛЫЕ", VIVID TV
 #EXTGRP:💘 ВЗРОСЛЫЕ
 http://85.11.144.9:50999/41
@@ -2548,49 +2548,49 @@ http://85.11.144.9:50999/102
 http://85.11.144.9:50999/34
 #EXTINF:-1 tvg-id="penthouse-gold" tvg-name="Penthouse Gold HD" tvg-logo="https://epg.iptvx.one/picons/penthouse-gold.png" group-title="💘 ВЗРОСЛЫЕ", PENTHOUSE GOLD (тест)
 #EXTGRP:💘 ВЗРОСЛЫЕ
-http://194.26.203.25:80/8342/video.m3u8?token=w8AT5yczJA2WKHY3
+http://8.47.69.0:80/8342/video.m3u8?token=w8AT5yczJA2WKHY3
 #EXTINF:-1 tvg-id="penthouse-passion-ua tvg-name="Penthouse Passion Украина" tvg-logo="https://epg.iptvx.one/picons/penthouse-passion-ua.png" group-title="💘 ВЗРОСЛЫЕ", PENTHOUSE PASSION (тест)
 #EXTGRP:💘 ВЗРОСЛЫЕ
-http://194.26.203.25:80/9248/video.m3u8?token=w8AT5yczJA2WKHY3
+http://8.47.69.0:80/9248/video.m3u8?token=w8AT5yczJA2WKHY3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m3u.admuspeh.my/icon/%D0%9E%D0%A5-%D0%90%D0%A5%20HD.png" group-title="💘 ВЗРОСЛЫЕ", ОХ-АХ HD (тест)
 #EXTGRP:💘 ВЗРОСЛЫЕ
-http://194.26.203.25:80/9250/video.m3u8?token=w8AT5yczJA2WKHY3
+http://8.47.69.0:80/9250/video.m3u8?token=w8AT5yczJA2WKHY3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m3u.admuspeh.my/icon/KinoXXX.png" group-title="💘 ВЗРОСЛЫЕ", KINO XXX (тест)
 #EXTGRP:💘 ВЗРОСЛЫЕ
-http://194.26.203.25:80/9240/video.m3u8?token=w8AT5yczJA2WKHY3
+http://8.47.69.0:80/9240/video.m3u8?token=w8AT5yczJA2WKHY3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m3u.admuspeh.my/icon/CineMan%20ExExEx.png" group-title="💘 ВЗРОСЛЫЕ", CINEMAN XXX (тест)
 #EXTGRP:💘 ВЗРОСЛЫЕ
-http://194.26.203.25:80/8868/video.m3u8?token=w8AT5yczJA2WKHY3
+http://8.47.69.0:80/8868/video.m3u8?token=w8AT5yczJA2WKHY3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m3u.admuspeh.my/icon/CineMan%20ExExEx%20TWO.png" group-title="💘 ВЗРОСЛЫЕ", CINEMAN XXX2 (тест)
 #EXTGRP:💘 ВЗРОСЛЫЕ
-http://194.26.203.25:80/8869/video.m3u8?token=w8AT5yczJA2WKHY3
+http://8.47.69.0:80/8869/video.m3u8?token=w8AT5yczJA2WKHY3
 #EXTINF:-1 tvg-id="xxl-xxx" tvg-name="XXL" tvg-logo="https://epg.iptvx.one/picons/xxl-xxx.png" group-title="💘 ВЗРОСЛЫЕ", XXL (тест)
 #EXTGRP:💘 ВЗРОСЛЫЕ
-http://194.26.203.25:80/9249/video.m3u8?token=w8AT5yczJA2WKHY3
+http://8.47.69.0:80/9249/video.m3u8?token=w8AT5yczJA2WKHY3
 #EXTINF:-1 tvg-id="" tvg-name="Fap tv Teens" tvg-logo="https://avatars.mds.yandex.net/i?id=74f9af487d39e51f19b57309cd992ee1_sr-10815143-images-thumbs&n=13" group-title="💘 ВЗРОСЛЫЕ", FAP TV TEENS (тест)
 #EXTGRP:💘 ВЗРОСЛЫЕ
-http://194.26.203.25:80/9238/video.m3u8?token=w8AT5yczJA2WKHY3
+http://8.47.69.0:80/9238/video.m3u8?token=w8AT5yczJA2WKHY3
 #EXTINF:-1 tvg-id="" tvg-name="Fap tv 2" tvg-logo="https://avatars.mds.yandex.net/i?id=74f9af487d39e51f19b57309cd992ee1_sr-10815143-images-thumbs&n=13" group-title="💘 ВЗРОСЛЫЕ", FAP TV 2 (тест)
 #EXTGRP:💘 ВЗРОСЛЫЕ
-http://194.26.203.25:80/9242/video.m3u8?token=w8AT5yczJA2WKHY3
+http://8.47.69.0:80/9242/video.m3u8?token=w8AT5yczJA2WKHY3
 #EXTINF:-1 tvg-id="" tvg-name="Fap tv 3" tvg-logo="https://avatars.mds.yandex.net/i?id=74f9af487d39e51f19b57309cd992ee1_sr-10815143-images-thumbs&n=13" group-title="💘 ВЗРОСЛЫЕ", FAP TV 3 (тест)
 #EXTGRP:💘 ВЗРОСЛЫЕ
-http://194.26.203.25:80/9243/video.m3u8?token=w8AT5yczJA2WKHY3
+http://8.47.69.0:80/9243/video.m3u8?token=w8AT5yczJA2WKHY3
 #EXTINF:-1 tvg-id="" tvg-name="Fap tv 4" tvg-logo="https://avatars.mds.yandex.net/i?id=74f9af487d39e51f19b57309cd992ee1_sr-10815143-images-thumbs&n=13" group-title="💘 ВЗРОСЛЫЕ", FAP TV 4 (тест)
 #EXTGRP:💘 ВЗРОСЛЫЕ
-http://194.26.203.25:80/9244/video.m3u8?token=w8AT5yczJA2WKHY3
+http://8.47.69.0:80/9244/video.m3u8?token=w8AT5yczJA2WKHY3
 #EXTINF:-1 tvg-id="" tvg-name="Fap tv anal" tvg-logo="https://avatars.mds.yandex.net/i?id=74f9af487d39e51f19b57309cd992ee1_sr-10815143-images-thumbs&n=13" group-title="💘 ВЗРОСЛЫЕ", FAP TV ANAL (тест)
 #EXTGRP:💘 ВЗРОСЛЫЕ
-http://194.26.203.25:80/8407/video.m3u8?token=w8AT5yczJA2WKHY3
+http://8.47.69.0:80/8407/video.m3u8?token=w8AT5yczJA2WKHY3
 #EXTINF:-1 tvg-id="" tvg-name="Fap tv parody" tvg-logo="https://avatars.mds.yandex.net/i?id=74f9af487d39e51f19b57309cd992ee1_sr-10815143-images-thumbs&n=13" group-title="💘 ВЗРОСЛЫЕ", FAP TV PARODY (тест)
 #EXTGRP:💘 ВЗРОСЛЫЕ
-http://194.26.203.25:80/9177/video.m3u8?token=w8AT5yczJA2WKHY3
+http://8.47.69.0:80/9177/video.m3u8?token=w8AT5yczJA2WKHY3
 #EXTINF:-1 tvg-id="" tvg-name="Fap tv lesbian" tvg-logo="https://avatars.mds.yandex.net/i?id=74f9af487d39e51f19b57309cd992ee1_sr-10815143-images-thumbs&n=13" group-title="💘 ВЗРОСЛЫЕ", FAP TV LESBIAN (тест)
 #EXTGRP:💘 ВЗРОСЛЫЕ
-http://194.26.203.25:80/9239/video.m3u8?token=w8AT5yczJA2WKHY3
+http://8.47.69.0:80/9239/video.m3u8?token=w8AT5yczJA2WKHY3
 #EXTINF:-1 tvg-id="" tvg-name="Fap tv COMPILATION" tvg-logo="https://avatars.mds.yandex.net/i?id=74f9af487d39e51f19b57309cd992ee1_sr-10815143-images-thumbs&n=13" group-title="💘 ВЗРОСЛЫЕ", FAP TV COMPILATION (тест)
 #EXTGRP:💘 ВЗРОСЛЫЕ
-http://194.26.203.25:80/9241/video.m3u8?token=w8AT5yczJA2WKHY3
+http://8.47.69.0:80/9241/video.m3u8?token=w8AT5yczJA2WKHY3
 #EXTINF:-1 tvg-id="kinojam1" tvg-name="KINOJAM 1 HD" tvg-logo="https://iptvx.one/picons/kinojam1.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", KINOJAM 1 HD
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kinojam_1.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NTU3ODQ4NiwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY0OTczNjg2LCJzZXNzaW9uX2lkIjoiYWNkZDczYWJkN2U4N2ViZDZjMWUyYTQyOTU4YmRkMTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.iVfm975Yg98PGxdSRdffs_PngTB_fXaemZM_p66oTDE
@@ -2656,7 +2656,7 @@ http://127.0.0.1:6878/ace/getstream?id=3147c586346aee00c005d1caa55204d38678c95f&
 http://127.0.0.1:6878/ace/getstream?infohash=22452120c704f34daea284fbd64b2527bc83f62d&.mp4
 #EXTINF:-1 tvg-id="minimax-ms-crime" tvg-name="MS Crime HD" tvg-logo="https://epg.iptvx.one/picons/minimax-ms-crime.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", MS CRIME HD (тест)
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://194.26.203.25:80/8637/video.m3u8?token=w8AT5yczJA2WKHY3
+http://8.47.69.0:80/8637/video.m3u8?token=w8AT5yczJA2WKHY3
 #EXTINF:-1 tvg-id="womens-magazine" tvg-name="Women's Magazine" tvg-logo="https://epg.iptvx.one/picons/womens-magazine.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", WOMEN'S MAGAZINE
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=WomensMagazine_SD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NTU3ODQ4NiwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY0OTczNjg2LCJzZXNzaW9uX2lkIjoiYWNkZDczYWJkN2U4N2ViZDZjMWUyYTQyOTU4YmRkMTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.iVfm975Yg98PGxdSRdffs_PngTB_fXaemZM_p66oTDE
@@ -2872,7 +2872,7 @@ http://188.225.31.197/bpk-tv/000004471/tve/index.m3u8
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-name="Comedy Central" tvg-logo="https://epg.iptvx.one/picons/paramount-comedy.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", COMEDY CENTRAL
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://194.26.203.25:80/8171/video.m3u8?token=w8AT5yczJA2WKHY3
+http://8.47.69.0:80/8171/video.m3u8?token=w8AT5yczJA2WKHY3
 #EXTINF:-1 tvg-name="Plan B" tvg-id="plan-b" tvg-logo="https://epg.iptvx.one/picons/plan-b.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", PLAN B
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://188.225.31.197/bpk-tv/000007625/tve/index.m3u8
