@@ -595,7 +595,7 @@ http://list.onlinetv-sochi.ru:8080/live/arx.php?id=sport_1_hd&token=Ym9yeW43ODpM
 http://127.0.0.1:6878/ace/getstream?id=a1d67cb505881b2b5bc58ce2af367e5e6d26cab5
 #EXTINF:-1 tvg-id="match-igra" tvg-name="МАТЧ! ИГРА" tvg-logo="https://iptvx.one/picons/match-igra.png" group-title="🏅 СПОРТ", МАТЧ! ИГРА HD
 #EXTGRP:🏅 СПОРТ
-http://server-2.onlinetv-sochi.ru:8080/live/limeHD5_vip.php?id=63&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://server-2.onlinetv-sochi.ru:8080/live/bol_tv.php?id=abr2/sport2HD/71/copy&token=VmlwaXBUdjpWaXBpcFR2Nzc=|user-agent=VipipTv
 #EXTINF:-1 tvg-id="match-igra" tvg-name="МАТЧ! ИГРА" tvg-logo="https://iptvx.one/picons/match-igra.png" group-title="🏅 СПОРТ", МАТЧ! ИГРА FHD 50 (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=762e1d11f7d07029f316c6f61b8ef73289c6673c
