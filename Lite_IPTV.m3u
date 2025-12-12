@@ -368,12 +368,12 @@ http://188.225.31.197/bpk-tv/000003174/tve/index.m3u8
 #EXTINF:-1 tvg-id="dialogi-o-rybalke" tvg-name="ДИАЛОГИ О РЫБАЛКЕ" tvg-logo="https://karnei4.github.io/convert/index_files/dialogi-o-rybalke.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ДИАЛОГИ О РЫБАЛКЕ FHD (Torrent TV)
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://127.0.0.1:6878/ace/getstream?id=8b0600c72af71a12e844135c93c759ce1eb3dfa0&.mp4
-#EXTINF:-1 tvg-id="dikaya-rybalka-hd" tvg-name="ДИКАЯ РЫБАЛКА HD" tvg-logo="http://epg.it999.ru/img2/2484.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ДИКАЯ РЫБАЛКА HD
+#EXTINF:-1 tvg-id="dikaya-rybalka-hd" tvg-name="ДИКАЯ РЫБАЛКА HD" tvg-logo="http://epg.it999.ru/img2/2484.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ДИКАЯ РЫБАЛКА HD (Torrent TV)
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://server-2.onlinetv-sochi.ru:8080/live/limeHD5_vip.php?id=213&token=Ym9yeW43ODpMYW5jZXIxNg==
-#EXTINF:-1 tvg-id="dikaya-oxota-hd" tvg-name="ДИКАЯ ОХОТА HD" tvg-logo="http://epg.it999.ru/img2/2483.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ДИКАЯ ОХОТА HD
+http://127.0.0.1:6878/ace/getstream?id=b85a8f5825dc7fca3e8046af445bb776541b8bd0
+#EXTINF:-1 tvg-id="dikaya-oxota-hd" tvg-name="ДИКАЯ ОХОТА HD" tvg-logo="http://epg.it999.ru/img2/2483.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ДИКАЯ ОХОТА HD (Torrent TV)
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://server-2.onlinetv-sochi.ru:8080/live/limeHD5_vip.php?id=98&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://127.0.0.1:6878/ace/getstream?id=cd421b221ef7bae31a599542cd9c061fc66b30aa
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov-hd" tvg-name="ОХОТНИК И РЫБОЛОВ HD" tvg-logo="https://karnei4.github.io/convert/ohotnik_i_ribolov_hd.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ОХОТНИК И РЫБОЛОВ HD
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=HD_Oh_Rbl.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NTU3ODQ4NiwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY0OTczNjg2LCJzZXNzaW9uX2lkIjoiYWNkZDczYWJkN2U4N2ViZDZjMWUyYTQyOTU4YmRkMTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.iVfm975Yg98PGxdSRdffs_PngTB_fXaemZM_p66oTDE
@@ -389,9 +389,9 @@ http://188.225.31.197/bpk-tv/000002510/tve/index.m3u8
 #EXTINF:-1 tvg-id="Рыболов" tvg-name="РЫБОЛОВ" tvg-logo="https://iptvx.one/picons/oxotnik-i-rybolov.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", РЫБОЛОВ
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 https://stream-msk-12.ott.tricolor.tv:443/dtv/id665_MSKSG-PVR-1--Rybalov/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NTU3ODQ4NiwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY0OTczNjg2LCJzZXNzaW9uX2lkIjoiYWNkZDczYWJkN2U4N2ViZDZjMWUyYTQyOTU4YmRkMTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.iVfm975Yg98PGxdSRdffs_PngTB_fXaemZM_p66oTDE
-#EXTINF:-1 tvg-id="dikiy" tvg-name="ДИКИЙ" tvg-logo="http://epg.it999.ru/img2/2283.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ДИКИЙ
+#EXTINF:-1 tvg-id="dikiy" tvg-name="ДИКИЙ" tvg-logo="http://epg.it999.ru/img2/2283.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ДИКИЙ (Torrent TV)
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://server-2.onlinetv-sochi.ru:8080/live/limeHD5_vip.php?id=86&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://127.0.0.1:6878/ace/getstream?id=c60f8614f11e0f11338e25567a92f5fb84eb4832
 #EXTINF:-1 tvg-id="tlc" tvg-name="TLC HD" tvg-logo="https://iptvx.one/picons/tlc.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", TLC
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://list.onlinetv-sochi.ru:8080/live/channel.php?id=147&token=Ym9yeW43ODpMYW5jZXIxNg==
@@ -458,9 +458,9 @@ https://stream-msk-08.ott.tricolor.tv:443/dtv/id369_MSKSG-PVR-1--Oruzhie/03/plst
 #EXTINF:-1 tvg-id="bobior" tvg-name="БОБЕР" tvg-logo="https://iptvx.one/picons/bober.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", БОБЕР
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 https://stream-msk-10.ott.tricolor.tv:443/dtv/id162_MSKSG-PVR-1--Bober/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NTU3ODQ4NiwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY0OTczNjg2LCJzZXNzaW9uX2lkIjoiYWNkZDczYWJkN2U4N2ViZDZjMWUyYTQyOTU4YmRkMTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.iVfm975Yg98PGxdSRdffs_PngTB_fXaemZM_p66oTDE
-#EXTINF:-1 tvg-id="drive" tvg-name="ДРАЙВ" tvg-logo="https://iptvx.one/picons/drive.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ДРАЙВ
+#EXTINF:-1 tvg-id="drive" tvg-name="ДРАЙВ" tvg-logo="https://iptvx.one/picons/drive.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ДРАЙВ (Torrent TV)
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://server-2.onlinetv-sochi.ru:8080/live/limeHD5_vip.php?id=87&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://127.0.0.1:6878/ace/getstream?id=2893ea38cf923c7efcfaf3eead798dd73b2cf2d0
 #EXTINF:-1 tvg-id="zagorodny" tvg-name="ЗАГОРОДНЫЙ" tvg-logo="http://epg.it999.ru/img2/2463.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ЗАГОРОДНЫЙ
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 https://stream-msk-03.ott.tricolor.tv:443/dtv/id155_MSKSG-PVR-1--Zagorod_TV/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NTU3ODQ4NiwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY0OTczNjg2LCJzZXNzaW9uX2lkIjoiYWNkZDczYWJkN2U4N2ViZDZjMWUyYTQyOTU4YmRkMTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.iVfm975Yg98PGxdSRdffs_PngTB_fXaemZM_p66oTDE
@@ -473,9 +473,9 @@ http://188.225.31.197/bpk-tv/000000289/tve/index.m3u8
 #EXTINF:-1 tvg-id="tonus-tv" tvg-name="УСАДЬБА" tvg-logo="https://iptvx.one/picons/usadba.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", УСАДЬБА
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://list.onlinetv-sochi.ru:8080/live/channel.php?id=74&token=Ym9yeW43ODpMYW5jZXIxNg==
-#EXTINF:-1 tvg-id="kuxnia-tv" tvg-name="КУХНЯ ТВ" tvg-logo="https://iptvx.one/picons/kuxnia-tv.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", КУХНЯ ТВ
+#EXTINF:-1 tvg-id="kuxnia-tv" tvg-name="КУХНЯ ТВ" tvg-logo="https://iptvx.one/picons/kuxnia-tv.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", КУХНЯ ТВ HD (Torrent TV)
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://server-2.onlinetv-sochi.ru:8080/live/limeHD5_vip.php?id=106&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://127.0.0.1:6878/ace/getstream?id=a90a4172c6e146c87a92e32b5a8ed6af12ba0237
 #EXTINF:-1 tvg-id="eda-hd" tvg-name="FOODTIME" tvg-logo="https://karnei4.github.io/convert/index_files/food-network.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", FOOD TIME HD
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=HD_Eda.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NTU3ODQ4NiwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY0OTczNjg2LCJzZXNzaW9uX2lkIjoiYWNkZDczYWJkN2U4N2ViZDZjMWUyYTQyOTU4YmRkMTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.iVfm975Yg98PGxdSRdffs_PngTB_fXaemZM_p66oTDE
