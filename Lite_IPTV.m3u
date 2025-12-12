@@ -1983,7 +1983,7 @@ https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="kinoxit" tvg-name="КИНОХИТ" tvg-logo="https://iptvx.one/picons/kinoxit.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНОХИТ
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://list.onlinetv-sochi.ru:8080/live/arx.php?id=kinohit&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://158.101.222.193:88/georgia_play.php?id=kinohit
 #EXTINF:-1 tvg-id="6627" tvg-name="Now 80's" tvg-logo="https://w7.pngwing.com/pngs/675/222/png-transparent-now-80-s-text-ad-now-that-s-what-i-call-the-80s-now-that-s-what-i-call-music-compilation-album-now-that-s-what-i-call-80s-party-flyer-party-80-s-miscellaneous-album-text.png" group-title="🎵 МУЗЫКА", Now 80's
 #EXTGRP:🎵 МУЗЫКА
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
@@ -1998,7 +1998,7 @@ http://server-2.onlinetv-sochi.ru:8080/live/limeHD_vip.php?id=9213&token=Ym9yeW4
 http://127.0.0.1:6878/ace/getstream?id=77c4a879752e4a24e2e39bfcd58458eee24b58a0&.mp4
 #EXTINF:-1 tvg-id="muzhskoe-kino" tvg-name="МУЖСКОЕ КИНО" tvg-logo="https://iptvx.one/picons/muzhskoe-kino.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", МУЖСКОЕ КИНО
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://list.onlinetv-sochi.ru:8080/live/arx.php?id=muzhskoe_kino_hd&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://158.101.222.193:88/georgia_play.php?id=interesnoetv
 #EXTINF:-1 tvg-name="Зал 17 (Боевики HD)" tvg-id="zal-17-tricolor" tvg-logo="https://epg.iptvx.one/picons/zal-17-tricolor.png" group-title="🎞️ КИНОЗАЛЫ", БОЕВИКИ HD
 #EXTGRP:🎞️ КИНОЗАЛЫ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kinopokaz_2.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NjE4MzA2NCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY1NTc4MjY0LCJzZXNzaW9uX2lkIjoiODU4YmZkODBlMmI5MzM0ZTliMGRjODM1NmM0YTgwNmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.w1SJ5iUnW17JxE582xL4Y5oYf8PZgSYPjyI1sbAHeoY
