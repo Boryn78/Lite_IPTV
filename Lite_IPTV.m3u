@@ -151,7 +151,7 @@ http://188.225.31.197/bpk-tv/000003910/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000003748/tve/index.m3u8
 #EXTINF:-1 tvg-id="tv1000-worldkino" tvg-name="VIASAT KINO WORLD" tvg-logo="https://iptvx.one/picons/tv1000-worldkino.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIASAT KINO WORLD FHD (Torrent TV)
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://127.0.0.1:6878/ace/getstream?id=f8d38c09a74612b9fabf0206cbd28bc11d6bc27d&.mp4
+http://127.0.0.1:6878/ace/getstream?id=f8d38c09a74612b9fabf0206cbd28bc11d6bc27d
 #EXTINF:-1 tvg-id="start-air" tvg-name="START AIR" tvg-logo="https://iptvx.one/picons/start-air.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", START AIR
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://188.225.31.197/bpk-tv/000007815/tve/index.m3u8
@@ -164,7 +164,7 @@ http://188.225.31.197/bpk-tv/000008136/tve/index.m3u8
 #EXTINF:-1 tvg-id="sapfir" tvg-name="САПФИР HD" tvg-logo="https://iptvx.one/picons/sapfir.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", САПФИР
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://188.225.31.197/bpk-tv/000008135/tve/index.m3u8
-#EXTINF:-1 tvg-id="feniks-plus-kino" tvg-name="Феникс+Кино" tvg-logo="https://iptvx.one/picons/feniks-plus-kino.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", ФЕНИКС + КИНО HF (Torrent TV)
+#EXTINF:-1 tvg-id="feniks-plus-kino" tvg-name="Феникс+Кино" tvg-logo="https://iptvx.one/picons/feniks-plus-kino.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", ФЕНИКС + КИНО HD (Torrent TV)
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://127.0.0.1:6878/ace/getstream?id=505d4c6259acfea0ee5d9b1f26f7badd447f69f6
 #EXTINF:-1 tvg-id="sony-turbo" tvg-name=".BLACK" tvg-logo="https://iptvx.one/picons/sony-turbo.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", ⬤ BLACK
