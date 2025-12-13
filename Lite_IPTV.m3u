@@ -215,15 +215,12 @@ https://stream-msk-01.ott.tricolor.tv:443/dtv/id518_MSKSG-PVR-1--NST/03/plst.m3u
 #EXTINF:-1 tvg-name="CINEMA" tvg-logo="https://epg.iptvx.one/picons/cinema-ru.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", CINEMA
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 https://stream-msk-06.ott.tricolor.tv/dtv/id423_MSKSG-PVR-1--Cinema/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NjE4MzA2NCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY1NTc4MjY0LCJzZXNzaW9uX2lkIjoiODU4YmZkODBlMmI5MzM0ZTliMGRjODM1NmM0YTgwNmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.w1SJ5iUnW17JxE582xL4Y5oYf8PZgSYPjyI1sbAHeoY
-#EXTINF:-1 tvg-id="kinopremiera-hd" tvg-name="КИНОПРЕМЬЕРА" tvg-logo="https://iptvx.one/picons/kinopremiera.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНОПРЕМЬЕРА
-#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://146.120.14.239:3001/play/a0ds
-#EXTINF:-1 tvg-id="kinopremiera-hd" tvg-name="КИНОПРЕМЬЕРА" tvg-logo="https://iptvx.one/picons/kinopremiera.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНОПРЕМЬЕРА FHD (Torrent TV)
+#EXTINF:-1 tvg-id="kinopremiera-hd" tvg-name="КИНОПРЕМЬЕРА" tvg-logo="https://iptvx.one/picons/kinopremiera.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНОПРЕМЬЕРА HD (Torrent TV)
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://127.0.0.1:6878/ace/getstream?id=94ed8b55a5e30f9ce93b018c80fba3c0a29a3ce6&.mp4
-#EXTINF:-1 tvg-id="kinosvidanie" tvg-name="КИНОСВИДАНИЕ" tvg-logo="https://iptvx.one/picons/kinosvidanie.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНОСВИДАНИЕ
+#EXTINF:-1 tvg-id="kinosvidanie" tvg-name="КИНОСВИДАНИЕ" tvg-logo="https://iptvx.one/picons/kinosvidanie.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНОСВИДАНИЕ HD (Torrent TV)
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://list.onlinetv-sochi.ru:8080/live/arx.php?id=kinoklub&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://127.0.0.1:6878/ace/getstream?id=f5302ed56cf6af61378b2527524398558d9cddde&.mp4
 #EXTINF:-1 tvg-name="Для каналов (Torrent TV) запустите Ace Serve" tvg-logo="https://dtv.plus/wp-content/uploads/2023/06/ace-stream-engine-for-android-tv.webp" group-title="🎞️ КИНОЗАЛЫ", Для каналов (Torrent TV) запустите Ace Serve
 #EXTGRP:🎞️ КИНОЗАЛЫ
 https://drive.google.com/uc?export=download&id=1GDaCvBteVvxKR19l2FXP9cw1fHj2nHE
@@ -272,9 +269,6 @@ http://127.0.0.1:6878/ace/getstream?id=d47c7365f67b9b8169404e1c4d86fd698307fa15
 #EXTINF:-1 tvg-id="romantichnoe-hd" tvg-name="РОМАНТИЧНОЕ HD" tvg-logo="https://iptvx.one/picons/romantichnoe-hd.png" group-title="🎞️ КИНОЗАЛЫ", РОМАНТИЧНОЕ HD
 #EXTGRP:🎞️ КИНОЗАЛЫ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Romantichnoe.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NjE4MzA2NCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY1NTc4MjY0LCJzZXNzaW9uX2lkIjoiODU4YmZkODBlMmI5MzM0ZTliMGRjODM1NmM0YTgwNmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.w1SJ5iUnW17JxE582xL4Y5oYf8PZgSYPjyI1sbAHeoY
-#EXTINF:-1 tvg-id="kinokomedia" tvg-name="КИНОКОМЕДИЯ" tvg-logo="https://iptvx.one/picons/kinokomedia.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНОКОМЕДИЯ
-#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://poh1.admuspeh.my/8042/video.m3u8?token=w8AT5yczJA2WKHY3
 #EXTINF:-1 tvg-id="kinokomedia" tvg-name="КИНОКОМЕДИЯ" tvg-logo="https://iptvx.one/picons/kinokomedia.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНОКОМЕДИЯ FHD (Torrent TV)
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://127.0.0.1:6878/ace/getstream?id=dfb83e3ff3c570ba7346641c827d89bd472a18a2
@@ -1903,18 +1897,18 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
 #EXTINF:-1 tvg-id="soyuz" tvg-name="СОЮЗ" tvg-logo="http://profi-rus.narod.ru/iptv/logo/1s.png" group-title="👀 РАЗНОЕ", СОЮЗ
 #EXTGRP:👀 РАЗНОЕ
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
-#EXTINF:-1 tvg-id="kinosemiya" tvg-name="КИНОСЕМЬЯ" tvg-logo="https://iptvx.one/picons/kinosemia.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНОСЕМЬЯ
+#EXTINF:-1 tvg-id="kinosemiya" tvg-name="КИНОСЕМЬЯ" tvg-logo="https://iptvx.one/picons/kinosemia.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНОСЕМЬЯ HD (Torrent TV)
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://list.onlinetv-sochi.ru:8080/live/arx.php?id=hd_kino&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://127.0.0.1:6878/ace/getstream?id=e177586ae336f410e95e784348e4a1f7a82e0952&.mp4
 #EXTINF:-1 tvg-name="Зал 27 (Улицы разбитых фонарей)" tvg-id="zal-27-tricolor" tvg-logo="https://epg.iptvx.one/picons/zal-27-tricolor.png" group-title="🎞️ КИНОЗАЛЫ", УЛИЦЫ РАЗБИТЫХ ФОНАРЕЙ
 #EXTGRP:🎞️ КИНОЗАЛЫ
 https://stream-msk-18.ott.tricolor.tv/dtv/id1015_MSKSG-PVR-1--Kinozal27_SD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NjE4MzA2NCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY1NTc4MjY0LCJzZXNzaW9uX2lkIjoiODU4YmZkODBlMmI5MzM0ZTliMGRjODM1NmM0YTgwNmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.w1SJ5iUnW17JxE582xL4Y5oYf8PZgSYPjyI1sbAHeoY
 #EXTINF:-1 tvg-name="" tvg-id="zal-05-tricolor" tvg-logo="https://filed12-21.my.mail.ru/pic?url=https%3A%2F%2Fcontent-16.foto.my.mail.ru%2Fmail%2Frk3afa%2F_musicplaylistcover%2Fi-13553.jpg&mw=&mh=&sig=348f6571f5f2384e18e7cadfd1aca44d" group-title="🎞️ КИНОЗАЛЫ", СЕМНАДЦАТЬ МГНОВЕНИЙ ВЕСНЫ
 #EXTGRP:🎞️ КИНОЗАЛЫ
 https://stream-msk-14.ott.tricolor.tv/dtv/id925_MSKSG-PVR-1--Kinozal_5/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NjE4MzA2NCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY1NTc4MjY0LCJzZXNzaW9uX2lkIjoiODU4YmZkODBlMmI5MzM0ZTliMGRjODM1NmM0YTgwNmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.w1SJ5iUnW17JxE582xL4Y5oYf8PZgSYPjyI1sbAHeoY
-#EXTINF:-1 tvg-id="nashe-novoe-kino" tvg-name="НАШЕ НОВОЕ КИНО" tvg-logo="https://iptvx.one/picons/nashe-novoe-kino.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", НАШЕ НОВОЕ КИНО
+#EXTINF:-1 tvg-id="nashe-novoe-kino" tvg-name="НАШЕ НОВОЕ КИНО" tvg-logo="https://iptvx.one/picons/nashe-novoe-kino.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", НАШЕ НОВОЕ КИНО HD (Torrent TV)
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-https://vod.splay.uz/live_splay/original/Nashe_novoe_kino/tracks-v1a1/mono.m3u8
+http://127.0.0.1:6878/ace/getstream?id=ae38625cca3cae6873509ba05b99aa1af5ec0f4e
 #EXTINF:-1 tvg-id="kinouzhas" tvg-name="КИНОУЖАС" tvg-logo="https://iptvx.one/picons/kinouzhas.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНОУЖАС
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://158.101.222.193:88/georgia_play.php?id=kinoujas
