@@ -269,7 +269,7 @@ http://127.0.0.1:6878/ace/getstream?id=d47c7365f67b9b8169404e1c4d86fd698307fa15
 #EXTINF:-1 tvg-id="romantichnoe-hd" tvg-name="РОМАНТИЧНОЕ HD" tvg-logo="https://iptvx.one/picons/romantichnoe-hd.png" group-title="🎞️ КИНОЗАЛЫ", РОМАНТИЧНОЕ HD
 #EXTGRP:🎞️ КИНОЗАЛЫ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Romantichnoe.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NjE4MzA2NCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY1NTc4MjY0LCJzZXNzaW9uX2lkIjoiODU4YmZkODBlMmI5MzM0ZTliMGRjODM1NmM0YTgwNmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.w1SJ5iUnW17JxE582xL4Y5oYf8PZgSYPjyI1sbAHeoY
-#EXTINF:-1 tvg-id="kinokomedia" tvg-name="КИНОКОМЕДИЯ" tvg-logo="https://iptvx.one/picons/kinokomedia.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНОКОМЕДИЯ FHD (Torrent TV)
+#EXTINF:-1 tvg-id="kinokomedia" tvg-name="КИНОКОМЕДИЯ" tvg-logo="https://iptvx.one/picons/kinokomedia.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНОКОМЕДИЯ HD (Torrent TV)
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://127.0.0.1:6878/ace/getstream?id=dfb83e3ff3c570ba7346641c827d89bd472a18a2
 #EXTINF:-1 tvg-id="kinoseria" tvg-name="КИНОСЕРИЯ" tvg-logo="https://iptvx.one/picons/kinoseria.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНОСЕРИЯ
