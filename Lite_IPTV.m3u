@@ -1899,7 +1899,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1 tvg-id="kinosemiya" tvg-name="КИНОСЕМЬЯ" tvg-logo="https://iptvx.one/picons/kinosemia.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНОСЕМЬЯ HD (Torrent TV)
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://127.0.0.1:6878/ace/getstream?id=e177586ae336f410e95e784348e4a1f7a82e0952&.mp4
+http://127.0.0.1:6878/ace/getstream?id=e177586ae336f410e95e784348e4a1f7a82e0952
 #EXTINF:-1 tvg-name="Зал 27 (Улицы разбитых фонарей)" tvg-id="zal-27-tricolor" tvg-logo="https://epg.iptvx.one/picons/zal-27-tricolor.png" group-title="🎞️ КИНОЗАЛЫ", УЛИЦЫ РАЗБИТЫХ ФОНАРЕЙ
 #EXTGRP:🎞️ КИНОЗАЛЫ
 https://stream-msk-18.ott.tricolor.tv/dtv/id1015_MSKSG-PVR-1--Kinozal27_SD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NjE4MzA2NCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY1NTc4MjY0LCJzZXNzaW9uX2lkIjoiODU4YmZkODBlMmI5MzM0ZTliMGRjODM1NmM0YTgwNmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.w1SJ5iUnW17JxE582xL4Y5oYf8PZgSYPjyI1sbAHeoY
