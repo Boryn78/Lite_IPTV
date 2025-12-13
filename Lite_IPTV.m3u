@@ -217,10 +217,10 @@ https://stream-msk-01.ott.tricolor.tv:443/dtv/id518_MSKSG-PVR-1--NST/03/plst.m3u
 https://stream-msk-06.ott.tricolor.tv/dtv/id423_MSKSG-PVR-1--Cinema/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NjE4MzA2NCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY1NTc4MjY0LCJzZXNzaW9uX2lkIjoiODU4YmZkODBlMmI5MzM0ZTliMGRjODM1NmM0YTgwNmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.w1SJ5iUnW17JxE582xL4Y5oYf8PZgSYPjyI1sbAHeoY
 #EXTINF:-1 tvg-id="kinopremiera-hd" tvg-name="КИНОПРЕМЬЕРА" tvg-logo="https://iptvx.one/picons/kinopremiera.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНОПРЕМЬЕРА HD (Torrent TV)
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://127.0.0.1:6878/ace/getstream?id=94ed8b55a5e30f9ce93b018c80fba3c0a29a3ce6&.mp4
+http://127.0.0.1:6878/ace/getstream?id=94ed8b55a5e30f9ce93b018c80fba3c0a29a3ce6
 #EXTINF:-1 tvg-id="kinosvidanie" tvg-name="КИНОСВИДАНИЕ" tvg-logo="https://iptvx.one/picons/kinosvidanie.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНОСВИДАНИЕ HD (Torrent TV)
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://127.0.0.1:6878/ace/getstream?id=f5302ed56cf6af61378b2527524398558d9cddde&.mp4
+http://127.0.0.1:6878/ace/getstream?id=f5302ed56cf6af61378b2527524398558d9cddde
 #EXTINF:-1 tvg-name="Для каналов (Torrent TV) запустите Ace Serve" tvg-logo="https://dtv.plus/wp-content/uploads/2023/06/ace-stream-engine-for-android-tv.webp" group-title="🎞️ КИНОЗАЛЫ", Для каналов (Torrent TV) запустите Ace Serve
 #EXTGRP:🎞️ КИНОЗАЛЫ
 https://drive.google.com/uc?export=download&id=1GDaCvBteVvxKR19l2FXP9cw1fHj2nHE
@@ -355,13 +355,13 @@ http://188.225.31.197/bpk-tv/000004157/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000005528/tve/index.m3u8
 #EXTINF:-1 tvg-id="viasat-nature-history-hd" tvg-name="VIJU+ PLANET" tvg-logo="https://fast.ntvplus.tv/files/image/79/84/42/-channel!k6r.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", VIJU+ PLANET FHD (Torrent TV)
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://127.0.0.1:6878/ace/getstream?id=0d59f0292f9e5569f4dff50ac4c3c89913b32a7a&.mp4
+http://127.0.0.1:6878/ace/getstream?id=0d59f0292f9e5569f4dff50ac4c3c89913b32a7a
 #EXTINF:-1 tvg-id="dialogi-o-rybalke" tvg-name="ДИАЛОГИ О РЫБАЛКЕ" tvg-logo="https://karnei4.github.io/convert/index_files/dialogi-o-rybalke.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ДИАЛОГИ О РЫБАЛКЕ
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://188.225.31.197/bpk-tv/000003174/tve/index.m3u8
 #EXTINF:-1 tvg-id="dialogi-o-rybalke" tvg-name="ДИАЛОГИ О РЫБАЛКЕ" tvg-logo="https://karnei4.github.io/convert/index_files/dialogi-o-rybalke.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ДИАЛОГИ О РЫБАЛКЕ FHD (Torrent TV)
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://127.0.0.1:6878/ace/getstream?id=8b0600c72af71a12e844135c93c759ce1eb3dfa0&.mp4
+http://127.0.0.1:6878/ace/getstream?id=8b0600c72af71a12e844135c93c759ce1eb3dfa0
 #EXTINF:-1 tvg-id="dikaya-rybalka-hd" tvg-name="ДИКАЯ РЫБАЛКА HD" tvg-logo="http://epg.it999.ru/img2/2484.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ДИКАЯ РЫБАЛКА HD (Torrent TV)
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://127.0.0.1:6878/ace/getstream?id=b85a8f5825dc7fca3e8046af445bb776541b8bd0
@@ -400,10 +400,10 @@ http://188.225.31.197/bpk-tv/000001496/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000001000/tve/index.m3u8
 #EXTINF:-1 tvg-id="h2-hd" tvg-name="H2" tvg-logo="https://karnei4.github.io/convert/index_files/h2.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", HISTORY 2 FHD (Torrent TV)
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://127.0.0.1:6878/ace/getstream?id=88e804faf482b3caa0a680c931bdd1578c4bfbee&.mp4
+http://127.0.0.1:6878/ace/getstream?id=88e804faf482b3caa0a680c931bdd1578c4bfbee
 #EXTINF:-1 tvg-id="HDL" tvg-name="HDL" tvg-logo="https://iptvx.one/picons/hdl.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ТОЧКА.РФ FHD (Torrent TV)
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://127.0.0.1:6878/ace/getstream?id=74a1634a8fe44e5058c865d4de63cde90b14f107&.mp4
+http://127.0.0.1:6878/ace/getstream?id=74a1634a8fe44e5058c865d4de63cde90b14f107
 #EXTINF:-1 tvg-id="sovsek" tvg-name="СОВЕРШЕННО СЕКРЕТНО" tvg-logo="http://epg.it999.ru/img2/275.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", СОВЕРШЕННО СЕКРЕТНО
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 https://stream-msk-03.ott.tricolor.tv:443/dtv/id698_MSKSG-PVR-1--Top_secret/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NjE4MzA2NCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY1NTc4MjY0LCJzZXNzaW9uX2lkIjoiODU4YmZkODBlMmI5MzM0ZTliMGRjODM1NmM0YTgwNmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.w1SJ5iUnW17JxE582xL4Y5oYf8PZgSYPjyI1sbAHeoY
@@ -544,7 +544,7 @@ https://drive.google.com/uc?export=download&id=1GDaCvBteVvxKR19l2FXP9cw1fHj2nHE
 https://cdngw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=match.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NjE4MzA2NCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY1NTc4MjY0LCJzZXNzaW9uX2lkIjoiODU4YmZkODBlMmI5MzM0ZTliMGRjODM1NmM0YTgwNmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.w1SJ5iUnW17JxE582xL4Y5oYf8PZgSYPjyI1sbAHeoY
 #EXTINF:-1 tvg-id="match-tv" tvg-name="МАТЧ! ТВ" tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="🏅 СПОРТ", МАТЧ! FHD 50 (Torrent TV)
 #EXTGRP:🏅 СПОРТ
-http://127.0.0.1:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2&.mp4
+http://127.0.0.1:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
 #EXTINF:-1 tvg-id="match-football1" tvg-name="МАТЧ! ФУТБОЛ 1" tvg-logo="https://iptvx.one/picons/match-football1.png" group-title="🏅 СПОРТ", МАТЧ! ФУТБОЛ 1
 #EXTGRP:🏅 СПОРТ
 http://server-2.onlinetv-sochi.ru:8080/live/bol_tv.php?id=1nvenc/NTVplusfut1HD/71/mobile1&token=VmlwaXBUdjpWaXBpcFR2Nzc=|user-agent=VipipTv
@@ -598,7 +598,7 @@ http://127.0.0.1:6878/ace/getstream?id=106c8656fca0ca91a696110467788d202d7111af
 http://87.120.142.11:18000/Match!
 #EXTINF:-1 tvg-id="match-boets" tvg-name="Матч! Боец" tvg-logo="https://karnei4.github.io/convert/match_boetc.png" group-title="🏅 СПОРТ", МАТЧ! БОЕЦ FHD 50 (Torrent TV)
 #EXTGRP:🏅 СПОРТ
-http://127.0.0.1:6878/ace/getstream?id=822654b2c0db24d1de149cb21fdd44a3b968fbfa&.mp4
+http://127.0.0.1:6878/ace/getstream?id=822654b2c0db24d1de149cb21fdd44a3b968fbfa
 #EXTINF:-1 tvg-id="viasat-sport" tvg-name="VIJU+ SPORT" tvg-logo="https://iptvx.one/picons/viasat-sport.png" group-title="🏅 СПОРТ", VIJU+ SPORT
 #EXTGRP:🏅 СПОРТ
 http://188.225.31.197/bpk-tv/000000135/tve/index.m3u8
@@ -607,13 +607,13 @@ http://188.225.31.197/bpk-tv/000000135/tve/index.m3u8
 http://list.onlinetv-sochi.ru:8080/live/arx.php?id=khl&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-name="KHL" tvg-logo="https://iptvx.one/picons/kxl.png" group-title="🏅 СПОРТ", KHL FHD (Torrent TV)
 #EXTGRP:🏅 СПОРТ
-http://127.0.0.1:6878/ace/getstream?id=aa6c193b9de1e6b6277e3075299fdeea925e2dc0&.mp4
+http://127.0.0.1:6878/ace/getstream?id=aa6c193b9de1e6b6277e3075299fdeea925e2dc0
 #EXTINF:-1 tvg-name="KHL Prime" tvg-logo="https://beeline.kz/binaries/content/gallery/about/beetv_logos/last/711.png" group-title="🏅 СПОРТ", KHL PRIME
 #EXTGRP:🏅 СПОРТ
 http://tv.streams.baikal-telecom.net:8080/KHL_HD/mpegts
 #EXTINF:-1 tvg-name="KHL Prime" tvg-logo="https://beeline.kz/binaries/content/gallery/about/beetv_logos/last/711.png" group-title="🏅 СПОРТ", KHL PRIME FHD (Torrent TV)
 #EXTGRP:🏅 СПОРТ
-http://127.0.0.1:6878/ace/getstream?id=dcda9de85f7d662c5c3c2efd74eca0fb5c6aab3b&.mp4
+http://127.0.0.1:6878/ace/getstream?id=dcda9de85f7d662c5c3c2efd74eca0fb5c6aab3b
 #EXTINF:-1 tvg-name="Для каналов (Torrent TV) запустите Ace Serve" tvg-logo="https://dtv.plus/wp-content/uploads/2023/06/ace-stream-engine-for-android-tv.webp" group-title="📡 ULTRA HD", Для каналов (Torrent TV) запустите Ace Serve
 #EXTGRP:📡 ULTRA HD
 https://drive.google.com/uc?export=download&id=1GDaCvBteVvxKR19l2FXP9cw1fHj2nHE
@@ -632,7 +632,7 @@ https://nhl-firetv.amagi.tv/playlist.m3u8
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Futbolnyy_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NjE4MzA2NCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY1NTc4MjY0LCJzZXNzaW9uX2lkIjoiODU4YmZkODBlMmI5MzM0ZTliMGRjODM1NmM0YTgwNmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.w1SJ5iUnW17JxE582xL4Y5oYf8PZgSYPjyI1sbAHeoY
 #EXTINF:-1 tvg-id="football-ru" tvg-name="Футбол" tvg-logo="http://peers.tv/data/illustrations/ills/2020/03/25/197391/197391255.png" group-title="🏅 СПОРТ", ФУТБОЛ HD (Torrent TV)
 #EXTGRP:🏅 СПОРТ
-http://127.0.0.1:6878/ace/getstream?id=fce354f24fe26ca527e2c38b14eb7b0c81f756dd&.mp4
+http://127.0.0.1:6878/ace/getstream?id=fce354f24fe26ca527e2c38b14eb7b0c81f756dd
 #EXTINF:-1 tvg-id="start" tvg-name="СТАРТ HD" tvg-logo="https://iptvx.one/picons/start.png" group-title="🏅 СПОРТ", СТАРТ HD
 #EXTGRP:🏅 СПОРТ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Start.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NjE4MzA2NCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY1NTc4MjY0LCJzZXNzaW9uX2lkIjoiODU4YmZkODBlMmI5MzM0ZTliMGRjODM1NmM0YTgwNmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.w1SJ5iUnW17JxE582xL4Y5oYf8PZgSYPjyI1sbAHeoY
@@ -644,19 +644,19 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Start_triump
 http://188.225.31.197/bpk-tv/000002478/tve/index.m3u8
 #EXTINF:-1 tvg-id="eurosport1" tvg-name="EUROSPORT 1" tvg-logo="https://karnei4.github.io/convert/index_files/eurosport1_hd.png" group-title="🏅 СПОРТ", EUROSPORT 1 FHD 50 (Torrent TV)
 #EXTGRP:🏅 СПОРТ
-http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62&.mp4
+http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
 #EXTINF:-1 tvg-id="eurosport2" tvg-name="EUROSPORT 2" tvg-logo="https://karnei4.github.io/convert/index_files/eurosport2_hd.png" group-title="🏅 СПОРТ", EUROSPORT 2 HD
 #EXTGRP:🏅 СПОРТ
 http://188.225.31.197/bpk-tv/000002479/tve/index.m3u8
 #EXTINF:-1 tvg-id="eurosport2" tvg-name="EUROSPORT 2" tvg-logo="https://karnei4.github.io/convert/index_files/eurosport2_hd.png" group-title="🏅 СПОРТ", EUROSPORT 2 FHD 50 (Torrent TV)
 #EXTGRP:🏅 СПОРТ
-http://127.0.0.1:6878/ace/getstream?id=6176281b9c46a5621a0e88524f8dc621f173b8e0&.mp4
+http://127.0.0.1:6878/ace/getstream?id=6176281b9c46a5621a0e88524f8dc621f173b8e0
 #EXTINF:-1 tvg-id="mir-basketbola" tvg-name="МИР БАСКЕТБОЛА" tvg-logo="https://iptvx.one/picons/mir-basketbola.png" group-title="🏅 СПОРТ", МИР БАСКЕТБОЛА (Torrent TV)
 #EXTGRP:🏅 СПОРТ
-http://127.0.0.1:6878/ace/getstream?id=c4acde347445b0a07a9e8695b4254bee2b2df570&.mp4
+http://127.0.0.1:6878/ace/getstream?id=c4acde347445b0a07a9e8695b4254bee2b2df570
 #EXTINF:-1 tvg-id="nba-tv" tvg-name="NBA TV" tvg-logo="https://karnei4.github.io/convert/index_files/nba-tv.png" group-title="🏅 СПОРТ", NBA FHD (Torrent TV)
 #EXTGRP:🏅 СПОРТ
-http://127.0.0.1:6878/ace/getstream?infohash=42832fbf9a1d3bdcca043e09951d6769fbbe04e7&.mp4
+http://127.0.0.1:6878/ace/getstream?infohash=42832fbf9a1d3bdcca043e09951d6769fbbe04e7
 #EXTINF:-1 tvg-id="voleybol" tvg-name="Волейбол" tvg-logo="https://epg.iptvx.one/picons/voleybol.png" group-title="🏅 СПОРТ", ВОЛЕЙБОЛ
 #EXTGRP:🏅 СПОРТ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Volleyball_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NjE4MzA2NCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY1NTc4MjY0LCJzZXNzaW9uX2lkIjoiODU4YmZkODBlMmI5MzM0ZTliMGRjODM1NmM0YTgwNmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.w1SJ5iUnW17JxE582xL4Y5oYf8PZgSYPjyI1sbAHeoY
@@ -668,28 +668,28 @@ http://188.225.31.197/bpk-tv/000007802/tve/index.m3u8
 http://146.120.14.239:3001/play/a08c
 #EXTINF:-1 tvg-id="box-tv" tvg-name="БОКС ТВ" tvg-logo="https://karnei4.github.io/convert/index_files/box-tv.png" group-title="🏅 СПОРТ", БОКС ТВ FHD (Torrent TV)
 #EXTGRP:🏅 СПОРТ
-http://127.0.0.1:6878/ace/getstream?id=1acaf203502983cd2993c6835bf0cbde8d016c3d&.mp4
+http://127.0.0.1:6878/ace/getstream?id=1acaf203502983cd2993c6835bf0cbde8d016c3d
 #EXTINF:-1 tvg-id="MMA-TV" tvg-name="MMA-TV" tvg-logo="https://ntvplus.tv/files/image/88/57/77/7z5.png" group-title="🏅 СПОРТ", MMA-TV.COM (Torrent TV)
 #EXTGRP:🏅 СПОРТ
-http://127.0.0.1:6878/ace/getstream?infohash=f562d8a45a5475599fbd2ad18886b0cc847f75e4&.mp4
+http://127.0.0.1:6878/ace/getstream?infohash=f562d8a45a5475599fbd2ad18886b0cc847f75e4
 #EXTINF:-1 tvg-id="konny-mir" tvg-name="КОННЫЙ МИР" tvg-logo="https://iptvx.one/picons/konny-mir.png" group-title="🏅 СПОРТ", КОННЫЙ МИР HD (Torrent TV)
 #EXTGRP:🏅 СПОРТ
-http://127.0.0.1:6878/ace/getstream?id=96951e5de62a3e7095a1ed8a191817c8935e7017&.mp4
+http://127.0.0.1:6878/ace/getstream?id=96951e5de62a3e7095a1ed8a191817c8935e7017
 #EXTINF:-1 tvg-id="sportivny" tvg-name="ТВ СПОРТ" tvg-logo="https://iptvx.one/picons/sportivny.png" group-title="🏅 СПОРТ", ТВ СПОРТ
 #EXTGRP:🏅 СПОРТ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Sportivnii.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NjE4MzA2NCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY1NTc4MjY0LCJzZXNzaW9uX2lkIjoiODU4YmZkODBlMmI5MzM0ZTliMGRjODM1NmM0YTgwNmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.w1SJ5iUnW17JxE582xL4Y5oYf8PZgSYPjyI1sbAHeoY
 #EXTINF:-1 tvg-id="kino-ultra-hd" tvg-name="КИНО UHD" tvg-logo="https://karnei4.github.io/convert/kino_uhd.png" group-title="📡 ULTRA HD", КИНО UHD (Torrent TV)
 #EXTGRP:📡 ULTRA HD
-http://127.0.0.1:6878/ace/getstream?id=038b448c810cad19a2a9e615d94696a23141e379&.mp4
+http://127.0.0.1:6878/ace/getstream?id=038b448c810cad19a2a9e615d94696a23141e379
 #EXTINF:-1 tvg-id="bcu-premiere-4k" tvg-name="BCU PREMIERE ULTRA 4K" tvg-logo="https://epg.openboxfan.com/picon/bcupremiereultra4k.png" group-title="📡 ULTRA HD", BCU PREMIERE ULTRA 4K (Torrent TV)
 #EXTGRP:📡 ULTRA HD
-http://127.0.0.1:6878/ace/getstream?id=30b1dba65edffa2c0c8ade75257508b00d8a61ea&.mp4
+http://127.0.0.1:6878/ace/getstream?id=30b1dba65edffa2c0c8ade75257508b00d8a61ea
 #EXTINF:-1 tvg-id="bcu-ultra4k" tvg-name="BCU Ultra 4K" tvg-logo="https://karnei4.github.io/convert/img/3906.png" group-title="📡 ULTRA HD", BCU ULTRA 4K (Torrent tV)
 #EXTGRP:📡 ULTRA HD
-http://127.0.0.1:6878/ace/getstream?id=6c82a952053419ef358907fc2fc52151626be0b7&.mp4
+http://127.0.0.1:6878/ace/getstream?id=6c82a952053419ef358907fc2fc52151626be0b7
 #EXTINF:-1 tvg-id="bcu-kids-4k" tvg-name="BCU KIDS 4K" tvg-logo="https://avatars.mds.yandex.net/i?id=48cf01db4ddd6a46f21726699c30744901d73a3797b7bf7d-12985844-images-thumbs&n=13" group-title="📡 ULTRA HD", BCU KIDS 4K (Torrent TV)
 #EXTGRP:📡 ULTRA HD
-http://127.0.0.1:6878/ace/getstream?id=c3aa52aab6bd48c3b79189410fbf716f2e4dd293&.mp4
+http://127.0.0.1:6878/ace/getstream?id=c3aa52aab6bd48c3b79189410fbf716f2e4dd293
 #EXTINF:-1 tvg-id="russian-extreme-uhd" tvg-name="Russian Extreme UHD" tvg-logo="https://www.msk-ix.ru/images/1423921.png" group-title="📡 ULTRA HD", RUSSIAN EXTREME UHD (Torrent TV)
 #EXTGRP:📡 ULTRA HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
@@ -771,7 +771,7 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Russian_Musi
 https://stream-msk-16.ott.tricolor.tv/dtv/id901_MSKSG-PVR-1--Music_Box_GOLD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NjE4MzA2NCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY1NTc4MjY0LCJzZXNzaW9uX2lkIjoiODU4YmZkODBlMmI5MzM0ZTliMGRjODM1NmM0YTgwNmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.w1SJ5iUnW17JxE582xL4Y5oYf8PZgSYPjyI1sbAHeoY
 #EXTINF:-1 tvg-name="1HD Music" tvg-logo="http://media.24h.tv/img/ch/22/2a/222ae87e085a746f5bb0c28c3ebd71a4.png" group-title="🎵 МУЗЫКА", 1HD MUSIC TELEVISION HD (Torrent TV)
 #EXTGRP:🎵 МУЗЫКА
-http://127.0.0.1:6878/ace/getstream?id=29dc5b990bbcf66b7466a7a7a13df3bf7e29c30a&.mp4
+http://127.0.0.1:6878/ace/getstream?id=29dc5b990bbcf66b7466a7a7a13df3bf7e29c30a
 #EXTINF:-1 tvg-name="СТРАНА FM" tvg-logo="https://iptvx.one/picons/radio-strana-fm-tv.png" group-title="🎵 МУЗЫКА", СТРАНА FM
 #EXTGRP:🎵 МУЗЫКА
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
@@ -795,7 +795,7 @@ https://stream-msk-01.ott.tricolor.tv/dtv/id133_MSKSG-PVR-1--Eur_Plus/03/plst.m3
 http://streamer.rtcommufa.ru:1935/ptica/ptica1/chunklist.m3u8
 #EXTINF:-1 tvg-name="Ля-минор" tvg-logo="https://iptvx.one/picons/la-minor.png" group-title="🎵 МУЗЫКА", ЛЯ-МИНОР ТВ (Torrent TV)
 #EXTGRP:🎵 МУЗЫКА
-http://127.0.0.1:6878/ace/getstream?id=e72eb5bd621666fdcb1cf7689ce9a1f66fe20c22&.mp4
+http://127.0.0.1:6878/ace/getstream?id=e72eb5bd621666fdcb1cf7689ce9a1f66fe20c22
 #EXTINF:-1 tvg-name="ЖАРА" tvg-logo="http://media.24h.tv/img/ch/53/62/5362bc465209770ea0eb3ac3c4eccb3c.png" group-title="🎵 МУЗЫКА", ЖАРА
 #EXTGRP:🎵 МУЗЫКА
 https://stream-msk-12.ott.tricolor.tv:443/dtv/id389_MSKSG-PVR-1--Zhara/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NjE4MzA2NCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY1NTc4MjY0LCJzZXNzaW9uX2lkIjoiODU4YmZkODBlMmI5MzM0ZTliMGRjODM1NmM0YTgwNmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.w1SJ5iUnW17JxE582xL4Y5oYf8PZgSYPjyI1sbAHeoY
@@ -810,7 +810,7 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Mezzo_Live_H
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Classic_Music_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NjE4MzA2NCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY1NTc4MjY0LCJzZXNzaW9uX2lkIjoiODU4YmZkODBlMmI5MzM0ZTliMGRjODM1NmM0YTgwNmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.w1SJ5iUnW17JxE582xL4Y5oYf8PZgSYPjyI1sbAHeoY
 #EXTINF:-1 tvg-name="ICONCERTS" tvg-logo="https://iptvx.one/picons/iconcerts.png" group-title="🎵 МУЗЫКА", ICONCERTS (Torrent TV)
 #EXTGRP:🎵 МУЗЫКА
-http://127.0.0.1:6878/ace/getstream?id=f0757d4131090cf4b0652e9a427c350c651e597a&.mp4
+http://127.0.0.1:6878/ace/getstream?id=f0757d4131090cf4b0652e9a427c350c651e597a
 #EXTINF:-1 tvg-id="pervy-mn1" tvg-name="ПЕРВЫЙ КАНАЛ (-1)" tvg-logo="http://i120.fastpic.org/big/2022/0731/5a/975757b7227dd15519c6a0e0d5f0065a.png" group-title="⌚ ЧАСОВЫЕ СДВИГИ", ПЕРВЫЙ КАНАЛ (-1)
 #EXTGRP:⌚ ЧАСОВЫЕ СДВИГИ
 https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R03_1TV_KLNG/variant.m3u8?version=2
@@ -1920,7 +1920,7 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=TipTop.m3u8&
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Detskiy_Mir.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NjE4MzA2NCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY1NTc4MjY0LCJzZXNzaW9uX2lkIjoiODU4YmZkODBlMmI5MzM0ZTliMGRjODM1NmM0YTgwNmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.w1SJ5iUnW17JxE582xL4Y5oYf8PZgSYPjyI1sbAHeoY
 #EXTINF:-1 tvg-id="СуперГерои" tvg-name="СУПЕРГЕРОИ" tvg-logo="http://epg.it999.ru/img/2239.png" group-title="🧸 ДЕТСКИЕ", СУПЕРГЕРОИ (Torrent TV)
 #EXTGRP:🧸 ДЕТСКИЕ
-http://127.0.0.1:6878/ace/getstream?id=42f4491e03e5730330457e7c49c55362bf2cbc7e&.mp4
+http://127.0.0.1:6878/ace/getstream?id=42f4491e03e5730330457e7c49c55362bf2cbc7e
 #EXTINF:-1 tvg-id="liova" tvg-name="Лёва HD" tvg-logo="https://epg.iptvx.one/picons/liova.png" group-title="🧸 ДЕТСКИЕ", ЛЁВА
 #EXTGRP:🧸 ДЕТСКИЕ
 http://list.onlinetv-sochi.ru:8080/live/arx.php?id=lyova&token=Ym9yeW43ODpMYW5jZXIxNg=
@@ -1935,10 +1935,10 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=V_gostyakh_u
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
 #EXTINF:-1 tvg-name="MTV LIVE HD" tvg-logo="https://iptvx.one/picons/mtv-live-hd.png" group-title="🎵 МУЗЫКА", MTV LIVE HD (Torrent TV)
 #EXTGRP:🎵 МУЗЫКА
-http://127.0.0.1:6878/ace/getstream?id=d8dde4a3b7964a19f144c5ac4c516933831ce782&.mp4
+http://127.0.0.1:6878/ace/getstream?id=d8dde4a3b7964a19f144c5ac4c516933831ce782
 #EXTINF:-1 tvg-name="MTV 90s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MTV_90s_2022.svg/640px-MTV_90s_2022.svg.png" group-title="🎵 МУЗЫКА", MTV 90s (Torrent TV)
 #EXTGRP:🎵 МУЗЫКА
-http://127.0.0.1:6878/ace/getstream?id=6de86153b53f8abcc16f56b479f26e79f7bf77bf&.mp4
+http://127.0.0.1:6878/ace/getstream?id=6de86153b53f8abcc16f56b479f26e79f7bf77bf
 #EXTINF:-1 tvg-name="VIVA Russia" tvg-logo="https://karnei4.github.io/convert/VIVA_RU_HD.png" group-title="🎵 МУЗЫКА", VIVA TV HD (Torrent TV)
 #EXTGRP:🎵 МУЗЫКА
 http://127.0.0.1:6878/ace/getstream?id=aaf3060a96b04f621643e031eb61137722981595
@@ -1989,7 +1989,7 @@ http://hls.tv.3angels.ru/stream/HQ.m3u8
 http://server-2.onlinetv-sochi.ru:8080/live/limeHD_vip.php?id=9213&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="v-gostiax-u-skazki" tvg-name="В ГОСТЯХ У СКАЗКИ" tvg-logo="https://iptvx.one/picons/v-gostiax-u-skazki.png" group-title="🧸 ДЕТСКИЕ", В ГОСТЯХ У СКАЗКИ FHD (Torrent TV)
 #EXTGRP:🧸 ДЕТСКИЕ
-http://127.0.0.1:6878/ace/getstream?id=77c4a879752e4a24e2e39bfcd58458eee24b58a0&.mp4
+http://127.0.0.1:6878/ace/getstream?id=77c4a879752e4a24e2e39bfcd58458eee24b58a0
 #EXTINF:-1 tvg-id="muzhskoe-kino" tvg-name="МУЖСКОЕ КИНО" tvg-logo="https://iptvx.one/picons/muzhskoe-kino.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", МУЖСКОЕ КИНО
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://158.101.222.193:88/georgia_play.php?id=interesnoetv
@@ -2055,7 +2055,7 @@ http://dmi3y-tv.ru/hls/blrus/CH_BELARUS5_INTHD.m3u8
 https://live3.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
 #EXTINF:-1 tvg-id="travel-channel" tvg-name="Travel Channel HD" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/TRAVELCHANNEL200.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", Travel Channel HD (Torrent TV)
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://127.0.0.1:6878/ace/getstream?id=48566a80593d54be5543583173fd520ce675d5b2&.mp4
+http://127.0.0.1:6878/ace/getstream?id=48566a80593d54be5543583173fd520ce675d5b2
 #EXTINF:-1 tvg-id="cgtn" tvg-name="CGTN" tvg-logo="http://epg.it999.ru/img/2268.png" group-title="👀 РАЗНОЕ", CGTN Русский
 #EXTGRP:👀 РАЗНОЕ
 https://stream-msk-12.ott.tricolor.tv:443/dtv/id656_MSKSG-PVR-1--CGTN_Rus/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NjE4MzA2NCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY1NTc4MjY0LCJzZXNzaW9uX2lkIjoiODU4YmZkODBlMmI5MzM0ZTliMGRjODM1NmM0YTgwNmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.w1SJ5iUnW17JxE582xL4Y5oYf8PZgSYPjyI1sbAHeoY
@@ -2137,55 +2137,55 @@ https://stream-msk-05.ott.tricolor.tv:443/dtv/id628_MSKSG-PVR-1--Channel_LIVE1/0
 http://188.225.31.197/bpk-tv/000000026/tve/index.m3u8
 #EXTINF:-1 tvg-id="fightbox-hd" tvg-name="FightBox HD" tvg-logo="https://iptvx.one/picons/fightbox-hd.png" group-title="🏅 СПОРТ", FIGHTBOX HD (Torrent TV)
 #EXTGRP:🏅 СПОРТ
-http://127.0.0.1:6878/ace/getstream?id=49b734a5a3365674480089264be00ae28fabb640&.mp4
+http://127.0.0.1:6878/ace/getstream?id=49b734a5a3365674480089264be00ae28fabb640
 #EXTINF:-1 tvg-id="ufc" tvg-name="UFC HD" tvg-logo="https://karnei4.github.io/convert/UFC_HD.png" group-title="🏅 СПОРТ", UFC HD (Torrent TV)
 #EXTGRP:🏅 СПОРТ
-http://127.0.0.1:6878/ace/getstream?id=d2374e2375a4275738e0dbed2f47d0114ad1cb64&.mp4
+http://127.0.0.1:6878/ace/getstream?id=d2374e2375a4275738e0dbed2f47d0114ad1cb64
 #EXTINF:-1 tvg-id="sky-sport-f1-de" tvg-name="Sky Sport F1 [DE]" tvg-logo="https://iptvx.one/picons/sky-sport-f1-de.png" group-title="🏅 СПОРТ", SKY SPORT F1 HD (Torrent TV)
 #EXTGRP:🏅 СПОРТ
-http://127.0.0.1:6878/ace/getstream?infohash=b0999d6facfbae2944b9c7bba442eeea9cd9d4b2&.mp4
+http://127.0.0.1:6878/ace/getstream?infohash=b0999d6facfbae2944b9c7bba442eeea9cd9d4b2
 #EXTINF:-1 tvg-name="DAZN Bar 1 HD" tvg-logo="https://iptvx.one/picons/daznbar1.png" group-title="🏅 СПОРТ", DAZN 1 BAR HD (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/manifest.m3u8?id=897e73c9d578848f596585314ecb9ae067c0e229
 #EXTINF:-1 tvg-name="DAZN Bar 2 HD" tvg-logo="https://iptvx.one/picons/daznbar2.png" group-title="🏅 СПОРТ", DAZN 2 BAR HD (Torrent TV)
 #EXTGRP:🏅 СПОРТ
-http://127.0.0.1:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865&.mp4
+http://127.0.0.1:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
 #EXTINF:-1 tvg-name="beIN Sports Haber [TR]" tvg-logo="https://iptvx.one/picons/bein-sports-haber-tr.png" group-title="🏅 СПОРТ", BEIN SPORTS HABER (Torrent TV)
 #EXTGRP:🏅 СПОРТ
-http://127.0.0.1:6878/ace/getstream?infohash=22d5b3999d11a4f1bad9da8fdaa9034935fb2706&.mp4
+http://127.0.0.1:6878/ace/getstream?infohash=22d5b3999d11a4f1bad9da8fdaa9034935fb2706
 #EXTINF:-1 tvg-id="bein-sport-1" tvg-name="beIN Sports 1" tvg-logo="https://iptvx.one/picons/bein-sport-1.png" group-title="🏅 СПОРТ", BEIN SPORTS HD 1 (Torrent TV)
 #EXTGRP:🏅 СПОРТ
-http://127.0.0.1:6878/ace/getstream?id=118416583faa3fb4f03800173429b6b844b43a52&.mp4
+http://127.0.0.1:6878/ace/getstream?id=118416583faa3fb4f03800173429b6b844b43a52
 #EXTINF:-1 tvg-id="bein-sport-3" tvg-name="beIN Sports 3" tvg-logo="https://iptvx.one/picons/bein-sport-3.png" group-title="🏅 СПОРТ", BEIN SPORTS HD 3 (Torrent TV)
 #EXTGRP:🏅 СПОРТ
-http://127.0.0.1:6878/ace/getstream?infohash=7fee896143ae89590d97793a0be7ad8ec6fa4552&.mp4
+http://127.0.0.1:6878/ace/getstream?infohash=7fee896143ae89590d97793a0be7ad8ec6fa4552
 #EXTINF:-1 tvg-id="bein-sport-4" tvg-name="beIN SPORTS 4" tvg-logo="https://iptvx.one/picons/bein-sport-4.png" group-title="🏅 СПОРТ", BEIN SPORTS HD 4 (Torrent TV)
 #EXTGRP:🏅 СПОРТ
-http://127.0.0.1:6878/ace/getstream?id=7683cd0cbacf55fa8b39c363219ffba1bc47cf9d&.mp4
+http://127.0.0.1:6878/ace/getstream?id=7683cd0cbacf55fa8b39c363219ffba1bc47cf9d
 #EXTINF:-1 tvg-id="bt-sport1" tvg-name="TNT Sport 1" tvg-logo="https://app.playlistbox.com/icon/aNGL5kdnv361goadAOZXVmPjYb7BWK4E.png" group-title="🏅 СПОРТ", TNT SPORT 1 (Torrent TV)
 #EXTGRP:🏅 СПОРТ
-http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b&.mp4
+http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 #EXTINF:-1 tvg-id="bt-sport2" tvg-name="TNT Sport 2" tvg-logo="https://app.playlistbox.com/icon/Wjm281v9VYqwzx9yXKxREnk3GBgNLKQX.png" group-title="🏅 СПОРТ", TNT SPORT 2 (Torrent TV)
 #EXTGRP:🏅 СПОРТ
-http://127.0.0.1:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801&.mp4
+http://127.0.0.1:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
 #EXTINF:-1 tvg-id="bt-sport3" tvg-name="TNT Sport 3" tvg-logo="https://app.playlistbox.com/icon/mrKve0kgRq96yxLG68oQjNld35WLBJ1w.png" group-title="🏅 СПОРТ", TNT SPORT 3 (Torrent TV)
 #EXTGRP:🏅 СПОРТ
-http://127.0.0.1:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033&.mp4
+http://127.0.0.1:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
 #EXTINF:-1 tvg-id="sky-sports-arena" tvg-name="Sky Sport Arena [IT]" tvg-logo="https://iptvx.one/picons/sky-sport-arena-it.png" group-title="🏅 СПОРТ", SKY SPORTS ARENA (Torrent TV)
 #EXTGRP:🏅 СПОРТ
-http://127.0.0.1:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c&.mp4
+http://127.0.0.1:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
 #EXTINF:-1 tvg-id="sky-sports-cricket" tvg-name="Sky Sports Cricket HD" tvg-logo="https://iptvx.one/picons/sky-sports-cricket.png" group-title="🏅 СПОРТ", SKY SPORTS CRICKET (Torrent TV)
 #EXTGRP:🏅 СПОРТ
-http://127.0.0.1:6878/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3ddd&.mp4
+http://127.0.0.1:6878/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3ddd
 #EXTINF:-1 tvg-id="sky-sports-football" tvg-name="Sky Sports Football HD" tvg-logo="https://iptvx.one/picons/sky-sports-football.png" group-title="🏅 СПОРТ", SKY SPORTS FOOTBALL (Torrent TV)
 #EXTGRP:🏅 СПОРТ
-http://127.0.0.1:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d&.mp4
+http://127.0.0.1:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
 #EXTINF:-1 tvg-id="sky-sports-maine" tvg-name="Sky Sports Main Event HD" tvg-logo="https://iptvx.one/picons/sky-sports-maine.png" group-title="🏅 СПОРТ", SKY SPORTS MAIN EVENT (Torrent TV)
 #EXTGRP:🏅 СПОРТ
-http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e&.mp4
+http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
 #EXTINF:-1 tvg-id="sky-sport-bl1" tvg-name="Sky Sport Bundesliga 1 HD" tvg-logo="https://iptvx.one/picons/sky-sport-bl1.png" group-title="🏅 СПОРТ", SKY SPORT BUNDESLIGA 1 HD (Torrent TV)
 #EXTGRP:🏅 СПОРТ
-http://127.0.0.1:6878/ace/getstream?id=38d8789a448dd0eaf99e0274b555974e4e8f3f3b&.mp4
+http://127.0.0.1:6878/ace/getstream?id=38d8789a448dd0eaf99e0274b555974e4e8f3f3b
 #EXTINF:-1 tvg-id="bolshoj-efir" tvg-name="Большой эфир" tvg-logo="https://iptvx.one/picons/bolshoj-efir.png" group-title="👀 РАЗНОЕ", Большой эфир
 #EXTGRP:👀 РАЗНОЕ
 https://stream-msk-10.ott.tricolor.tv:443/dtv/id621_MSKSG-PVR-1--ChannelLIVE/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NjE4MzA2NCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY1NTc4MjY0LCJzZXNzaW9uX2lkIjoiODU4YmZkODBlMmI5MzM0ZTliMGRjODM1NmM0YTgwNmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.w1SJ5iUnW17JxE582xL4Y5oYf8PZgSYPjyI1sbAHeoY
@@ -2277,16 +2277,16 @@ https://liveradio.utrk.kg/kyrgyzradio
 https://liveradio.utrk.kg/1000kiyal
 #EXTINF:-1 tvg-id="canal-pl-sport-1" tvg-name="CANAL+ Sport HD [PL]" tvg-logo="https://iptvx.one/picons/canal-pl-sport.png" group-title="🏅 СПОРТ", CANAL+ SPORT 1 HD (Torrent TV)
 #EXTGRP:🏅 СПОРТ
-http://127.0.0.1:6878/ace/getstream?id=cc7b8c39f70aa342248d02c8ab55bafdb4116ed7&.mp4
+http://127.0.0.1:6878/ace/getstream?id=cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
 #EXTINF:-1 tvg-id="canal-pl-sport-2" tvg-name="CANAL+ Sport 2 HD [PL]" tvg-logo="https://iptvx.one/picons/canal-pl-sport-2.png" group-title="🏅 СПОРТ", CANAL+ SPORT 2 HD (Torrent TV)
 #EXTGRP:🏅 СПОРТ
-http://127.0.0.1:6878/ace/getstream?id=6390b1ab967a25777ea2dde1d41b7400cc0601d3&.mp4
+http://127.0.0.1:6878/ace/getstream?id=6390b1ab967a25777ea2dde1d41b7400cc0601d3
 #EXTINF:-1 tvg-id="canal-pl-sport-3" tvg-name="CANAL+ Sport 3 HD [PL]" tvg-logo="https://iptvx.one/picons/canal-pl-sport-3.png" group-title="🏅 СПОРТ", CANAL+ SPORT 3 HD (Torrent TV)
 #EXTGRP:🏅 СПОРТ
-http://127.0.0.1:6878/ace/getstream?id=3e87464ed8c42ed14464461ea08860a3040a8944&.mp4
+http://127.0.0.1:6878/ace/getstream?id=3e87464ed8c42ed14464461ea08860a3040a8944
 #EXTINF:-1 tvg-id="canal-pl-sport-4" tvg-name="CANAL+ Sport 4 HD [PL]" tvg-logo="https://iptvx.one/picons/canal-pl-sport-4.png" group-title="🏅 СПОРТ", CANAL+ SPORT 4 HD (Torrent TV)
 #EXTGRP:🏅 СПОРТ
-http://127.0.0.1:6878/ace/getstream?id=04448c3ca0b7518819491e468adbabc8a2551bd7&.mp4
+http://127.0.0.1:6878/ace/getstream?id=04448c3ca0b7518819491e468adbabc8a2551bd7
 #EXTINF:-1 tvg-id="bcu-kinozal-prem-1" tvg-name="BCU КИНОЗАЛ PREMIERE 1 HD" tvg-logo="https://iptvx.one/picons/bcu-kinozal-prem-1.png" group-title="🎞️ КИНОЗАЛЫ", BCU КИНОЗАЛ PREMIERE 1 HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
 http://127.0.0.1:6878/ace/manifest.m3u8?id=122b81e6c37b49a37c3b1984efaf5626371d5df5
@@ -2304,7 +2304,7 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 http://188.225.31.197/bpk-tv/000000031/tve/index.m3u8
 #EXTINF:-1 tvg-id="hollywood-hd" tvg-name="HOLLYWOOD HD" tvg-logo="https://iptvx.one/picons/hollywood-hd.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", HOLLYWOOD HD (Torrent TV)
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://127.0.0.1:6878/ace/getstream?id=3cacfef48b11ea2a81282c4b49b3eac4d7cce501&.mp4
+http://127.0.0.1:6878/ace/getstream?id=3cacfef48b11ea2a81282c4b49b3eac4d7cce501
 #EXTINF:-1 tvg-id="bcu-kinozal-prem-2" tvg-name="BCU КИНОЗАЛ PREMIERE 2 HD" tvg-logo="https://iptvx.one/picons/bcu-kinozal-prem-2.png" group-title="🎞️ КИНОЗАЛЫ", BCU КИНОЗАЛ PREMIERE 2 HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
 http://127.0.0.1:6878/ace/manifest.m3u8?id=d488e696aba7b6a2d3a8977d762bcf4eee1bfd07
@@ -2482,10 +2482,10 @@ http://188.225.31.197/bpk-tv/000005450/tve/index.m3u8
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=FAN_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NjE4MzA2NCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY1NTc4MjY0LCJzZXNzaW9uX2lkIjoiODU4YmZkODBlMmI5MzM0ZTliMGRjODM1NmM0YTgwNmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.w1SJ5iUnW17JxE582xL4Y5oYf8PZgSYPjyI1sbAHeoY
 #EXTINF:-1 tvg-id="eleven-sport1-pt" tvg-name="Eleven Sports 1 HD [PL]" tvg-logo="https://iptvx.one/picons/eleven-sports-1.png" group-title="🏅 СПОРТ", ELEVEN SPORTS 1 HD (Torrent TV)
 #EXTGRP:🏅 СПОРТ
-http://127.0.0.1:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00&.mp4
+http://127.0.0.1:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
 #EXTINF:-1 tvg-id="eleven-sport2-pt" tvg-name="Eleven Sports 2 HD [PL]" tvg-logo="https://iptvx.one/picons/eleven-sports-2.png" group-title="🏅 СПОРТ", ELEVEN SPORTS 2 HD (Torrent TV)
 #EXTGRP:🏅 СПОРТ
-http://127.0.0.1:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9&.mp4
+http://127.0.0.1:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
 #EXTINF:-1 tvg-name="Digital Desire" tvg-logo="https://iptvx.one/picons/digital-desire.png" group-title="💘 ВЗРОСЛЫЕ", DESIRE
 #EXTGRP:💘 ВЗРОСЛЫЕ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
@@ -2496,10 +2496,10 @@ http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
 http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="eleven-sport1-pt" tvg-name="ELEVEN SPORT 4K" tvg-logo="https://www.vhv.rs/dpng/d/499-4999134_thumb-image-graphic-design-hd-png-download.png" group-title="📡 ULTRA HD", ELEVEN SPORTS 1 4K (Torrent TV)
 #EXTGRP:📡 ULTRA HD
-http://127.0.0.1:6878/ace/getstream?infohash=f25b57322b5337df43bfde801e03f70363737581&.mp4
+http://127.0.0.1:6878/ace/getstream?infohash=f25b57322b5337df43bfde801e03f70363737581
 #EXTINF:-1 tvg-id="nasha-sibir-4k" tvg-name="НАША СИБИРЬ 4K" tvg-logo="https://karnei4.github.io/convert/index_files/nasha-sibir-4k.png" group-title="📡 ULTRA HD", НАША СИБИРЬ 4К (Torrent TV)
 #EXTGRP:📡 ULTRA HD
-http://127.0.0.1:6878/ace/getstream?id=4b7237f2e654d6c1e03ece1d2fffc249e0324ae6&.mp4
+http://127.0.0.1:6878/ace/getstream?id=4b7237f2e654d6c1e03ece1d2fffc249e0324ae6
 #EXTINF:-1 tvg-id="love-nature-4k" tvg-name="LOVE NATURE 4K" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/LOVENATURE4K200.png" group-title="📡 ULTRA HD", LOVE NATURE 4K
 #EXTGRP:📡 ULTRA HD
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
@@ -2581,7 +2581,7 @@ http://poh1.admuspeh.my/9241/video.m3u8?token=w8AT5yczJA2WKHY3
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kinojam_1.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NjE4MzA2NCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY1NTc4MjY0LCJzZXNzaW9uX2lkIjoiODU4YmZkODBlMmI5MzM0ZTliMGRjODM1NmM0YTgwNmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.w1SJ5iUnW17JxE582xL4Y5oYf8PZgSYPjyI1sbAHeoY
 #EXTINF:-1 tvg-id="insight-ultra-hd" tvg-name="Insight UHD" tvg-logo="http://epg.it999.ru/img/2800.png" group-title="📡 ULTRA HD", INSIGHT UHD 4K (Torrent TV)
 #EXTGRP:📡 ULTRA HD
-http://127.0.0.1:6878/ace/getstream?id=2bc787fab6cfce8b5c7a7c6b85e862066d967a68&.mp4
+http://127.0.0.1:6878/ace/getstream?id=2bc787fab6cfce8b5c7a7c6b85e862066d967a68
 #EXTINF:-1 tvg-id="Loupe 4K" tvg-name="LOUPE ULTRA HD" group-title="📡 ULTRA HD", LOUPE ULTRA HD
 #EXTGRP:📡 ULTRA HD
 http://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
@@ -2590,22 +2590,22 @@ http://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kinojam_2.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NjE4MzA2NCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY1NTc4MjY0LCJzZXNzaW9uX2lkIjoiODU4YmZkODBlMmI5MzM0ZTliMGRjODM1NmM0YTgwNmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.w1SJ5iUnW17JxE582xL4Y5oYf8PZgSYPjyI1sbAHeoY
 #EXTINF:-1 tvg-id="eleven-sport3-pt" tvg-name="Eleven Sports 3 HD [PL]" tvg-logo="https://iptvx.one/picons/eleven-sports-3.png" group-title="🏅 СПОРТ", ELEVEN SPORTS 3 HD (Torrent TV)
 #EXTGRP:🏅 СПОРТ
-http://127.0.0.1:6878/ace/getstream?id=b146ee4b6e16c9df58e27bd02ffd6cea840ff212&.mp4
+http://127.0.0.1:6878/ace/getstream?id=b146ee4b6e16c9df58e27bd02ffd6cea840ff212
 #EXTINF:-1 tvg-id="eleven-sport4-pt" tvg-name="Eleven Sports 4 HD [PL]" tvg-logo="https://iptvx.one/picons/eleven-sports-4.png" group-title="🏅 СПОРТ", ELEVEN SPORTS 4 HD (Torrent TV)
 #EXTGRP:🏅 СПОРТ
-http://127.0.0.1:6878/ace/getstream?id=458a0ddd7d193f6d2750cd14d03a47f47a808e09&.mp4
+http://127.0.0.1:6878/ace/getstream?id=458a0ddd7d193f6d2750cd14d03a47f47a808e09
 #EXTINF:-1 tvg-id="eleven-sport5-pt" tvg-name="DAZN 5 PT" tvg-logo="https://iptvx.one/picons/eleven-sport5-pt.png" group-title="🏅 СПОРТ", DAZN 5 HD (Torrent TV)
 #EXTGRP:🏅 СПОРТ
-http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a&.mp4
+http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="eleven-sport6-pt" tvg-name="DAZN 6 PT" tvg-logo="https://iptvx.one/picons/eleven-sport6-pt.png" group-title="🏅 СПОРТ", DAZN 6 HD (Torrent TV)
 #EXTGRP:🏅 СПОРТ
-http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80&.mp4
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="bcu-kinozal-prem-3" tvg-name="BCU КИНОЗАЛ PREMIERE 3 HD" tvg-logo="https://iptvx.one/picons/bcu-kinozal-prem-3.png" group-title="🎞️ КИНОЗАЛЫ", BCU КИНОЗАЛ PREMIERE 3 HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
-http://127.0.0.1:6878/ace/getstream?id=ffa797e65b8307a13b2805284e28295884c7e7e1&.mp4
+http://127.0.0.1:6878/ace/getstream?id=ffa797e65b8307a13b2805284e28295884c7e7e1
 #EXTINF:-1 tvg-id="bcu-premiere" tvg-name="BCU PREMIERE HD" tvg-logo="https://bcumedia.pro/images/homepage/ch_11.png" group-title="🎞️ КИНОЗАЛЫ", BCU PREMIERE HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
-http://127.0.0.1:6878/ace/getstream?infohash=c248c963c8de10771ace5f3d370566c1b4a6e4ad&.mp4
+http://127.0.0.1:6878/ace/getstream?infohash=c248c963c8de10771ace5f3d370566c1b4a6e4ad
 #EXTINF:-1 tvg-id="zal-11-tricolor" tvg-name="Зал 11 (Смешарики)" tvg-logo="https://profranch.com/wp-content/uploads/2013/11/frrDTq0y.jpg" group-title="🧸 ДЕТСКИЕ", СМЕШАРИКИ
 #EXTGRP:🧸 ДЕТСКИЕ
 https://stream-msk-20.ott.tricolor.tv/dtv/id976_MSKSG-PVR-1--Kinozal_11/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NjE4MzA2NCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY1NTc4MjY0LCJzZXNzaW9uX2lkIjoiODU4YmZkODBlMmI5MzM0ZTliMGRjODM1NmM0YTgwNmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.w1SJ5iUnW17JxE582xL4Y5oYf8PZgSYPjyI1sbAHeoY
@@ -2620,25 +2620,25 @@ http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="bcu-romantic" tvg-name="BCU Romantic HD" tvg-logo="https://bcumedia.pro/images/homepage/ch_16.png" group-title="🎞️ КИНОЗАЛЫ", BCU ROMANTIC HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
-http://127.0.0.1:6878/ace/getstream?id=62f68471bab075eb96e5db4559e7994427db111b&.mp4
+http://127.0.0.1:6878/ace/getstream?id=62f68471bab075eb96e5db4559e7994427db111b
 #EXTINF:-1 tvg-id="fox-sports-1" tvg-name="FS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/400px-2015_Fox_Sports_1_logo.svg.png" group-title="🏅 СПОРТ", FS1 HD (Torrent TV)
 #EXTGRP:🏅 СПОРТ
-http://127.0.0.1:6878/ace/getstream?id=c9c062941fbecb16ce29437f346ea7177d720898&.mp4
+http://127.0.0.1:6878/ace/getstream?id=c9c062941fbecb16ce29437f346ea7177d720898
 #EXTINF:-1 tvg-id="fox-sports-2" tvg-name="FS2" tvg-logo="https://logodix.com/logo/2181312.jpg" group-title="🏅 СПОРТ", FS 2 HD (Torrent TV)
 #EXTGRP:🏅 СПОРТ
-http://127.0.0.1:6878/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03b7&.mp4
+http://127.0.0.1:6878/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03b7
 #EXTINF:-1 tvg-id="polsat-sport-fight" tvg-name="Polsat Sport Fight" tvg-logo="https://iptvx.one/picons/polsat-sport-fight.png" group-title="🏅 СПОРТ", POLSAT SPORT FIGHT HD (Torrent TV)
 #EXTGRP:🏅 СПОРТ
-http://127.0.0.1:6878/ace/getstream?id=9e7fe279f421b734a8af9e68320955fd16f80b4b&.mp4
+http://127.0.0.1:6878/ace/getstream?id=9e7fe279f421b734a8af9e68320955fd16f80b4b
 #EXTINF:-1 tvg-id="polsat-sport-pr1" tvg-name="Polsat Sport Premium 1 HD" tvg-logo="https://iptvx.one/picons/polsat-sport-pr1.png" group-title="🏅 СПОРТ", POLSAT SPORT PREMIUM 1 HD (Torrent TV)
 #EXTGRP:🏅 СПОРТ
-http://127.0.0.1:6878/ace/getstream?id=4ce55db7e578ff52a6e526cf610e477464b8a99f&.mp4
+http://127.0.0.1:6878/ace/getstream?id=4ce55db7e578ff52a6e526cf610e477464b8a99f
 #EXTINF:-1 tvg-id="polsat-sport-pr2" tvg-name="POLSAT SPORT PREMIUM 2 HD" tvg-logo="https://iptvx.one/picons/polsat-sport-pr2.png" group-title="🏅 СПОРТ", POLSAT SPORT PREMIUM 2 HD (Torrent TV)
 #EXTGRP:🏅 СПОРТ
-http://127.0.0.1:6878/ace/getstream?id=3147c586346aee00c005d1caa55204d38678c95f&.mp4
+http://127.0.0.1:6878/ace/getstream?id=3147c586346aee00c005d1caa55204d38678c95f
 #EXTINF:-1 tvg-id="hgtv" tvg-name="HGTV" tvg-logo="https://image.pngaaa.com/0/3423000-middle.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", HGTV (Torrent TV)
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://127.0.0.1:6878/ace/getstream?infohash=22452120c704f34daea284fbd64b2527bc83f62d&.mp4
+http://127.0.0.1:6878/ace/getstream?infohash=22452120c704f34daea284fbd64b2527bc83f62d
 #EXTINF:-1 tvg-id="minimax-ms-crime" tvg-name="MS Crime HD" tvg-logo="https://epg.iptvx.one/picons/minimax-ms-crime.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", MS CRIME HD (тест)
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://poh1.admuspeh.my/8637/video.m3u8?token=w8AT5yczJA2WKHY3
@@ -2650,7 +2650,7 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=WomensMagazi
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=DetectiveJam.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NjE4MzA2NCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY1NTc4MjY0LCJzZXNzaW9uX2lkIjoiODU4YmZkODBlMmI5MzM0ZTliMGRjODM1NmM0YTgwNmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.w1SJ5iUnW17JxE582xL4Y5oYf8PZgSYPjyI1sbAHeoY
 #EXTINF:-1 tvg-id="bcu-ruserial" tvg-name="BCU RUSERIAL HD" tvg-logo="https://iptvx.one/picons/bcu-ruserial.png" group-title="🎞️ КИНОЗАЛЫ", BCU RUSERIAL HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
-http://127.0.0.1:6878/ace/getstream?id=49552fcef0397a9f48f7520247ee414a085f61e2&.mp4
+http://127.0.0.1:6878/ace/getstream?id=49552fcef0397a9f48f7520247ee414a085f61e2
 #EXTINF:-1 tvg-name="Южная Каролина Норт-Миртл-Бич 17-я авеню" group-title="📷 WEB КАМЕРЫ", Южная Каролина Норт-Миртл-Бич 17-я авеню
 #EXTGRP:📷 WEB КАМЕРЫ
 https://5ed7b8fd7bf40.streamlock.net:444/condoworld/condoworldcam/chunklist_w1918045463.m3u8
@@ -2701,16 +2701,16 @@ https://5a8d73edc0407.streamlock.net/bnuip200/bnuip20002.stream/chunklist.m3u8
 https://5a8d73edc0407.streamlock.net/bnuip20/bnuip2005.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="bcu-russian" tvg-name="BCU RUSSIAN HD" tvg-logo="https://bcumedia.pro/images/homepage/ch_12.png" group-title="🎞️ КИНОЗАЛЫ", BCU RUSSIAN HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
-http://127.0.0.1:6878/ace/getstream?id=5e38456d774827e7312b7eabdde388532a3dfec9&.mp4
+http://127.0.0.1:6878/ace/getstream?id=5e38456d774827e7312b7eabdde388532a3dfec9
 #EXTINF:-1 tvg-id="bcu-stars" tvg-name="BCU STARS HD" tvg-logo="https://iptvx.one/picons/bcu-stars.png" group-title="🎞️ КИНОЗАЛЫ", BCU STARS HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
-http://127.0.0.1:6878/ace/getstream?id=05fe94b726e99b1dd548013bd281980f9f27b617&.mp4
+http://127.0.0.1:6878/ace/getstream?id=05fe94b726e99b1dd548013bd281980f9f27b617
 #EXTINF:-1 tvg-name="BCU SURVIVAL HD" tvg-logo="https://iptvx.one/picons/bcu-survival.png" group-title="🎞️ КИНОЗАЛЫ", BCU SURVIVAL HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
-http://127.0.0.1:6878/ace/getstream?id=7222fcd5c4efe1f4beee535acac83fc195bc51d3&.mp4
+http://127.0.0.1:6878/ace/getstream?id=7222fcd5c4efe1f4beee535acac83fc195bc51d3
 #EXTINF:-1 tvg-name="BCU TRUMOTION HD" tvg-logo="https://iptvx.one/picons/bcu-trumotion.png" group-title="🎞️ КИНОЗАЛЫ", BCU TRUMOTION HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
-http://127.0.0.1:6878/ace/getstream?id=1d316bb0fd6a7741ac8c9a8972b6710e71d84791&.mp4
+http://127.0.0.1:6878/ace/getstream?id=1d316bb0fd6a7741ac8c9a8972b6710e71d84791
 #EXTINF:-1 tvg-name="BCU VHS HD" tvg-logo="https://bcumedia.pro/images/homepage/ch_6.png" group-title="🎞️ КИНОЗАЛЫ", BCU VHS HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
 http://127.0.0.1:6878/ace/getstream?id=5752b846dab618e12a0a1541ad6573a81ae1265d&.mp4
