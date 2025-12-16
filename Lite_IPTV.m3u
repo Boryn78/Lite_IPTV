@@ -340,10 +340,10 @@ https://stream-msk-19.ott.tricolor.tv/dtv/id1014_MSKSG-PVR-1--Kinozal26_SD/03/pl
 https://liteiptv.ucoz.net/AceServe_15.mov
 #EXTINF:-1 tvg-id="national-geographic" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/NATGEO200.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", NATIONAL GEOGRAPHIC HD
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://188.225.31.197/bpk-tv/000000034/tve/index.m3u8
+http://list.onlinetv-sochi.ru:8080/live/channel.php?id=146&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="nat-geo-wild" tvg-name="NAT GEO WILD" tvg-logo="https://iptvx.one/picons/nat-geo-wild.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", NAT GEO WILD HD
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://188.225.31.197/bpk-tv/000004474/tve/index.m3u8
+http://list.onlinetv-sochi.ru:8080/live/channel.php?id=137&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="viasat-nature" tvg-name="VIJU NATURE" tvg-logo="https://fast.ntvplus.tv/files/image/79/84/30/-channel!9rl.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", VIJU NATURE HD
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://188.225.31.197/bpk-tv/000006482/tve/index.m3u8
@@ -2132,9 +2132,9 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="БУМ" tvg-logo="https://epg.iptvx.one/picons/sportmaster-tv.png" group-title="🏅 СПОРТ, БУМ
 #EXTGRP:🏅 СПОРТ
 https://stream-msk-05.ott.tricolor.tv:443/dtv/id628_MSKSG-PVR-1--Channel_LIVE1/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NjE4MzA2NCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY1NTc4MjY0LCJzZXNzaW9uX2lkIjoiODU4YmZkODBlMmI5MzM0ZTliMGRjODM1NmM0YTgwNmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.w1SJ5iUnW17JxE582xL4Y5oYf8PZgSYPjyI1sbAHeoY
-#EXTINF:-1 tvg-id="extreme-sports" tvg-name="EXTREME SPORTS" tvg-logo="https://iptvx.one/picons/extreme-sports.png" group-title="🏅 СПОРТ", EXTREME SPORT
+#EXTINF:-1 tvg-id="extreme-sports" tvg-name="EXTREME SPORTS" tvg-logo="https://iptvx.one/picons/extreme-sports.png" group-title="🏅 СПОРТ", EXTREME SPORT (Torrent TV)
 #EXTGRP:🏅 СПОРТ
-http://188.225.31.197/bpk-tv/000000026/tve/index.m3u8
+http://127.0.0.1:6878/ace/getstream?id=73ff07648e367efebd94636047b07625f664a082
 #EXTINF:-1 tvg-id="fightbox-hd" tvg-name="FightBox HD" tvg-logo="https://iptvx.one/picons/fightbox-hd.png" group-title="🏅 СПОРТ", FIGHTBOX HD (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=49b734a5a3365674480089264be00ae28fabb640
