@@ -2011,9 +2011,9 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Bollywood.m3
 #EXTINF:-1 tvg-name="ИНДИЯ" tvg-logo="https://iptvx.one/picons/zee-tv.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", ИНДИЯ
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://158.101.222.193:88/georgia_play.php?id=zeetv
-#EXTINF:-1 tvg-id="setanta-sports" tvg-name="SETANTA SPORTS 1" tvg-logo="https://iptvx.one/picons/setanta-sports.png" group-title="🏅 СПОРТ", SETANTA SPORTS 1 FHD
+#EXTINF:-1 tvg-id="setanta-sports" tvg-name="SETANTA SPORTS 1" tvg-logo="https://iptvx.one/picons/setanta-sports.png" group-title="🏅 СПОРТ", SETANTA SPORTS 1 FHD (Torrent TV)
 #EXTGRP:🏅 СПОРТ
-http://188.225.31.197/bpk-tv/000004498/tve/index.m3u8
+http://127.0.0.1:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
 #EXTINF:-1 tvg-name="Зал 19 (Ужасы HD)" tvg-id="zal-19-tricolor" tvg-logo="https://epg.iptvx.one/picons/zal-19-tricolor.png" group-title="🎞️ КИНОЗАЛЫ", УЖАСЫ HD
 #EXTGRP:🎞️ КИНОЗАЛЫ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kinopokaz_9.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NjE4MzA2NCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY1NTc4MjY0LCJzZXNzaW9uX2lkIjoiODU4YmZkODBlMmI5MzM0ZTliMGRjODM1NmM0YTgwNmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.w1SJ5iUnW17JxE582xL4Y5oYf8PZgSYPjyI1sbAHeoY
@@ -2026,9 +2026,9 @@ http://188.225.31.197/bpk-tv/000000195/tve/index.m3u8
 #EXTINF:-1 tvg-name="Новый игровой канал" tvg-id="nowy-igrowoj" tvg-logo="https://epg.iptvx.one/picons/nowy-igrowoj.png" group-title="👀 РАЗНОЕ", НОВЫЙ ИГРОВОЙ КАНАЛ
 #EXTGRP:👀 РАЗНОЕ
 http://188.225.31.197/bpk-tv/000008615/tve/index.m3u8
-#EXTINF:-1 tvg-id="setanta-sports2" tvg-name="SETANTA SPORTS 2" tvg-logo="https://iptvx.one/picons/setanta-sports-plus.png" group-title="🏅 СПОРТ", SETANTA SPORTS 2 FHD
+#EXTINF:-1 tvg-id="setanta-sports2" tvg-name="SETANTA SPORTS 2" tvg-logo="https://iptvx.one/picons/setanta-sports-plus.png" group-title="🏅 СПОРТ", SETANTA SPORTS 2 FHD (Ещккуте ЕМ)
 #EXTGRP:🏅 СПОРТ
-http://188.225.31.197/bpk-tv/000004499/tve/index.m3u8
+http://127.0.0.1:6878/ace/getstream?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c
 #EXTINF:-1 tvg-id="anekdottv" tvg-name="АНЕКДОТ ТВ" tvg-logo="https://mt.media/upload/iblock/8f2/8f2609d7444d9266d2b9b2c1bb73068d.png" group-title="👀 РАЗНОЕ", АНЕКДОТ ТВ
 #EXTGRP:👀 РАЗНОЕ
 https://stream-msk-06.ott.tricolor.tv:443/dtv/id358_MSKSG-PVR-1--Anekdot_TV/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NjE4MzA2NCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY1NTc4MjY0LCJzZXNzaW9uX2lkIjoiODU4YmZkODBlMmI5MzM0ZTliMGRjODM1NmM0YTgwNmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.w1SJ5iUnW17JxE582xL4Y5oYf8PZgSYPjyI1sbAHeoY
@@ -2117,9 +2117,9 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="setanta-kz" tvg-name="Setanta Казахстан" tvg-logo="https://beeline.kz/binaries/content/gallery/about/beetv_logos/last/4619.png" group-title="🏅 СПОРТ", SETANTA SPORTS QAZAQSTAN
 #EXTGRP:🏅 СПОРТ
 http://188.225.31.197/bpk-tv/000002649/tve/index.m3u8
-#EXTINF:-1 tvg-id="setanta-plus-kz" tvg-name="Setanta Sport+ [KZ]" tvg-logo="https://epg.iptvx.one/picons/setanta-plus-kz.png" group-title="🏅 СПОРТ", SETANTA SPORTS +
+#EXTINF:-1 tvg-id="setanta3-ge" tvg-name="Setanta Sport 3 [KZ]" tvg-logo="https://epg.iptvx.one/picons/setanta3-ge.png" group-title="🏅 СПОРТ", SETANTA SPORTS 3 FHD (Torrent TV)
 #EXTGRP:🏅 СПОРТ
-http://188.225.31.197/bpk-tv/000008786/tve/index.m3u8
+http://127.0.0.1:6878/ace/getstream?infohash=04759f636ad9c8dc35b5eb560d393eab3e2a6f30
 #EXTINF:-1 tvg-id="okko-football" tvg-name="ОККО ФУТБОЛ" tvg-logo="https://iptvx.one/picons/okko-football.png" group-title="🏅 СПОРТ", ОККО ФУТБОЛ FHD 50
 #EXTGRP:🏅 СПОРТ
 http://185.221.213.254:8080/Okkofut/index.m3u8
