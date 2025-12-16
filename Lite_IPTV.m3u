@@ -154,10 +154,10 @@ http://list.onlinetv-sochi.ru:8080/live/arx.php?id=tv_1000_rus_kino&token=Ym9yeW
 http://127.0.0.1:6878/ace/getstream?id=f8d38c09a74612b9fabf0206cbd28bc11d6bc27d
 #EXTINF:-1 tvg-id="start-air" tvg-name="START AIR" tvg-logo="https://iptvx.one/picons/start-air.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", START AIR
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://188.225.31.197/bpk-tv/000007815/tve/index.m3u8
+http://list.onlinetv-sochi.ru:8080/live/channel.php?id=704&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="start-world" tvg-name="START WORLD" tvg-logo="http://epg.it999.ru/img2/6240.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", START WORLD
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://188.225.31.197/bpk-tv/000007818/tve/index.m3u8
+http://list.onlinetv-sochi.ru:8080/live/channel.php?id=705&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="kineko" tvg-name="КИНЕКО" tvg-logo="https://iptvx.one/picons/kineko.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНЕКО
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://188.225.31.197/bpk-tv/000008136/tve/index.m3u8
@@ -169,13 +169,13 @@ http://188.225.31.197/bpk-tv/000008135/tve/index.m3u8
 http://127.0.0.1:6878/ace/getstream?id=505d4c6259acfea0ee5d9b1f26f7badd447f69f6
 #EXTINF:-1 tvg-id="sony-turbo" tvg-name=".BLACK" tvg-logo="https://iptvx.one/picons/sony-turbo.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", ⬤ BLACK
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://188.225.31.197/bpk-tv/000000520/tve/index.m3u8
+http://list.onlinetv-sochi.ru:8080/live/channel.php?id=260&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="sony-tv" tvg-name=".RED" tvg-logo="https://iptvx.one/picons/sony.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", ⬤ RED
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://188.225.31.197/bpk-tv/000000213/tve/index.m3u8
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=set&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="sony-scifi" tvg-name=".SCI-FI" tvg-logo="https://iptvx.one/picons/sony-scifi.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", ⬤ SCI-FI
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://188.225.31.197/bpk-tv/000000134/tve/index.m3u8
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=sonyscifi&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="ntv-xit" tvg-name="НТВ ХИТ" tvg-logo="https://iptvx.one/picons/ntv-xit.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", НТВ ХИТ
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://server-1.onlinetv-sochi.ru/live/server-7.php?id=3781&token=Ym9yeW43ODpMYW5jZXIxNg=
