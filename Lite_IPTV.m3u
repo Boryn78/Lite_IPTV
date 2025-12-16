@@ -2026,7 +2026,7 @@ http://188.225.31.197/bpk-tv/000000195/tve/index.m3u8
 #EXTINF:-1 tvg-name="Новый игровой канал" tvg-id="nowy-igrowoj" tvg-logo="https://epg.iptvx.one/picons/nowy-igrowoj.png" group-title="👀 РАЗНОЕ", НОВЫЙ ИГРОВОЙ КАНАЛ
 #EXTGRP:👀 РАЗНОЕ
 http://188.225.31.197/bpk-tv/000008615/tve/index.m3u8
-#EXTINF:-1 tvg-id="setanta-sports2" tvg-name="SETANTA SPORTS 2" tvg-logo="https://iptvx.one/picons/setanta-sports-plus.png" group-title="🏅 СПОРТ", SETANTA SPORTS 2 FHD (Ещккуте ЕМ)
+#EXTINF:-1 tvg-id="setanta-sports2" tvg-name="SETANTA SPORTS 2" tvg-logo="https://iptvx.one/picons/setanta-sports-plus.png" group-title="🏅 СПОРТ", SETANTA SPORTS 2 FHD (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c
 #EXTINF:-1 tvg-id="anekdottv" tvg-name="АНЕКДОТ ТВ" tvg-logo="https://mt.media/upload/iblock/8f2/8f2609d7444d9266d2b9b2c1bb73068d.png" group-title="👀 РАЗНОЕ", АНЕКДОТ ТВ
