@@ -118,37 +118,37 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
 https://liteiptv.ucoz.net/AceServe_15.mov
 #EXTINF:-1 tvg-id="amedia1" tvg-name="AMEDIA 1" tvg-logo="https://iptvx.one/picons/amedia1.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", AMEDIA 1 HD
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://188.225.31.197/bpk-tv/000000710/tve/index.m3u8
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=amedia1&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="amedia2" tvg-name="AMEDIA 2" tvg-logo="https://iptvx.one/picons/amedia2.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", AMEDIA 2 HD
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://188.225.31.197/bpk-tv/000000351/tve/index.m3u8
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=amedia_2&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="amedia-hit" tvg-name="AMEDIA HIT" tvg-logo="https://iptvx.one/picons/amedia-hit.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", AMEDIA HIT HD
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://188.225.31.197/bpk-tv/000001662/tve/index.m3u8
+http://list.onlinetv-sochi.ru:8080/live/channel.php?id=187&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="amedia-premium" tvg-name="AMEDIA PREMIUM" tvg-logo="https://iptvx.one/picons/amedia-premium.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", AMEDIA PREMIUM HD
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://188.225.31.197/bpk-tv/000000709/tve/index.m3u8
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=amediapremium_hd&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="vip-megahit" tvg-name="VIJU+ MEGAHIT HD" tvg-logo="https://iptvx.one/picons/vip-megahit.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU+ MEGAHIT HD
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://188.225.31.197/bpk-tv/000000869/tve/index.m3u8
+http://list.onlinetv-sochi.ru:8080/live/channel.php?id=206&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="vip-premiere" tvg-name="VIJU+ PREMIERE HD" tvg-logo="https://iptvx.one/picons/vip-premiere.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU+ PREMIERE HD
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://188.225.31.197/bpk-tv/000000868/tve/index.m3u8
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=tv1000_premium_hd&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="vip-comedy" tvg-name="VIJU+ COMEDY" tvg-logo="https://iptvx.one/picons/vip-comedy.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU+ COMEDY HD
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://188.225.31.197/bpk-tv/000000870/tve/index.m3u8
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=tv1000_comedy_hd&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="vip-serial" tvg-name="VIJU+ SERIAL HD" tvg-logo="https://iptvx.one/picons/vip-serial.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU+ SERIAL HD
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://188.225.31.197/bpk-tv/000004375/tve/index.m3u8
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=viasat_golf_hd&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="tv1000" tvg-name="VIJU TV1000 HD" tvg-logo="https://iptvx.one/picons/tv1000.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU TV1000 HD
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://188.225.31.197/bpk-tv/000003747/tve/index.m3u8
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=tv1000&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="tv1000-action" tvg-name="VIJU TV1000 ACTION HD" tvg-logo="https://iptvx.one/picons/tv1000-action.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU TV1000 ACTION HD
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://188.225.31.197/bpk-tv/000003910/tve/index.m3u8
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=tv1000_action&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-name="VIJU TV1000 РУССКОЕ HD" tvg-logo="https://iptvx.one/picons/tv1000-russkoe-kino.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU TV1000 РУССКОЕ HD
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://188.225.31.197/bpk-tv/000003748/tve/index.m3u8
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=tv_1000_rus_kino&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="tv1000-worldkino" tvg-name="VIASAT KINO WORLD" tvg-logo="https://iptvx.one/picons/tv1000-worldkino.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIASAT KINO WORLD FHD (Torrent TV)
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://127.0.0.1:6878/ace/getstream?id=f8d38c09a74612b9fabf0206cbd28bc11d6bc27d
