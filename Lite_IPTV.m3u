@@ -2314,12 +2314,6 @@ http://kino-1.catcast.tv/content/37745/index.m3u8
 #EXTINF:-1 tvg-id="dorama" tvg-name="ДОРАМА" tvg-logo="https://iptvx.one/picons/dorama.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", ДОРАМА
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 https://stream-msk-05.ott.tricolor.tv:443/dtv/id497_MSKSG-PVR-1--Dorama/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NjE4MzA2NCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY1NTc4MjY0LCJzZXNzaW9uX2lkIjoiODU4YmZkODBlMmI5MzM0ZTliMGRjODM1NmM0YTgwNmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.w1SJ5iUnW17JxE582xL4Y5oYf8PZgSYPjyI1sbAHeoY
-#EXTINF:-1 tvg-id="mirovoe-kino-kz" tvg-name="Мировое Кино KZ" tvg-logo="https://iptvx.one/picons/mirovoe-kino-kz.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", МИРОВОЕ КИНО HD
-#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://188.225.31.197/bpk-tv/000008488/tve/index.m3u8
-#EXTINF:-1 tvg-id="premium-kino-kz" tvg-name="ПРЕМИУМ КИНО KZ" tvg-logo="https://iptvx.one/picons/premium-kino-kz.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", ПРЕМИУМ КИНО HD
-#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://188.225.31.197/bpk-tv/000008491/tve/index.m3u8
 #EXTINF:-1 tvg-id="babes-tv" tvg-name="BABES TV" tvg-logo="https://karnei4.github.io/convert/BABESTVHD.png" group-title="💘 ВЗРОСЛЫЕ", BABES TV
 #EXTGRP:💘 ВЗРОСЛЫЕ
 http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
@@ -2465,18 +2459,6 @@ https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_UTV/variant.m3u8
 #EXTGRP:🗺️ РЕГИОНАЛЬНЫЕ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_NATIONALTV/variant.m3u8
-#EXTINF:-1 tvg-id="kinoboevik-kz" tvg-name="КИНОБОЕВИК KZ" tvg-logo="https://cerato.ucoz.net/Logo/kino_boevik.jpg" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНОБОЕВИК HD
-#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://188.225.31.197/bpk-tv/000008490/tve/index.m3u8
-#EXTINF:-1 tvg-id="semejnoe-kino-kz" tvg-name="Семейное Кино KZ" tvg-logo="https://iptvx.one/picons/semejnoe-kino-kz.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", СЕМЕЙНОЕ КИНО HD
-#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://188.225.31.197/bpk-tv/000008489/tve/index.m3u8
-#EXTINF:-1 tvg-id="q-kino-hit" tvg-name="Кинодрама HD [KZ]" tvg-logo="https://epg.iptvx.one/picons/q-kino-hit.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНОДРАМА HD
-#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://188.225.31.197/bpk-tv/000005449/tve/index.m3u8
-#EXTINF:-1 tvg-id="q-kino-alem" tvg-name="Киносериал HD [KZ]" tvg-logo="https://epg.iptvx.one/picons/q-kino-alem.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНОСЕРИАЛ HD
-#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://188.225.31.197/bpk-tv/000005450/tve/index.m3u8
 #EXTINF:-1 tvg-id="fanhd" tvg-name="FAN HD" tvg-logo="https://iptvx.one/picons/fanhd.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", FAN HD
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=FAN_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NjE4MzA2NCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY1NTc4MjY0LCJzZXNzaW9uX2lkIjoiODU4YmZkODBlMmI5MzM0ZTliMGRjODM1NmM0YTgwNmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.w1SJ5iUnW17JxE582xL4Y5oYf8PZgSYPjyI1sbAHeoY
