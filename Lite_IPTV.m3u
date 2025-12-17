@@ -443,9 +443,9 @@ http://list.onlinetv-sochi.ru:8080/live/channel.php?id=237&token=Ym9yeW43ODpMYW5
 #EXTINF:-1 tvg-id="avto-plus" tvg-name="АВТО ПЛЮС" tvg-logo="https://iptvx.one/picons/avto-plus.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", АВТО ПЛЮС
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://158.101.222.193:88/georgia_play.php?id=autoplus
-#EXTINF:-1 tvg-id="muzhskoy" tvg-name="МУЖСКОЙ" tvg-logo="https://iptvx.one/picons/muzhskoy.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", МУЖСКОЙ
+#EXTINF:-1 tvg-id="muzhskoy" tvg-name="МУЖСКОЙ" tvg-logo="https://iptvx.one/picons/muzhskoy.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", МУЖСКОЙ (Torrent TV)
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://188.225.31.197/bpk-tv/000000286/tve/index.m3u8
+http://127.0.0.1:6878/ace/getstream?id=6f333af96362664dd566c585601d7c522c9b09e1
 #EXTINF:-1 tvg-id="oruzhie" tvg-name="ОРУЖИЕ" tvg-logo="http://media.24h.tv/img/ch/23/4d/234da803450c81ede74425c9bbf515a5.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ОРУЖИЕ
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 https://stream-msk-08.ott.tricolor.tv:443/dtv/id369_MSKSG-PVR-1--Oruzhie/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NjE4MzA2NCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY1NTc4MjY0LCJzZXNzaW9uX2lkIjoiODU4YmZkODBlMmI5MzM0ZTliMGRjODM1NmM0YTgwNmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.w1SJ5iUnW17JxE582xL4Y5oYf8PZgSYPjyI1sbAHeoY
@@ -496,7 +496,7 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Luxury_HD.m3
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Nano_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NjE4MzA2NCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY1NTc4MjY0LCJzZXNzaW9uX2lkIjoiODU4YmZkODBlMmI5MzM0ZTliMGRjODM1NmM0YTgwNmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.w1SJ5iUnW17JxE582xL4Y5oYf8PZgSYPjyI1sbAHeoY
 #EXTINF:-1 tvg-id="zhivaya-priroda" tvg-name="ЖИВАЯ ПРИРОДА HD" tvg-logo="https://karnei4.github.io/convert/index_files/zhivaya-priroda.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ЖИВАЯ ПРИРОДА
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://188.225.31.197/bpk-tv/000001187/tve/index.m3u8
+http://178.212.71.253:8000/play/79/index.m3u8
 #EXTINF:-1 tvg-id="zvezda-plus" tvg-name="ЗВЕЗДА ПЛЮС" tvg-logo="https://iptvx.one/picons/zvezda-plus.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ЗВЕЗДА ПЛЮС
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://178.212.71.253:8000/play/130/index.m3u8
@@ -508,19 +508,16 @@ https://stream-msk-10.ott.tricolor.tv:443/dtv/id360_MSKSG-PVR-1--Vremya/03/plst.
 http://188.225.31.197/bpk-tv/000000332/tve/index.m3u8
 #EXTINF:-1 tvg-id="poexali" tvg-name="ПОЕХАЛИ!" tvg-logo="https://iptvx.one/picons/poexali.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ПОЕХАЛИ!
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://188.225.31.197/bpk-tv/000002991/tve/index.m3u8
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Poehali.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NjE4MzA2NCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY1NTc4MjY0LCJzZXNzaW9uX2lkIjoiODU4YmZkODBlMmI5MzM0ZTliMGRjODM1NmM0YTgwNmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.w1SJ5iUnW17JxE582xL4Y5oYf8PZgSYPjyI1sbAHeoY
 #EXTINF:-1 tvg-id="mir-uvlecheniy" tvg-name="Кто Куда" tvg-logo="https://epg.iptvx.one/picons/mir-uvlecheniy.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", КТОКУДА
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://188.225.31.197/bpk-tv/000001377/tve/index.m3u8
 #EXTINF:-1 tvg-name="FASHION & LIFESTYLE" tvg-logo="https://ntvplus.tv/files/image/68/79/05/8rb.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", FASHION & LIFESTYLE
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://188.225.31.197/bpk-tv/000000439/tve/index.m3u8
-#EXTINF:-1 tvg-id="glazami-turista" tvg-name="Глазами туриста HD" tvg-logo="https://iptvx.one/picons/glazami-turista.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ГЛАЗАМИ ТУРИСТА HD
+#EXTINF:-1 tvg-id="glazami-turista" tvg-name="Глазами туриста HD" tvg-logo="https://iptvx.one/picons/glazami-turista.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ГЛАЗАМИ ТУРИСТА HD (Torrent TV)
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://188.225.31.197/bpk-tv/000001414/tve/index.m3u8
-#EXTINF:-1 tvg-id="terra-ru" tvg-name="Terra" tvg-logo="https://epg.iptvx.one/picons/terra-ru.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", TERRA
-#EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://188.225.31.197/bpk-tv/000008142/tve/index.m3u8
+http://127.0.0.1:6878/ace/getstream?id=4f3037f55f54cf2417a6d6847adc5095537f9e83
 #EXTINF:-1 tvg-id="zal-31-tricolor" tvg-name="Авиакатастрофы" tvg-logo="https://avatars.dzeninfra.ru/get-zen-logos/271828/pub_6576254009834966a4064394_657c12ff4ef0b47f700a009a/orig" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", РЕКОНСТРУКЦИЯ АВИАКАТАСТРОФ
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kinozal_31.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NjE4MzA2NCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY1NTc4MjY0LCJzZXNzaW9uX2lkIjoiODU4YmZkODBlMmI5MzM0ZTliMGRjODM1NmM0YTgwNmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.w1SJ5iUnW17JxE582xL4Y5oYf8PZgSYPjyI1sbAHeoY
@@ -2020,9 +2017,6 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kinopokaz_9.
 #EXTINF:-1 tvg-id="kvn-tv" tvg-name="КВН ТВ" tvg-logo="https://iptvx.one/picons/kvn-tv.png" group-title="👀 РАЗНОЕ", КВН ТВ
 #EXTGRP:👀 РАЗНОЕ
 http://158.101.222.193:88/georgia_play.php?id=kvntv
-#EXTINF:-1 tvg-id="voprosy-i-otvety" tvg-name="Вопросы и ответы" tvg-logo="https://epg.iptvx.one/picons/voprosy-i-otvety.png" group-title="👀 РАЗНОЕ", ВОПРОСЫ и ОТВЕТЫ
-#EXTGRP:👀 РАЗНОЕ
-http://188.225.31.197/bpk-tv/000000195/tve/index.m3u8
 #EXTINF:-1 tvg-name="Новый игровой канал" tvg-id="nowy-igrowoj" tvg-logo="https://epg.iptvx.one/picons/nowy-igrowoj.png" group-title="👀 РАЗНОЕ", НОВЫЙ ИГРОВОЙ КАНАЛ
 #EXTGRP:👀 РАЗНОЕ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=NIK_SD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NjE4MzA2NCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY1NTc4MjY0LCJzZXNzaW9uX2lkIjoiODU4YmZkODBlMmI5MzM0ZTliMGRjODM1NmM0YTgwNmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.w1SJ5iUnW17JxE582xL4Y5oYf8PZgSYPjyI1sbAHeoY
