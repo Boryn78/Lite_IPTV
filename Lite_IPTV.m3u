@@ -2777,9 +2777,6 @@ http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Scream.m3u8&s
 #EXTINF:-1 tvg-name="FlixSnip" tvg-id="flixsnip" tvg-logo="https://iptvx.one/picons/flixsnip.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", FLIXSNIP
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 https://stream-msk-08.ott.tricolor.tv/dtv/id669_MSKSG-PVR-1--Flix_Snip/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NjE4MzA2NCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY1NTc4MjY0LCJzZXNzaW9uX2lkIjoiODU4YmZkODBlMmI5MzM0ZTliMGRjODM1NmM0YTgwNmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.w1SJ5iUnW17JxE582xL4Y5oYf8PZgSYPjyI1sbAHeoY
-#EXTINF:-1 tvg-name="Киносат" tvg-id="kinosat" tvg-logo="https://epg.iptvx.one/picons/kinosat.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНОСАТ
-#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://server-2.onlinetv-sochi.ru:8080/live/limeHD5_vip.php?id=1776&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-name="Kino 24" tvg-id="kino-24" tvg-logo="https://iptvx.one/picons/kino-24.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", KINO 24
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://sirius.greenhosting.ru/Kino24Ru/tracks-v1a1/mono.m3u8
@@ -2816,7 +2813,7 @@ https://stream-msk-18.ott.tricolor.tv/dtv/id1016_MSKSG-PVR-1--Kinozal28_SD/03/pl
 #EXTINF:-1 tvg-name="FX HD" tvg-logo="https://iptvx.one/picons/fox.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", FX HD (Torrent TV)
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://127.0.0.1:6878/ace/getstream?id=df94afd23701839b3fdcdf669c73f2e3d656126e
-#EXTINF:-1 tvg-name="FX LIFE HD" tvg-logo="https://iptvx.one/picons/foxlife.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", FX LIFE HD
+#EXTINF:-1 tvg-name="FX LIFE HD" tvg-logo="https://iptvx.one/picons/foxlife.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", FX LIFE HD (Torrent TV)
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://127.0.0.1:6878/ace/getstream?id=36bd5c1fdf09e5e92aa68cc642ae2d4db6694526
 #EXTINF:-1 tvg-name="Смотрим" tvg-logo="https://vgtrk.ru/i/logo-smotrim.svg?v=2.0.0.409" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", СМОТРИМ. ТАЙНЫ И СЛЕДСТВИЕ
@@ -2824,10 +2821,10 @@ http://127.0.0.1:6878/ace/getstream?id=36bd5c1fdf09e5e92aa68cc642ae2d4db6694526
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-name="Comedy Central" tvg-logo="https://epg.iptvx.one/picons/paramount-comedy.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", COMEDY CENTRAL
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://188.225.31.197/bpk-tv/000000452/tve/index.m3u8
+http://46.8.46.14/paramountcomedy/index.m3u8
 #EXTINF:-1 tvg-name="Plan B" tvg-id="plan-b" tvg-logo="https://epg.iptvx.one/picons/plan-b.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", PLAN B
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://188.225.31.197/bpk-tv/000007625/tve/index.m3u8
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=plan_b&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-name="TV XXI" tvg-id="tvxxi" tvg-logo="https://epg.iptvx.one/picons/tvxxi.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", ТВ 21
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://188.225.31.197/bpk-tv/000000006/tve/index.m3u8
