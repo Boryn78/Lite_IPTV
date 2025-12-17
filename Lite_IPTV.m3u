@@ -2846,12 +2846,3 @@ http://188.225.31.197/bpk-tv/000000006/tve/index.m3u8
 #EXTINF:-1 tvg-name="Телекафе" tvg-id="telekafe" tvg-logo="https://epg.iptvx.one/picons/telekafe.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", ТЕЛЕКАФЕ
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Telecafe.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NjE4MzA2NCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY1NTc4MjY0LCJzZXNzaW9uX2lkIjoiODU4YmZkODBlMmI5MzM0ZTliMGRjODM1NmM0YTgwNmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.w1SJ5iUnW17JxE582xL4Y5oYf8PZgSYPjyI1sbAHeoY
-#EXTINF:-1 tvg-name="Suspense" tvg-id="suspense" tvg-logo="https://epg.iptvx.one/picons/suspense.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", SUSPENSE
-#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://188.225.31.197/bpk-tv/000008739/tve/index.m3u8
-#EXTINF:-1 tvg-name="Romance" tvg-id="romance" tvg-logo="https://epg.iptvx.one/picons/romance.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", ROMANCE
-#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://188.225.31.197/bpk-tv/000008780/tve/index.m3u8
-#EXTINF:-1 tvg-name="BeeTV Семейные мелодрамы" tvg-id="beetv-sm" tvg-logo="https://epg.iptvx.one/picons/beetv-sm.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", СЕМЕЙНЫЕ МЕЛОДРАМЫ
-#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://188.225.31.197/bpk-tv/000009429/tve/index.m3u8
