@@ -338,9 +338,9 @@ https://stream-msk-19.ott.tricolor.tv/dtv/id1014_MSKSG-PVR-1--Kinozal26_SD/03/pl
 #EXTINF:-1 tvg-name="Для каналов (Torrent TV) запустите AceServe 1.5" tvg-logo="https://appteka.store/get/e2Uj1_E-CKJz00QOqk7TRLeKEHGO71WuxhOQ2ASYk-jEq0iB3sJmPcFAYtcWRdFSahy0WtpQZQv0frwRr9rfRonr-A==/58d2156033e0d71344a166ec5ed4dccf8a9d3936.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", Для каналов (Torrent TV) запустите AceServe 1.5
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 https://liteiptv.ucoz.net/AceServe_15.mov
-#EXTINF:-1 tvg-id="national-geographic" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/NATGEO200.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", NATIONAL GEOGRAPHIC HD
+#EXTINF:-1 tvg-id="national-geographic" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/NATGEO200.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", NATIONAL GEOGRAPHIC HD (Torrent TV)
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://list.onlinetv-sochi.ru:8080/live/channel.php?id=146&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://127.0.0.1:6878/ace/getstream?id=3a08c5a973e162429910f441bf8aa45b24d667e0
 #EXTINF:-1 tvg-id="nat-geo-wild" tvg-name="NAT GEO WILD" tvg-logo="https://iptvx.one/picons/nat-geo-wild.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", NAT GEO WILD HD
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://list.onlinetv-sochi.ru:8080/live/channel.php?id=137&token=Ym9yeW43ODpMYW5jZXIxNg==
