@@ -1972,9 +1972,6 @@ https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="tri-angela" tvg-name="ТРИ АНГЕЛА" tvg-logo="http://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3RyaV9hbmdlbGEucG5n" group-title="👀 РАЗНОЕ", ТРИ АНГЕЛА
 #EXTGRP:👀 РАЗНОЕ
 http://hls.tv.3angels.ru/stream/HQ.m3u8
-#EXTINF:-1 tvg-id="nostalgia" tvg-name="НОСТАЛЬГИЯ" tvg-logo="https://iptvx.one/picons/nostalgia.png" group-title="👀 РАЗНОЕ", НОСТАЛЬГИЯ
-#EXTGRP:👀 РАЗНОЕ
-http://server-2.onlinetv-sochi.ru:8080/live/limeHD_vip.php?id=9213&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="v-gostiax-u-skazki" tvg-name="В ГОСТЯХ У СКАЗКИ" tvg-logo="https://iptvx.one/picons/v-gostiax-u-skazki.png" group-title="🧸 ДЕТСКИЕ", В ГОСТЯХ У СКАЗКИ FHD (Torrent TV)
 #EXTGRP:🧸 ДЕТСКИЕ
 http://127.0.0.1:6878/ace/getstream?id=77c4a879752e4a24e2e39bfcd58458eee24b58a0
@@ -1984,9 +1981,6 @@ http://158.101.222.193:88/georgia_play.php?id=interesnoetv
 #EXTINF:-1 tvg-name="Зал 17 (Боевики HD)" tvg-id="zal-17-tricolor" tvg-logo="https://epg.iptvx.one/picons/zal-17-tricolor.png" group-title="🎞️ КИНОЗАЛЫ", БОЕВИКИ HD
 #EXTGRP:🎞️ КИНОЗАЛЫ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kinopokaz_2.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NjE4MzA2NCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY1NTc4MjY0LCJzZXNzaW9uX2lkIjoiODU4YmZkODBlMmI5MzM0ZTliMGRjODM1NmM0YTgwNmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.w1SJ5iUnW17JxE582xL4Y5oYf8PZgSYPjyI1sbAHeoY
-#EXTINF:-1 tvg-id="dozhd" tvg-name="Дождь" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/DOZHD2001.png" group-title="👀 РАЗНОЕ", Дождь
-#EXTGRP:👀 РАЗНОЕ
-https://m3u8.ott.blue/watch/7319/video.m3u8?geo=auto&token=94450098895765784220366841698509
 #EXTINF:-1 tvg-id="indiyskoe-kino" tvg-name="ИНДИЙСКОЕ КИНО" tvg-logo="https://iptvx.one/picons/indijskoe-kino.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", ИНДИЙСКОЕ КИНО
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://188.113.190.12/329/index.m3u8
@@ -2087,12 +2081,6 @@ http://moobl.ru/iptv/Za_tv.m3u8
 #EXTINF:-1  tvg-name="ОПЛОТ" tvg-logo="https://i.ibb.co/PNLJ1yf/oplotdnr.png" group-title="🗺️ РЕГИОНАЛЬНЫЕ", ОПЛОТ
 #EXTGRP:🗺️ РЕГИОНАЛЬНЫЕ
 http://moobl.ru/iptv/Oplot_1_hd.m3u8
-#EXTINF:-1 tvg-id="izvestia" tvg-name="Известия" tvg-logo="http://epg.it999.ru/img/2271.png" group-title="👀 РАЗНОЕ", Известия
-#EXTGRP:👀 РАЗНОЕ
-http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="2142" tvg-rec="3" tvg-name="Настоящее время" tvg-logo="http://epg.it999.ru/img/2142.png" group-title="👀 РАЗНОЕ", Настоящее время
-#EXTGRP:👀 РАЗНОЕ
-https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 #EXTINF:-1 tvg-id="6744" tvg-name="Общественная Служба Новостей" tvg-logo="http://epg.it999.ru/img/6744.png" group-title="👀 РАЗНОЕ", Общественная Служба Новостей
 #EXTGRP:👀 РАЗНОЕ
 https://osnmedia.servicecdn.ru/streams/17603_88089/1080n/index.m3u8
