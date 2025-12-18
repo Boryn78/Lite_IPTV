@@ -346,13 +346,13 @@ http://list.onlinetv-sochi.ru:8080/live/channel.php?id=146&token=Ym9yeW43ODpMYW5
 http://list.onlinetv-sochi.ru:8080/live/channel.php?id=137&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="viasat-nature" tvg-name="VIJU NATURE" tvg-logo="https://fast.ntvplus.tv/files/image/79/84/30/-channel!9rl.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", VIJU NATURE HD
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://list.onlinetv-sochi.ru:8080/live/channel.php?id=130&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=viasat_nature&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="viasat-explore" tvg-name="VIJU EXPLORE" tvg-logo="https://fast.ntvplus.tv/files/image/80/00/03/-channel!djf.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", VIJU EXPLORE HD
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://list.onlinetv-sochi.ru:8080/live/channel.php?id=128&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=viasat_explorer&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="viasat-history" tvg-name="VIJU HISTORY" tvg-logo="https://ntvplus.tv/files/image/79/84/28/e2e.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", VIJU HISTORY HD
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://list.onlinetv-sochi.ru:8080/live/channel.php?id=129&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=viasat_history&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="viasat-nature-history-hd" tvg-name="VIJU+ PLANET" tvg-logo="https://fast.ntvplus.tv/files/image/79/84/42/-channel!k6r.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", VIJU+ PLANET FHD (Torrent TV)
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://127.0.0.1:6878/ace/getstream?id=0d59f0292f9e5569f4dff50ac4c3c89913b32a7a
