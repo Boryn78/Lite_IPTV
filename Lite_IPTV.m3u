@@ -463,7 +463,7 @@ https://stream-msk-03.ott.tricolor.tv:443/dtv/id155_MSKSG-PVR-1--Zagorod_TV/03/p
 https://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
 #EXTINF:-1 tvg-id="zagorodnaya-zhizn" tvg-name="ЗАГОРОДНАЯ ЖИЗНЬ" tvg-logo="https://iptvx.one/picons/zagorodnaya-zhizn.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ЗАГОРОДНАЯ ЖИЗНЬ
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://list.onlinetv-sochi.ru:8080/live/channel.php?id=262&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://185.57.68.33/40/mpegts
 #EXTINF:-1 tvg-id="tonus-tv" tvg-name="УСАДЬБА" tvg-logo="https://iptvx.one/picons/usadba.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", УСАДЬБА
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://list.onlinetv-sochi.ru:8080/live/channel.php?id=74&token=Ym9yeW43ODpMYW5jZXIxNg==
@@ -500,7 +500,7 @@ http://178.212.71.253:8000/play/130/index.m3u8
 #EXTINF:-1 tvg-id="vremia" tvg-name="ВРЕМЯ" tvg-logo="https://iptvx.one/picons/vremia.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ВРЕМЯ
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 https://stream-msk-10.ott.tricolor.tv:443/dtv/id360_MSKSG-PVR-1--Vremya/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NjE4MzA2NCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY1NTc4MjY0LCJzZXNzaW9uX2lkIjoiODU4YmZkODBlMmI5MzM0ZTliMGRjODM1NmM0YTgwNmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.w1SJ5iUnW17JxE582xL4Y5oYf8PZgSYPjyI1sbAHeoY
-#EXTINF:-1 tvg-id="galaxy-tv" tvg-name="Galaxy-TV" tvg-logo="https://iptvx.one/picons/galaxy-tv.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", GALAXY HD
+#EXTINF:-1 tvg-id="galaxy-tv" tvg-name="Galaxy-TV" tvg-logo="https://iptvx.one/picons/galaxy-tv.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", GALAXY
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://193.25.8.59:8000/galaxy
 #EXTINF:-1 tvg-id="poexali" tvg-name="ПОЕХАЛИ!" tvg-logo="https://iptvx.one/picons/poexali.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ПОЕХАЛИ!
@@ -601,7 +601,7 @@ http://list.onlinetv-sochi.ru:8080/live/arx.php?id=khl&token=Ym9yeW43ODpMYW5jZXI
 http://127.0.0.1:6878/ace/getstream?id=aa6c193b9de1e6b6277e3075299fdeea925e2dc0
 #EXTINF:-1 tvg-name="KHL Prime" tvg-logo="https://beeline.kz/binaries/content/gallery/about/beetv_logos/last/711.png" group-title="🏅 СПОРТ", KHL PRIME
 #EXTGRP:🏅 СПОРТ
-http://tv.streams.baikal-telecom.net:8080/KHL_HD/mpegts
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=kxl_hd&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-name="KHL Prime" tvg-logo="https://beeline.kz/binaries/content/gallery/about/beetv_logos/last/711.png" group-title="🏅 СПОРТ", KHL PRIME FHD (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=dcda9de85f7d662c5c3c2efd74eca0fb5c6aab3b
