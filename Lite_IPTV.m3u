@@ -130,13 +130,13 @@ http://list.onlinetv-sochi.ru:8080/live/channel.php?id=187&token=Ym9yeW43ODpMYW5
 http://127.0.0.1:6878/ace/getstream?id=5988dc4ef60bf2f77939026578ac80771f2938c2
 #EXTINF:-1 tvg-id="vip-megahit" tvg-name="VIJU+ MEGAHIT HD" tvg-logo="https://iptvx.one/picons/vip-megahit.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU+ MEGAHIT HD
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://server-2.onlinetv-sochi.ru:8080/live/bol_tv.php?id=abr2/tv_1000_megahit_hd/71/copy&token=VmlwaXBUdjpWaXBpcFR2Nzc=|user-agent=VipipTv
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=tv1000_megahit_hd&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="vip-premiere" tvg-name="VIJU+ PREMIERE HD" tvg-logo="https://iptvx.one/picons/vip-premiere.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU+ PREMIERE HD
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://server-2.onlinetv-sochi.ru:8080/live/bol_tv.php?id=abr2/tv1000_premium_hd/71/copy&token=VmlwaXBUdjpWaXBpcFR2Nzc=|user-agent=VipipTv
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=tv1000_premium_hd&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="vip-comedy" tvg-name="VIJU+ COMEDY" tvg-logo="https://iptvx.one/picons/vip-comedy.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU+ COMEDY HD
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://server-2.onlinetv-sochi.ru:8080/live/bol_tv.php?id=abr2/tv_1000_comedy_hd/71/copy&token=VmlwaXBUdjpWaXBpcFR2Nzc=|user-agent=VipipTv
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=tv1000_comedy_hd&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="vip-serial" tvg-name="VIJU+ SERIAL HD" tvg-logo="https://iptvx.one/picons/vip-serial.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU+ SERIAL HD
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://list.onlinetv-sochi.ru:8080/live/arx.php?id=viasat_golf_hd&token=Ym9yeW43ODpMYW5jZXIxNg==
