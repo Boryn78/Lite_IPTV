@@ -122,9 +122,9 @@ http://158.101.222.193:88/georgia_play.php?id=amedia
 #EXTINF:-1 tvg-id="amedia2" tvg-name="AMEDIA 2" tvg-logo="https://iptvx.one/picons/amedia2.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", AMEDIA 2
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://158.101.222.193:88/georgia_play.php?id=amedia2
-#EXTINF:-1 tvg-id="amedia-hit" tvg-name="AMEDIA HIT" tvg-logo="https://iptvx.one/picons/amedia-hit.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", AMEDIA HIT HD
+#EXTINF:-1 tvg-id="amedia-hit" tvg-name="AMEDIA HIT" tvg-logo="https://iptvx.one/picons/amedia-hit.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", AMEDIA HIT HD (Torrent TV)
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://list.onlinetv-sochi.ru:8080/live/channel.php?id=187&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://127.0.0.1:6878/ace/getstream?id=1b74777f3b2121d067457fc554beb5e1c26b6cd8
 #EXTINF:-1 tvg-id="amedia-premium" tvg-name="AMEDIA PREMIUM" tvg-logo="https://iptvx.one/picons/amedia-premium.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", AMEDIA PREMIUM HD (Torrent TV)
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://127.0.0.1:6878/ace/getstream?id=5988dc4ef60bf2f77939026578ac80771f2938c2
@@ -559,7 +559,7 @@ http://127.0.0.1:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
 http://server-2.onlinetv-sochi.ru:8080/live/bol_tv.php?id=dvr01/hd1/NashFutHD&token=VmlwaXBUdjpWaXBpcFR2Nzc=|user-agent=VipipTv
 #EXTINF:-1 tvg-id="match-premier" tvg-name="МАТЧ! ПРЕМЬЕР HD" tvg-logo="https://iptvx.one/picons/match-premiere.png" group-title="🏅 СПОРТ", МАТЧ! ПРЕМЬЕР FHD (тест)
 #EXTGRP:🏅 СПОРТ
-http://list.onlinetv-sochi.ru:8080/live/channel.php?id=546&token=Ym9yeW43ODpMYW5jZXIxNg=
+http://185.234.59.4:8080/channel/1b50c04f/index.m3u8?q=9640955cd9f72b22111c31c32269c00e
 #EXTINF:-1 tvg-id="match-premier" tvg-name="МАТЧ! ПРЕМЬЕР" tvg-logo="https://iptvx.one/picons/match-premiere.png" group-title="🏅 СПОРТ", МАТЧ! ПРЕМЬЕР FHD 50 (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
