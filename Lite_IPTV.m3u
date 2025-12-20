@@ -559,7 +559,7 @@ http://127.0.0.1:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
 http://server-2.onlinetv-sochi.ru:8080/live/bol_tv.php?id=dvr01/hd1/NashFutHD&token=VmlwaXBUdjpWaXBpcFR2Nzc=|user-agent=VipipTv
 #EXTINF:-1 tvg-id="match-premier" tvg-name="МАТЧ! ПРЕМЬЕР HD" tvg-logo="https://iptvx.one/picons/match-premiere.png" group-title="🏅 СПОРТ", МАТЧ! ПРЕМЬЕР FHD (тест)
 #EXTGRP:🏅 СПОРТ
-http://levshanov.tlkf.ru/iptv/nashfootballhd/16/h1080/playlist.m3u8
+http://185.234.59.4:8080/channel/1b50c04f/index.m3u8?q=9640955cd9f72b22111c31c32269c00e
 #EXTINF:-1 tvg-id="match-premier" tvg-name="МАТЧ! ПРЕМЬЕР" tvg-logo="https://iptvx.one/picons/match-premiere.png" group-title="🏅 СПОРТ", МАТЧ! ПРЕМЬЕР FHD 50 (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
