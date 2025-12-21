@@ -1914,7 +1914,7 @@ http://127.0.0.1:6878/ace/getstream?id=e177586ae336f410e95e784348e4a1f7a82e0952
 https://stream-msk-18.ott.tricolor.tv/dtv/id1015_MSKSG-PVR-1--Kinozal27_SD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2Njc4ODU0NywiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY2MTgzNzQ3LCJzZXNzaW9uX2lkIjoiNTRhN2Y1MjliMzE0MDNmOTYyYzllYWNlZDk0MjEyNTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.kNNQwRk9Ng-oS8bvOtnvnj6xOw0cJfVbQ2deDrWLwxc
 #EXTINF:-1 tvg-id="nashe-novoe-kino" tvg-name="НАШЕ НОВОЕ КИНО" tvg-logo="https://iptvx.one/picons/nashe-novoe-kino.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", НАШЕ НОВОЕ КИНО HD (Torrent TV)
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://127.0.0.1:6878/ace/getstream?id=e177586ae336f410e95e784348e4a1f7a82e0952
+http://127.0.0.1:6878/ace/getstream?id=ae38625cca3cae6873509ba05b99aa1af5ec0f4e
 #EXTINF:-1 tvg-id="kinouzhas" tvg-name="КИНОУЖАС" tvg-logo="https://iptvx.one/picons/kinouzhas.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНОУЖАС
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://158.101.222.193:88/georgia_play.php?id=kinoujas
