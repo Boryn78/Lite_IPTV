@@ -131,24 +131,45 @@ http://127.0.0.1:6878/ace/getstream?id=5988dc4ef60bf2f77939026578ac80771f2938c2
 #EXTINF:-1 tvg-id="vip-megahit" tvg-name="VIJU+ MEGAHIT HD" tvg-logo="https://iptvx.one/picons/vip-megahit.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU+ MEGAHIT HD
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://list.onlinetv-sochi.ru:8080/live/arx.php?id=tv1000_megahit_hd&token=Ym9yeW43ODpMYW5jZXIxNg==
+#EXTINF:-1 tvg-id="vip-megahit" tvg-name="VIJU+ MEGAHIT" tvg-logo="https://iptvx.one/picons/vip-megahit.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU+ MEGAHIT FHD (Torrent TV)
+#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
+http://127.0.0.1:6878/ace/getstream?id=d83992b759e6227f7cc9a20e4e4dae1b58e645c8
 #EXTINF:-1 tvg-id="vip-premiere" tvg-name="VIJU+ PREMIERE HD" tvg-logo="https://iptvx.one/picons/vip-premiere.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU+ PREMIERE HD
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://list.onlinetv-sochi.ru:8080/live/arx.php?id=tv1000_premium_hd&token=Ym9yeW43ODpMYW5jZXIxNg==
+#EXTINF:-1 tvg-id="vip-premiere" tvg-name="VIJU+ PREMIERE" tvg-logo="https://iptvx.one/picons/vip-premiere.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU+ PREMIERE FHD (Torrent TV)
+#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
+http://127.0.0.1:6878/ace/getstream?id=dc939e7815f47c5db59bd3e9fe4bb61ddecc45a5
 #EXTINF:-1 tvg-id="vip-comedy" tvg-name="VIJU+ COMEDY" tvg-logo="https://iptvx.one/picons/vip-comedy.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU+ COMEDY HD
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://list.onlinetv-sochi.ru:8080/live/arx.php?id=tv1000_comedy_hd&token=Ym9yeW43ODpMYW5jZXIxNg==
+#EXTINF:-1 tvg-id="vip-comedy" tvg-name="VIJU+ COMEDY" tvg-logo="https://iptvx.one/picons/vip-comedy.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU+ COMEDY FHD (Torrent TV)
+#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
+http://127.0.0.1:6878/ace/getstream?id=8c7b8be6682d84e033352724243719378c3e1540
 #EXTINF:-1 tvg-id="vip-serial" tvg-name="VIJU+ SERIAL HD" tvg-logo="https://iptvx.one/picons/vip-serial.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU+ SERIAL
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://list.onlinetv-sochi.ru:8080/live/arx.php?id=viasat_golf_hd&token=Ym9yeW43ODpMYW5jZXIxNg==
+#EXTINF:-1 tvg-id="vip-serial" tvg-name="VIJU+ SERIAL" tvg-logo="https://iptvx.one/picons/vip-serial.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU+ SERIAL FHD (Torrent TV)
+#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
+http://127.0.0.1:6878/ace/getstream?id=d13dd140058b7a528959e2b709aca4111b7cc076
 #EXTINF:-1 tvg-id="tv1000" tvg-name="VIJU TV1000 HD" tvg-logo="https://iptvx.one/picons/tv1000.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU TV1000
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://list.onlinetv-sochi.ru:8080/live/arx.php?id=tv1000&token=Ym9yeW43ODpMYW5jZXIxNg==
+#EXTINF:-1 tvg-id="tv1000" tvg-name="VIJU TV1000" tvg-logo="https://iptvx.one/picons/tv1000.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU TV1000 FHD (Torrent TV)
+#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
+http://127.0.0.1:6878/ace/getstream?id=ae0d6d703ef80198263a1a868740cf059eac4e9e
 #EXTINF:-1 tvg-id="tv1000-action" tvg-name="VIJU TV1000 ACTION HD" tvg-logo="https://iptvx.one/picons/tv1000-action.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU TV1000 ACTION
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://list.onlinetv-sochi.ru:8080/live/arx.php?id=tv1000_action&token=Ym9yeW43ODpMYW5jZXIxNg==
+#EXTINF:-1 tvg-id="tv1000-action" tvg-name="VIJU TV1000 ACTION" tvg-logo="https://iptvx.one/picons/tv1000-action.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU TV1000 ACTION FHD (Torrent TV)
+#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
+http://127.0.0.1:6878/ace/getstream?id=05a7dd3bf60e16ed1674cb437e1e00084392285e
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-name="VIJU TV1000 РУССКОЕ HD" tvg-logo="https://iptvx.one/picons/tv1000-russkoe-kino.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU TV1000 РУССКОЕ
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://list.onlinetv-sochi.ru:8080/live/arx.php?id=tv_1000_rus_kino&token=Ym9yeW43ODpMYW5jZXIxNg==
+#EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-name="VIJU TV1000 РУССКОЕ" tvg-logo="https://iptvx.one/picons/tv1000-russkoe-kino.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU TV1000 РУССКОЕ FHD (Torrent TV)
+#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
+http://127.0.0.1:6878/ace/getstream?id=af4baf7f76a3057eeea815c90747860e9fec488a
 #EXTINF:-1 tvg-id="tv1000-worldkino" tvg-name="VIASAT KINO WORLD" tvg-logo="https://iptvx.one/picons/tv1000-worldkino.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIASAT KINO WORLD FHD (Torrent TV)
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://127.0.0.1:6878/ace/getstream?id=f8d38c09a74612b9fabf0206cbd28bc11d6bc27d
@@ -338,18 +359,18 @@ https://liteiptv.ucoz.net/AceServe_15.mov
 #EXTINF:-1 tvg-id="national-geographic" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/NATGEO200.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", NATIONAL GEOGRAPHIC HD (Torrent TV)
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://127.0.0.1:6878/ace/getstream?id=3a08c5a973e162429910f441bf8aa45b24d667e0
-#EXTINF:-1 tvg-id="nat-geo-wild" tvg-name="NAT GEO WILD" tvg-logo="https://iptvx.one/picons/nat-geo-wild.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", NAT GEO WILD HD
+#EXTINF:-1 tvg-id="nat-geo-wild" tvg-name="NAT GEO WILD" tvg-logo="https://iptvx.one/picons/nat-geo-wild.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", NAT GEO WILD HD (Torrent TV)
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://list.onlinetv-sochi.ru:8080/live/channel.php?id=137&token=Ym9yeW43ODpMYW5jZXIxNg==
-#EXTINF:-1 tvg-id="viasat-nature" tvg-name="VIJU NATURE" tvg-logo="https://fast.ntvplus.tv/files/image/79/84/30/-channel!9rl.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", VIJU NATURE HD
+http://127.0.0.1:6878/ace/getstream?id=5347a5417c376ac10cdf9c1a3a26eadbe76c280a
+#EXTINF:-1 tvg-id="viasat-nature" tvg-name="VIJU NATURE" tvg-logo="https://fast.ntvplus.tv/files/image/79/84/30/-channel!9rl.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", VIJU NATURE HD (Torrent TV)
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://list.onlinetv-sochi.ru:8080/live/arx.php?id=viasat_nature&token=Ym9yeW43ODpMYW5jZXIxNg==
-#EXTINF:-1 tvg-id="viasat-explore" tvg-name="VIJU EXPLORE" tvg-logo="https://fast.ntvplus.tv/files/image/80/00/03/-channel!djf.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", VIJU EXPLORE HD
+http://127.0.0.1:6878/ace/getstream?id=2128074a1ebba9d320b148d25001b356f1057dda
+#EXTINF:-1 tvg-id="viasat-explore" tvg-name="VIJU EXPLORE" tvg-logo="https://fast.ntvplus.tv/files/image/80/00/03/-channel!djf.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", VIJU EXPLORE HD (Torrent TV)
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://list.onlinetv-sochi.ru:8080/live/arx.php?id=viasat_explorer&token=Ym9yeW43ODpMYW5jZXIxNg==
-#EXTINF:-1 tvg-id="viasat-history" tvg-name="VIJU HISTORY" tvg-logo="https://ntvplus.tv/files/image/79/84/28/e2e.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", VIJU HISTORY HD
+http://127.0.0.1:6878/ace/getstream?id=192ca66e1e39bec710e286780c49bcc432258636
+#EXTINF:-1 tvg-id="viasat-history" tvg-name="VIJU HISTORY" tvg-logo="https://ntvplus.tv/files/image/79/84/28/e2e.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", VIJU HISTORY HD (Torrent TV)
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://list.onlinetv-sochi.ru:8080/live/arx.php?id=viasat_history&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://127.0.0.1:6878/ace/getstream?id=05a4d3a925f74cd093dfe2313617a97d1b74c6ab
 #EXTINF:-1 tvg-id="viasat-nature-history-hd" tvg-name="VIJU+ PLANET" tvg-logo="https://fast.ntvplus.tv/files/image/79/84/42/-channel!k6r.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", VIJU+ PLANET FHD (Torrent TV)
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://127.0.0.1:6878/ace/getstream?id=0d59f0292f9e5569f4dff50ac4c3c89913b32a7a
