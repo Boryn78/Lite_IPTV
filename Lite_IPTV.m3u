@@ -648,6 +648,9 @@ http://127.0.0.1:6878/ace/getstream?id=fce354f24fe26ca527e2c38b14eb7b0c81f756dd
 #EXTINF:-1 tvg-id="start" tvg-name="СТАРТ HD" tvg-logo="https://iptvx.one/picons/start.png" group-title="🏅 СПОРТ", СТАРТ HD
 #EXTGRP:🏅 СПОРТ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Start.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2Njc4ODU0NywiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY2MTgzNzQ3LCJzZXNzaW9uX2lkIjoiNTRhN2Y1MjliMzE0MDNmOTYyYzllYWNlZDk0MjEyNTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.kNNQwRk9Ng-oS8bvOtnvnj6xOw0cJfVbQ2deDrWLwxc
+#EXTINF:-1 tvg-id="start-triumf" tvg-name="СТАРТ ТРИУМФ HD" tvg-logo="http://media.24h.tv/img/ch/68/e3/68e3f899dec8eaded31c360d479eefb6.png" group-title="🏅 СПОРТ", СТАРТ ТРИУМФ HD
+#EXTGRP:🏅 СПОРТ
+http://57.129.52.16/9186/index.m3u8?token=TvZaTak&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
 #EXTINF:-1 tvg-id="eurosport1" tvg-name="EUROSPORT 1" tvg-logo="https://karnei4.github.io/convert/index_files/eurosport1_hd.png" group-title="🏅 СПОРТ", EUROSPORT 1 HD
 #EXTGRP:🏅 СПОРТ
 http://list.onlinetv-sochi.ru:8080/live/channel.php?id=150&token=Ym9yeW43ODpMYW5jZXIxNg==
