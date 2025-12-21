@@ -215,9 +215,9 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Ruskiy_roman
 #EXTINF:-1 tvg-id="russky-illuzion" tvg-name="РУССКИЙ ИЛЛЮЗИОН" tvg-logo="https://iptvx.one/picons/russky-illuzion.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", РУССКИЙ ИЛЛЮЗИОН (Torrent TV)
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://127.0.0.1:6878/ace/getstream?id=9f476ff8038d54604d17b15e25e57a041372cde1
-#EXTINF:-1 tvg-id="illuzion-plus" tvg-name="ИЛЛЮЗИОН+" tvg-logo="https://iptvx.one/picons/illuzion-plus.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", ИЛЛЮЗИОН+
+#EXTINF:-1 tvg-id="illuzion-plus" tvg-name="ИЛЛЮЗИОН+" tvg-logo="https://iptvx.one/picons/illuzion-plus.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", ИЛЛЮЗИОН+ (Torrent TV)
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://server-2.onlinetv-sochi.ru:8080/live/bol_tv.php?id=abr2/illusionplus/71/copy&token=VmlwaXBUdjpWaXBpcFR2Nzc=|user-agent=VipipTv
+http://127.0.0.1:6878/ace/getstream?id=cc4b12985ef1c75d786cc5fafa5d0deb960312fd
 #EXTINF:-1 tvg-name="КОМЕДИЯ" tvg-logo="https://iptvx.one/picons/russkaya-komedia.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КОМЕДИЯ
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 https://stream-msk-09.ott.tricolor.tv:443/dtv/id422_MSKSG-PVR-1--Komediya/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2Njc4ODU0NywiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY2MTgzNzQ3LCJzZXNzaW9uX2lkIjoiNTRhN2Y1MjliMzE0MDNmOTYyYzllYWNlZDk0MjEyNTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.kNNQwRk9Ng-oS8bvOtnvnj6xOw0cJfVbQ2deDrWLwxc
