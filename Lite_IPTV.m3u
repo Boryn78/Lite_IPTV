@@ -166,7 +166,7 @@ http://list.onlinetv-sochi.ru:8080/live/arx.php?id=tv1000_action&token=Ym9yeW43O
 http://127.0.0.1:6878/ace/getstream?id=05a7dd3bf60e16ed1674cb437e1e00084392285e
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-name="VIJU TV1000 РУССКОЕ HD" tvg-logo="https://iptvx.one/picons/tv1000-russkoe-kino.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU TV1000 РУССКОЕ
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://list.onlinetv-sochi.ru:8080/live/arx.php?id=tv_1000_rus_kino&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-name="VIJU TV1000 РУССКОЕ" tvg-logo="https://iptvx.one/picons/tv1000-russkoe-kino.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU TV1000 РУССКОЕ FHD (Torrent TV)
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://127.0.0.1:6878/ace/getstream?id=af4baf7f76a3057eeea815c90747860e9fec488a
