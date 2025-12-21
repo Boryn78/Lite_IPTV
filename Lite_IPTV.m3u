@@ -188,15 +188,15 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Sapphire_HD.
 #EXTINF:-1 tvg-id="feniks-plus-kino" tvg-name="Феникс+Кино" tvg-logo="https://iptvx.one/picons/feniks-plus-kino.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", ФЕНИКС + КИНО HD (Torrent TV)
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://127.0.0.1:6878/ace/getstream?id=505d4c6259acfea0ee5d9b1f26f7badd447f69f6
-#EXTINF:-1 tvg-id="sony-turbo" tvg-name=".BLACK" tvg-logo="https://iptvx.one/picons/sony-turbo.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", ⬤ BLACK
+#EXTINF:-1 tvg-id="sony-turbo" tvg-name=".BLACK" tvg-logo="https://iptvx.one/picons/sony-turbo.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", ⬤ BLACK HD (Torrent TV)
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://158.101.222.193:88/georgia_play.php?id=black
-#EXTINF:-1 tvg-id="sony-tv" tvg-name=".RED" tvg-logo="https://iptvx.one/picons/sony.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", ⬤ RED
+http://127.0.0.1:6878/ace/getstream?id=d67f201bfdc47d376b6195d50a3ac3ee231a92a5
+#EXTINF:-1 tvg-id="sony-tv" tvg-name=".RED" tvg-logo="https://iptvx.one/picons/sony.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", ⬤ RED HD (Torrent TV)
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://list.onlinetv-sochi.ru:8080/live/arx.php?id=set&token=Ym9yeW43ODpMYW5jZXIxNg==
-#EXTINF:-1 tvg-id="sony-scifi" tvg-name=".SCI-FI" tvg-logo="https://iptvx.one/picons/sony-scifi.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", ⬤ SCI-FI
+http://127.0.0.1:6878/ace/getstream?id=e5546c985741ec758b39030c59ade2f3a311a06e
+#EXTINF:-1 tvg-id="sony-scifi" tvg-name=".SCI-FI" tvg-logo="https://iptvx.one/picons/sony-scifi.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", ⬤ SCI-FI HD (Torrent TV)
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://list.onlinetv-sochi.ru:8080/live/arx.php?id=sonyscifi&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://127.0.0.1:6878/ace/getstream?id=ed6a12719fbc9c9b38c2ce69c065a84f3a9b42e6
 #EXTINF:-1 tvg-id="ntv-xit" tvg-name="НТВ ХИТ" tvg-logo="https://iptvx.one/picons/ntv-xit.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", НТВ ХИТ
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://server-1.onlinetv-sochi.ru/live/server-7.php?id=3781&token=Ym9yeW43ODpMYW5jZXIxNg=
