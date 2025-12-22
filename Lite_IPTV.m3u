@@ -2762,9 +2762,6 @@ http://sirius.greenhosting.ru/Kino24Ru/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="VHS-ка" tvg-logo="https://iptvx.one/picons/vhs-ka.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VHS-ка
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://list.onlinetv-sochi.ru:8080/live/channel.php?id=726&token=Ym9yeW43ODpMYW5jZXIxNg==
-#EXTINF:-1 tvg-name="TV XXI" tvg-id="tvxxi" tvg-logo="https://epg.iptvx.one/picons/tvxxi.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", TV XXI
-#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/tv21/16/playlist.m3u8
 #EXTINF:-1  tvg-name="Музыка 2 International" tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-muzyka-2-international.jpg?itok=QBzJqaoB" group-title="🎵 МУЗЫКА", Музыка 2 International
 #EXTGRP:🎵 МУЗЫКА
 http://kino-1.catcast.tv/content/37742/index.m3u8
