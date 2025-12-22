@@ -376,7 +376,7 @@ http://127.0.0.1:6878/ace/getstream?id=05a4d3a925f74cd093dfe2313617a97d1b74c6ab
 http://127.0.0.1:6878/ace/getstream?id=0d59f0292f9e5569f4dff50ac4c3c89913b32a7a
 #EXTINF:-1 tvg-id="dialogi-o-rybalke" tvg-name="ДИАЛОГИ О РЫБАЛКЕ" tvg-logo="https://karnei4.github.io/convert/index_files/dialogi-o-rybalke.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ДИАЛОГИ О РЫБАЛКЕ
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/dialogi_o_rybalke/16/playlist.m3u8
+http://list.onlinetv-sochi.ru:8080/live/channel.php?id=221&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="dialogi-o-rybalke" tvg-name="ДИАЛОГИ О РЫБАЛКЕ" tvg-logo="https://karnei4.github.io/convert/index_files/dialogi-o-rybalke.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ДИАЛОГИ О РЫБАЛКЕ FHD (Torrent TV)
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://127.0.0.1:6878/ace/getstream?id=8b0600c72af71a12e844135c93c759ce1eb3dfa0
@@ -461,6 +461,9 @@ http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/avto_24
 #EXTINF:-1 tvg-id="avto-plus" tvg-name="АВТО ПЛЮС" tvg-logo="https://iptvx.one/picons/avto-plus.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", АВТО ПЛЮС
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://158.101.222.193:88/georgia_play.php?id=autoplus
+#EXTINF:-1 tvg-id="drive" tvg-name="ДРАЙВ" tvg-logo="https://iptvx.one/picons/drive.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ДРАЙВ (Torrent TV)
+#EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
+http://127.0.0.1:6878/ace/getstream?id=2893ea38cf923c7efcfaf3eead798dd73b2cf2d0
 #EXTINF:-1 tvg-id="muzhskoy" tvg-name="МУЖСКОЙ" tvg-logo="https://iptvx.one/picons/muzhskoy.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", МУЖСКОЙ (Torrent TV)
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://127.0.0.1:6878/ace/getstream?id=6f333af96362664dd566c585601d7c522c9b09e1
@@ -470,9 +473,6 @@ https://stream-msk-08.ott.tricolor.tv:443/dtv/id369_MSKSG-PVR-1--Oruzhie/03/plst
 #EXTINF:-1 tvg-id="bobior" tvg-name="БОБЕР" tvg-logo="https://iptvx.one/picons/bober.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", БОБЕР
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 https://stream-msk-10.ott.tricolor.tv:443/dtv/id162_MSKSG-PVR-1--Bober/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2Njc4ODU0NywiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY2MTgzNzQ3LCJzZXNzaW9uX2lkIjoiNTRhN2Y1MjliMzE0MDNmOTYyYzllYWNlZDk0MjEyNTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.kNNQwRk9Ng-oS8bvOtnvnj6xOw0cJfVbQ2deDrWLwxc
-#EXTINF:-1 tvg-id="drive" tvg-name="ДРАЙВ" tvg-logo="https://iptvx.one/picons/drive.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ДРАЙВ (Torrent TV)
-#EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://127.0.0.1:6878/ace/getstream?id=2893ea38cf923c7efcfaf3eead798dd73b2cf2d0
 #EXTINF:-1 tvg-id="zagorodny" tvg-name="ЗАГОРОДНЫЙ" tvg-logo="http://epg.it999.ru/img2/2463.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ЗАГОРОДНЫЙ
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 https://stream-msk-03.ott.tricolor.tv:443/dtv/id155_MSKSG-PVR-1--Zagorod_TV/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2Njc4ODU0NywiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY2MTgzNzQ3LCJzZXNzaW9uX2lkIjoiNTRhN2Y1MjliMzE0MDNmOTYyYzllYWNlZDk0MjEyNTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.kNNQwRk9Ng-oS8bvOtnvnj6xOw0cJfVbQ2deDrWLwxc
@@ -500,9 +500,9 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=kinozal_20_h
 #EXTINF:-1 tvg-id="pervy-vegetariansky" tvg-name="ПЕРВЫЙ ВЕГЕТАРИАНСКИЙ" tvg-logo="https://iptvx.one/picons/pervy-vegetariansky.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ПЕРВЫЙ ВЕГЕТАРИАНСКИЙ
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 https://stream-msk-03.ott.tricolor.tv:443/dtv/id471_MSKSG-PVR-1--Perviy_Vegetor/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2Njc4ODU0NywiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY2MTgzNzQ3LCJzZXNzaW9uX2lkIjoiNTRhN2Y1MjliMzE0MDNmOTYyYzllYWNlZDk0MjEyNTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.kNNQwRk9Ng-oS8bvOtnvnj6xOw0cJfVbQ2deDrWLwxc
-#EXTINF:-1 tvg-id="tochka-otryva" tvg-name="ТОЧКА ОТРЫВА" tvg-logo="http://epg.it999.ru/img2/617.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ТОЧКА ОТРЫВА
+#EXTINF:-1 tvg-id="tochka-otryva" tvg-name="ТОЧКА ОТРЫВА" tvg-logo="http://epg.it999.ru/img2/617.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ТОЧКА ОТРЫВА (Torrent TV)
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://list.onlinetv-sochi.ru:8080/live/channel.php?id=283&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://127.0.0.1:6878/ace/getstream?id=ee5cd7316e917f156bf8d176a11da98fe403b0b2
 #EXTINF:-1 tvg-id="luxury-hd" tvg-name="LUXURY HD" tvg-logo="http://media.24h.tv/img/ch/21/08/21086553b317f7cf33e0f02489dc89ca.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", LUXURY HD
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Luxury_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2Njc4ODU0NywiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY2MTgzNzQ3LCJzZXNzaW9uX2lkIjoiNTRhN2Y1MjliMzE0MDNmOTYyYzllYWNlZDk0MjEyNTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.kNNQwRk9Ng-oS8bvOtnvnj6xOw0cJfVbQ2deDrWLwxc
