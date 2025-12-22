@@ -227,9 +227,9 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=HD_Dom_Kino_
 #EXTINF:-1 tvg-id="domkino" tvg-name="ДОМ КИНО" tvg-logo="https://iptvx.one/picons/domkino.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", ДОМ КИНО
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 https://stream-msk-13.ott.tricolor.tv:443/dtv/id176_MSKSG-PVR-1--D_Kino/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2Njc4ODU0NywiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY2MTgzNzQ3LCJzZXNzaW9uX2lkIjoiNTRhN2Y1MjliMzE0MDNmOTYyYzllYWNlZDk0MjEyNTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.kNNQwRk9Ng-oS8bvOtnvnj6xOw0cJfVbQ2deDrWLwxc
-#EXTINF:-1 tvg-id="evrokino" tvg-name="ЕВРОКИНО" tvg-logo="https://iptvx.one/picons/eurokino.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", ЕВРОКИНО
+#EXTINF:-1 tvg-id="evrokino" tvg-name="ЕВРОКИНО" tvg-logo="https://iptvx.one/picons/eurokino.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", ЕВРОКИНО HD (Torrent TV)
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/eurokino/16/playlist.m3u8
+http://127.0.0.1:6878/ace/getstream?id=cda16e6d488958942dcd9cd96284c0910dc29cce
 #EXTINF:-1 tvg-id="nst" tvg-name="НСТ" tvg-logo="https://iptvx.one/picons/nst.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", НСТ
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 https://stream-msk-01.ott.tricolor.tv:443/dtv/id518_MSKSG-PVR-1--NST/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2Njc4ODU0NywiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY2MTgzNzQ3LCJzZXNzaW9uX2lkIjoiNTRhN2Y1MjliMzE0MDNmOTYyYzllYWNlZDk0MjEyNTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.kNNQwRk9Ng-oS8bvOtnvnj6xOw0cJfVbQ2deDrWLwxc
@@ -2280,7 +2280,7 @@ http://127.0.0.1:6878/ace/getstream?id=122b81e6c37b49a37c3b1984efaf5626371d5df5
 http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/favmovie/16/playlist.m3u8
 #EXTINF:-1 tvg-id="mir-seriala" tvg-name="МИР СЕРИАЛА" tvg-logo="https://iptvx.one/picons/mir-seriala.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", МИР СЕРИАЛА
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/mir_seriala/126/playlist.m3u8
+http://list.onlinetv-sochi.ru:8080/live/channel.php?id=265&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="doverie" tvg-name="Москва. Доверие" tvg-logo="https://iptvx.one/picons/doverie.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", МОСКВА ДОВЕРИЕ
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
