@@ -128,21 +128,21 @@ http://127.0.0.1:6878/ace/getstream?id=1b74777f3b2121d067457fc554beb5e1c26b6cd8
 #EXTINF:-1 tvg-id="amedia-premium" tvg-name="AMEDIA PREMIUM" tvg-logo="https://iptvx.one/picons/amedia-premium.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", AMEDIA PREMIUM HD (Torrent TV)
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://127.0.0.1:6878/ace/getstream?id=5988dc4ef60bf2f77939026578ac80771f2938c2
-#EXTINF:-1 tvg-id="vip-megahit" tvg-name="VIJU+ MEGAHIT HD" tvg-logo="https://iptvx.one/picons/vip-megahit.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU+ MEGAHIT HD
+#EXTINF:-1 tvg-id="vip-megahit" tvg-name="VIJU+ MEGAHIT HD" tvg-logo="https://iptvx.one/picons/vip-megahit.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU+ MEGAHIT
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://list.onlinetv-sochi.ru:8080/live/arx.php?id=tv1000_megahit_hd&token=Ym9yeW43ODpMYW5jZXIxNg==
+https://flussonic.mkpnet.ru/tv-3d1cedf99303d057/video.m3u8
 #EXTINF:-1 tvg-id="vip-megahit" tvg-name="VIJU+ MEGAHIT" tvg-logo="https://iptvx.one/picons/vip-megahit.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU+ MEGAHIT FHD (Torrent TV)
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://127.0.0.1:6878/ace/getstream?id=d83992b759e6227f7cc9a20e4e4dae1b58e645c8
-#EXTINF:-1 tvg-id="vip-premiere" tvg-name="VIJU+ PREMIERE HD" tvg-logo="https://iptvx.one/picons/vip-premiere.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU+ PREMIERE HD
+#EXTINF:-1 tvg-id="vip-premiere" tvg-name="VIJU+ PREMIERE HD" tvg-logo="https://iptvx.one/picons/vip-premiere.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU+ PREMIERE
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://list.onlinetv-sochi.ru:8080/live/arx.php?id=tv1000_premium_hd&token=Ym9yeW43ODpMYW5jZXIxNg==
+https://flussonic.mkpnet.ru/tv-e107d21a90cb808f/video.m3u8
 #EXTINF:-1 tvg-id="vip-premiere" tvg-name="VIJU+ PREMIERE" tvg-logo="https://iptvx.one/picons/vip-premiere.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU+ PREMIERE FHD (Torrent TV)
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://127.0.0.1:6878/ace/getstream?id=dc939e7815f47c5db59bd3e9fe4bb61ddecc45a5
-#EXTINF:-1 tvg-id="vip-comedy" tvg-name="VIJU+ COMEDY" tvg-logo="https://iptvx.one/picons/vip-comedy.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU+ COMEDY HD
+#EXTINF:-1 tvg-id="vip-comedy" tvg-name="VIJU+ COMEDY" tvg-logo="https://iptvx.one/picons/vip-comedy.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU+ COMEDY
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://list.onlinetv-sochi.ru:8080/live/arx.php?id=tv1000_comedy_hd&token=Ym9yeW43ODpMYW5jZXIxNg==
+https://flussonic.mkpnet.ru/tv-c385ec3bab3a3605/video.m3u8
 #EXTINF:-1 tvg-id="vip-comedy" tvg-name="VIJU+ COMEDY" tvg-logo="https://iptvx.one/picons/vip-comedy.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU+ COMEDY FHD (Torrent TV)
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://127.0.0.1:6878/ace/getstream?id=8c7b8be6682d84e033352724243719378c3e1540
