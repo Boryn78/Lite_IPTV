@@ -2467,9 +2467,9 @@ http://127.0.0.1:6878/ace/getstream?infohash=f25b57322b5337df43bfde801e03f703637
 #EXTINF:-1 tvg-id="nasha-sibir-4k" tvg-name="НАША СИБИРЬ 4K" tvg-logo="https://karnei4.github.io/convert/index_files/nasha-sibir-4k.png" group-title="📡 ULTRA HD", НАША СИБИРЬ 4К (Torrent TV)
 #EXTGRP:📡 ULTRA HD
 http://127.0.0.1:6878/ace/getstream?id=4b7237f2e654d6c1e03ece1d2fffc249e0324ae6
-#EXTINF:-1 tvg-id="love-nature-4k" tvg-name="LOVE NATURE 4K" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/LOVENATURE4K200.png" group-title="📡 ULTRA HD", LOVE NATURE 4K
+#EXTINF:-1 tvg-id="love-nature-4k" tvg-name="LOVE NATURE 4K" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/LOVENATURE4K200.png" group-title="📡 ULTRA HD", LOVE NATURE 4K (Torrent TV)
 #EXTGRP:📡 ULTRA HD
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+http://127.0.0.1:6878/ace/getstream?infohash=cd8c7fcc7fb8c597d64b41429e0596887e097e54&pid=38900686757
 #EXTINF:-1 tvg-id="no_epg_xxx" tvg-name="PORN CLASSIC" tvg-logo="https://s.rbk.ru/v1_companies_s3/media/trademarks/0737acd5-1854-4f3c-9521-2b9d82c4d54e.jpg" group-title="💘 ВЗРОСЛЫЕ", PORN CLASSIC
 #EXTGRP:💘 ВЗРОСЛЫЕ
 http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
