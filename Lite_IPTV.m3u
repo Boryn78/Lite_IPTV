@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG_NOARCH" Num="channel-id="
-#EXTINF:-1 tvg-logo="https://appteka.store/get/e2Uj1_E-CKJz00QOqk7TRLeKEHGO71WuxhOQ2ASYk-jEq0iB3sJmPcFAYtcWRdFSahy0WtpQZQv0frwRr9rfRonr-A==/58d2156033e0d71344a166ec5ed4dccf8a9d3936.png" group-title="🔺 ИНФОКАНАЛ 🔺", Для каналов (Torrent TV) запустите AceServe 1.5
+#EXTINF:-1 tvg-logo="https://liteiptv.ucoz.net/AceServe15.png" group-title="🔺 ИНФОКАНАЛ 🔺", Для каналов (Torrent TV) запустите AceServe 1.5
 #EXTGRP:🔺 ИНФОКАНАЛ 🔺
 https://liteiptv.ucoz.net/AceServe_15.mov
 #EXTINF:-1 tvg-id="pervy" tvg-name="ПЕРВЫЙ КАНАЛ HD" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="🇷🇺 ФЕДЕРАЛЬНЫЕ HD", ПЕРВЫЙ КАНАЛ HD
