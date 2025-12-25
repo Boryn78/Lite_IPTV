@@ -113,7 +113,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
 #EXTGRP:🇷🇺 ФЕДЕРАЛЬНЫЕ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
-#EXTINF:-1 tvg-name="Для каналов (Torrent TV) запустите AceServe 1.5" tvg-logo="https://appteka.store/get/e2Uj1_E-CKJz00QOqk7TRLeKEHGO71WuxhOQ2ASYk-jEq0iB3sJmPcFAYtcWRdFSahy0WtpQZQv0frwRr9rfRonr-A==/58d2156033e0d71344a166ec5ed4dccf8a9d3936.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", Для каналов (Torrent TV) запустите AceServe 1.5
+#EXTINF:-1 tvg-name="Для каналов (Torrent TV) запустите AceServe 1.5" tvg-logo="https://liteiptv.ucoz.net/AceServe15.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", Для каналов (Torrent TV) запустите AceServe 1.5
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 https://liteiptv.ucoz.net/AceServe_15.mov
 #EXTINF:-1 tvg-id="amedia1" tvg-name="AMEDIA 1" tvg-logo="https://iptvx.one/picons/amedia1.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", AMEDIA 1
@@ -242,7 +242,7 @@ http://127.0.0.1:6878/ace/getstream?id=94ed8b55a5e30f9ce93b018c80fba3c0a29a3ce6
 #EXTINF:-1 tvg-id="kinosvidanie" tvg-name="КИНОСВИДАНИЕ" tvg-logo="https://iptvx.one/picons/kinosvidanie.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНОСВИДАНИЕ HD (Torrent TV)
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://127.0.0.1:6878/ace/getstream?id=f5302ed56cf6af61378b2527524398558d9cddde
-#EXTINF:-1 tvg-name="Для каналов (Torrent TV) запустите AceServe 1.5" tvg-logo="https://appteka.store/get/e2Uj1_E-CKJz00QOqk7TRLeKEHGO71WuxhOQ2ASYk-jEq0iB3sJmPcFAYtcWRdFSahy0WtpQZQv0frwRr9rfRonr-A==/58d2156033e0d71344a166ec5ed4dccf8a9d3936.png" group-title="🎞️ КИНОЗАЛЫ", Для каналов (Torrent TV) запустите AceServe 1.5
+#EXTINF:-1 tvg-name="Для каналов (Torrent TV) запустите AceServe 1.5" tvg-logo="https://liteiptv.ucoz.net/AceServe15.png" group-title="🎞️ КИНОЗАЛЫ", Для каналов (Torrent TV) запустите AceServe 1.5
 #EXTGRP:🎞️ КИНОЗАЛЫ
 https://liteiptv.ucoz.net/AceServe_15.mov
 #EXTINF:-1 tvg-id="khit-hd" tvg-name="ХИТ HD" tvg-logo="https://iptvx.one/picons/khit.png" group-title="🎞️ КИНОЗАЛЫ", ХИТ HD
@@ -353,7 +353,7 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kinozal_6.m3
 #EXTINF:-1 tvg-name="Зал 3 (Ментовские войны)" tvg-id="zal-03-tricolor" tvg-logo="https://epg.iptvx.one/picons/zal-03-tricolor.png" group-title="🎞️ КИНОЗАЛЫ", МЕНТОВСКИЕ ВОЙНЫ
 #EXTGRP:🎞️ КИНОЗАЛЫ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kinozal_3.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2Njc4ODU0NywiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY2MTgzNzQ3LCJzZXNzaW9uX2lkIjoiNTRhN2Y1MjliMzE0MDNmOTYyYzllYWNlZDk0MjEyNTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.kNNQwRk9Ng-oS8bvOtnvnj6xOw0cJfVbQ2deDrWLwxc
-#EXTINF:-1 tvg-name="Для каналов (Torrent TV) запустите AceServe 1.5" tvg-logo="https://appteka.store/get/e2Uj1_E-CKJz00QOqk7TRLeKEHGO71WuxhOQ2ASYk-jEq0iB3sJmPcFAYtcWRdFSahy0WtpQZQv0frwRr9rfRonr-A==/58d2156033e0d71344a166ec5ed4dccf8a9d3936.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", Для каналов (Torrent TV) запустите AceServe 1.5
+#EXTINF:-1 tvg-name="Для каналов (Torrent TV) запустите AceServe 1.5" tvg-logo="https://liteiptv.ucoz.net/AceServe15.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", Для каналов (Torrent TV) запустите AceServe 1.5
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 https://liteiptv.ucoz.net/AceServe_15.mov
 #EXTINF:-1 tvg-id="national-geographic" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/NATGEO200.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", NATIONAL GEOGRAPHIC HD (Torrent TV)
@@ -548,7 +548,7 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kinozal_9.m3
 #EXTINF:-1 tvg-name="Зал 5" tvg-id="zal-05-tricolor" tvg-logo="https://epg.iptvx.one/picons/zal-05-tricolor.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", МИР БЕЗ ГРАНИЦ
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 https://stream-msk-14.ott.tricolor.tv/dtv/id925_MSKSG-PVR-1--Kinozal_5/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2Njc4ODU0NywiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY2MTgzNzQ3LCJzZXNzaW9uX2lkIjoiNTRhN2Y1MjliMzE0MDNmOTYyYzllYWNlZDk0MjEyNTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.kNNQwRk9Ng-oS8bvOtnvnj6xOw0cJfVbQ2deDrWLwxc
-#EXTINF:-1 tvg-name="Для каналов (Torrent TV) запустите AceServe 1.5" tvg-logo="https://appteka.store/get/e2Uj1_E-CKJz00QOqk7TRLeKEHGO71WuxhOQ2ASYk-jEq0iB3sJmPcFAYtcWRdFSahy0WtpQZQv0frwRr9rfRonr-A==/58d2156033e0d71344a166ec5ed4dccf8a9d3936.png" group-title="🏅 СПОРТ", Для каналов (Torrent TV) запустите AceServe 1.5
+#EXTINF:-1 tvg-name="Для каналов (Torrent TV) запустите AceServe 1.5" tvg-logo="https://liteiptv.ucoz.net/AceServe15.png" group-title="🏅 СПОРТ", Для каналов (Torrent TV) запустите AceServe 1.5
 #EXTGRP:🏅 СПОРТ
 https://liteiptv.ucoz.net/AceServe_15.mov
 #EXTINF:-1 tvg-id="match-tv" tvg-name="МАТЧ! ТВ" tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="🏅 СПОРТ", МАТЧ! HD
@@ -626,7 +626,7 @@ http://194.143.148.28:8080/KHL_HD/index.m3u8
 #EXTINF:-1 tvg-name="KHL Prime" tvg-logo="https://beeline.kz/binaries/content/gallery/about/beetv_logos/last/711.png" group-title="🏅 СПОРТ", KHL PRIME FHD (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=dcda9de85f7d662c5c3c2efd74eca0fb5c6aab3b
-#EXTINF:-1 tvg-name="Для каналов (Torrent TV) запустите AceServe 1.5" tvg-logo="https://appteka.store/get/e2Uj1_E-CKJz00QOqk7TRLeKEHGO71WuxhOQ2ASYk-jEq0iB3sJmPcFAYtcWRdFSahy0WtpQZQv0frwRr9rfRonr-A==/58d2156033e0d71344a166ec5ed4dccf8a9d3936.png" group-title="📡 ULTRA HD", Для каналов (Torrent TV) запустите AceServe 1.5
+#EXTINF:-1 tvg-name="Для каналов (Torrent TV) запустите AceServe 1.5" tvg-logo="https://liteiptv.ucoz.net/AceServe15.png" group-title="📡 ULTRA HD", Для каналов (Torrent TV) запустите AceServe 1.5
 #EXTGRP:📡 ULTRA HD
 https://liteiptv.ucoz.net/AceServe_15.mov
 #EXTINF:-1 tvg-id="ultra-hd-cinema" tvg-name="ULTRA HD CINEMA" tvg-logo="https://www.msk-ix.ru/images/1423922.png" group-title="📡 ULTRA HD", ULTRA HD CINEMA (Torrent TV)
@@ -703,7 +703,7 @@ http://127.0.0.1:6878/ace/getstream?id=c3aa52aab6bd48c3b79189410fbf716f2e4dd293
 #EXTGRP:📡 ULTRA HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://127.0.0.1:6878/ace/getstream?id=9214a597a38ed669aba1fe73351a580b1a77ce6e
-#EXTINF:-1 tvg-name="Для каналов (Torrent TV) запустите AceServe 1.5" tvg-logo="https://appteka.store/get/e2Uj1_E-CKJz00QOqk7TRLeKEHGO71WuxhOQ2ASYk-jEq0iB3sJmPcFAYtcWRdFSahy0WtpQZQv0frwRr9rfRonr-A==/58d2156033e0d71344a166ec5ed4dccf8a9d3936.png" group-title="🧸 ДЕТСКИЕ", Для каналов (Torrent TV) запустите AceServe 1.5
+#EXTINF:-1 tvg-name="Для каналов (Torrent TV) запустите AceServe 1.5" tvg-logo="https://liteiptv.ucoz.net/AceServe15.png" group-title="🧸 ДЕТСКИЕ", Для каналов (Torrent TV) запустите AceServe 1.5
 #EXTGRP:🧸 ДЕТСКИЕ
 https://liteiptv.ucoz.net/AceServe_15.mov
 #EXTINF:-1 tvg-id="sts-kids-hd" tvg-name="СТС KIDS" tvg-logo="https://iptvx.one/picons/sts-kids-hd.png" group-title="🧸 ДЕТСКИЕ", СТС KIDS
