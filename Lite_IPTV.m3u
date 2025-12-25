@@ -2029,9 +2029,15 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=NIK_SD.m3u8&
 #EXTINF:-1 tvg-id="setanta-sports2" tvg-name="SETANTA SPORTS 2" tvg-logo="https://iptvx.one/picons/setanta-sports-plus.png" group-title="🏅 СПОРТ", SETANTA SPORTS 2 FHD (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c
-#EXTINF:-1 tvg-id="okko-football" tvg-name="ОККО ФУТБОЛ" tvg-logo="https://iptvx.one/picons/okko-football.png" group-title="🏅 СПОРТ", ОККО ФУТБОЛ FHD 50
+#EXTINF:-1 tvg-id="okko-football" tvg-name="ОККО ФУТБОЛ" tvg-logo="https://iptvx.one/picons/okko-football.png" group-title="🏅 СПОРТ", ОККО ФУТБОЛ FHD
 #EXTGRP:🏅 СПОРТ
 http://57.129.52.16/9170/index.m3u8?token=TvZaTak&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="okko-sport" tvg-name="Окко.Спорт" tvg-logo="https://epg.iptvx.one/picons/okko-sport.png" group-title="🏅 СПОРТ", ОККО СПОРТ FHD
+#EXTGRP:🏅 СПОРТ
+http://57.129.52.16/9184/index.m3u8?token=TvZaTak&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="okko-sport-2" tvg-name="Окко.Прайм Спорт" tvg-logo="https://epg.iptvx.one/picons/okko-sport-2.png" group-title="🏅 СПОРТ", ОККО ПРАЙМ СПОРТ FHD
+#EXTGRP:🏅 СПОРТ
+http://57.129.52.16/9183/index.m3u8?token=TvZaTak&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
 #EXTINF:-1 tvg-id="anekdottv" tvg-name="АНЕКДОТ ТВ" tvg-logo="https://mt.media/upload/iblock/8f2/8f2609d7444d9266d2b9b2c1bb73068d.png" group-title="👀 РАЗНОЕ", АНЕКДОТ ТВ
 #EXTGRP:👀 РАЗНОЕ
 https://stream-msk-06.ott.tricolor.tv:443/dtv/id358_MSKSG-PVR-1--Anekdot_TV/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2Njc4ODU0NywiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY2MTgzNzQ3LCJzZXNzaW9uX2lkIjoiNTRhN2Y1MjliMzE0MDNmOTYyYzllYWNlZDk0MjEyNTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.kNNQwRk9Ng-oS8bvOtnvnj6xOw0cJfVbQ2deDrWLwxc
