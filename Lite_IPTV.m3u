@@ -690,7 +690,7 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Sportivnii.m
 #EXTINF:-1 tvg-id="kino-ultra-hd" tvg-name="КИНО UHD" tvg-logo="https://karnei4.github.io/convert/kino_uhd.png" group-title="📡 ULTRA HD", КИНО UHD (Torrent TV)
 #EXTGRP:📡 ULTRA HD
 http://127.0.0.1:6878/ace/getstream?id=038b448c810cad19a2a9e615d94696a23141e379
-#EXTINF:-1 tvg-id="bcu-premiere-4k" tvg-name="BCU PREMIERE ULTRA 4K" tvg-logo="https://epg.openboxfan.com/picon/bcupremiereultra4k.png" group-title="📡 ULTRA HD", BCU PREMIERE ULTRA 4K (Torrent TV)
+#EXTINF:-1 tvg-id="bcu-premiere-4k" tvg-name="BCU PREMIERE ULTRA 4K" tvg-logo="https://epg.iptvx.one/picons/bcu-premiere-4k.png" group-title="📡 ULTRA HD", BCU PREMIERE ULTRA 4K (Torrent TV)
 #EXTGRP:📡 ULTRA HD
 http://127.0.0.1:6878/ace/getstream?id=30b1dba65edffa2c0c8ade75257508b00d8a61ea
 #EXTINF:-1 tvg-id="bcu-ultra4k" tvg-name="BCU Ultra 4K" tvg-logo="https://karnei4.github.io/convert/img/3906.png" group-title="📡 ULTRA HD", BCU ULTRA 4K (Torrent tV)
