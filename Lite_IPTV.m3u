@@ -681,7 +681,7 @@ http://127.0.0.1:6878/ace/getstream?id=1acaf203502983cd2993c6835bf0cbde8d016c3d
 #EXTINF:-1 tvg-id="MMA-TV" tvg-name="MMA-TV" tvg-logo="https://ntvplus.tv/files/image/88/57/77/7z5.png" group-title="🏅 СПОРТ", MMA-TV.COM (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?infohash=f562d8a45a5475599fbd2ad18886b0cc847f75e4
-#EXTINF:-1 tvg-id="ufc" tvg-name="UFC HD" tvg-logo="https://karnei4.github.io/convert/UFC_HD.png" group-title="🏅 СПОРТ", UDAR HD (Torrent TV)
+#EXTINF:-1 tvg-id="ufc" tvg-name="UFC HD" tvg-logo="https://epg.iptvx.one/picons/ufc.png" group-title="🏅 СПОРТ", UDAR HD (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=d2374e2375a4275738e0dbed2f47d0114ad1cb64
 #EXTINF:-1 tvg-id="konny-mir" tvg-name="КОННЫЙ МИР" tvg-logo="https://iptvx.one/picons/konny-mir.png" group-title="🏅 СПОРТ", КОННЫЙ МИР HD (Torrent TV)
