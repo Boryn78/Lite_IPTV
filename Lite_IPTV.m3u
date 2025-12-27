@@ -2135,6 +2135,9 @@ http://127.0.0.1:6878/ace/getstream?id=49b734a5a3365674480089264be00ae28fabb640
 #EXTINF:-1 tvg-id="sky-sport-f1-de" tvg-name="Sky Sport F1 [DE]" tvg-logo="https://iptvx.one/picons/sky-sport-f1-de.png" group-title="🏅 СПОРТ", SKY SPORT F1 HD (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?infohash=b0999d6facfbae2944b9c7bba442eeea9cd9d4b2
+#EXTINF:-1 tvg-id="motorvision-p-de" tvg-name="Motorvision+ [DE]" tvg-logo="https://epg.iptvx.one/picons/motorvision-p-de.png" group-title="🏅 СПОРТ", MOTORVISION+ (Torrent TV)
+#EXTGRP:🏅 СПОРТ
+http://127.0.0.1:6878/ace/getstream?infohash=acd7e3ae185a376e6596e60a414bebbf3321b37f
 #EXTINF:-1 tvg-name="DAZN Bar 1 HD" tvg-logo="https://iptvx.one/picons/daznbar1.png" group-title="🏅 СПОРТ", DAZN 1 BAR HD (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
@@ -2144,6 +2147,9 @@ http://127.0.0.1:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
 #EXTINF:-1 tvg-name="ESPN [US]" tvg-id="espn-us" tvg-logo="https://epg.iptvx.one/picons/espn-us.png" group-title="🏅 СПОРТ", ESPN [US] HD (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=4b4907de51ec11087d4bed5876f2a0c68264f442
+#EXTINF:-1 tvg-name="ESPN2 [US]" tvg-id="espn2-us" tvg-logo="https://epg.iptvx.one/picons/espn2-us.png" group-title="🏅 СПОРТ", ESPN2 [US] (Torrent TV)
+#EXTGRP:🏅 СПОРТ
+http://127.0.0.1:6878/ace/getstream?id=664eb5fe460b96941aed633959a845b185cd8394
 #EXTINF:-1 tvg-name="beIN Sports Haber [TR]" tvg-logo="https://iptvx.one/picons/bein-sports-haber-tr.png" group-title="🏅 СПОРТ", BEIN SPORTS HABER (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?infohash=22d5b3999d11a4f1bad9da8fdaa9034935fb2706
@@ -2177,6 +2183,9 @@ http://127.0.0.1:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
 #EXTINF:-1 tvg-id="sky-sports-maine" tvg-name="Sky Sports Main Event HD" tvg-logo="https://iptvx.one/picons/sky-sports-maine.png" group-title="🏅 СПОРТ", SKY SPORTS MAIN EVENT (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
+#EXTINF:-1 tvg-id="sky-sports-apl" tvg-name="Sky Sports Premier League [UK]" tvg-logo="https://epg.iptvx.one/picons/sky-sports-apl.png" group-title="🏅 СПОРТ", SKY SPORTS PREMIER LEAGUE UK (Torrent TV)
+#EXTGRP:🏅 СПОРТ
+http://127.0.0.1:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
 #EXTINF:-1 tvg-id="sky-sport-bl1" tvg-name="Sky Sport Bundesliga 1 HD" tvg-logo="https://iptvx.one/picons/sky-sport-bl1.png" group-title="🏅 СПОРТ", SKY SPORT BUNDESLIGA 1 HD (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=38d8789a448dd0eaf99e0274b555974e4e8f3f3b
