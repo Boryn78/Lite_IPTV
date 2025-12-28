@@ -557,7 +557,7 @@ https://cdngw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=match.m3u8
 #EXTINF:-1 tvg-id="match-tv" tvg-name="МАТЧ! ТВ" tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="🏅 СПОРТ", МАТЧ! FHD 50 (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
-#EXTINF:-1 tvg-id="match-football1" tvg-name="МАТЧ! ФУТБОЛ 1" tvg-logo="https://iptvx.one/picons/match-football1.png" group-title="🏅 СПОРТ", МАТЧ! ФУТБОЛ 1
+#EXTINF:-1 tvg-id="match-football1" tvg-name="МАТЧ! ФУТБОЛ 1" tvg-logo="https://iptvx.one/picons/match-football1.png" group-title="🏅 СПОРТ", МАТЧ! ФУТБОЛ 1 HD
 #EXTGRP:🏅 СПОРТ
 http://flu.ttk.mx:90/Football_1HD/mono.m3u8?token=hs10e
 #EXTINF:-1 tvg-id="match-football1" tvg-name="МАТЧ! ФУТБОЛ 1" tvg-logo="https://iptvx.one/picons/match-football1.png" group-title="🏅 СПОРТ", МАТЧ! ФУТБОЛ 1 FHD 50 (Torrent TV)
@@ -565,13 +565,13 @@ http://flu.ttk.mx:90/Football_1HD/mono.m3u8?token=hs10e
 http://127.0.0.1:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
 #EXTINF:-1 tvg-id="match-football2" tvg-name="МАТЧ! ФУТБОЛ 2" tvg-logo="https://iptvx.one/picons/match-football2.png" group-title="🏅 СПОРТ", МАТЧ! ФУТБОЛ 2 HD
 #EXTGRP:🏅 СПОРТ
-http://server-2.onlinetv-sochi.ru:8080/live/bol_tv.php?id=abr2/NTVplusfut2HD/71/copy&token=VmlwaXBUdjpWaXBpcFR2Nzc=|user-agent=VipipTv
+http://flu.ttk.mx:90/Football_2HD/mono.m3u8?token=hs10e
 #EXTINF:-1 tvg-id="match-football2" tvg-name="МАТЧ! ФУТБОЛ 2" tvg-logo="https://iptvx.one/picons/match-football2.png" group-title="🏅 СПОРТ", МАТЧ! ФУТБОЛ 2 FHD 50 (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=ffbf8c687c788d9a1a7c651e24802ee773ff3f04
 #EXTINF:-1 tvg-id="match-football3" tvg-name="МАТЧ! ФУТБОЛ 3" tvg-logo="https://iptvx.one/picons/match-football3.png" group-title="🏅 СПОРТ", МАТЧ! ФУТБОЛ 3 HD
 #EXTGRP:🏅 СПОРТ
-http://server-2.onlinetv-sochi.ru:8080/live/bol_tv.php?id=abr2/NTVplusfut3HD/71/copy&token=VmlwaXBUdjpWaXBpcFR2Nzc=|user-agent=VipipTv
+http://flu.ttk.mx:90/Football_3HD/mono.m3u8?token=hs10e
 #EXTINF:-1 tvg-id="match-football3" tvg-name="МАТЧ! ФУТБОЛ 3" tvg-logo="https://iptvx.one/picons/match-football3.png" group-title="🏅 СПОРТ", МАТЧ! ФУТБОЛ 3 FHD 50 (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
