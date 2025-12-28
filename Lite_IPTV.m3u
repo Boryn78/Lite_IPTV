@@ -2923,25 +2923,28 @@ http://127.0.0.1:6878/ace/getstream?id=6af72b6047bed580ad57c036ce635dd93233abb6
 http://kino-1.catcast.tv/content/37742/index.m3u8
 #EXTINF:-1 tvg-name="BCU HISTORY HD" tvg-logo="https://bcumedia.pro/images/homepage/ch_13.png" group-title="🎞️ КИНОЗАЛЫ", BCU HISTORY HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
-http://127.0.0.1:6878/ace/getstream?id=21fcd8e73936b64435d07832c2d8382609f48d6d&.mp4
+http://127.0.0.1:6878/ace/getstream?id=21fcd8e73936b64435d07832c2d8382609f48d6d
 #EXTINF:-1 tvg-name="BCU Kinorating HD" tvg-logo="https://bcumedia.pro/images/homepage/ch_4.png" group-title="🎞️ КИНОЗАЛЫ", BCU KINORATING HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
-http://127.0.0.1:6878/ace/getstream?id=57401c50a256f68da4bc9ebe9965e2f12a9d20e2&.mp4
+http://127.0.0.1:6878/ace/getstream?id=57401c50a256f68da4bc9ebe9965e2f12a9d20e2
 #EXTINF:-1 tvg-name="BCU MARVEL HD" tvg-logo="https://bcumedia.pro/images/homepage/ch_5.png" group-title="🎞️ КИНОЗАЛЫ", BCU MARVEL HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
-http://127.0.0.1:6878/ace/getstream?id=bbb0e5dbb5f0059de7b9ffc0cbcd1f9728449fd7&.mp4
-#EXTINF:-1 tvg-name="BCU REALITY HD" tvg-logo="https://iptvx.one/picons/bcu-reality.png" group-title="🎞️ КИНОЗАЛЫ", BCU REALITY HD (Torrent TV)
+http://127.0.0.1:6878/ace/getstream?id=bbb0e5dbb5f0059de7b9ffc0cbcd1f9728449fd7
+#EXTINF:-1 tvg-name="BCU REALITY HD"  tvg-logo="https://iptvx.one/picons/bcu-reality.png" group-title="🎞️ КИНОЗАЛЫ", BCU REALITY HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
-http://127.0.0.1:6878/ace/getstream?id=22da1ac893c3daf4035261c84e828c8020648187&.mp4
+http://127.0.0.1:6878/ace/getstream?id=22da1ac893c3daf4035261c84e828c8020648187
+#EXTINF:-1 tvg-name="BCU Media HD" tvg-id="bcu-media" tvg-logo="https://epg.iptvx.one/picons/bcu-kinozakaz.png" group-title="🎞️ КИНОЗАЛЫ", BCU CHRISTMAS HD (Torrent TV)
+#EXTGRP:🎞️ КИНОЗАЛЫ
+http://127.0.0.1:6878/ace/getstream?id=e51c5d8b3f61796fbe0fca332c5bf13cf0f9ef84
 #EXTINF:-1 tvg-id="cineman" tvg-name="CINEMAN" tvg-logo="https://crdtv.net/b/templates/ottch/cineman.png" group-title="🎞️ КИНОЗАЛЫ", CINEMAN HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
-http://127.0.0.1:6878/ace/getstream?id=00d0649880b17050d8a9ed559fc824f98fd578be&.mp4
+http://127.0.0.1:6878/ace/getstream?id=00d0649880b17050d8a9ed559fc824f98fd578be
 #EXTINF:-1 tvg-id="cineman-top" tvg-name="CINEMAN TOP" tvg-logo="https://crdtv.net/b/templates/ottch/cineman-top.png" group-title="🎞️ КИНОЗАЛЫ", CINEMAN TOP HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
-http://127.0.0.1:6878/ace/getstream?id=21f0299cce733ec3a481135553de468440b3630f&.mp4
+http://127.0.0.1:6878/ace/getstream?id=21f0299cce733ec3a481135553de468440b3630f
 #EXTINF:-1 tvg-id="cineman-rukino" tvg-name="CINEMAN РУКИНО" tvg-logo="https://iptvx.one/picons/cineman-rukino.png" group-title="🎞️ КИНОЗАЛЫ", CINEMAN РУКИНО HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
-http://127.0.0.1:6878/ace/getstream?id=51a8548ddcff18ba9f89c4c4cb6eb359fc24b30b&.mp4
+http://127.0.0.1:6878/ace/getstream?id=51a8548ddcff18ba9f89c4c4cb6eb359fc24b30b
 #EXTINF:-1 tvg-name="6 кадров" tvg-logo="https://www.film.ru/sites/default/files/styles/thumb_1024x450/public/movies/frames/49757978-1573937.jpg" group-title="👀 РАЗНОЕ", 6 КАДРОВ
 #EXTGRP:👀 РАЗНОЕ
 https://stream-msk-18.ott.tricolor.tv/dtv/id1016_MSKSG-PVR-1--Kinozal28_SD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NzM5MjkzMCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY2Nzg4MTMwLCJzZXNzaW9uX2lkIjoiZGI0YjI4N2QyZGUzMzc0OWJhMjVhMjRiZjI4ZWU4NjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.qXzR4zznOY7lTO14FewabEp7IRVEQQbdB6X_ZFQcqGc
