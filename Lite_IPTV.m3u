@@ -2966,6 +2966,9 @@ http://127.0.0.1:6878/ace/getstream?id=36bd5c1fdf09e5e92aa68cc642ae2d4db6694526
 #EXTINF:-1 tvg-name="Смотрим" tvg-logo="https://vgtrk.ru/i/logo-smotrim.svg?v=2.0.0.409" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", СМОТРИМ. ТАЙНЫ И СЛЕДСТВИЕ
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-name="Viasat Kino Comedy" tvg-id="vip-comedy-cee" tvg-logo="https://epg.iptvx.one/picons/vip-comedy-cee.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIASAT KINO COMEDY
+#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
+http://ukr2.ukrainske.tv/493/video.m3u8
 #EXTINF:-1 tvg-name="Plan B" tvg-id="plan-b" tvg-logo="https://epg.iptvx.one/picons/plan-b.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", PLAN B
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://list.onlinetv-sochi.ru:8080/live/arx.php?id=plan_b&token=Ym9yeW43ODpMYW5jZXIxNg==
