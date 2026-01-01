@@ -356,12 +356,21 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kinozal_3.m3
 #EXTINF:-1 tvg-name="Для каналов (Torrent TV) запустите AceServe 1.5" tvg-logo="https://liteiptv.ucoz.net/AceServe15.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", Для каналов (Torrent TV) запустите AceServe 1.5
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 https://liteiptv.ucoz.net/AceServe_15.mov
+#EXTINF:-1 tvg-id="national-geographic" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/NATGEO200.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", NATIONAL GEOGRAPHIC
+#EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
+http://188.225.31.197/bpk-tv/000000034/tve/index.m3u8
 #EXTINF:-1 tvg-id="national-geographic" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/NATGEO200.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", NATIONAL GEOGRAPHIC HD (Torrent TV)
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://127.0.0.1:6878/ace/getstream?id=3a08c5a973e162429910f441bf8aa45b24d667e0
+#EXTINF:-1 tvg-id="nat-geo-wild" tvg-name="NAT GEO WILD" tvg-logo="https://iptvx.one/picons/nat-geo-wild.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", NAT GEO WILD
+#EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
+http://188.225.31.197/bpk-tv/000004474/tve/index.m3u8
 #EXTINF:-1 tvg-id="nat-geo-wild" tvg-name="NAT GEO WILD" tvg-logo="https://iptvx.one/picons/nat-geo-wild.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", NAT GEO WILD HD (Torrent TV)
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://127.0.0.1:6878/ace/getstream?id=5347a5417c376ac10cdf9c1a3a26eadbe76c280a
+#EXTINF:-1 tvg-id="viasat-nature" tvg-name="VIJU NATURE" tvg-logo="https://fast.ntvplus.tv/files/image/79/84/30/-channel!9rl.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", VIJU NATURE
+#EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
+http://188.225.31.197/bpk-tv/000006482/tve/index.m3u8
 #EXTINF:-1 tvg-id="viasat-nature" tvg-name="VIJU NATURE" tvg-logo="https://fast.ntvplus.tv/files/image/79/84/30/-channel!9rl.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", VIJU NATURE HD (Torrent TV)
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://127.0.0.1:6878/ace/getstream?id=2128074a1ebba9d320b148d25001b356f1057dda
@@ -410,6 +419,9 @@ http://list.onlinetv-sochi.ru:8080/live/channel.php?id=147&token=Ym9yeW43ODpMYW5
 #EXTINF:-1 tvg-id="animal-planet" tvg-name="ANIMAL PLANET" tvg-logo="https://iptvx.one/picons/animal-planet-eu.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ANIMAL PLANET HD (Torrent TV)
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://127.0.0.1:6878/ace/getstream?infohash=568159b1059c7bbe3eaf40f123541fef86ef83cb
+#EXTINF:-1 tvg-id="discovery-channel" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://iptvx.one/picons/discovery-channel.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", DISCOVERY CHANNEL
+#EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
+http://188.225.31.197/bpk-tv/000001496/tve/index.m3u8
 #EXTINF:-1 tvg-id="discovery-channel" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://iptvx.one/picons/discovery-channel.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", DISCOVERY CHANNEL HD (Torrent TV)
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://127.0.0.1:6878/ace/getstream?id=09f099db0453cf7517e133533aadfd5136eca771
