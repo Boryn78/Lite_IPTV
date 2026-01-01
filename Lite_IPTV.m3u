@@ -130,7 +130,7 @@ http://127.0.0.1:6878/ace/getstream?id=1b74777f3b2121d067457fc554beb5e1c26b6cd8
 http://127.0.0.1:6878/ace/getstream?id=5988dc4ef60bf2f77939026578ac80771f2938c2
 #EXTINF:-1 tvg-id="vip-megahit" tvg-name="VIJU+ MEGAHIT HD" tvg-logo="https://iptvx.one/picons/vip-megahit.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU+ MEGAHIT HD
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://hls127.freeott.top:8080/ViP_Megahit/video.m3u8
+http://188.225.31.197/bpk-tv/000000869/tve/index.m3u8
 #EXTINF:-1 tvg-id="vip-megahit" tvg-name="VIJU+ MEGAHIT" tvg-logo="https://iptvx.one/picons/vip-megahit.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU+ MEGAHIT FHD (Torrent TV)
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://127.0.0.1:6878/ace/getstream?id=d83992b759e6227f7cc9a20e4e4dae1b58e645c8
@@ -148,7 +148,7 @@ http://188.225.31.197/bpk-tv/000000870/tve/index.m3u8
 http://127.0.0.1:6878/ace/getstream?id=8c7b8be6682d84e033352724243719378c3e1540
 #EXTINF:-1 tvg-id="vip-serial" tvg-name="VIJU+ SERIAL HD" tvg-logo="https://iptvx.one/picons/vip-serial.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU+ SERIAL
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://list.onlinetv-sochi.ru:8080/live/arx.php?id=viasat_golf_hd&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://188.225.31.197/bpk-tv/000004375/tve/index.m3u8
 #EXTINF:-1 tvg-id="vip-serial" tvg-name="VIJU+ SERIAL" tvg-logo="https://iptvx.one/picons/vip-serial.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU+ SERIAL FHD (Torrent TV)
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://127.0.0.1:6878/ace/getstream?id=d13dd140058b7a528959e2b709aca4111b7cc076
@@ -166,7 +166,7 @@ http://188.225.31.197/bpk-tv/000003910/tve/index.m3u8
 http://127.0.0.1:6878/ace/getstream?id=05a7dd3bf60e16ed1674cb437e1e00084392285e
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-name="VIJU TV1000 РУССКОЕ HD" tvg-logo="https://iptvx.one/picons/tv1000-russkoe-kino.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU TV1000 РУССКОЕ
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
+http://188.225.31.197/bpk-tv/000003748/tve/index.m3u8
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-name="VIJU TV1000 РУССКОЕ" tvg-logo="https://iptvx.one/picons/tv1000-russkoe-kino.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU TV1000 РУССКОЕ FHD (Torrent TV)
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://127.0.0.1:6878/ace/getstream?id=af4baf7f76a3057eeea815c90747860e9fec488a
@@ -374,6 +374,9 @@ http://188.225.31.197/bpk-tv/000006482/tve/index.m3u8
 #EXTINF:-1 tvg-id="viasat-nature" tvg-name="VIJU NATURE" tvg-logo="https://fast.ntvplus.tv/files/image/79/84/30/-channel!9rl.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", VIJU NATURE HD (Torrent TV)
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://127.0.0.1:6878/ace/getstream?id=2128074a1ebba9d320b148d25001b356f1057dda
+#EXTINF:-1 tvg-id="viasat-explore" tvg-name="VIJU EXPLORE" tvg-logo="https://fast.ntvplus.tv/files/image/80/00/03/-channel!djf.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", VIJU EXPLORE
+#EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
+http://188.225.31.197/bpk-tv/000004157/tve/index.m3u8
 #EXTINF:-1 tvg-id="viasat-explore" tvg-name="VIJU EXPLORE" tvg-logo="https://fast.ntvplus.tv/files/image/80/00/03/-channel!djf.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", VIJU EXPLORE HD (Torrent TV)
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://127.0.0.1:6878/ace/getstream?id=192ca66e1e39bec710e286780c49bcc432258636
