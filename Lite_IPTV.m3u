@@ -2031,7 +2031,7 @@ https://stream-msk-15.ott.tricolor.tv/dtv/id906_MSKSG-PVR-1--Kinozal_12/03/plst.
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Bollywood.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NzM5MjkzMCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY2Nzg4MTMwLCJzZXNzaW9uX2lkIjoiZGI0YjI4N2QyZGUzMzc0OWJhMjVhMjRiZjI4ZWU4NjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.qXzR4zznOY7lTO14FewabEp7IRVEQQbdB6X_ZFQcqGc
 #EXTINF:-1 tvg-name="ИНДИЯ" tvg-logo="https://iptvx.one/picons/zee-tv.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", ИНДИЯ
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://178.212.71.253:8000/play/59/index.m3u8
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/zee-tv/16/playlist.m3u8
 #EXTINF:-1 tvg-id="setanta-sports" tvg-name="SETANTA SPORTS 1" tvg-logo="https://iptvx.one/picons/setanta-sports.png" group-title="🏅 СПОРТ", SETANTA SPORTS 1 FHD (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
@@ -2040,7 +2040,7 @@ http://127.0.0.1:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kinopokaz_9.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NzM5MjkzMCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY2Nzg4MTMwLCJzZXNzaW9uX2lkIjoiZGI0YjI4N2QyZGUzMzc0OWJhMjVhMjRiZjI4ZWU4NjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.qXzR4zznOY7lTO14FewabEp7IRVEQQbdB6X_ZFQcqGc
 #EXTINF:-1 tvg-id="kvn-tv" tvg-name="КВН ТВ" tvg-logo="https://iptvx.one/picons/kvn-tv.png" group-title="👀 РАЗНОЕ", КВН ТВ
 #EXTGRP:👀 РАЗНОЕ
-http://178.212.71.253:8000/play/119/index.m3u8
+http://95.66.188.74/KVN-TV/mono.m3u8
 #EXTINF:-1 tvg-name="Новый игровой канал" tvg-id="nowy-igrowoj" tvg-logo="https://epg.iptvx.one/picons/nowy-igrowoj.png" group-title="👀 РАЗНОЕ", НОВЫЙ ИГРОВОЙ КАНАЛ
 #EXTGRP:👀 РАЗНОЕ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=NIK_SD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2NzM5MjkzMCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY2Nzg4MTMwLCJzZXNzaW9uX2lkIjoiZGI0YjI4N2QyZGUzMzc0OWJhMjVhMjRiZjI4ZWU4NjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.qXzR4zznOY7lTO14FewabEp7IRVEQQbdB6X_ZFQcqGc
