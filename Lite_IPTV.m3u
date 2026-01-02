@@ -118,10 +118,10 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
 https://liteiptv.ucoz.net/AceServe_15.mov
 #EXTINF:-1 tvg-id="amedia1" tvg-name="AMEDIA 1" tvg-logo="https://iptvx.one/picons/amedia1.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", AMEDIA 1
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://158.101.222.193:88/georgia_play.php?id=amedia
+http://188.225.31.197/bpk-tv/000000710/tve/index.m3u8
 #EXTINF:-1 tvg-id="amedia2" tvg-name="AMEDIA 2" tvg-logo="https://iptvx.one/picons/amedia2.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", AMEDIA 2
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://158.101.222.193:88/georgia_play.php?id=amedia2
+http://188.225.31.197/bpk-tv/000000351/tve/index.m3u8
 #EXTINF:-1 tvg-id="amedia-hit" tvg-name="AMEDIA HIT" tvg-logo="https://iptvx.one/picons/amedia-hit.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", AMEDIA HIT HD (Torrent TV)
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://127.0.0.1:6878/ace/getstream?id=1b74777f3b2121d067457fc554beb5e1c26b6cd8
