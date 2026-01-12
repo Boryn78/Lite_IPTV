@@ -388,7 +388,7 @@ http://127.0.0.1:6878/ace/getstream?id=05a4d3a925f74cd093dfe2313617a97d1b74c6ab
 http://127.0.0.1:6878/ace/getstream?id=0d59f0292f9e5569f4dff50ac4c3c89913b32a7a
 #EXTINF:-1 tvg-id="dialogi-o-rybalke" tvg-name="ДИАЛОГИ О РЫБАЛКЕ" tvg-logo="https://karnei4.github.io/convert/index_files/dialogi-o-rybalke.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ДИАЛОГИ О РЫБАЛКЕ
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://list.onlinetv-sochi.ru:8080/live/channel.php?id=221&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://188.225.31.197/bpk-tv/000003174/tve/index.m3u8
 #EXTINF:-1 tvg-id="dialogi-o-rybalke" tvg-name="ДИАЛОГИ О РЫБАЛКЕ" tvg-logo="https://karnei4.github.io/convert/index_files/dialogi-o-rybalke.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ДИАЛОГИ О РЫБАЛКЕ FHD (Torrent TV)
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://127.0.0.1:6878/ace/getstream?id=8b0600c72af71a12e844135c93c759ce1eb3dfa0
@@ -628,7 +628,7 @@ http://87.120.142.11:18000/Match!
 http://127.0.0.1:6878/ace/getstream?id=822654b2c0db24d1de149cb21fdd44a3b968fbfa
 #EXTINF:-1 tvg-id="viasat-sport" tvg-name="VIJU+ SPORT" tvg-logo="https://iptvx.one/picons/viasat-sport.png" group-title="🏅 СПОРТ", VIJU+ SPORT
 #EXTGRP:🏅 СПОРТ
-http://list.onlinetv-sochi.ru:8080/live/arx.php?id=viasat_sport_hd&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://188.225.31.197/bpk-tv/000000135/tve/index.m3u8
 #EXTINF:-1 tvg-name="KHL" tvg-logo="https://iptvx.one/picons/kxl.png" group-title="🏅 СПОРТ", KHL
 #EXTGRP:🏅 СПОРТ
 http://list.onlinetv-sochi.ru:8080/live/arx.php?id=khl&token=Ym9yeW43ODpMYW5jZXIxNg==
@@ -668,13 +668,13 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Start.m3u8&s
 http://57.129.52.16/9186/index.m3u8?token=TvZaTak&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
 #EXTINF:-1 tvg-id="eurosport1" tvg-name="EUROSPORT 1" tvg-logo="https://karnei4.github.io/convert/index_files/eurosport1_hd.png" group-title="🏅 СПОРТ", EUROSPORT 1 HD
 #EXTGRP:🏅 СПОРТ
-http://list.onlinetv-sochi.ru:8080/live/channel.php?id=150&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://188.225.31.197/bpk-tv/000002472/tve/index.m3u8
 #EXTINF:-1 tvg-id="eurosport1" tvg-name="EUROSPORT 1" tvg-logo="https://karnei4.github.io/convert/index_files/eurosport1_hd.png" group-title="🏅 СПОРТ", EUROSPORT 1 FHD 50 (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
 #EXTINF:-1 tvg-id="eurosport2" tvg-name="EUROSPORT 2" tvg-logo="https://karnei4.github.io/convert/index_files/eurosport2_hd.png" group-title="🏅 СПОРТ", EUROSPORT 2 HD
 #EXTGRP:🏅 СПОРТ
-http://list.onlinetv-sochi.ru:8080/live/channel.php?id=169&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://188.225.31.197/bpk-tv/000002478/tve/index.m3u8
 #EXTINF:-1 tvg-id="eurosport2" tvg-name="EUROSPORT 2" tvg-logo="https://karnei4.github.io/convert/index_files/eurosport2_hd.png" group-title="🏅 СПОРТ", EUROSPORT 2 FHD 50 (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=6176281b9c46a5621a0e88524f8dc621f173b8e0
