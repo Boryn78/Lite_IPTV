@@ -674,7 +674,7 @@ http://188.225.31.197/bpk-tv/000002478/tve/index.m3u8
 http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
 #EXTINF:-1 tvg-id="eurosport2" tvg-name="EUROSPORT 2" tvg-logo="https://karnei4.github.io/convert/index_files/eurosport2_hd.png" group-title="🏅 СПОРТ", EUROSPORT 2 HD
 #EXTGRP:🏅 СПОРТ
-http://188.225.31.197/bpk-tv/000002478/tve/index.m3u8
+http://list.onlinetv-sochi.ru:8080/live/channel.php?id=169&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="eurosport2" tvg-name="EUROSPORT 2" tvg-logo="https://karnei4.github.io/convert/index_files/eurosport2_hd.png" group-title="🏅 СПОРТ", EUROSPORT 2 FHD 50 (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=6176281b9c46a5621a0e88524f8dc621f173b8e0
