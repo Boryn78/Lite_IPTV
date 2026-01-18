@@ -185,9 +185,9 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kineko_HD.m3
 #EXTINF:-1 tvg-id="sapfir" tvg-name="САПФИР HD" tvg-logo="https://iptvx.one/picons/sapfir.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", САПФИР
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Sapphire_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2OTIwNzg3OCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY4NjAzMDc4LCJzZXNzaW9uX2lkIjoiNDI5YjRhY2ExZTYwNzhiYjRiNWFkZmUzOTE4NzMxZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ocWR_EHoAMqhIiGdFr25B9Qfae3pw_YHOzgZ78uyfKo
-#EXTINF:-1 tvg-id="feniks-plus-kino" tvg-name="Феникс+Кино" tvg-logo="https://iptvx.one/picons/feniks-plus-kino.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", ФЕНИКС + КИНО HD (Torrent TV)
+#EXTINF:-1 tvg-id="feniks-plus-kino" tvg-name="Феникс+Кино" tvg-logo="https://iptvx.one/picons/feniks-plus-kino.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", ФЕНИКС + КИНО
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://127.0.0.1:6878/ace/getstream?id=505d4c6259acfea0ee5d9b1f26f7badd447f69f6
+http://188.225.31.197/bpk-tv/000000125/tve/index.m3u8
 #EXTINF:-1 tvg-id="sony-turbo" tvg-name=".BLACK" tvg-logo="https://iptvx.one/picons/sony-turbo.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", ⬤ BLACK HD (Torrent TV)
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://127.0.0.1:6878/ace/getstream?id=d67f201bfdc47d376b6195d50a3ac3ee231a92a5
