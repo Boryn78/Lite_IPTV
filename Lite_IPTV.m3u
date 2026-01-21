@@ -470,9 +470,9 @@ http://188.225.31.197/bpk-tv/000000815/tve/index.m3u8
 #EXTINF:-1 tvg-id="avto-plus" tvg-name="АВТО ПЛЮС" tvg-logo="https://iptvx.one/picons/avto-plus.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", АВТО ПЛЮС
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://158.101.222.193:88/georgia_play.php?id=autoplus
-#EXTINF:-1 tvg-id="drive" tvg-name="ДРАЙВ" tvg-logo="https://iptvx.one/picons/drive.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ДРАЙВ (Torrent TV)
+#EXTINF:-1 tvg-id="drive" tvg-name="ДРАЙВ" tvg-logo="https://iptvx.one/picons/drive.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ДРАЙВ
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://127.0.0.1:6878/ace/getstream?id=2893ea38cf923c7efcfaf3eead798dd73b2cf2d0
+http://185.164.82.18:9009/aDxLhVQm_Drive
 #EXTINF:-1 tvg-id="muzhskoy" tvg-name="МУЖСКОЙ" tvg-logo="https://iptvx.one/picons/muzhskoy.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", МУЖСКОЙ
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://188.225.31.197/bpk-tv/000000286/tve/index.m3u8
@@ -533,7 +533,7 @@ http://188.225.31.197/bpk-tv/000000332/tve/index.m3u8
 #EXTINF:-1 tvg-id="poexali" tvg-name="ПОЕХАЛИ!" tvg-logo="https://iptvx.one/picons/poexali.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ПОЕХАЛИ!
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Poehali.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2OTIwNzg3OCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY4NjAzMDc4LCJzZXNzaW9uX2lkIjoiNDI5YjRhY2ExZTYwNzhiYjRiNWFkZmUzOTE4NzMxZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ocWR_EHoAMqhIiGdFr25B9Qfae3pw_YHOzgZ78uyfKo
-#EXTINF:-1 tvg-name="FASHION TV" tvg-logo="https://ntvplus.tv/files/image/68/79/05/8rb.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", FASHION TV
+#EXTINF:-1 tvg-name="Fashion & Lifestyle HD" tvg-id="fashion-one" tvg-logo="https://epg.iptvx.one/picons/fashion-one.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", FASHION & LIFESTYLE
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://188.225.31.197/bpk-tv/000000439/tve/index.m3u8
 #EXTINF:-1 tvg-id="glazami-turista" tvg-name="Глазами туриста HD" tvg-logo="https://iptvx.one/picons/glazami-turista.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ГЛАЗАМИ ТУРИСТА
@@ -2068,9 +2068,9 @@ http://dmi3y-tv.ru/hls/blrus/CH_BELARUS5_INTHD.m3u8
 #EXTINF:-1 tvg-name="БелРос" tvg-logo="http://epg.it999.ru/img/2294.png" group-title="🇧🇾 БЕЛОРУССИЯ", БелРос
 #EXTGRP:🇧🇾 БЕЛОРУССИЯ
 https://live3.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
-#EXTINF:-1 tvg-id="travel-channel" tvg-name="Travel Channel HD" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/TRAVELCHANNEL200.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", Travel Channel HD (Torrent TV)
+#EXTINF:-1 tvg-id="travel-channel" tvg-name="Travel Channel HD" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/TRAVELCHANNEL200.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", TRAVEL CHANNEL HD 
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://127.0.0.1:6878/ace/getstream?id=48566a80593d54be5543583173fd520ce675d5b2
+http://poh3.admuspeh.my/8315/video.m3u8?token=w8AT5yczJA2WKHY3
 #EXTINF:-1 tvg-id="cgtn" tvg-name="CGTN" tvg-logo="http://epg.it999.ru/img/2268.png" group-title="👀 РАЗНОЕ", CGTN Русский
 #EXTGRP:👀 РАЗНОЕ
 https://stream-msk-12.ott.tricolor.tv:443/dtv/id656_MSKSG-PVR-1--CGTN_Rus/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2OTIwNzg3OCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY4NjAzMDc4LCJzZXNzaW9uX2lkIjoiNDI5YjRhY2ExZTYwNzhiYjRiNWFkZmUzOTE4NzMxZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ocWR_EHoAMqhIiGdFr25B9Qfae3pw_YHOzgZ78uyfKo
@@ -2756,9 +2756,9 @@ http://127.0.0.1:6878/ace/getstream?id=4ce55db7e578ff52a6e526cf610e477464b8a99f
 #EXTINF:-1 tvg-id="polsat-sport-pr2" tvg-name="POLSAT SPORT PREMIUM 2 HD" tvg-logo="https://iptvx.one/picons/polsat-sport-pr2.png" group-title="🏅 СПОРТ", POLSAT SPORT PREMIUM 2 HD (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=3147c586346aee00c005d1caa55204d38678c95f
-#EXTINF:-1 tvg-id="hgtv" tvg-name="HGTV" tvg-logo="https://image.pngaaa.com/0/3423000-middle.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", HGTV (Torrent TV)
+#EXTINF:-1 tvg-id="hgtv" tvg-name="HGTV" tvg-logo="https://image.pngaaa.com/0/3423000-middle.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", HGTV
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://127.0.0.1:6878/ace/getstream?infohash=22452120c704f34daea284fbd64b2527bc83f62d
+http://poh3.admuspeh.my/8355/video.m3u8?token=w8AT5yczJA2WKHY3
 #EXTINF:-1 tvg-id="minimax-ms-crime" tvg-name="MS Crime HD" tvg-logo="https://epg.iptvx.one/picons/minimax-ms-crime.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", MS CRIME HD (тест)
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://poh1.admuspeh.my/8637/video.m3u8?token=w8AT5yczJA2WKHY3
