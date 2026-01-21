@@ -473,9 +473,9 @@ http://158.101.222.193:88/georgia_play.php?id=autoplus
 #EXTINF:-1 tvg-id="drive" tvg-name="ДРАЙВ" tvg-logo="https://iptvx.one/picons/drive.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ДРАЙВ (Torrent TV)
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://127.0.0.1:6878/ace/getstream?id=2893ea38cf923c7efcfaf3eead798dd73b2cf2d0
-#EXTINF:-1 tvg-id="muzhskoy" tvg-name="МУЖСКОЙ" tvg-logo="https://iptvx.one/picons/muzhskoy.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", МУЖСКОЙ (Torrent TV)
+#EXTINF:-1 tvg-id="muzhskoy" tvg-name="МУЖСКОЙ" tvg-logo="https://iptvx.one/picons/muzhskoy.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", МУЖСКОЙ
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://127.0.0.1:6878/ace/getstream?id=6f333af96362664dd566c585601d7c522c9b09e1
+http://188.225.31.197/bpk-tv/000000286/tve/index.m3u8
 #EXTINF:-1 tvg-id="oruzhie" tvg-name="ОРУЖИЕ" tvg-logo="http://media.24h.tv/img/ch/23/4d/234da803450c81ede74425c9bbf515a5.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ОРУЖИЕ
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 https://stream-msk-08.ott.tricolor.tv:443/dtv/id369_MSKSG-PVR-1--Oruzhie/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2OTIwNzg3OCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY4NjAzMDc4LCJzZXNzaW9uX2lkIjoiNDI5YjRhY2ExZTYwNzhiYjRiNWFkZmUzOTE4NzMxZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ocWR_EHoAMqhIiGdFr25B9Qfae3pw_YHOzgZ78uyfKo
@@ -509,9 +509,9 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=kinozal_20_h
 #EXTINF:-1 tvg-id="pervy-vegetariansky" tvg-name="ПЕРВЫЙ ВЕГЕТАРИАНСКИЙ" tvg-logo="https://iptvx.one/picons/pervy-vegetariansky.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ПЕРВЫЙ ВЕГЕТАРИАНСКИЙ
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 https://stream-msk-03.ott.tricolor.tv:443/dtv/id471_MSKSG-PVR-1--Perviy_Vegetor/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2OTIwNzg3OCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY4NjAzMDc4LCJzZXNzaW9uX2lkIjoiNDI5YjRhY2ExZTYwNzhiYjRiNWFkZmUzOTE4NzMxZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ocWR_EHoAMqhIiGdFr25B9Qfae3pw_YHOzgZ78uyfKo
-#EXTINF:-1 tvg-id="tochka-otryva" tvg-name="ТОЧКА ОТРЫВА" tvg-logo="http://epg.it999.ru/img2/617.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ТОЧКА ОТРЫВА (Torrent TV)
+#EXTINF:-1 tvg-id="tochka-otryva" tvg-name="ТОЧКА ОТРЫВА" tvg-logo="http://epg.it999.ru/img2/617.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ТОЧКА ОТРЫВА
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://127.0.0.1:6878/ace/getstream?id=ee5cd7316e917f156bf8d176a11da98fe403b0b2
+http://188.225.31.197/bpk-tv/000003208/tve/index.m3u8
 #EXTINF:-1 tvg-id="luxury-hd" tvg-name="LUXURY HD" tvg-logo="http://media.24h.tv/img/ch/21/08/21086553b317f7cf33e0f02489dc89ca.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", LUXURY HD
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Luxury_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2OTIwNzg3OCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY4NjAzMDc4LCJzZXNzaW9uX2lkIjoiNDI5YjRhY2ExZTYwNzhiYjRiNWFkZmUzOTE4NzMxZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ocWR_EHoAMqhIiGdFr25B9Qfae3pw_YHOzgZ78uyfKo
@@ -529,16 +529,16 @@ http://178.212.71.253:8000/play/130/index.m3u8
 https://stream-msk-10.ott.tricolor.tv:443/dtv/id360_MSKSG-PVR-1--Vremya/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2OTIwNzg3OCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY4NjAzMDc4LCJzZXNzaW9uX2lkIjoiNDI5YjRhY2ExZTYwNzhiYjRiNWFkZmUzOTE4NzMxZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ocWR_EHoAMqhIiGdFr25B9Qfae3pw_YHOzgZ78uyfKo
 #EXTINF:-1 tvg-id="galaxy-tv" tvg-name="Galaxy-TV" tvg-logo="https://iptvx.one/picons/galaxy-tv.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", GALAXY
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://193.25.8.59:8000/galaxy
+http://188.225.31.197/bpk-tv/000000332/tve/index.m3u8
 #EXTINF:-1 tvg-id="poexali" tvg-name="ПОЕХАЛИ!" tvg-logo="https://iptvx.one/picons/poexali.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ПОЕХАЛИ!
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Poehali.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2OTIwNzg3OCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY4NjAzMDc4LCJzZXNzaW9uX2lkIjoiNDI5YjRhY2ExZTYwNzhiYjRiNWFkZmUzOTE4NzMxZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ocWR_EHoAMqhIiGdFr25B9Qfae3pw_YHOzgZ78uyfKo
-#EXTINF:-1 tvg-name="FASHION TV" tvg-logo="https://ntvplus.tv/files/image/68/79/05/8rb.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", FASHION TV (Torrent TV)
+#EXTINF:-1 tvg-name="FASHION TV" tvg-logo="https://ntvplus.tv/files/image/68/79/05/8rb.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", FASHION TV
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://127.0.0.1:6878/ace/getstream?id=ac7762efa1c33ece2dd0e97abe1e9149e3ddafc6
-#EXTINF:-1 tvg-id="glazami-turista" tvg-name="Глазами туриста HD" tvg-logo="https://iptvx.one/picons/glazami-turista.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ГЛАЗАМИ ТУРИСТА HD (Torrent TV)
+http://188.225.31.197/bpk-tv/000000439/tve/index.m3u8
+#EXTINF:-1 tvg-id="glazami-turista" tvg-name="Глазами туриста HD" tvg-logo="https://iptvx.one/picons/glazami-turista.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ГЛАЗАМИ ТУРИСТА
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://127.0.0.1:6878/ace/getstream?id=4f3037f55f54cf2417a6d6847adc5095537f9e83
+http://188.225.31.197/bpk-tv/000001414/tve/index.m3u8
 #EXTINF:-1 tvg-id="zal-31-tricolor" tvg-name="Авиакатастрофы" tvg-logo="https://avatars.dzeninfra.ru/get-zen-logos/271828/pub_6576254009834966a4064394_657c12ff4ef0b47f700a009a/orig" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", РЕКОНСТРУКЦИЯ АВИАКАТАСТРОФ
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kinozal_31.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2OTIwNzg3OCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY4NjAzMDc4LCJzZXNzaW9uX2lkIjoiNDI5YjRhY2ExZTYwNzhiYjRiNWFkZmUzOTE4NzMxZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ocWR_EHoAMqhIiGdFr25B9Qfae3pw_YHOzgZ78uyfKo
