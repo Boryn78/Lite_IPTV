@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG_NOARCH" Num="channel-id="
+#EXTM3U url-tvg="http://epg.one/epg.xml.gz" Num="channel-id="
 #EXTINF:-1 tvg-logo="https://liteiptv.ucoz.net/AceServe15.png" group-title="🔺 ИНФОКАНАЛ 🔺", Для каналов (Torrent TV) запустите AceServe 1.5
 #EXTGRP:🔺 ИНФОКАНАЛ 🔺
 https://liteiptv.ucoz.net/AceServe_15.mov
