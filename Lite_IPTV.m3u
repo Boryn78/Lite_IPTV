@@ -2488,15 +2488,6 @@ http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="vivid-red" tvg-name="Vivid Red HD" tvg-logo="https://epg.iptvx.one/picons/vivid-red.png" group-title="💘 ВЗРОСЛЫЕ", VIVID RED HD 
 #EXTGRP:💘 ВЗРОСЛЫЕ
 http://poh3.admuspeh.my/8374/video.m3u8?token=w8AT5yczJA2WKHY3
-#EXTINF:-1 tvg-id="super-one" tvg-name="Super One" tvg-logo="https://epg.iptvx.one/picons/super-one.png" group-title="💘 ВЗРОСЛЫЕ", SUPER ONE
-#EXTGRP:💘 ВЗРОСЛЫЕ
-http://185.166.252.230/SuperOne/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XY Plus" tvg-logo="https://www.digicom.bg/assets/img/tv_logos/xyplus.svg" group-title="💘 ВЗРОСЛЫЕ", XY PLUS
-#EXTGRP:💘 ВЗРОСЛЫЕ
-http://85.11.144.9:50999/35
-#EXTINF:-1 tvg-id="" tvg-name="XY Max" tvg-logo="https://crdtv.net/b/templates/ottch/xy-max.png" group-title="💘 ВЗРОСЛЫЕ", XY MAX
-#EXTGRP:💘 ВЗРОСЛЫЕ
-http://85.11.144.9:50999/102
 #EXTINF:-1 tvg-id="no_epg_xxx" tvg-name="HOT 1" tvg-logo="https://avatars.mds.yandex.net/i?id=74f9af487d39e51f19b57309cd992ee1_sr-10815143-images-thumbs&n=13" group-title="💘 ВЗРОСЛЫЕ", HOT 1
 #EXTGRP:💘 ВЗРОСЛЫЕ
 http://85.11.144.9:50999/34
