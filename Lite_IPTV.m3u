@@ -1559,9 +1559,6 @@ http://list.onlinetv-sochi.ru:8080/live/arx.php?id=brazzers_tv_europe_18&token=Y
 #EXTINF:-1 tvg-id="dorcel" tvg-name="DORCEL" tvg-logo="https://epg.iptvx.one/picons/dorcel.png" group-title="💘 ВЗРОСЛЫЕ", DORCEL HD
 #EXTGRP:💘 ВЗРОСЛЫЕ
 http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="dorcel-xxx" tvg-name="Dorcel XXX" tvg-logo="https://epg.iptvx.one/picons/dorcel-xxx.png" group-title="💘 ВЗРОСЛЫЕ", DORCEL XXX
-#EXTGRP:💘 ВЗРОСЛЫЕ
-http://85.11.144.9:50999/105
 #EXTINF:-1 tvg-id="eroxxxhd" tvg-name="ERO XXX HD" tvg-logo="https://karnei4.github.io/convert/EroX.png" group-title="💘 ВЗРОСЛЫЕ", ERO XXX HD
 #EXTGRP:💘 ВЗРОСЛЫЕ
 http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
@@ -1571,17 +1568,14 @@ http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
 http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="hustler-hd" tvg-name="Hustler HD" tvg-logo="https://epg.iptvx.one/picons/hustler-hd.png" group-title="💘 ВЗРОСЛЫЕ", HUSTLER HD
 #EXTGRP:💘 ВЗРОСЛЫЕ
-http://85.11.144.9:50999/30
+http://88.212.7.11/live/test_hustler_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="private-tv" tvg-name="Private TV" tvg-logo="https://epg.iptvx.one/picons/private-tv.png" group-title="💘 ВЗРОСЛЫЕ", PRIVATE
 #EXTGRP:💘 ВЗРОСЛЫЕ
 #EXTVLCOPT:http-user-agent=SmartTV
-http://213.169.39.30:5036
-#EXTINF:-1 tvg-id="hustler-tv tvg-name="Hustler TV" tvg-logo="https://epg.iptvx.one/picons/hustler-tv.png" group-title="💘 ВЗРОСЛЫЕ", HUSTLER TV
-#EXTGRP:💘 ВЗРОСЛЫЕ
-http://213.169.39.30:5115
+http://88.212.7.11/live/test_private_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="redlight-hd" tvg-name="Redlight HD" tvg-logo="https://epg.iptvx.one/picons/redlight-hd.png" group-title="💘 ВЗРОСЛЫЕ", REDLIGHT HD
 #EXTGRP:💘 ВЗРОСЛЫЕ
-http://85.11.144.9:50999/39
+http://88.212.7.11/live/test_redlight_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-name="Сочи - Пляж Мамайка" group-title="📷 WEB КАМЕРЫ", Сочи - Пляж Мамайка
 #EXTGRP:📷 WEB КАМЕРЫ
 https://fl.tvintel.info:8443/mix-kukuruza-plyaz/index.m3u8
