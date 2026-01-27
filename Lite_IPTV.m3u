@@ -1571,11 +1571,10 @@ http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
 http://88.212.7.11/live/test_hustler_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="private-tv" tvg-name="Private TV" tvg-logo="https://epg.iptvx.one/picons/private-tv.png" group-title="💘 ВЗРОСЛЫЕ", PRIVATE
 #EXTGRP:💘 ВЗРОСЛЫЕ
-#EXTVLCOPT:http-user-agent=SmartTV
 http://88.212.7.11/live/test_private_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="redlight-hd" tvg-name="Redlight HD" tvg-logo="https://epg.iptvx.one/picons/redlight-hd.png" group-title="💘 ВЗРОСЛЫЕ", REDLIGHT HD
 #EXTGRP:💘 ВЗРОСЛЫЕ
-http://88.212.7.11/live/test_redlight_hd_hevc/playlist.m3u8
+https://poh3.admuspeh.my/9247/video.m3u8?token=w8AT5yczJA2WKHY3
 #EXTINF:-1 tvg-name="Сочи - Пляж Мамайка" group-title="📷 WEB КАМЕРЫ", Сочи - Пляж Мамайка
 #EXTGRP:📷 WEB КАМЕРЫ
 https://fl.tvintel.info:8443/mix-kukuruza-plyaz/index.m3u8
@@ -2486,15 +2485,9 @@ http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
 #EXTGRP:💘 ВЗРОСЛЫЕ
 #EXTVLCOPT:http-user-agent=SmartTV
 http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="no_epg_xxx" tvg-name="ERORA" tvg-logo="https://avatars.mds.yandex.net/i?id=74f9af487d39e51f19b57309cd992ee1_sr-10815143-images-thumbs&n=13" group-title="💘 ВЗРОСЛЫЕ", EROTA
-#EXTGRP:💘 ВЗРОСЛЫЕ
-http://85.11.144.9:50999/31
 #EXTINF:-1 tvg-id="vivid-red" tvg-name="Vivid Red HD" tvg-logo="https://epg.iptvx.one/picons/vivid-red.png" group-title="💘 ВЗРОСЛЫЕ", VIVID RED HD 
 #EXTGRP:💘 ВЗРОСЛЫЕ
 http://poh3.admuspeh.my/8374/video.m3u8?token=w8AT5yczJA2WKHY3
-#EXTINF:-1 tvg-id="vivid-tv" tvg-name="Vivid TV" tvg-logo="https://epg.iptvx.one/picons/vivid-tv.png" group-title="💘 ВЗРОСЛЫЕ", VIVID TV
-#EXTGRP:💘 ВЗРОСЛЫЕ
-http://85.11.144.9:50999/41
 #EXTINF:-1 tvg-id="super-one" tvg-name="Super One" tvg-logo="https://epg.iptvx.one/picons/super-one.png" group-title="💘 ВЗРОСЛЫЕ", SUPER ONE
 #EXTGRP:💘 ВЗРОСЛЫЕ
 http://185.166.252.230/SuperOne/index.m3u8
