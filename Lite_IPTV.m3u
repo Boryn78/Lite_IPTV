@@ -2049,9 +2049,6 @@ http://dmi3y-tv.ru/hls/blrus/CH_BELARUS3HD.m3u8
 #EXTINF:-1 tvg-name="Беларусь 5 HD" tvg-logo="http://epg.it999.ru/img/2541.png" group-title="🇧🇾 БЕЛОРУССИЯ", Беларусь 5 HD
 #EXTGRP:🇧🇾 БЕЛОРУССИЯ
 http://dmi3y-tv.ru/hls/blrus/CH_BELARUS5HD.m3u8
-#EXTINF:-1 tvg-name="Беларусь 5 Интернет HD" group-title="🇧🇾 БЕЛОРУССИЯ", Беларусь 5 Интернет HD
-#EXTGRP:🇧🇾 БЕЛОРУССИЯ
-http://dmi3y-tv.ru/hls/blrus/CH_BELARUS5_INTHD.m3u8
 #EXTINF:-1 tvg-name="БелРос" tvg-logo="http://epg.it999.ru/img/2294.png" group-title="🇧🇾 БЕЛОРУССИЯ", БелРос
 #EXTGRP:🇧🇾 БЕЛОРУССИЯ
 https://live3.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
