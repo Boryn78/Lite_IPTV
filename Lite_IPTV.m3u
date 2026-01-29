@@ -2920,6 +2920,9 @@ http://127.0.0.1:6878/ace/getstream?id=51a8548ddcff18ba9f89c4c4cb6eb359fc24b30b
 #EXTINF:-1 tvg-name="6 кадров" tvg-logo="https://www.film.ru/sites/default/files/styles/thumb_1024x450/public/movies/frames/49757978-1573937.jpg" group-title="👀 РАЗНОЕ", 6 КАДРОВ
 #EXTGRP:👀 РАЗНОЕ
 https://stream-msk-18.ott.tricolor.tv/dtv/id1016_MSKSG-PVR-1--Kinozal28_SD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2OTgxMjA5MSwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY5MjA3MjkxLCJzZXNzaW9uX2lkIjoiNjAzZDBiNDkxYTk1YTA0MDgzNmRhNTUyMjU0MDdkYjAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ke6Fk_47_aMoE8MfP6L3I6NnF6Pxar7NF3IjG5gott4
+#EXTINF:-1 tvg-name="Народ Всё Видит" tvg-id="narod-vsio-vidit" tvg-logo="https://epg.iptvx.one/picons/narod-vsio-vidit.png" group-title="👀 РАЗНОЕ", НВВ
+#EXTGRP:👀 РАЗНОЕ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=NVV_SD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc2OTgxMjA5MSwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY5MjA3MjkxLCJzZXNzaW9uX2lkIjoiNjAzZDBiNDkxYTk1YTA0MDgzNmRhNTUyMjU0MDdkYjAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ke6Fk_47_aMoE8MfP6L3I6NnF6Pxar7NF3IjG5gott4
 #EXTINF:-1 tvg-name="FX HD" tvg-logo="https://iptvx.one/picons/fox.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", FX
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://188.225.31.197/bpk-tv/000004472/tve/index.m3u8
