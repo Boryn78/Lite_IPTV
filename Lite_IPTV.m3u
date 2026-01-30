@@ -2829,7 +2829,7 @@ http://list.onlinetv-sochi.ru:8080/live/channel.php?id=696&token=Ym9yeW43ODpMYW5
 http://list.onlinetv-sochi.ru:8080/live/channel.php?id=655&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-name="BCU FANTASTIC HD" tvg-logo="https://epg.iptvx.one/picons/bcu-fantastic.png" group-title="🎞️ КИНОЗАЛЫ", BCU FANTASTIC HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
-http://list.onlinetv-sochi.ru:8080/live/channel.php?id=595&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://127.0.0.1:6878/ace/getstream?id=2d04b4c1391b16a4995e7b7fe74833d6c9d850ac
 #EXTINF:-1 tvg-name="BCU FILMYSTIC HD" tvg-logo="https://epg.iptvx.one/picons/bcu-filmystic.png" group-title="🎞️ КИНОЗАЛЫ", BCU FILMYSTIC HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
 http://list.onlinetv-sochi.ru:8080/live/channel.php?id=595&token=Ym9yeW43ODpMYW5jZXIxNg==
