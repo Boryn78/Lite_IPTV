@@ -208,7 +208,7 @@ https://stream-msk-01.ott.tricolor.tv:443/dtv/id518_MSKSG-PVR-1--NST/03/plst.m3u
 https://stream-msk-06.ott.tricolor.tv/dtv/id423_MSKSG-PVR-1--Cinema/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3MDQxNjk4MCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY5ODEyMTgwLCJzZXNzaW9uX2lkIjoiZGE0ZTJkOTg3Y2NhYWZjYjIzNjdmZDQyZWYwZDBiZTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Rn3PQWs4iy_xBodleHgjEEDD0GGckyJHsgVesKoe5_Q
 #EXTINF:-1 tvg-id="kinopremiera-hd" tvg-name="КИНОПРЕМЬЕРА" tvg-logo="https://iptvx.one/picons/kinopremiera.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНОПРЕМЬЕРА
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://poh1.admuspeh.my/8199/video.m3u8?token=w8AT5yczJA2WKHY3
+https://vod.splay.uz/live_splay/original/Kinopremera/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kinosvidanie" tvg-name="КИНОСВИДАНИЕ" tvg-logo="https://iptvx.one/picons/kinosvidanie.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНОСВИДАНИЕ
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://158.101.222.193:88/georgia_play.php?id=kinoseria
@@ -349,7 +349,7 @@ http://127.0.0.1:6878/ace/getstream?id=0d59f0292f9e5569f4dff50ac4c3c89913b32a7a
 http://188.225.31.197/bpk-tv/000003174/tve/index.m3u8
 #EXTINF:-1 tvg-id="dikaya-rybalka-hd" tvg-name="ДИКАЯ РЫБАЛКА HD" tvg-logo="http://epg.it999.ru/img2/2484.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ДИКАЯ РЫБАЛКА
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://poh3.admuspeh.my/8316/video.m3u8?token=w8AT5yczJA2WKHY3
+http://194.32.242.245/DikayarybalkaHD/index.m3u8
 #EXTINF:-1 tvg-id="dikaya-oxota-hd" tvg-name="ДИКАЯ ОХОТА HD" tvg-logo="http://epg.it999.ru/img2/2483.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ДИКАЯ ОХОТА
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://poh3.admuspeh.my/9206/video.m3u8?token=w8AT5yczJA2WKHY3
@@ -457,7 +457,7 @@ http://185.57.68.33/40/mpegts
 http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/usadba/16/playlist.m3u8
 #EXTINF:-1 tvg-id="kuxnia-tv" tvg-name="КУХНЯ ТВ" tvg-logo="https://iptvx.one/picons/kuxnia-tv.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", КУХНЯ ТВ
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://poh3.admuspeh.my/8063/video.m3u8?token=w8AT5yczJA2WKHY3
+http://127.0.0.1:6878/ace/getstream?id=a90a4172c6e146c87a92e32b5a8ed6af12ba0237
 #EXTINF:-1 tvg-id="eda-hd" tvg-name="FOODTIME" tvg-logo="https://karnei4.github.io/convert/index_files/food-network.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", FOOD TIME HD
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=HD_Eda.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3MDQxNjk4MCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY5ODEyMTgwLCJzZXNzaW9uX2lkIjoiZGE0ZTJkOTg3Y2NhYWZjYjIzNjdmZDQyZWYwZDBiZTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Rn3PQWs4iy_xBodleHgjEEDD0GGckyJHsgVesKoe5_Q
