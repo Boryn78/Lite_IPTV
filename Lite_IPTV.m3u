@@ -352,7 +352,7 @@ http://188.225.31.197/bpk-tv/000003174/tve/index.m3u8
 http://194.32.242.245/DikayarybalkaHD/index.m3u8
 #EXTINF:-1 tvg-id="dikaya-oxota-hd" tvg-name="ДИКАЯ ОХОТА HD" tvg-logo="http://epg.it999.ru/img2/2483.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ДИКАЯ ОХОТА
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://poh3.admuspeh.my/9206/video.m3u8?token=w8AT5yczJA2WKHY3
+http://server-2.onlinetv-sochi.ru:8080/live/limeHD5_vip.php?id=98&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov-hd" tvg-name="ОХОТНИК И РЫБОЛОВ HD" tvg-logo="https://karnei4.github.io/convert/ohotnik_i_ribolov_hd.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ОХОТНИК И РЫБОЛОВ HD
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=HD_Oh_Rbl.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3MDQxNjk4MCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY5ODEyMTgwLCJzZXNzaW9uX2lkIjoiZGE0ZTJkOTg3Y2NhYWZjYjIzNjdmZDQyZWYwZDBiZTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Rn3PQWs4iy_xBodleHgjEEDD0GGckyJHsgVesKoe5_Q
@@ -2009,7 +2009,7 @@ http://dmi3y-tv.ru/hls/blrus/CH_BELARUS5HD.m3u8
 https://live3.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
 #EXTINF:-1 tvg-id="travel-channel" tvg-name="Travel Channel HD" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/TRAVELCHANNEL200.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", TRAVEL CHANNEL HD 
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://poh3.admuspeh.my/8315/video.m3u8?token=w8AT5yczJA2WKHY3
+http://list.onlinetv-sochi.ru:8080/live/channel.php?id=176&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="cgtn" tvg-name="CGTN" tvg-logo="http://epg.it999.ru/img/2268.png" group-title="👀 РАЗНОЕ", CGTN Русский
 #EXTGRP:👀 РАЗНОЕ
 https://stream-msk-12.ott.tricolor.tv:443/dtv/id656_MSKSG-PVR-1--CGTN_Rus/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3MDQxNjk4MCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY5ODEyMTgwLCJzZXNzaW9uX2lkIjoiZGE0ZTJkOTg3Y2NhYWZjYjIzNjdmZDQyZWYwZDBiZTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Rn3PQWs4iy_xBodleHgjEEDD0GGckyJHsgVesKoe5_Q
