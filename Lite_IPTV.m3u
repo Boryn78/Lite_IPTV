@@ -1484,9 +1484,6 @@ http://cdn-01.bonus-tv.ru/gsl/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="LEOMAX 24" tvg-logo="https://karnei4.github.io/convert/index_files/leomax.png" group-title="👀 РАЗНОЕ", LEOMAX 24
 #EXTGRP:👀 РАЗНОЕ
 https://tvshops.bonus-tv.ru/cdn/shop24/tracks-v1a1/mono.m3u8?token=cdn
-#EXTINF:-1 tvg-id="kino18plus-tviksel" tvg-name="Кино 18+" tvg-logo="https://epg.iptvx.one/picons/kino18plus-tviksel.png" group-title="💘 ВЗРОСЛЫЕ", КИНО 18+
-#EXTGRP:💘 ВЗРОСЛЫЕ
-http://185.234.59.200:9090/channel/n6ed40f5d/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
 #EXTINF:-1 tvg-id="exxxotica" tvg-name="EXXXOTICA" tvg-logo="https://ntvplus.tv/files/image/88/97/03/-channel!avk.png" group-title="💘 ВЗРОСЛЫЕ", EXXXOTICA
 #EXTGRP:💘 ВЗРОСЛЫЕ
 http://31.148.48.15:80/O-la-la/index.m3u8
