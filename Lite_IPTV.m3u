@@ -1533,9 +1533,6 @@ http://88.212.7.11/live/test_hustler_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="private-tv" tvg-name="Private TV" tvg-logo="https://epg.iptvx.one/picons/private-tv.png" group-title="💘 ВЗРОСЛЫЕ", PRIVATE
 #EXTGRP:💘 ВЗРОСЛЫЕ
 http://88.212.7.11/live/test_private_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="redlight-hd" tvg-name="Redlight HD" tvg-logo="https://epg.iptvx.one/picons/redlight-hd.png" group-title="💘 ВЗРОСЛЫЕ", REDLIGHT HD
-#EXTGRP:💘 ВЗРОСЛЫЕ
-https://poh3.admuspeh.my/9247/video.m3u8?token=w8AT5yczJA2WKHY3
 #EXTINF:-1 tvg-name="Сочи - Пляж Мамайка" group-title="📷 WEB КАМЕРЫ", Сочи - Пляж Мамайка
 #EXTGRP:📷 WEB КАМЕРЫ
 https://fl.tvintel.info:8443/mix-kukuruza-plyaz/index.m3u8
@@ -2440,54 +2437,6 @@ http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
 #EXTGRP:💘 ВЗРОСЛЫЕ
 #EXTVLCOPT:http-user-agent=SmartTV
 http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="vivid-red" tvg-name="Vivid Red HD" tvg-logo="https://epg.iptvx.one/picons/vivid-red.png" group-title="💘 ВЗРОСЛЫЕ", VIVID RED HD 
-#EXTGRP:💘 ВЗРОСЛЫЕ
-http://poh3.admuspeh.my/8374/video.m3u8?token=w8AT5yczJA2WKHY3
-#EXTINF:-1 tvg-id="no_epg_xxx" tvg-name="HOT 1" tvg-logo="https://avatars.mds.yandex.net/i?id=74f9af487d39e51f19b57309cd992ee1_sr-10815143-images-thumbs&n=13" group-title="💘 ВЗРОСЛЫЕ", HOT 1
-#EXTGRP:💘 ВЗРОСЛЫЕ
-http://85.11.144.9:50999/34
-#EXTINF:-1 tvg-id="penthouse-gold" tvg-name="Penthouse Gold HD" tvg-logo="https://epg.iptvx.one/picons/penthouse-gold.png" group-title="💘 ВЗРОСЛЫЕ", PENTHOUSE GOLD (тест)
-#EXTGRP:💘 ВЗРОСЛЫЕ
-http://poh3.admuspeh.my/8342/video.m3u8?token=w8AT5yczJA2WKHY3
-#EXTINF:-1 tvg-id="penthouse-passion-ua tvg-name="Penthouse Passion Украина" tvg-logo="https://epg.iptvx.one/picons/penthouse-passion-ua.png" group-title="💘 ВЗРОСЛЫЕ", PENTHOUSE PASSION (тест)
-#EXTGRP:💘 ВЗРОСЛЫЕ
-http://poh3.admuspeh.my/9248/video.m3u8?token=w8AT5yczJA2WKHY3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m3u.admuspeh.my/icon/%D0%9E%D0%A5-%D0%90%D0%A5%20HD.png" group-title="💘 ВЗРОСЛЫЕ", ОХ-АХ HD (тест)
-#EXTGRP:💘 ВЗРОСЛЫЕ
-http://poh3.admuspeh.my/9250/video.m3u8?token=w8AT5yczJA2WKHY3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m3u.admuspeh.my/icon/CineMan%20ExExEx.png" group-title="💘 ВЗРОСЛЫЕ", CINEMAN XXX (тест)
-#EXTGRP:💘 ВЗРОСЛЫЕ
-http://poh3.admuspeh.my/8868/video.m3u8?token=w8AT5yczJA2WKHY3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m3u.admuspeh.my/icon/CineMan%20ExExEx%20TWO.png" group-title="💘 ВЗРОСЛЫЕ", CINEMAN XXX2 (тест)
-#EXTGRP:💘 ВЗРОСЛЫЕ
-http://poh3.admuspeh.my/8869/video.m3u8?token=w8AT5yczJA2WKHY3
-#EXTINF:-1 tvg-id="xxl-xxx" tvg-name="XXL" tvg-logo="https://epg.iptvx.one/picons/xxl-xxx.png" group-title="💘 ВЗРОСЛЫЕ", XXL (тест)
-#EXTGRP:💘 ВЗРОСЛЫЕ
-http://poh3.admuspeh.my/9249/video.m3u8?token=w8AT5yczJA2WKHY3
-#EXTINF:-1 tvg-id="" tvg-name="Fap tv Teens" tvg-logo="https://avatars.mds.yandex.net/i?id=74f9af487d39e51f19b57309cd992ee1_sr-10815143-images-thumbs&n=13" group-title="💘 ВЗРОСЛЫЕ", FAP TV TEENS (тест)
-#EXTGRP:💘 ВЗРОСЛЫЕ
-http://poh3.admuspeh.my/9238/video.m3u8?token=w8AT5yczJA2WKHY3
-#EXTINF:-1 tvg-id="" tvg-name="Fap tv 2" tvg-logo="https://avatars.mds.yandex.net/i?id=74f9af487d39e51f19b57309cd992ee1_sr-10815143-images-thumbs&n=13" group-title="💘 ВЗРОСЛЫЕ", FAP TV 2 (тест)
-#EXTGRP:💘 ВЗРОСЛЫЕ
-http://poh3.admuspeh.my/9242/video.m3u8?token=w8AT5yczJA2WKHY3
-#EXTINF:-1 tvg-id="" tvg-name="Fap tv 3" tvg-logo="https://avatars.mds.yandex.net/i?id=74f9af487d39e51f19b57309cd992ee1_sr-10815143-images-thumbs&n=13" group-title="💘 ВЗРОСЛЫЕ", FAP TV 3 (тест)
-#EXTGRP:💘 ВЗРОСЛЫЕ
-http://poh3.admuspeh.my/9243/video.m3u8?token=w8AT5yczJA2WKHY3
-#EXTINF:-1 tvg-id="" tvg-name="Fap tv 4" tvg-logo="https://avatars.mds.yandex.net/i?id=74f9af487d39e51f19b57309cd992ee1_sr-10815143-images-thumbs&n=13" group-title="💘 ВЗРОСЛЫЕ", FAP TV 4 (тест)
-#EXTGRP:💘 ВЗРОСЛЫЕ
-http://poh3.admuspeh.my/9244/video.m3u8?token=w8AT5yczJA2WKHY3
-#EXTINF:-1 tvg-id="" tvg-name="Fap tv anal" tvg-logo="https://avatars.mds.yandex.net/i?id=74f9af487d39e51f19b57309cd992ee1_sr-10815143-images-thumbs&n=13" group-title="💘 ВЗРОСЛЫЕ", FAP TV ANAL (тест)
-#EXTGRP:💘 ВЗРОСЛЫЕ
-http://poh3.admuspeh.my/8407/video.m3u8?token=w8AT5yczJA2WKHY3
-#EXTINF:-1 tvg-id="" tvg-name="Fap tv parody" tvg-logo="https://avatars.mds.yandex.net/i?id=74f9af487d39e51f19b57309cd992ee1_sr-10815143-images-thumbs&n=13" group-title="💘 ВЗРОСЛЫЕ", FAP TV PARODY (тест)
-#EXTGRP:💘 ВЗРОСЛЫЕ
-http://poh3.admuspeh.my/9177/video.m3u8?token=w8AT5yczJA2WKHY3
-#EXTINF:-1 tvg-id="" tvg-name="Fap tv lesbian" tvg-logo="https://avatars.mds.yandex.net/i?id=74f9af487d39e51f19b57309cd992ee1_sr-10815143-images-thumbs&n=13" group-title="💘 ВЗРОСЛЫЕ", FAP TV LESBIAN (тест)
-#EXTGRP:💘 ВЗРОСЛЫЕ
-http://poh3.admuspeh.my/9239/video.m3u8?token=w8AT5yczJA2WKHY3
-#EXTINF:-1 tvg-id="" tvg-name="Fap tv COMPILATION" tvg-logo="https://avatars.mds.yandex.net/i?id=74f9af487d39e51f19b57309cd992ee1_sr-10815143-images-thumbs&n=13" group-title="💘 ВЗРОСЛЫЕ", FAP TV COMPILATION (тест)
-#EXTGRP:💘 ВЗРОСЛЫЕ
-http://poh3.admuspeh.my/9241/video.m3u8?token=w8AT5yczJA2WKHY3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSH5eui-5ltBqxNE7oLtsSo3-Nej9XeHJxZ-YMNWDuHc41yp-bLWuM8g8&s" group-title="💘 ВЗРОСЛЫЕ", ADULT TIME
 #EXTGRP:💘 ВЗРОСЛЫЕ
 http://xxip9.top:8080/62409399/31673627/159954
@@ -2683,12 +2632,6 @@ http://127.0.0.1:6878/ace/getstream?id=4ce55db7e578ff52a6e526cf610e477464b8a99f
 #EXTINF:-1 tvg-id="polsat-sport-pr2" tvg-name="POLSAT SPORT PREMIUM 2 HD" tvg-logo="https://iptvx.one/picons/polsat-sport-pr2.png" group-title="🏅 СПОРТ", POLSAT SPORT PREMIUM 2 HD (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=3147c586346aee00c005d1caa55204d38678c95f
-#EXTINF:-1 tvg-id="hgtv" tvg-name="HGTV" tvg-logo="https://image.pngaaa.com/0/3423000-middle.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", HGTV
-#EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://poh3.admuspeh.my/8355/video.m3u8?token=w8AT5yczJA2WKHY3
-#EXTINF:-1 tvg-id="minimax-ms-crime" tvg-name="MS Crime HD" tvg-logo="https://epg.iptvx.one/picons/minimax-ms-crime.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", MS CRIME HD (тест)
-#EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://poh3.admuspeh.my/8637/video.m3u8?token=w8AT5yczJA2WKHY3
 #EXTINF:-1 tvg-id="womens-magazine" tvg-name="Women's Magazine" tvg-logo="https://epg.iptvx.one/picons/womens-magazine.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", WOMEN'S MAGAZINE
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=WomensMagazine_SD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3MDQxNjk4MCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzY5ODEyMTgwLCJzZXNzaW9uX2lkIjoiZGE0ZTJkOTg3Y2NhYWZjYjIzNjdmZDQyZWYwZDBiZTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Rn3PQWs4iy_xBodleHgjEEDD0GGckyJHsgVesKoe5_Q
