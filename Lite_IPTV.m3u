@@ -1536,12 +1536,15 @@ http://185.234.59.200:9090/channel/6011ed4b/index.m3u8?q=406925e0657258d990e0f99
 #EXTINF:-1 tvg-id="vivid-red" tvg-name="Vivid Red HD" tvg-logo="https://epg.iptvx.one/picons/vivid-red.png" group-title="💘 ВЗРОСЛЫЕ", VIVID RED HD 
 #EXTGRP:💘 ВЗРОСЛЫЕ
 http://185.234.59.200:9090/channel/352b54f9/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1 tvg-id="penthouse-gold" tvg-name="Penthouse Gold HD" tvg-logo="https://epg.iptvx.one/picons/penthouse-gold.png" group-title="💘 ВЗРОСЛЫЕ", PENTHOUSE GOLD (тест)
+#EXTINF:-1 tvg-id="penthouse-gold" tvg-name="Penthouse Gold HD" tvg-logo="https://epg.iptvx.one/picons/penthouse-gold.png" group-title="💘 ВЗРОСЛЫЕ", PENTHOUSE GOLD
 #EXTGRP:💘 ВЗРОСЛЫЕ
-http://poh3.admuspeh.my/8342/video.m3u8?token=w8AT5yczJA2WKHY3
-#EXTINF:-1 tvg-id="penthouse-passion-ua tvg-name="Penthouse Passion Украина" tvg-logo="https://epg.iptvx.one/picons/penthouse-passion-ua.png" group-title="💘 ВЗРОСЛЫЕ", PENTHOUSE PASSION (тест)
+http://185.234.59.200:9090/channel/491ec475/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1 tvg-id="penthouse-passion-ua tvg-name="Penthouse Passion Украина" tvg-logo="https://epg.iptvx.one/picons/penthouse-passion-ua.png" group-title="💘 ВЗРОСЛЫЕ", PENTHOUSE PASSION
 #EXTGRP:💘 ВЗРОСЛЫЕ
-http://poh3.admuspeh.my/9248/video.m3u8?token=w8AT5yczJA2WKHY3
+http://185.234.59.200:9090/channel/n6483757d/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m3u.admuspeh.my/icon/%D0%9E%D0%A5-%D0%90%D0%A5%20HD.png" group-title="💘 ВЗРОСЛЫЕ", ОХ-АХ HD
+#EXTGRP:💘 ВЗРОСЛЫЕ
+http://185.234.59.200:9090/channel/n3bf93cb3/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
 #EXTINF:-1 tvg-name="Сочи - Пляж Мамайка" group-title="📷 WEB КАМЕРЫ", Сочи - Пляж Мамайка
 #EXTGRP:📷 WEB КАМЕРЫ
 https://fl.tvintel.info:8443/mix-kukuruza-plyaz/index.m3u8
