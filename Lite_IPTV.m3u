@@ -1486,7 +1486,7 @@ http://cdn-01.bonus-tv.ru/gsl/tracks-v1a1/mono.m3u8
 https://tvshops.bonus-tv.ru/cdn/shop24/tracks-v1a1/mono.m3u8?token=cdn
 #EXTINF:-1 tvg-id="kino18plus-tviksel" tvg-name="Кино 18+" tvg-logo="https://epg.iptvx.one/picons/kino18plus-tviksel.png" group-title="💘 ВЗРОСЛЫЕ", КИНО 18+
 #EXTGRP:💘 ВЗРОСЛЫЕ
-https://autopilot.catcast.tv/content/40381/index.m3u8
+http://185.234.59.200:9090/channel/n6ed40f5d/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
 #EXTINF:-1 tvg-id="exxxotica" tvg-name="EXXXOTICA" tvg-logo="https://ntvplus.tv/files/image/88/97/03/-channel!avk.png" group-title="💘 ВЗРОСЛЫЕ", EXXXOTICA
 #EXTGRP:💘 ВЗРОСЛЫЕ
 http://31.148.48.15:80/O-la-la/index.m3u8
@@ -1533,6 +1533,15 @@ http://185.234.59.200:9090/channel/318ad11d/index.m3u8?q=406925e0657258d990e0f99
 #EXTINF:-1 tvg-id="private-tv" tvg-name="Private TV" tvg-logo="https://epg.iptvx.one/picons/private-tv.png" group-title="💘 ВЗРОСЛЫЕ", PRIVATE
 #EXTGRP:💘 ВЗРОСЛЫЕ
 http://185.234.59.200:9090/channel/6011ed4b/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1 tvg-id="vivid-red" tvg-name="Vivid Red HD" tvg-logo="https://epg.iptvx.one/picons/vivid-red.png" group-title="💘 ВЗРОСЛЫЕ", VIVID RED HD 
+#EXTGRP:💘 ВЗРОСЛЫЕ
+http://185.234.59.200:9090/channel/352b54f9/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1 tvg-id="penthouse-gold" tvg-name="Penthouse Gold HD" tvg-logo="https://epg.iptvx.one/picons/penthouse-gold.png" group-title="💘 ВЗРОСЛЫЕ", PENTHOUSE GOLD (тест)
+#EXTGRP:💘 ВЗРОСЛЫЕ
+http://poh3.admuspeh.my/8342/video.m3u8?token=w8AT5yczJA2WKHY3
+#EXTINF:-1 tvg-id="penthouse-passion-ua tvg-name="Penthouse Passion Украина" tvg-logo="https://epg.iptvx.one/picons/penthouse-passion-ua.png" group-title="💘 ВЗРОСЛЫЕ", PENTHOUSE PASSION (тест)
+#EXTGRP:💘 ВЗРОСЛЫЕ
+http://poh3.admuspeh.my/9248/video.m3u8?token=w8AT5yczJA2WKHY3
 #EXTINF:-1 tvg-name="Сочи - Пляж Мамайка" group-title="📷 WEB КАМЕРЫ", Сочи - Пляж Мамайка
 #EXTGRP:📷 WEB КАМЕРЫ
 https://fl.tvintel.info:8443/mix-kukuruza-plyaz/index.m3u8
