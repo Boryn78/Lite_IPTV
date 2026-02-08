@@ -2267,7 +2267,7 @@ http://list.onlinetv-sochi.ru:8080/live/channel.php?id=175&token=Ym9yeW43ODpMYW5
 http://list.onlinetv-sochi.ru:8080/live/channel.php?id=140&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="bcu-kinozal-prem-2" tvg-name="BCU КИНОЗАЛ PREMIERE 2 HD" tvg-logo="https://iptvx.one/picons/bcu-kinozal-prem-2.png" group-title="🎞️ КИНОЗАЛЫ", BCU КИНОЗАЛ PREMIERE 2 HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
-http://list.onlinetv-sochi.ru:8080/live/channel.php?id=606&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://127.0.0.1:6878/ace/manifest.m3u8?id=d488e696aba7b6a2d3a8977d762bcf4eee1bfd07
 #EXTINF:-1  tvg-name="Музыка 1 International" tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-muzyka-1-international_1.jpg?itok=-hEgDHeA" group-title="🎵 МУЗЫКА", Музыка 1 International
 #EXTGRP:🎵 МУЗЫКА
 http://kino-1.catcast.tv/content/37745/index.m3u8
@@ -2613,7 +2613,7 @@ http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="bcu-kinozal-prem-3" tvg-name="BCU КИНОЗАЛ PREMIERE 3 HD" tvg-logo="https://iptvx.one/picons/bcu-kinozal-prem-3.png" group-title="🎞️ КИНОЗАЛЫ", BCU КИНОЗАЛ PREMIERE 3 HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
-http://list.onlinetv-sochi.ru:8080/live/channel.php?id=607&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://185.234.59.200:8080/BCU_Kinozal_Premiere_3_HD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1 tvg-id="bcu-premiere" tvg-name="BCU PREMIERE HD" tvg-logo="https://epg.iptvx.one/picons/bcu-premiere.png" group-title="🎞️ КИНОЗАЛЫ", BCU PREMIERE HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
 http://127.0.0.1:6878/ace/getstream?infohash=c248c963c8de10771ace5f3d370566c1b4a6e4ad
