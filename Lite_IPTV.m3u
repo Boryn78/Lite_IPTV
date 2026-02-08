@@ -2724,7 +2724,7 @@ http://127.0.0.1:6878/ace/getstream?id=5752b846dab618e12a0a1541ad6573a81ae1265d
 http://127.0.0.1:6878/ace/getstream?id=5cea434c891d27aa66d87d3b23d91ab74c1c72f8
 #EXTINF:-1 tvg-id="bcu-sssr" tvg-name="BCU СССР HD" tvg-logo="https://bcumedia.pro/images/homepage/ch_7.png" group-title="🎞️ КИНОЗАЛЫ", BCU СССР HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
-http://127.0.0.1:6878/ace/getstream?id=59623cb797c031a5aa4922eb219851547cb346b0
+http://185.234.59.200:8080/BCU_USSR_HD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1 tvg-id="bcu-action" tvg-name="BCU ACTION HD" tvg-logo="https://epg.iptvx.one/picons/bcu-action.png" group-title="🎞️ КИНОЗАЛЫ", BCU ACTION HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
 http://127.0.0.1:6878/ace/getstream?id=3c679a39456838ea8abc77b288c95df2b7a3f45d
@@ -2733,19 +2733,19 @@ http://127.0.0.1:6878/ace/getstream?id=3c679a39456838ea8abc77b288c95df2b7a3f45d
 http://185.234.59.200:8080/BCU_Catastrophe_HD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1 tvg-name="BCU CINEMA HD" tvg-logo="https://bcumedia.pro/images/homepage/ch_0.png" group-title="🎞️ КИНОЗАЛЫ", BCU CINEMA HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
-http://127.0.0.1:6878/ace/getstream?id=ed699504c5010cab9046530306960e998a92f5e6
+http://185.234.59.200:8080/BCU_Cinema_HD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1 tvg-name="BCU CINEMA+ HD" tvg-logo="https://iptvx.one/picons/bcu-cinemaplus.png" group-title="🎞️ КИНОЗАЛЫ", BCU CINEMA+ HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
-http://127.0.0.1:6878/ace/getstream?id=4d6232def7e751c47eb44a017021055e8362b54a
+http://185.234.59.200:8080/BCU_Cinema_Plus_HD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1 tvg-name="BCU COMEDY HD" tvg-logo="https://epg.iptvx.one/picons/bcu-comedy.png" group-title="🎞️ КИНОЗАЛЫ", BCU COMEDY HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
-http://127.0.0.1:6878/ace/getstream?id=5c878afe25deb6a7f1cfe198df39d5a073af4134
+http://185.234.59.200:8080/BCU_Comedy_HD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1 tvg-name="BCU COSMO HD" tvg-logo="https://iptvx.one/picons/bcu-cosmo.png" group-title="🎞️ КИНОЗАЛЫ", BCU COSMO HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
 http://127.0.0.1:6878/ace/getstream?id=41e81ad4d12bf52b23e58c4c3fda62bc8ba1bbb5
 #EXTINF:-1 tvg-name="BCU CRIMINAL HD" tvg-logo="https://iptvx.one/picons/bcu-criminal.png" group-title="🎞️ КИНОЗАЛЫ", BCU CRIMINAL HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
-http://127.0.0.1:6878/ace/getstream?id=ddb42884acd341255390cda62387b5a42d8c2180
+http://185.234.59.200:8080/BCU_Criminal_HD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1 tvg-name="BCU FANTASTIC HD" tvg-logo="https://epg.iptvx.one/picons/bcu-fantastic.png" group-title="🎞️ КИНОЗАЛЫ", BCU FANTASTIC HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
 http://127.0.0.1:6878/ace/getstream?id=2d04b4c1391b16a4995e7b7fe74833d6c9d850ac
