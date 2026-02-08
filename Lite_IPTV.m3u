@@ -2613,7 +2613,7 @@ http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="bcu-kinozal-prem-3" tvg-name="BCU КИНОЗАЛ PREMIERE 3 HD" tvg-logo="https://iptvx.one/picons/bcu-kinozal-prem-3.png" group-title="🎞️ КИНОЗАЛЫ", BCU КИНОЗАЛ PREMIERE 3 HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
-http://185.234.59.200:8080/BCU_Kinozal_Premiere_3_HD/video.m3u8?token=5uGLTS1oibSIu0
+http://127.0.0.1:6878/ace/getstream?id=ffa797e65b8307a13b2805284e28295884c7e7e1
 #EXTINF:-1 tvg-id="bcu-premiere" tvg-name="BCU PREMIERE HD" tvg-logo="https://epg.iptvx.one/picons/bcu-premiere.png" group-title="🎞️ КИНОЗАЛЫ", BCU PREMIERE HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
 http://127.0.0.1:6878/ace/getstream?infohash=c248c963c8de10771ace5f3d370566c1b4a6e4ad
@@ -2631,7 +2631,7 @@ http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="bcu-romantic" tvg-name="BCU Romantic HD" tvg-logo="https://bcumedia.pro/images/homepage/ch_16.png" group-title="🎞️ КИНОЗАЛЫ", BCU ROMANTIC HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
-http://list.onlinetv-sochi.ru:8080/live/channel.php?id=600&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://127.0.0.1:6878/ace/getstream?id=62f68471bab075eb96e5db4559e7994427db111b
 #EXTINF:-1 tvg-id="fox-sports-1" tvg-name="FS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/400px-2015_Fox_Sports_1_logo.svg.png" group-title="🏅 СПОРТ", FS1 HD (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=c9c062941fbecb16ce29437f346ea7177d720898
@@ -2655,7 +2655,7 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=WomensMagazi
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=DetectiveJam.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3MTAyMTg4MCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzcwNDE3MDgwLCJzZXNzaW9uX2lkIjoiNzc4MzZjYmQ5OGQwNjE3YzcxYzE0MjY1NzgxMmM3MjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ThSM7vjZODYi1yZ6FqDTIILEfc8QDHimlwmLoM7yWmk
 #EXTINF:-1 tvg-id="bcu-ruserial" tvg-name="BCU RUSERIAL HD" tvg-logo="https://iptvx.one/picons/bcu-ruserial.png" group-title="🎞️ КИНОЗАЛЫ", BCU RUSERIAL HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
-http://list.onlinetv-sochi.ru:8080/live/channel.php?id=656&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://127.0.0.1:6878/ace/getstream?id=49552fcef0397a9f48f7520247ee414a085f61e2
 #EXTINF:-1 tvg-name="Южная Каролина Норт-Миртл-Бич 17-я авеню" group-title="📷 WEB КАМЕРЫ", Южная Каролина Норт-Миртл-Бич 17-я авеню
 #EXTGRP:📷 WEB КАМЕРЫ
 https://5ed7b8fd7bf40.streamlock.net:444/condoworld/condoworldcam/chunklist_w1918045463.m3u8
@@ -2706,7 +2706,7 @@ https://5a8d73edc0407.streamlock.net/bnuip200/bnuip20002.stream/chunklist.m3u8
 https://5a8d73edc0407.streamlock.net/bnuip20/bnuip2005.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="bcu-russian" tvg-name="BCU RUSSIAN HD" tvg-logo="https://bcumedia.pro/images/homepage/ch_12.png" group-title="🎞️ КИНОЗАЛЫ", BCU RUSSIAN HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
-http://list.onlinetv-sochi.ru:8080/live/channel.php?id=601&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://127.0.0.1:6878/ace/getstream?id=5e38456d774827e7312b7eabdde388532a3dfec9
 #EXTINF:-1 tvg-id="bcu-stars" tvg-name="BCU STARS HD" tvg-logo="https://iptvx.one/picons/bcu-stars.png" group-title="🎞️ КИНОЗАЛЫ", BCU STARS HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
 http://127.0.0.1:6878/ace/getstream?id=05fe94b726e99b1dd548013bd281980f9f27b617
