@@ -2613,7 +2613,7 @@ http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="bcu-kinozal-prem-3" tvg-name="BCU КИНОЗАЛ PREMIERE 3 HD" tvg-logo="https://iptvx.one/picons/bcu-kinozal-prem-3.png" group-title="🎞️ КИНОЗАЛЫ", BCU КИНОЗАЛ PREMIERE 3 HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
-http://127.0.0.1:6878/ace/getstream?id=ffa797e65b8307a13b2805284e28295884c7e7e1
+http://185.234.59.200:8080/BCU_Kinozal_Premiere_3_HD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1 tvg-id="bcu-premiere" tvg-name="BCU PREMIERE HD" tvg-logo="https://epg.iptvx.one/picons/bcu-premiere.png" group-title="🎞️ КИНОЗАЛЫ", BCU PREMIERE HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
 http://127.0.0.1:6878/ace/getstream?infohash=c248c963c8de10771ace5f3d370566c1b4a6e4ad
@@ -2712,7 +2712,7 @@ http://127.0.0.1:6878/ace/getstream?id=5e38456d774827e7312b7eabdde388532a3dfec9
 http://127.0.0.1:6878/ace/getstream?id=05fe94b726e99b1dd548013bd281980f9f27b617
 #EXTINF:-1 tvg-name="BCU SURVIVAL HD" tvg-logo="https://iptvx.one/picons/bcu-survival.png" group-title="🎞️ КИНОЗАЛЫ", BCU SURVIVAL HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
-http://list.onlinetv-sochi.ru:8080/live/channel.php?id=702&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://127.0.0.1:6878/ace/getstream?id=7222fcd5c4efe1f4beee535acac83fc195bc51d3
 #EXTINF:-1 tvg-name="BCU TRUMOTION HD" tvg-logo="https://iptvx.one/picons/bcu-trumotion.png" group-title="🎞️ КИНОЗАЛЫ", BCU TRUMOTION HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
 http://127.0.0.1:6878/ace/getstream?id=1d316bb0fd6a7741ac8c9a8972b6710e71d84791
@@ -2724,7 +2724,7 @@ http://127.0.0.1:6878/ace/getstream?id=5752b846dab618e12a0a1541ad6573a81ae1265d
 http://127.0.0.1:6878/ace/getstream?id=5cea434c891d27aa66d87d3b23d91ab74c1c72f8
 #EXTINF:-1 tvg-id="bcu-sssr" tvg-name="BCU СССР HD" tvg-logo="https://bcumedia.pro/images/homepage/ch_7.png" group-title="🎞️ КИНОЗАЛЫ", BCU СССР HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
-http://list.onlinetv-sochi.ru:8080/live/channel.php?id=609&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://127.0.0.1:6878/ace/getstream?id=59623cb797c031a5aa4922eb219851547cb346b0
 #EXTINF:-1 tvg-id="bcu-action" tvg-name="BCU ACTION HD" tvg-logo="https://epg.iptvx.one/picons/bcu-action.png" group-title="🎞️ КИНОЗАЛЫ", BCU ACTION HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
 http://127.0.0.1:6878/ace/getstream?id=3c679a39456838ea8abc77b288c95df2b7a3f45d
