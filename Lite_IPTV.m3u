@@ -2730,28 +2730,28 @@ http://127.0.0.1:6878/ace/getstream?id=59623cb797c031a5aa4922eb219851547cb346b0
 http://127.0.0.1:6878/ace/getstream?id=3c679a39456838ea8abc77b288c95df2b7a3f45d
 #EXTINF:-1 tvg-name="BCU Catastrophe HD" tvg-logo="https://bcumedia.pro/images/homepage/ch_15.png" group-title="🎞️ КИНОЗАЛЫ", BCU CATASTROPHE HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
-http://list.onlinetv-sochi.ru:8080/live/channel.php?id=591&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://185.234.59.200:8080/BCU_Catastrophe_HD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1 tvg-name="BCU CINEMA HD" tvg-logo="https://bcumedia.pro/images/homepage/ch_0.png" group-title="🎞️ КИНОЗАЛЫ", BCU CINEMA HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
-http://list.onlinetv-sochi.ru:8080/live/channel.php?id=592&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://127.0.0.1:6878/ace/getstream?id=ed699504c5010cab9046530306960e998a92f5e6
 #EXTINF:-1 tvg-name="BCU CINEMA+ HD" tvg-logo="https://iptvx.one/picons/bcu-cinemaplus.png" group-title="🎞️ КИНОЗАЛЫ", BCU CINEMA+ HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
-http://list.onlinetv-sochi.ru:8080/live/channel.php?id=658&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://127.0.0.1:6878/ace/getstream?id=4d6232def7e751c47eb44a017021055e8362b54a
 #EXTINF:-1 tvg-name="BCU COMEDY HD" tvg-logo="https://epg.iptvx.one/picons/bcu-comedy.png" group-title="🎞️ КИНОЗАЛЫ", BCU COMEDY HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
-http://list.onlinetv-sochi.ru:8080/live/channel.php?id=593&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://127.0.0.1:6878/ace/getstream?id=5c878afe25deb6a7f1cfe198df39d5a073af4134
 #EXTINF:-1 tvg-name="BCU COSMO HD" tvg-logo="https://iptvx.one/picons/bcu-cosmo.png" group-title="🎞️ КИНОЗАЛЫ", BCU COSMO HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
-http://list.onlinetv-sochi.ru:8080/live/channel.php?id=696&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://127.0.0.1:6878/ace/getstream?id=41e81ad4d12bf52b23e58c4c3fda62bc8ba1bbb5
 #EXTINF:-1 tvg-name="BCU CRIMINAL HD" tvg-logo="https://iptvx.one/picons/bcu-criminal.png" group-title="🎞️ КИНОЗАЛЫ", BCU CRIMINAL HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
-http://list.onlinetv-sochi.ru:8080/live/channel.php?id=655&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://127.0.0.1:6878/ace/getstream?id=ddb42884acd341255390cda62387b5a42d8c2180
 #EXTINF:-1 tvg-name="BCU FANTASTIC HD" tvg-logo="https://epg.iptvx.one/picons/bcu-fantastic.png" group-title="🎞️ КИНОЗАЛЫ", BCU FANTASTIC HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
 http://127.0.0.1:6878/ace/getstream?id=2d04b4c1391b16a4995e7b7fe74833d6c9d850ac
 #EXTINF:-1 tvg-name="BCU FILMYSTIC HD" tvg-logo="https://epg.iptvx.one/picons/bcu-filmystic.png" group-title="🎞️ КИНОЗАЛЫ", BCU FILMYSTIC HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
-http://list.onlinetv-sochi.ru:8080/live/channel.php?id=595&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://127.0.0.1:6878/ace/getstream?id=2814982beb7bb4bd74ad2f8c721ba4bcf7e93a04
 #EXTINF:-1 tvg-name="КИНОМУЛЬТ" tvg-logo="https://iptvx.one/picons/kinomult.png" group-title="🧸 ДЕТСКИЕ", КИНОМУЛЬТ
 #EXTGRP:🧸 ДЕТСКИЕ
 https://stream-msk-17.ott.tricolor.tv/dtv/id944_MSKSG-PVR-1--KinoMult_SD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3MTAyMTg4MCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzcwNDE3MDgwLCJzZXNzaW9uX2lkIjoiNzc4MzZjYmQ5OGQwNjE3YzcxYzE0MjY1NzgxMmM3MjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ThSM7vjZODYi1yZ6FqDTIILEfc8QDHimlwmLoM7yWmk
@@ -2814,19 +2814,19 @@ http://kino-1.catcast.tv/content/37742/index.m3u8
 http://127.0.0.1:6878/ace/getstream?id=21fcd8e73936b64435d07832c2d8382609f48d6d
 #EXTINF:-1 tvg-name="BCU Kinorating HD" tvg-logo="https://bcumedia.pro/images/homepage/ch_4.png" group-title="🎞️ КИНОЗАЛЫ", BCU KINORATING HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
-http://list.onlinetv-sochi.ru:8080/live/channel.php?id=597&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://127.0.0.1:6878/ace/getstream?id=57401c50a256f68da4bc9ebe9965e2f12a9d20e2
 #EXTINF:-1 tvg-name="BCU MARVEL HD" tvg-logo="https://bcumedia.pro/images/homepage/ch_5.png" group-title="🎞️ КИНОЗАЛЫ", BCU MARVEL HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
 http://127.0.0.1:6878/ace/getstream?id=bbb0e5dbb5f0059de7b9ffc0cbcd1f9728449fd7
 #EXTINF:-1 tvg-name="BCU REALITY HD"  tvg-logo="https://iptvx.one/picons/bcu-reality.png" group-title="🎞️ КИНОЗАЛЫ", BCU REALITY HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
-http://list.onlinetv-sochi.ru:8080/live/channel.php?id=701&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://127.0.0.1:6878/ace/getstream?id=22da1ac893c3daf4035261c84e828c8020648187
 #EXTINF:-1 tvg-id="cineman" tvg-name="CINEMAN" tvg-logo="https://crdtv.net/b/templates/ottch/cineman.png" group-title="🎞️ КИНОЗАЛЫ", CINEMAN HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
-http://list.onlinetv-sochi.ru:8080/live/channel.php?id=675&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://127.0.0.1:6878/ace/getstream?id=00d0649880b17050d8a9ed559fc824f98fd578be
 #EXTINF:-1 tvg-id="cineman-top" tvg-name="CINEMAN TOP" tvg-logo="https://crdtv.net/b/templates/ottch/cineman-top.png" group-title="🎞️ КИНОЗАЛЫ", CINEMAN TOP HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
-http://list.onlinetv-sochi.ru:8080/live/channel.php?id=676&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://127.0.0.1:6878/ace/getstream?id=21f0299cce733ec3a481135553de468440b3630f
 #EXTINF:-1 tvg-id="cineman-rukino" tvg-name="CINEMAN РУКИНО" tvg-logo="https://iptvx.one/picons/cineman-rukino.png" group-title="🎞️ КИНОЗАЛЫ", CINEMAN РУКИНО HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
 http://127.0.0.1:6878/ace/getstream?id=51a8548ddcff18ba9f89c4c4cb6eb359fc24b30b
