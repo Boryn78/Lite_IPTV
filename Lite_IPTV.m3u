@@ -211,7 +211,7 @@ https://stream-msk-06.ott.tricolor.tv/dtv/id423_MSKSG-PVR-1--Cinema/03/plst.m3u8
 http://185.234.59.200:8080/kinopremera_hd/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1 tvg-id="kinosvidanie" tvg-name="КИНОСВИДАНИЕ" tvg-logo="https://iptvx.one/picons/kinosvidanie.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНОСВИДАНИЕ
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://158.101.222.193:88/georgia_play.php?id=kinoseria
+http://tv.woobl.ru/kinosvidanie_hd/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1 tvg-name="Для каналов (Torrent TV) запустите AceServe 1.5" tvg-logo="https://liteiptv.ucoz.net/AceServe15.png" group-title="🎞️ КИНОЗАЛЫ", Для каналов (Torrent TV) запустите AceServe 1.5
 #EXTGRP:🎞️ КИНОЗАЛЫ
 https://liteiptv.ucoz.net/AceServe_15.mov
