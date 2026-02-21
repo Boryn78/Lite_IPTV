@@ -686,9 +686,6 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Gulli.m3u8&s
 #EXTINF:-1 tvg-id="karusel" tvg-name="КАРУСЕЛЬ" tvg-logo="https://iptvx.one/picons/karusel.png" group-title="🧸 ДЕТСКИЕ", КАРУСЕЛЬ
 #EXTGRP:🧸 ДЕТСКИЕ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
-#EXTINF:-1 tvg-id="karusel" tvg-name="КАРУСЕЛЬ" tvg-logo="https://iptvx.one/picons/karusel.png" group-title="🧸 ДЕТСКИЕ", КАРУСЕЛЬ FHD (Torrent TV)
-#EXTGRP:🧸 ДЕТСКИЕ
-http://127.0.0.1:6878/ace/getstream?id=c008e67929d47855b43f7a9af7305a6c32504132
 #EXTINF:-1 tvg-id="ani" tvg-name="ANI" tvg-logo="https://karnei4.github.io/convert/index_files/ani.png" group-title="🧸 ДЕТСКИЕ", ANI
 #EXTGRP:🧸 ДЕТСКИЕ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Ani.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3MjIzMTYwNSwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzcxNjI2ODA1LCJzZXNzaW9uX2lkIjoiOTUzYzc1MmU2NTE2MzYwZGViNDQ1YTNjOTA3MzJhNjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ycka80eWrGH9D_sd7DEDbnhjt1ggT1RzSTgqRuW_kt0
@@ -707,9 +704,6 @@ http://185.221.213.254/live/stream4.php?q=OWWGT5_z5DqjdLW9cndeOneG0NRqItKIrGpIm0
 #EXTINF:-1 tvg-name="УНИКУМ" tvg-logo="https://vestnik-lesnoy.ru/wp-content/uploads/2020/01/1576616446_un.jpg" group-title="🧸 ДЕТСКИЕ", УНИКУМ
 #EXTGRP:🧸 ДЕТСКИЕ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Unikum.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3MjIzMTYwNSwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzcxNjI2ODA1LCJzZXNzaW9uX2lkIjoiOTUzYzc1MmU2NTE2MzYwZGViNDQ1YTNjOTA3MzJhNjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ycka80eWrGH9D_sd7DEDbnhjt1ggT1RzSTgqRuW_kt0
-#EXTINF:-1 tvg-id="detsky" tvg-name="УНИКУМ" tvg-logo="https://vestnik-lesnoy.ru/wp-content/uploads/2020/01/1576616446_un.jpg" group-title="🧸 ДЕТСКИЕ", УНИКУМ FHD (Torrent TV)
-#EXTGRP:🧸 ДЕТСКИЕ
-http://127.0.0.1:6878/ace/getstream?id=dc5cf63b879b13f10c439d90b82bd91a5ba957ee
 #EXTINF:-1 tvg-id="chizhik" tvg-name="ЧИЖИК" tvg-logo="http://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL2NoaXpoaWtfaGQucG5n" group-title="🧸 ДЕТСКИЕ", ЧИЖИК
 #EXTGRP:🧸 ДЕТСКИЕ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Chizhik.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3MjIzMTYwNSwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzcxNjI2ODA1LCJzZXNzaW9uX2lkIjoiOTUzYzc1MmU2NTE2MzYwZGViNDQ1YTNjOTA3MzJhNjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ycka80eWrGH9D_sd7DEDbnhjt1ggT1RzSTgqRuW_kt0
@@ -1885,9 +1879,6 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=TipTop.m3u8&
 #EXTINF:-1 tvg-id="detsky-mir" tvg-name="ДЕТСКИЙ МИР" tvg-logo="https://iptvx.one/picons/detsky-mir.png" group-title="🧸 ДЕТСКИЕ", ДЕТСКИЙ МИР
 #EXTGRP:🧸 ДЕТСКИЕ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Detskiy_Mir.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3MjIzMTYwNSwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzcxNjI2ODA1LCJzZXNzaW9uX2lkIjoiOTUzYzc1MmU2NTE2MzYwZGViNDQ1YTNjOTA3MzJhNjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ycka80eWrGH9D_sd7DEDbnhjt1ggT1RzSTgqRuW_kt0
-#EXTINF:-1 tvg-id="СуперГерои" tvg-name="СУПЕРГЕРОИ" tvg-logo="http://epg.it999.ru/img/2239.png" group-title="🧸 ДЕТСКИЕ", СУПЕРГЕРОИ (Torrent TV)
-#EXTGRP:🧸 ДЕТСКИЕ
-http://127.0.0.1:6878/ace/getstream?id=42f4491e03e5730330457e7c49c55362bf2cbc7e
 #EXTINF:-1 tvg-id="liova" tvg-name="Лёва HD" tvg-logo="https://epg.iptvx.one/picons/liova.png" group-title="🧸 ДЕТСКИЕ", ЛЁВА
 #EXTGRP:🧸 ДЕТСКИЕ
 http://list.onlinetv-sochi.ru:8080/live/arx.php?id=lyova&token=Ym9yeW43ODpMYW5jZXIxNg=
@@ -1951,9 +1942,6 @@ https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="tri-angela" tvg-name="ТРИ АНГЕЛА" tvg-logo="http://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3RyaV9hbmdlbGEucG5n" group-title="👀 РАЗНОЕ", ТРИ АНГЕЛА
 #EXTGRP:👀 РАЗНОЕ
 http://hls.tv.3angels.ru/stream/HQ.m3u8
-#EXTINF:-1 tvg-id="v-gostiax-u-skazki" tvg-name="В ГОСТЯХ У СКАЗКИ" tvg-logo="https://iptvx.one/picons/v-gostiax-u-skazki.png" group-title="🧸 ДЕТСКИЕ", В ГОСТЯХ У СКАЗКИ FHD (Torrent TV)
-#EXTGRP:🧸 ДЕТСКИЕ
-http://127.0.0.1:6878/ace/getstream?id=77c4a879752e4a24e2e39bfcd58458eee24b58a0
 #EXTINF:-1 tvg-id="muzhskoe-kino" tvg-name="МУЖСКОЕ КИНО" tvg-logo="https://iptvx.one/picons/muzhskoe-kino.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", МУЖСКОЕ КИНО
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://158.101.222.193:88/georgia_play.php?id=interesnoetv
@@ -2744,33 +2732,15 @@ http://185.234.59.200:8080/BCU_FilMystic_HD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1 tvg-name="КИНОМУЛЬТ" tvg-logo="https://iptvx.one/picons/kinomult.png" group-title="🧸 ДЕТСКИЕ", КИНОМУЛЬТ
 #EXTGRP:🧸 ДЕТСКИЕ
 https://stream-msk-17.ott.tricolor.tv/dtv/id944_MSKSG-PVR-1--KinoMult_SD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3MjIzMTYwNSwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzcxNjI2ODA1LCJzZXNzaW9uX2lkIjoiOTUzYzc1MmU2NTE2MzYwZGViNDQ1YTNjOTA3MzJhNjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ycka80eWrGH9D_sd7DEDbnhjt1ggT1RzSTgqRuW_kt0
-#EXTINF:-1 tvg-name="Зал 16 (Диностер)" tvg-id="zal-16-tricolor" tvg-logo="https://sun9-17.userapi.com/impg/_CHK111I58VMETVjg1I7ZvjE7yoNGr4I_x3Evg/4lgbp38cEGI.jpg?size=604x340&quality=95&sign=d8c216c411ecf3e94a23bc2bf50bde73&type=album" group-title="🧸 ДЕТСКИЕ", ДИНОСТЕР
-#EXTGRP:🧸 ДЕТСКИЕ
-https://live-mirror-18.ott.tricolor.tv/dtv/id1000_MSKSG-PVR-1--Kinozal_16/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3MjIzMTYwNSwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzcxNjI2ODA1LCJzZXNzaW9uX2lkIjoiOTUzYzc1MmU2NTE2MzYwZGViNDQ1YTNjOTA3MzJhNjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ycka80eWrGH9D_sd7DEDbnhjt1ggT1RzSTgqRuW_kt0
-#EXTINF:-1 tvg-name="Зал 15" tvg-id="zal-15-tricolor" tvg-logo="https://sun9-71.userapi.com/impf/mW34YRkFQUf0kHv8k-rJKSzxNL3_jPCCeOHkUQ/DDActZM3pC0.jpg?size=700x464&quality=96&sign=27bc41825a78110fef100134b7cdb054&c_uniq_tag=PBr1ljSCqmVLhcz8b80XeUjbQXc-akJH96BggRsrX0M&type=album" group-title="🧸 ДЕТСКИЕ", ГОВОРЯЩИЙ ТОМ
-#EXTGRP:🧸 ДЕТСКИЕ
-https://live-mirror-19.ott.tricolor.tv/dtv/id999_MSKSG-PVR-1--Kinozal_15/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3MjIzMTYwNSwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzcxNjI2ODA1LCJzZXNzaW9uX2lkIjoiOTUzYzc1MmU2NTE2MzYwZGViNDQ1YTNjOTA3MzJhNjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ycka80eWrGH9D_sd7DEDbnhjt1ggT1RzSTgqRuW_kt0
-#EXTINF:-1 tvg-name="Зал 14 (Инфинити Надо)" tvg-id="zal-14-tricolor" tvg-logo="http://avatars.mds.yandex.net/get-vh/6491029/2a0000018009c7630efed93fdb60511bd79a/800x450" group-title="🧸 ДЕТСКИЕ", ИНФИНИТИ НАДО
-#EXTGRP:🧸 ДЕТСКИЕ
-https://live-mirror-19.ott.tricolor.tv/dtv/id998_MSKSG-PVR-1--Kinozal_14/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3MjIzMTYwNSwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzcxNjI2ODA1LCJzZXNzaW9uX2lkIjoiOTUzYzc1MmU2NTE2MzYwZGViNDQ1YTNjOTA3MzJhNjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ycka80eWrGH9D_sd7DEDbnhjt1ggT1RzSTgqRuW_kt0
-#EXTINF:-1 tvg-name="Зал 22" tvg-id="zal-22-tricolor" tvg-logo="https://i.pinimg.com/originals/0f/12/5a/0f125a591291b776706357c44aa06280.png" group-title="🧸 ДЕТСКИЕ", ГОРМИТИ
-#EXTGRP:🧸 ДЕТСКИЕ
-https://live-mirror-18.ott.tricolor.tv/dtv/id1008_MSKSG-PVR-1--kinozal_22_sd/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3MjIzMTYwNSwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzcxNjI2ODA1LCJzZXNzaW9uX2lkIjoiOTUzYzc1MmU2NTE2MzYwZGViNDQ1YTNjOTA3MzJhNjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ycka80eWrGH9D_sd7DEDbnhjt1ggT1RzSTgqRuW_kt0
-#EXTINF:-1 tvg-name="Зал 21 (Робозуна)" tvg-id="zal-21-tricolor" tvg-logo="https://epg.iptvx.one/picons/zal-21-tricolor.png" group-title="🧸 ДЕТСКИЕ", РОБОЗУНА
-#EXTGRP:🧸 ДЕТСКИЕ
-https://stream-msk-19.ott.tricolor.tv/dtv/id1007_MSKSG-PVR-1--kinozal_21_sd/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3MjIzMTYwNSwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzcxNjI2ODA1LCJzZXNzaW9uX2lkIjoiOTUzYzc1MmU2NTE2MzYwZGViNDQ1YTNjOTA3MzJhNjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ycka80eWrGH9D_sd7DEDbnhjt1ggT1RzSTgqRuW_kt0
 #EXTINF:-1 tvg-name="Советские мультфильмы" tvg-logo="https://epg.iptvx.one/picons/sovmultf.png" group-title="🧸 ДЕТСКИЕ", СОВЕТСКИЕ МУЛЬТФИЛЬМЫ
 #EXTGRP:🧸 ДЕТСКИЕ
 https://stream-msk-10.ott.tricolor.tv/dtv/id905_MSKSG-PVR-1--Kinozal_10/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3MjIzMTYwNSwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzcxNjI2ODA1LCJzZXNzaW9uX2lkIjoiOTUzYzc1MmU2NTE2MzYwZGViNDQ1YTNjOTA3MzJhNjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ycka80eWrGH9D_sd7DEDbnhjt1ggT1RzSTgqRuW_kt0
 #EXTINF:-1 tvg-name="Зал 18" tvg-id="zal-18-tricolor" tvg-logo="https://sun1-17.userapi.com/q_MEzi3fbrwSDeI6O4WGwHtp-LB94t3TrMNMYA/yXnf6Z4ND0s.jpg" group-title="🧸 ДЕТСКИЕ", ПРОСТОКВАШИНО
 #EXTGRP:🧸 ДЕТСКИЕ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kinopokaz_3.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3MjIzMTYwNSwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzcxNjI2ODA1LCJzZXNzaW9uX2lkIjoiOTUzYzc1MmU2NTE2MzYwZGViNDQ1YTNjOTA3MzJhNjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ycka80eWrGH9D_sd7DEDbnhjt1ggT1RzSTgqRuW_kt0
-#EXTINF:-1 tvg-name="CARTOON NETWORK" tvg-logo="https://iptvx.one/picons/cartoon-network.png" group-title="🧸 ДЕТСКИЕ", CARTOON NETWORK (Torrent TV)
-#EXTGRP:🧸 ДЕТСКИЕ
-http://127.0.0.1:6878/ace/getstream?id=6578fed493fdf327038e74d9d967888d3dbb9c2d
 #EXTINF:-1 tvg-name="BCU KIDS 4K" tvg-logo="https://iptvx.one/picons/bcu-kids-4k.png" group-title="🧸 ДЕТСКИЕ", BCU KIDS 4K (Torrent TV)
 #EXTGRP:🧸 ДЕТСКИЕ
-http://127.0.0.1:6878/ace/getstream?id=c3aa52aab6bd48c3b79189410fbf716f2e4dd293&.mp4
+http://127.0.0.1:6878/ace/getstream?id=c3aa52aab6bd48c3b79189410fbf716f2e4dd293
 #EXTINF:-1 tvg-name="BCU KIDS HD" tvg-logo="https://iptvx.one/picons/bcu-kids.png" group-title="🧸 ДЕТСКИЕ", BCU KIDS HD (Torrent TV)
 #EXTGRP:🧸 ДЕТСКИЕ
 http://127.0.0.1:6878/ace/getstream?id=535b288408b7c671bb1d5c292dd64beadf556ab9&.mp4
