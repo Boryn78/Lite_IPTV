@@ -2738,18 +2738,15 @@ https://stream-msk-10.ott.tricolor.tv/dtv/id905_MSKSG-PVR-1--Kinozal_10/03/plst.
 #EXTINF:-1 tvg-name="Зал 18" tvg-id="zal-18-tricolor" tvg-logo="https://sun1-17.userapi.com/q_MEzi3fbrwSDeI6O4WGwHtp-LB94t3TrMNMYA/yXnf6Z4ND0s.jpg" group-title="🧸 ДЕТСКИЕ", ПРОСТОКВАШИНО
 #EXTGRP:🧸 ДЕТСКИЕ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kinopokaz_3.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3MjIzMTYwNSwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzcxNjI2ODA1LCJzZXNzaW9uX2lkIjoiOTUzYzc1MmU2NTE2MzYwZGViNDQ1YTNjOTA3MzJhNjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ycka80eWrGH9D_sd7DEDbnhjt1ggT1RzSTgqRuW_kt0
-#EXTINF:-1 tvg-name="BCU KIDS 4K" tvg-logo="https://iptvx.one/picons/bcu-kids-4k.png" group-title="🧸 ДЕТСКИЕ", BCU KIDS 4K (Torrent TV)
-#EXTGRP:🧸 ДЕТСКИЕ
-http://127.0.0.1:6878/ace/getstream?id=c3aa52aab6bd48c3b79189410fbf716f2e4dd293
 #EXTINF:-1 tvg-name="BCU KIDS HD" tvg-logo="https://iptvx.one/picons/bcu-kids.png" group-title="🧸 ДЕТСКИЕ", BCU KIDS HD (Torrent TV)
 #EXTGRP:🧸 ДЕТСКИЕ
-http://127.0.0.1:6878/ace/getstream?id=535b288408b7c671bb1d5c292dd64beadf556ab9&.mp4
+http://127.0.0.1:6878/ace/getstream?id=535b288408b7c671bb1d5c292dd64beadf556ab9
 #EXTINF:-1 tvg-name="BCU KIDS+ HD" tvg-logo="https://iptvx.one/picons/bcu-kids-plus.png" group-title="🧸 ДЕТСКИЕ", BCU KIDS+ HD (Torrent TV)
 #EXTGRP:🧸 ДЕТСКИЕ
-http://127.0.0.1:6878/ace/getstream?id=e2db1c6451aeff66756ae166cf507a0b2743b69a&.mp4
+http://127.0.0.1:6878/ace/getstream?id=e2db1c6451aeff66756ae166cf507a0b2743b69a
 #EXTINF:-1 tvg-name="BCU МУЛЬТСЕРИАЛ" tvg-logo="https://iptvx.one/picons/bcu-multserial.png" group-title="🧸 ДЕТСКИЕ", BCU МУЛЬТСЕРИАЛ (Torrent TV)
 #EXTGRP:🧸 ДЕТСКИЕ
-http://127.0.0.1:6878/ace/getstream?id=8bff31504247530c1be06395c11c38ecd1895964&.mp4
+http://127.0.0.1:6878/ace/getstream?id=8bff31504247530c1be06395c11c38ecd1895964
 #EXTINF:-1 tvg-name="SCREAM" tvg-logo="https://iptvx.one/picons/scream.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", SCREAM
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Scream.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3MjIzMTYwNSwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzcxNjI2ODA1LCJzZXNzaW9uX2lkIjoiOTUzYzc1MmU2NTE2MzYwZGViNDQ1YTNjOTA3MzJhNjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ycka80eWrGH9D_sd7DEDbnhjt1ggT1RzSTgqRuW_kt0
