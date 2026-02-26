@@ -1958,16 +1958,16 @@ https://stream-msk-06.ott.tricolor.tv:443/dtv/id358_MSKSG-PVR-1--Anekdot_TV/03/p
 #EXTINF:-1 tvg-name="БелРос" tvg-logo="http://epg.it999.ru/img/2294.png" group-title="🇧🇾 БЕЛОРУССИЯ", БелРос
 #EXTGRP:🇧🇾 БЕЛАРУСЬ
 https://live3.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
-#EXTINF:-1 tvg-name="Беларусь 1 HD" tvg-logo="http://epg.it999.ru/img/2538.png" group-title="🇧🇾 БЕЛОРУССИЯ", Беларусь 1 HD
+#EXTINF:-1 tvg-name="Беларусь 1 HD" tvg-id="belarus1" tvg-logo="http://epg.it999.ru/img/2538.png" group-title="🇧🇾 БЕЛОРУССИЯ", Беларусь 1 HD
 #EXTGRP:🇧🇾 БЕЛАРУСЬ
 http://levshanov.tlkf.ru:8080/live/stream15.php?q=HQE5hobdntmg0hamzjKwh_DlBs2Jjdi8onTp34FlNiY5hU-HfzbyEiSv1QMUvWnq2MbFbTj5JQckfkmdARNnzA&token=MjIyMjoyMjIyMjI=
-#EXTINF:-1 tvg-name="Беларусь 2 HD" tvg-logo="http://epg.it999.ru/img/2539.png" group-title="🇧🇾 БЕЛОРУССИЯ", Беларусь 2 HD
+#EXTINF:-1 tvg-name="Беларусь 2 HD" tvg-id="belarus2" tvg-logo="http://epg.it999.ru/img/2539.png" group-title="🇧🇾 БЕЛОРУССИЯ", Беларусь 2 HD
 #EXTGRP:🇧🇾 БЕЛАРУСЬ
 http://levshanov.tlkf.ru:8080/live/stream15.php?q=HQE5hobdntmg0hamzjKwhztuN4L4SKKBZAm2CHZ8_zmQS7auY_Of_xHsWuyIA84B&token=MjIyMjoyMjIyMjI=
-#EXTINF:-1 tvg-name="Беларусь 3 HD" tvg-logo="http://epg.it999.ru/img/2540.png" group-title="🇧🇾 БЕЛОРУССИЯ", Беларусь 3 HD
+#EXTINF:-1 tvg-name="Беларусь 3 HD" tvg-id="belarus3" tvg-logo="http://epg.it999.ru/img/2540.png" group-title="🇧🇾 БЕЛОРУССИЯ", Беларусь 3 HD
 #EXTGRP:🇧🇾 БЕЛАРУСЬ
 http://levshanov.tlkf.ru:8080/live/stream15.php?q=HQE5hobdntmg0hamzjKwh7TE_Qwf8aHZve_vDdr9Ub973i5pWP9PkDBBgHipqPlV&token=MjIyMjoyMjIyMjI=
-#EXTINF:-1 tvg-name="Беларусь 5 HD" tvg-logo="http://epg.it999.ru/img/2541.png" group-title="🇧🇾 БЕЛОРУССИЯ", Беларусь 5 HD
+#EXTINF:-1 tvg-name="Беларусь 5 HD" tvg-id="belarus5" tvg-logo="http://epg.it999.ru/img/2541.png" group-title="🇧🇾 БЕЛОРУССИЯ", Беларусь 5 HD
 #EXTGRP:🇧🇾 БЕЛАРУСЬ
 http://levshanov.tlkf.ru:8080/live/stream15.php?q=HQE5hobdntmg0hamzjKwh9pAyVEYXaj39iIJ9qlGzmGc1tt_sfH1Rl621PZu4ntV&token=MjIyMjoyMjIyMjI=
 #EXTINF:-1 tvg-id="travel-channel" tvg-name="Travel Channel HD" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/TRAVELCHANNEL200.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", TRAVEL CHANNEL HD 
