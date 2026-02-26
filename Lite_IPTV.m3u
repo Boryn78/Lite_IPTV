@@ -1956,8 +1956,20 @@ http://185.234.59.200:8080/okko_futbol_hd/video.m3u8?token=5uGLTS1oibSIu0
 #EXTGRP:👀 РАЗНОЕ
 https://stream-msk-06.ott.tricolor.tv:443/dtv/id358_MSKSG-PVR-1--Anekdot_TV/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3MjIzMTYwNSwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzcxNjI2ODA1LCJzZXNzaW9uX2lkIjoiOTUzYzc1MmU2NTE2MzYwZGViNDQ1YTNjOTA3MzJhNjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ycka80eWrGH9D_sd7DEDbnhjt1ggT1RzSTgqRuW_kt0
 #EXTINF:-1 tvg-name="БелРос" tvg-logo="http://epg.it999.ru/img/2294.png" group-title="🇧🇾 БЕЛОРУССИЯ", БелРос
-#EXTGRP:🇧🇾 БЕЛОРУССИЯ
+#EXTGRP:🇧🇾 БЕЛАРУСЬ
 https://live3.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
+#EXTINF:-1 tvg-name="Беларусь 1 HD" tvg-logo="http://epg.it999.ru/img/2538.png" group-title="🇧🇾 БЕЛОРУССИЯ", Беларусь 1 HD
+#EXTGRP:🇧🇾 БЕЛАРУСЬ
+http://levshanov.tlkf.ru:8080/live/stream15.php?q=HQE5hobdntmg0hamzjKwh_DlBs2Jjdi8onTp34FlNiY5hU-HfzbyEiSv1QMUvWnq2MbFbTj5JQckfkmdARNnzA&token=MjIyMjoyMjIyMjI=
+#EXTINF:-1 tvg-name="Беларусь 2 HD" tvg-logo="http://epg.it999.ru/img/2539.png" group-title="🇧🇾 БЕЛОРУССИЯ", Беларусь 2 HD
+#EXTGRP:🇧🇾 БЕЛАРУСЬ
+http://levshanov.tlkf.ru:8080/live/stream15.php?q=HQE5hobdntmg0hamzjKwhztuN4L4SKKBZAm2CHZ8_zmQS7auY_Of_xHsWuyIA84B&token=MjIyMjoyMjIyMjI=
+#EXTINF:-1 tvg-name="Беларусь 3 HD" tvg-logo="http://epg.it999.ru/img/2540.png" group-title="🇧🇾 БЕЛОРУССИЯ", Беларусь 3 HD
+#EXTGRP:🇧🇾 БЕЛАРУСЬ
+http://levshanov.tlkf.ru:8080/live/stream15.php?q=HQE5hobdntmg0hamzjKwh7TE_Qwf8aHZve_vDdr9Ub973i5pWP9PkDBBgHipqPlV&token=MjIyMjoyMjIyMjI=
+#EXTINF:-1 tvg-name="Беларусь 5 HD" tvg-logo="http://epg.it999.ru/img/2541.png" group-title="🇧🇾 БЕЛОРУССИЯ", Беларусь 5 HD
+#EXTGRP:🇧🇾 БЕЛАРУСЬ
+http://levshanov.tlkf.ru:8080/live/stream15.php?q=HQE5hobdntmg0hamzjKwh9pAyVEYXaj39iIJ9qlGzmGc1tt_sfH1Rl621PZu4ntV&token=MjIyMjoyMjIyMjI=
 #EXTINF:-1 tvg-id="travel-channel" tvg-name="Travel Channel HD" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/TRAVELCHANNEL200.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", TRAVEL CHANNEL HD 
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://list.onlinetv-sochi.ru:8080/live/channel.php?id=176&token=Ym9yeW43ODpMYW5jZXIxNg==
