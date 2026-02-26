@@ -1735,50 +1735,24 @@ https://silverrain.hostingradio.ru/silver128.mp3
 #EXTINF:-1 tvg-id="yumor-fm" tvg-name="Юмор ФМ" group-title="📻 РАДИО", Юмор ФМ
 #EXTGRP:📻 РАДИО
 https://pub0201.101.ru/stream/air/aac/64/102
-#EXTINF:-1 tvg-id="ARB" tvg-name="ARB" tvg-logo="https://app.playlistbox.com/icon/0B7b8PKO54QkGZ6nXqZNEqAYzmrVWyjg.png" group-title="🇦🇿 АЗЕРБАЙДЖАН", ARB
-#EXTGRP:🇦🇿 АЗЕРБАЙДЖАН
-http://85.132.81.184:8080/arb/live/index.m3u8
 #EXTINF:-1 tvg-id="2600" tvg-name="EL TV" tvg-logo="https://app.playlistbox.com/icon/lgyq19r83p50mxYy7exVkQXvADRObGP7.png" group-title="🇦🇿 АЗЕРБАЙДЖАН", EL TV
 #EXTGRP:🇦🇿 АЗЕРБАЙДЖАН
 http://85.132.53.162:1935/live/eltv/chunklist.m3u8
-#EXTINF:-1 tvg-id="2600" tvg-name="KEPEZ TV" group-title="🇦🇿 АЗЕРБАЙДЖАН", KEPEZ TV
-#EXTGRP:🇦🇿 АЗЕРБАЙДЖАН
-http://85.132.81.184:8080/arbkepez/live/index.m3u8
 #EXTINF:-1 tvg-name="Luys" tvg-logo="https://i.ibb.co/xS74qgH/SGN-12-18-2021-1639837346709.png" group-title="🇦🇲 АРМЕНИЯ", Luys
 #EXTGRP:🇦🇲 АРМЕНИЯ
 http://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Amga TV" tvg-logo="https://i.imgur.com/3vQVwUV.jpg" group-title="🇦🇲 АРМЕНИЯ", Amga TV
 #EXTGRP:🇦🇲 АРМЕНИЯ
 https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8
-#EXTINF:-1 tvg-name="Radio Van 103.0 FM Yerevan" group-title="🇦🇲 АРМЕНИЯ", Radio Van 103.0 FM Yerevan
-#EXTGRP:🇦🇲 АРМЕНИЯ
-http://stream.radiovan.fm/stream/index.m3u8
 #EXTINF:-1 tvg-name="AABC TV" tvg-logo="https://i.ibb.co/fYrv8Kw/SGN-03-25-2022-1648156980157.png" group-title="🇦🇲 АРМЕНИЯ", AABC TV
 #EXTGRP:🇦🇲 АРМЕНИЯ
 https://streamer1.connectto.com/AABC_WEB_1201/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Fresh TV" tvg-logo="https://i.ibb.co/W2Qfw8N/SGN-08-28-2021-1630166352824.png" group-title="🇦🇲 АРМЕНИЯ", Fresh TV
-#EXTGRP:🇦🇲 АРМЕНИЯ
-https://freshtv-live.ru/FreshTV/index.m3u8?token=livestream
 #EXTINF:-1 tvg-name="Շանթ" tvg-logo="https://i.ibb.co/Y7Rxs9J/SGN-03-22-2022-1647976102720.png" group-title="🇦🇲 АРМЕНИЯ", Շանթ
 #EXTGRP:🇦🇲 АРМЕНИЯ
 http://5.188.172.179/Shant/index.m3u8
-#EXTINF:-1 tvg-name="Armenia Հայ Կինո" tvg-logo="https://i.ibb.co/zm0q3pj/SGN-05-09-2022-1652040188384.png" group-title="🇦🇲 АРМЕНИЯ", Armenia Հայ Կինո
-#EXTGRP:🇦🇲 АРМЕНИЯ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s22/index.m3u8
 #EXTINF:-1 tvg-name="USArmenia TV" tvg-logo="https://i.ibb.co/1KDxsXR/SGN-05-01-2022-1651413983093.png" group-title="🇦🇲 АРМЕНИЯ", USArmenia TV
 #EXTGRP:🇦🇲 АРМЕНИЯ
 http://livestream.usatv.com/hls/m3u8/USARMENIA_NET1080.m3u8
-#EXTINF:-1 tvg-name="Song TV" tvg-logo="https://i.ibb.co/3Cwn1Zx/SGN-04-13-2022-1649875763996.png" group-title="🇦🇲 АРМЕНИЯ", Song TV
-#EXTGRP:🇦🇲 АРМЕНИЯ
-https://songtv.hls.iptvdc.com/web-armenia/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-name="Armenia Ջան TV" tvg-logo="https://i.ibb.co/ZLs9XPh/SGN-05-09-2022-1652040851687.png" group-title="🇦🇲 АРМЕНИЯ", Armenia Ջան TV
-#EXTGRP:🇦🇲 АРМЕНИЯ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-https://s8.gisher.me/tv/jantv.m3u8?t=LG9KPLXigP0s88_FyGcXcw&e=1717987123
-#EXTINF:-1 tvg-id="tv1-kg-hd" tvg-name="TV1 KG HD" tvg-logo="https://app.playlistbox.com/icon/WBRJkX1bvDqj5xzyzNo4KLPzglr60QA7.png" group-title="🇰🇬 КЫРГЫЗСТАН", TV1 KG HD
-#EXTGRP:🇰🇬 КЫРГЫЗСТАН
-http://212.2.225.30:1935/live/site.stream/playlist.m3u8?checkedby:iptvlister.com
 #EXTINF:-1 tvg-id="312-serial" tvg-name="312 TV KG" tvg-logo="https://app.playlistbox.com/icon/5YDKwr2BqLzpgZeqbrZVW8J7GyvOXld6.png" group-title="🇰🇬 КЫРГЫЗСТАН", 312 TV KG
 #EXTGRP:🇰🇬 КЫРГЫЗСТАН
 http://176.126.166.43:1935/live/312musik/chunklist_w1630734340.m3u8
