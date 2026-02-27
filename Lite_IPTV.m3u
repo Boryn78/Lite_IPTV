@@ -107,9 +107,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
 #EXTGRP:🇷🇺 ФЕДЕРАЛЬНЫЕ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
-#EXTINF:-1 tvg-name="Для каналов (Torrent TV) запустите AceServe 1.5" tvg-logo="https://liteiptv.ucoz.net/AceServe15.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", Для каналов (Torrent TV) запустите AceServe 1.5
-#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-https://liteiptv.ucoz.net/AceServe_15.mov
 #EXTINF:-1 tvg-id="amedia1" tvg-name="AMEDIA 1" tvg-logo="https://iptvx.one/picons/amedia1.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", AMEDIA 1
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://188.225.31.197/bpk-tv/000000710/tve/index.m3u8
@@ -323,9 +320,6 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kinozal_6.m3
 #EXTINF:-1 tvg-name="Зал 3 (Ментовские войны)" tvg-id="zal-03-tricolor" tvg-logo="https://epg.iptvx.one/picons/zal-03-tricolor.png" group-title="🎞️ КИНОЗАЛЫ", МЕНТОВСКИЕ ВОЙНЫ
 #EXTGRP:🎞️ КИНОЗАЛЫ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kinozal_3.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3MjIzMTYwNSwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzcxNjI2ODA1LCJzZXNzaW9uX2lkIjoiOTUzYzc1MmU2NTE2MzYwZGViNDQ1YTNjOTA3MzJhNjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ycka80eWrGH9D_sd7DEDbnhjt1ggT1RzSTgqRuW_kt0
-#EXTINF:-1 tvg-name="Для каналов (Torrent TV) запустите AceServe 1.5" tvg-logo="https://liteiptv.ucoz.net/AceServe15.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", Для каналов (Torrent TV) запустите AceServe 1.5
-#EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-https://liteiptv.ucoz.net/AceServe_15.mov
 #EXTINF:-1 tvg-id="national-geographic" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/NATGEO200.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", NATIONAL GEOGRAPHIC
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://188.225.31.197/bpk-tv/000000034/tve/index.m3u8
