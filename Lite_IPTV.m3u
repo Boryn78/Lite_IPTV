@@ -2682,9 +2682,6 @@ http://185.234.59.200:8080/BCU_Cinema_Plus_HD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1 tvg-name="BCU COMEDY HD" tvg-logo="https://epg.iptvx.one/picons/bcu-comedy.png" group-title="🎞️ КИНОЗАЛЫ", BCU COMEDY HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
 http://185.234.59.200:8080/BCU_Comedy_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-name="BCU COSMO HD" tvg-logo="https://iptvx.one/picons/bcu-cosmo.png" group-title="🎞️ КИНОЗАЛЫ", BCU COSMO HD (Torrent TV)
-#EXTGRP:🎞️ КИНОЗАЛЫ
-http://185.234.59.200:8080/channel/n1bd83275/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
 #EXTINF:-1 tvg-name="BCU CRIMINAL HD" tvg-logo="https://iptvx.one/picons/bcu-criminal.png" group-title="🎞️ КИНОЗАЛЫ", BCU CRIMINAL HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
 http://185.234.59.200:8080/BCU_Criminal_HD/video.m3u8?token=5uGLTS1oibSIu0
@@ -2739,9 +2736,6 @@ http://185.234.59.200:8080/BCU_Kinorating_HD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1 tvg-name="BCU MARVEL HD" tvg-logo="https://bcumedia.pro/images/homepage/ch_5.png" group-title="🎞️ КИНОЗАЛЫ", BCU MARVEL HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
 http://127.0.0.1:6878/ace/getstream?id=bbb0e5dbb5f0059de7b9ffc0cbcd1f9728449fd7
-#EXTINF:-1 tvg-name="BCU REALITY HD"  tvg-logo="https://iptvx.one/picons/bcu-reality.png" group-title="🎞️ КИНОЗАЛЫ", BCU REALITY HD (Torrent TV)
-#EXTGRP:🎞️ КИНОЗАЛЫ
-http://127.0.0.1:6878/ace/getstream?id=22da1ac893c3daf4035261c84e828c8020648187
 #EXTINF:-1 tvg-name="6 кадров" tvg-logo="https://www.film.ru/sites/default/files/styles/thumb_1024x450/public/movies/frames/49757978-1573937.jpg" group-title="👀 РАЗНОЕ", 6 КАДРОВ
 #EXTGRP:👀 РАЗНОЕ
 https://stream-msk-18.ott.tricolor.tv/dtv/id1016_MSKSG-PVR-1--Kinozal28_SD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3MjIzMTYwNSwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzcxNjI2ODA1LCJzZXNzaW9uX2lkIjoiOTUzYzc1MmU2NTE2MzYwZGViNDQ1YTNjOTA3MzJhNjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ycka80eWrGH9D_sd7DEDbnhjt1ggT1RzSTgqRuW_kt0
