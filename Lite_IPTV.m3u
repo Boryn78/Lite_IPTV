@@ -541,19 +541,19 @@ http://185.221.213.254/live/stream113.php?seg=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU
 http://127.0.0.1:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
 #EXTINF:-1 tvg-id="match-arena" tvg-name="МАТЧ! АРЕНА" tvg-logo="https://iptvx.one/picons/match-arena.png" group-title="🏅 СПОРТ", МАТЧ! АРЕНА HD
 #EXTGRP:🏅 СПОРТ
-http://server-2.onlinetv-sochi.ru:8080/live/bol_tv.php?id=dvr02/hd1/sport1HD&token=VmlwaXBUdjpWaXBpcFR2Nzc=|user-agent=VipipTv
+http://185.221.213.254/live/stream113.php?seg=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXUCLfR1F8aFLSWdamRbQX32azYTfcDT92tt0BbclVEYgw&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="match-arena" tvg-name="МАТЧ! АРЕНА" tvg-logo="https://iptvx.one/picons/match-arena.png" group-title="🏅 СПОРТ", МАТЧ! АРЕНА FHD 50 (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=a1d67cb505881b2b5bc58ce2af367e5e6d26cab5
 #EXTINF:-1 tvg-id="match-igra" tvg-name="МАТЧ! ИГРА" tvg-logo="https://iptvx.one/picons/match-igra.png" group-title="🏅 СПОРТ", МАТЧ! ИГРА HD
 #EXTGRP:🏅 СПОРТ
-http://server-2.onlinetv-sochi.ru:8080/live/bol_tv.php?id=abr2/sport2HD/71/copy&token=VmlwaXBUdjpWaXBpcFR2Nzc=|user-agent=VipipTv
+http://185.221.213.254/live/stream113.php?seg=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXXXrhVIVewwNjwE7I5S_5yEMLJ6jMfQ2OcvbeaCY6IoMg&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="match-igra" tvg-name="МАТЧ! ИГРА" tvg-logo="https://iptvx.one/picons/match-igra.png" group-title="🏅 СПОРТ", МАТЧ! ИГРА FHD 50 (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=762e1d11f7d07029f316c6f61b8ef73289c6673c
 #EXTINF:-1 tvg-id="Матч! Страна" tvg-name="МАТЧ! СТРАНА" tvg-logo="https://iptvx.one/picons/match-strana.png" group-title="🏅 СПОРТ", МАТЧ! СТРАНА HD
 #EXTGRP:🏅 СПОРТ
-http://server-2.onlinetv-sochi.ru:8080/live/bol_tv.php?id=dvr01/mobile2/ntvsport&token=VmlwaXBUdjpWaXBpcFR2Nzc=|user-agent=VipipTv
+http://185.221.213.254/live/stream113.php?seg=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXUsdMLBZ4se1XGM-1Kb2ADQJznuhd8-o6xMmTOqzf3NMQ&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="Матч! Страна" tvg-name="МАТЧ! СТРАНА" tvg-logo="https://iptvx.one/picons/match-strana.png" group-title="🏅 СПОРТ", МАТЧ! СТРАНА FHD 50 (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=ef9c77bd94783448b8edb552109f5f15b2bd82d1
@@ -571,7 +571,7 @@ http://127.0.0.1:6878/ace/getstream?id=822654b2c0db24d1de149cb21fdd44a3b968fbfa
 http://188.225.31.197/bpk-tv/000000135/tve/index.m3u8
 #EXTINF:-1 tvg-name="KHL" tvg-logo="https://iptvx.one/picons/kxl.png" group-title="🏅 СПОРТ", KHL
 #EXTGRP:🏅 СПОРТ
-http://list.onlinetv-sochi.ru:8080/live/arx.php?id=khl&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://185.221.213.254/live/stream113.php?seg=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXU0aN60FDdx-S_3C7iSMaBlnUfERHyH732oZgLJtMQSzg&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-name="KHL" tvg-logo="https://iptvx.one/picons/kxl.png" group-title="🏅 СПОРТ", KHL FHD (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=aa6c193b9de1e6b6277e3075299fdeea925e2dc0
@@ -589,7 +589,7 @@ https://liteiptv.ucoz.net/AceServe_15.mov
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Hokeinii_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3MzQ0MTAwNywiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzcyODM2MjA3LCJzZXNzaW9uX2lkIjoiNTQ3MmYyNGQ2YzQ0ZDgzZjliYTU5MjliYjVhYTFlOWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.f2oFwTNGPO89H-GoR2IpAFq91V5Ld6WjV-8lFXRF5-A
 #EXTINF:-1 tvg-id="nhl" tvg-name="NHL" tvg-logo="https://bonus-betting.ru/wp-content/uploads/2021/10/nhl-logo.png" group-title="🏅 СПОРТ", NHL HD
 #EXTGRP:🏅 СПОРТ
-https://nhl-firetv.amagi.tv/playlist.m3u8
+http://185.221.213.254/live/stream113.php?seg=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXWC1mMwhj0FkHUIXh0_EkF2k6Wejz7GNOL_OA5ql2SQBg&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="footbolny" tvg-name="МЯЧ" tvg-logo="https://pic.rutubelist.ru/user/1f/f7/1ff75574ff67dd8a1d57fa346fb44cdc.jpg" group-title="🏅 СПОРТ", МЯЧ HD
 #EXTGRP:🏅 СПОРТ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Futbolnyy_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3MzQ0MTAwNywiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzcyODM2MjA3LCJzZXNzaW9uX2lkIjoiNTQ3MmYyNGQ2YzQ0ZDgzZjliYTU5MjliYjVhYTFlOWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.f2oFwTNGPO89H-GoR2IpAFq91V5Ld6WjV-8lFXRF5-A
