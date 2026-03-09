@@ -517,25 +517,25 @@ https://cdngw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=match.m3u8
 http://127.0.0.1:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
 #EXTINF:-1 tvg-id="match-football1" tvg-name="МАТЧ! ФУТБОЛ 1" tvg-logo="https://iptvx.one/picons/match-football1.png" group-title="🏅 СПОРТ", МАТЧ! ФУТБОЛ 1 HD
 #EXTGRP:🏅 СПОРТ
-http://server-2.onlinetv-sochi.ru:8080/live/bol_tv.php?id=1nvenc/NTVplusfut1HD/71/mobile1&token=VmlwaXBUdjpWaXBpcFR2Nzc=|user-agent=VipipTv
+http://185.221.213.254/live/stream113.php?seg=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXU5VC0fSQ0DuPA_-E33QKoV1wD4mJTqjqC1OafOYzDm3g&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="match-football1" tvg-name="МАТЧ! ФУТБОЛ 1" tvg-logo="https://iptvx.one/picons/match-football1.png" group-title="🏅 СПОРТ", МАТЧ! ФУТБОЛ 1 FHD 50 (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
 #EXTINF:-1 tvg-id="match-football2" tvg-name="МАТЧ! ФУТБОЛ 2" tvg-logo="https://iptvx.one/picons/match-football2.png" group-title="🏅 СПОРТ", МАТЧ! ФУТБОЛ 2 HD
 #EXTGRP:🏅 СПОРТ
-http://server-2.onlinetv-sochi.ru:8080/live/bol_tv.php?id=abr2/NTVplusfut2HD/71/copy&token=VmlwaXBUdjpWaXBpcFR2Nzc=|user-agent=VipipTv
+http://185.221.213.254/live/stream113.php?seg=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXXalvhY8IDu41Bl8P_RByb9eNfKte6INw-2SzOxpFW_aA&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="match-football2" tvg-name="МАТЧ! ФУТБОЛ 2" tvg-logo="https://iptvx.one/picons/match-football2.png" group-title="🏅 СПОРТ", МАТЧ! ФУТБОЛ 2 FHD 50 (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=ffbf8c687c788d9a1a7c651e24802ee773ff3f04
 #EXTINF:-1 tvg-id="match-football3" tvg-name="МАТЧ! ФУТБОЛ 3" tvg-logo="https://iptvx.one/picons/match-football3.png" group-title="🏅 СПОРТ", МАТЧ! ФУТБОЛ 3 HD
 #EXTGRP:🏅 СПОРТ
-http://server-2.onlinetv-sochi.ru:8080/live/bol_tv.php?id=abr2/NTVplusfut3HD/71/copy&token=VmlwaXBUdjpWaXBpcFR2Nzc=|user-agent=VipipTv
+http://185.221.213.254/live/stream113.php?seg=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXUSzfVztn-sRrLoPEkv8IAOUsYd7TfDy973Kbcw4ZqBBA&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="match-football3" tvg-name="МАТЧ! ФУТБОЛ 3" tvg-logo="https://iptvx.one/picons/match-football3.png" group-title="🏅 СПОРТ", МАТЧ! ФУТБОЛ 3 FHD 50 (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
 #EXTINF:-1 tvg-id="match-premier" tvg-name="МАТЧ! ПРЕМЬЕР HD" tvg-logo="https://iptvx.one/picons/match-premiere.png" group-title="🏅 СПОРТ", МАТЧ! ПРЕМЬЕР HD
 #EXTGRP:🏅 СПОРТ
-http://tv.woobl.ru/match_premier_hd/video.m3u8?token=5uGLTS1oibSIu0
+http://185.221.213.254/live/stream113.php?seg=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXWlHtscclCmXFwf8NMtmdZ00XIE8Es8_bL6U4HYxcMfQg&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="match-premier" tvg-name="МАТЧ! ПРЕМЬЕР" tvg-logo="https://iptvx.one/picons/match-premiere.png" group-title="🏅 СПОРТ", МАТЧ! ПРЕМЬЕР FHD 50 (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
