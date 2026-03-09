@@ -346,7 +346,7 @@ http://188.225.31.197/bpk-tv/000003174/tve/index.m3u8
 http://tv.woobl.ru/dikaya_rybalka_hd/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1 tvg-id="dikaya-oxota-hd" tvg-name="ДИКАЯ ОХОТА HD" tvg-logo="http://epg.it999.ru/img2/2483.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ДИКАЯ ОХОТА
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://185.234.59.200:9090/channel/n14f876d2/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+http://185.234.59.200:9090/channel/n14f876d2/index.m3u8?q=a337dc45492495b4dbf99ba13b19f560
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov-hd" tvg-name="ОХОТНИК И РЫБОЛОВ HD" tvg-logo="https://karnei4.github.io/convert/ohotnik_i_ribolov_hd.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ОХОТНИК И РЫБОЛОВ HD
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=HD_Oh_Rbl.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3MzQ0MTAwNywiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzcyODM2MjA3LCJzZXNzaW9uX2lkIjoiNTQ3MmYyNGQ2YzQ0ZDgzZjliYTU5MjliYjVhYTFlOWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.f2oFwTNGPO89H-GoR2IpAFq91V5Ld6WjV-8lFXRF5-A
@@ -379,7 +379,7 @@ http://188.225.31.197/bpk-tv/000001496/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000001000/tve/index.m3u8
 #EXTINF:-1 tvg-id="h2-hd" tvg-name="H2" tvg-logo="https://karnei4.github.io/convert/index_files/h2.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", HISTORY 2
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://185.234.59.200:80/channel/nd616c3e/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+http://185.234.59.200:80/channel/nd616c3e/index.m3u8?q=a337dc45492495b4dbf99ba13b19f560
 #EXTINF:-1 tvg-id="sovsek" tvg-name="СОВЕРШЕННО СЕКРЕТНО" tvg-logo="http://epg.it999.ru/img2/275.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", СОВЕРШЕННО СЕКРЕТНО
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 https://stream-msk-03.ott.tricolor.tv:443/dtv/id698_MSKSG-PVR-1--Top_secret/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3MzQ0MTAwNywiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzcyODM2MjA3LCJzZXNzaW9uX2lkIjoiNTQ3MmYyNGQ2YzQ0ZDgzZjliYTU5MjliYjVhYTFlOWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.f2oFwTNGPO89H-GoR2IpAFq91V5Ld6WjV-8lFXRF5-A
@@ -1500,22 +1500,22 @@ http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
 http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="hustler-hd" tvg-name="Hustler HD" tvg-logo="https://epg.iptvx.one/picons/hustler-hd.png" group-title="💘 ВЗРОСЛЫЕ", HUSTLER HD
 #EXTGRP:💘 ВЗРОСЛЫЕ
-http://185.234.59.200:9090/channel/318ad11d/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+http://185.234.59.200:9090/channel/318ad11d/index.m3u8?q=a337dc45492495b4dbf99ba13b19f560
 #EXTINF:-1 tvg-id="private-tv" tvg-name="Private TV" tvg-logo="https://epg.iptvx.one/picons/private-tv.png" group-title="💘 ВЗРОСЛЫЕ", PRIVATE
 #EXTGRP:💘 ВЗРОСЛЫЕ
-http://185.234.59.200:9090/channel/6011ed4b/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+http://185.234.59.200:9090/channel/6011ed4b/index.m3u8?q=a337dc45492495b4dbf99ba13b19f560
 #EXTINF:-1 tvg-id="vivid-red" tvg-name="Vivid Red HD" tvg-logo="https://epg.iptvx.one/picons/vivid-red.png" group-title="💘 ВЗРОСЛЫЕ", VIVID RED HD 
 #EXTGRP:💘 ВЗРОСЛЫЕ
-http://185.234.59.200:9090/channel/352b54f9/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+http://185.234.59.200:9090/channel/352b54f9/index.m3u8?q=a337dc45492495b4dbf99ba13b19f560
 #EXTINF:-1 tvg-id="penthouse-gold" tvg-name="Penthouse Gold HD" tvg-logo="https://epg.iptvx.one/picons/penthouse-gold.png" group-title="💘 ВЗРОСЛЫЕ", PENTHOUSE GOLD
 #EXTGRP:💘 ВЗРОСЛЫЕ
-http://185.234.59.200:9090/channel/491ec475/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+http://185.234.59.200:9090/channel/491ec475/index.m3u8?q=a337dc45492495b4dbf99ba13b19f560
 #EXTINF:-1 tvg-id="penthouse-passion-ua tvg-name="Penthouse Passion Украина" tvg-logo="https://epg.iptvx.one/picons/penthouse-passion-ua.png" group-title="💘 ВЗРОСЛЫЕ", PENTHOUSE PASSION
 #EXTGRP:💘 ВЗРОСЛЫЕ
-http://185.234.59.200:9090/channel/n6483757d/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+http://185.234.59.200:9090/channel/n6483757d/index.m3u8?q=a337dc45492495b4dbf99ba13b19f560
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m3u.admuspeh.my/icon/%D0%9E%D0%A5-%D0%90%D0%A5%20HD.png" group-title="💘 ВЗРОСЛЫЕ", ОХ-АХ HD
 #EXTGRP:💘 ВЗРОСЛЫЕ
-http://185.234.59.200:9090/channel/n3bf93cb3/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+http://185.234.59.200:9090/channel/n3bf93cb3/index.m3u8?q=a337dc45492495b4dbf99ba13b19f560
 #EXTINF:-1 tvg-name="Сочи - Пляж Мамайка" group-title="📷 WEB КАМЕРЫ", Сочи - Пляж Мамайка
 #EXTGRP:📷 WEB КАМЕРЫ
 https://fl.tvintel.info:8443/mix-kukuruza-plyaz/index.m3u8
@@ -2015,10 +2015,10 @@ https://osnmedia.servicecdn.ru/streams/17603_88089/1080n/index.m3u8
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="tennis-cnl-us" tvg-name="Tennis Channel [US]" tvg-logo="https://epg.iptvx.one/picons/tennis-cnl-us.png" group-title="🏅 СПОРТ", TENNIS CHANNEL
 #EXTGRP:🏅 СПОРТ
-http://185.234.59.200:9090/channel/7d307ef4/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+http://185.234.59.200:9090/channel/7d307ef4/index.m3u8?q=a337dc45492495b4dbf99ba13b19f560
 #EXTINF:-1 tvg-id="supertennis" tvg-name="Super-Tennis" tvg-logo="https://epg.iptvx.one/picons/supertennis.png" group-title="🏅 СПОРТ", SUPER TENNIS
 #EXTGRP:🏅 СПОРТ
-http://185.234.59.200:9090/channel/n6263ad12/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+http://185.234.59.200:9090/channel/n6263ad12/index.m3u8?q=a337dc45492495b4dbf99ba13b19f560
 #EXTINF:-1 tvg-name="БУМ" tvg-logo="https://epg.iptvx.one/picons/sportmaster-tv.png" group-title="🏅 СПОРТ, БУМ
 #EXTGRP:🏅 СПОРТ
 https://stream-msk-05.ott.tricolor.tv:443/dtv/id628_MSKSG-PVR-1--Channel_LIVE1/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3MzQ0MTAwNywiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzcyODM2MjA3LCJzZXNzaW9uX2lkIjoiNTQ3MmYyNGQ2YzQ0ZDgzZjliYTU5MjliYjVhYTFlOWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.f2oFwTNGPO89H-GoR2IpAFq91V5Ld6WjV-8lFXRF5-A
@@ -2648,7 +2648,7 @@ http://tv.woobl.ru/BCU_Russian_HD/video.m3u8?token=5uGLTS1oibSIu0
 http://127.0.0.1:6878/ace/getstream?id=05fe94b726e99b1dd548013bd281980f9f27b617
 #EXTINF:-1 tvg-name="BCU SURVIVAL HD" tvg-logo="https://iptvx.one/picons/bcu-survival.png" group-title="🎞️ КИНОЗАЛЫ", BCU SURVIVAL HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
-http://185.234.59.200:9090/channel/n794d8763/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+http://185.234.59.200:9090/channel/n794d8763/index.m3u8?q=a337dc45492495b4dbf99ba13b19f560
 #EXTINF:-1 tvg-name="BCU TRUMOTION HD" tvg-logo="https://iptvx.one/picons/bcu-trumotion.png" group-title="🎞️ КИНОЗАЛЫ", BCU TRUMOTION HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
 http://127.0.0.1:6878/ace/getstream?id=1d316bb0fd6a7741ac8c9a8972b6710e71d84791
