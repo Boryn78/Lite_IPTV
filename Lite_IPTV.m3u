@@ -517,7 +517,7 @@ https://cdngw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=match.m3u8
 http://127.0.0.1:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
 #EXTINF:-1 tvg-id="match-football1" tvg-name="МАТЧ! ФУТБОЛ 1" tvg-logo="https://iptvx.one/picons/match-football1.png" group-title="🏅 СПОРТ", МАТЧ! ФУТБОЛ 1 HD
 #EXTGRP:🏅 СПОРТ
-http://tv.woobl.ru/match_futbol_1_hd/video.m3u8?token=5uGLTS1oibSIu
+http://server-2.onlinetv-sochi.ru:8080/live/bol_tv.php?id=1nvenc/NTVplusfut1HD/71/mobile1&token=VmlwaXBUdjpWaXBpcFR2Nzc=|user-agent=VipipTv
 #EXTINF:-1 tvg-id="match-football1" tvg-name="МАТЧ! ФУТБОЛ 1" tvg-logo="https://iptvx.one/picons/match-football1.png" group-title="🏅 СПОРТ", МАТЧ! ФУТБОЛ 1 FHD 50 (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
@@ -571,7 +571,7 @@ http://127.0.0.1:6878/ace/getstream?id=822654b2c0db24d1de149cb21fdd44a3b968fbfa
 http://188.225.31.197/bpk-tv/000000135/tve/index.m3u8
 #EXTINF:-1 tvg-name="KHL" tvg-logo="https://iptvx.one/picons/kxl.png" group-title="🏅 СПОРТ", KHL
 #EXTGRP:🏅 СПОРТ
-http://185.221.213.254/live/stream113.php?seg=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXU0aN60FDdx-S_3C7iSMaBlnUfERHyH732oZgLJtMQSzg&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://tv.woobl.ru/KHL_HD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1 tvg-name="KHL" tvg-logo="https://iptvx.one/picons/kxl.png" group-title="🏅 СПОРТ", KHL FHD (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=aa6c193b9de1e6b6277e3075299fdeea925e2dc0
