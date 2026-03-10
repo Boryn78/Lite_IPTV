@@ -523,37 +523,37 @@ http://tv.woobl.ru/match_futbol_1_hd/video.m3u8?token=5uGLTS1oibSIu
 http://127.0.0.1:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
 #EXTINF:-1 tvg-id="match-football2" tvg-name="МАТЧ! ФУТБОЛ 2" tvg-logo="https://iptvx.one/picons/match-football2.png" group-title="🏅 СПОРТ", МАТЧ! ФУТБОЛ 2 HD
 #EXTGRP:🏅 СПОРТ
-http://tv.woobl.ru/match_futbol_2_hd/video.m3u8?token=5uGLTS1oibSIu
+http://server-2.onlinetv-sochi.ru:8080/live/bol_tv.php?id=abr2/NTVplusfut2HD/71/copy&token=VmlwaXBUdjpWaXBpcFR2Nzc=|user-agent=VipipTv
 #EXTINF:-1 tvg-id="match-football2" tvg-name="МАТЧ! ФУТБОЛ 2" tvg-logo="https://iptvx.one/picons/match-football2.png" group-title="🏅 СПОРТ", МАТЧ! ФУТБОЛ 2 FHD 50 (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=ffbf8c687c788d9a1a7c651e24802ee773ff3f04
 #EXTINF:-1 tvg-id="match-football3" tvg-name="МАТЧ! ФУТБОЛ 3" tvg-logo="https://iptvx.one/picons/match-football3.png" group-title="🏅 СПОРТ", МАТЧ! ФУТБОЛ 3 HD
 #EXTGRP:🏅 СПОРТ
-http://tv.woobl.ru/match_futbol_3_hd/video.m3u8?token=5uGLTS1oibSIu
+http://server-2.onlinetv-sochi.ru:8080/live/bol_tv.php?id=abr2/NTVplusfut3HD/71/copy&token=VmlwaXBUdjpWaXBpcFR2Nzc=|user-agent=VipipTv
 #EXTINF:-1 tvg-id="match-football3" tvg-name="МАТЧ! ФУТБОЛ 3" tvg-logo="https://iptvx.one/picons/match-football3.png" group-title="🏅 СПОРТ", МАТЧ! ФУТБОЛ 3 FHD 50 (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
 #EXTINF:-1 tvg-id="match-premier" tvg-name="МАТЧ! ПРЕМЬЕР HD" tvg-logo="https://iptvx.one/picons/match-premiere.png" group-title="🏅 СПОРТ", МАТЧ! ПРЕМЬЕР HD
 #EXTGRP:🏅 СПОРТ
-http://tv.woobl.ru/match_premier_hd/video.m3u8?token=5uGLTS1oibSIu0
+http://server-2.onlinetv-sochi.ru:8080/live/bol_tv.php?id=dvr01/hd1/NashFutHD&token=VmlwaXBUdjpWaXBpcFR2Nzc=|user-agent=VipipTv
 #EXTINF:-1 tvg-id="match-premier" tvg-name="МАТЧ! ПРЕМЬЕР" tvg-logo="https://iptvx.one/picons/match-premiere.png" group-title="🏅 СПОРТ", МАТЧ! ПРЕМЬЕР FHD 50 (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
 #EXTINF:-1 tvg-id="match-arena" tvg-name="МАТЧ! АРЕНА" tvg-logo="https://iptvx.one/picons/match-arena.png" group-title="🏅 СПОРТ", МАТЧ! АРЕНА HD
 #EXTGRP:🏅 СПОРТ
-http://185.221.213.254/live/stream113.php?seg=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXUCLfR1F8aFLSWdamRbQX32azYTfcDT92tt0BbclVEYgw&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://server-2.onlinetv-sochi.ru:8080/live/bol_tv.php?id=dvr02/hd1/sport1HD&token=VmlwaXBUdjpWaXBpcFR2Nzc=|user-agent=VipipTv
 #EXTINF:-1 tvg-id="match-arena" tvg-name="МАТЧ! АРЕНА" tvg-logo="https://iptvx.one/picons/match-arena.png" group-title="🏅 СПОРТ", МАТЧ! АРЕНА FHD 50 (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=a1d67cb505881b2b5bc58ce2af367e5e6d26cab5
 #EXTINF:-1 tvg-id="match-igra" tvg-name="МАТЧ! ИГРА" tvg-logo="https://iptvx.one/picons/match-igra.png" group-title="🏅 СПОРТ", МАТЧ! ИГРА HD
 #EXTGRP:🏅 СПОРТ
-http://185.221.213.254/live/stream113.php?seg=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXXXrhVIVewwNjwE7I5S_5yEMLJ6jMfQ2OcvbeaCY6IoMg&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://server-2.onlinetv-sochi.ru:8080/live/bol_tv.php?id=abr2/sport2HD/71/copy&token=VmlwaXBUdjpWaXBpcFR2Nzc=|user-agent=VipipTv
 #EXTINF:-1 tvg-id="match-igra" tvg-name="МАТЧ! ИГРА" tvg-logo="https://iptvx.one/picons/match-igra.png" group-title="🏅 СПОРТ", МАТЧ! ИГРА FHD 50 (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=762e1d11f7d07029f316c6f61b8ef73289c6673c
-#EXTINF:-1 tvg-id="Матч! Страна" tvg-name="МАТЧ! СТРАНА" tvg-logo="https://iptvx.one/picons/match-strana.png" group-title="🏅 СПОРТ", МАТЧ! СТРАНА HD
+#EXTINF:-1 tvg-id="Матч! Страна" tvg-name="МАТЧ! СТРАНА" tvg-logo="https://iptvx.one/picons/match-strana.png" group-title="🏅 СПОРТ", МАТЧ! СТРАНА
 #EXTGRP:🏅 СПОРТ
-http://185.221.213.254/live/stream113.php?seg=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXUsdMLBZ4se1XGM-1Kb2ADQJznuhd8-o6xMmTOqzf3NMQ&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://server-2.onlinetv-sochi.ru:8080/live/bol_tv.php?id=dvr01/mobile2/ntvsport&token=VmlwaXBUdjpWaXBpcFR2Nzc=|user-agent=VipipTv
 #EXTINF:-1 tvg-id="Матч! Страна" tvg-name="МАТЧ! СТРАНА" tvg-logo="https://iptvx.one/picons/match-strana.png" group-title="🏅 СПОРТ", МАТЧ! СТРАНА FHD 50 (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=ef9c77bd94783448b8edb552109f5f15b2bd82d1
