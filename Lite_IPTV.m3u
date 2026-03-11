@@ -2709,15 +2709,15 @@ http://188.225.31.197/bpk-tv/000008795/tve/index.m3u8
 #EXTINF:-1 tvg-name="Cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1200px-Cartoonito_-_Logo_2021.svg.png" group-title="🧸 ДЕТСКИЕ", CARTOONITO
 #EXTGRP:🧸 ДЕТСКИЕ
 http://188.225.31.197/bpk-tv/000000160/tve/index.m3u8
-#EXTINF:-1 tvg-name="BCU KIDS HD" tvg-logo="https://iptvx.one/picons/bcu-kids.png" group-title="🧸 ДЕТСКИЕ", BCU KIDS HD (Torrent TV)
+#EXTINF:-1 tvg-name="BCU KIDS HD" tvg-logo="https://iptvx.one/picons/bcu-kids.png" group-title="🧸 ДЕТСКИЕ", BCU KIDS HD 
 #EXTGRP:🧸 ДЕТСКИЕ
-http://127.0.0.1:6878/ace/getstream?id=535b288408b7c671bb1d5c292dd64beadf556ab9
-#EXTINF:-1 tvg-name="BCU KIDS+ HD" tvg-logo="https://iptvx.one/picons/bcu-kids-plus.png" group-title="🧸 ДЕТСКИЕ", BCU KIDS+ HD (Torrent TV)
+http://tv.woobl.ru/BCU_Kids_HD/video.m3u8?token=5uGLTS1oibSIu0
+#EXTINF:-1 tvg-name="BCU KIDS+ HD" tvg-logo="https://iptvx.one/picons/bcu-kids-plus.png" group-title="🧸 ДЕТСКИЕ", BCU KIDS+ HD
 #EXTGRP:🧸 ДЕТСКИЕ
-http://127.0.0.1:6878/ace/getstream?id=e2db1c6451aeff66756ae166cf507a0b2743b69a
-#EXTINF:-1 tvg-name="BCU МУЛЬТСЕРИАЛ" tvg-logo="https://iptvx.one/picons/bcu-multserial.png" group-title="🧸 ДЕТСКИЕ", BCU МУЛЬТСЕРИАЛ (Torrent TV)
+http://tv.woobl.ru/BCU_Kids_Plus_HD/video.m3u8?token=5uGLTS1oibSIu0
+#EXTINF:-1 tvg-name="BCU МУЛЬТСЕРИАЛ" tvg-logo="https://iptvx.one/picons/bcu-multserial.png" group-title="🧸 ДЕТСКИЕ", BCU МУЛЬТСЕРИАЛ
 #EXTGRP:🧸 ДЕТСКИЕ
-http://127.0.0.1:6878/ace/getstream?id=8bff31504247530c1be06395c11c38ecd1895964
+http://tv.woobl.ru/BCU_Multserial_HD/video.m3u8?token=5uGLTS1oibSIu
 #EXTINF:-1 tvg-name="SCREAM" tvg-logo="https://iptvx.one/picons/scream.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", SCREAM
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Scream.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3MzQ0MTAwNywiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzcyODM2MjA3LCJzZXNzaW9uX2lkIjoiNTQ3MmYyNGQ2YzQ0ZDgzZjliYTU5MjliYjVhYTFlOWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.f2oFwTNGPO89H-GoR2IpAFq91V5Ld6WjV-8lFXRF5-A
