@@ -379,7 +379,7 @@ http://188.225.31.197/bpk-tv/000001496/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000001000/tve/index.m3u8
 #EXTINF:-1 tvg-id="h2-hd" tvg-name="H2" tvg-logo="https://karnei4.github.io/convert/index_files/h2.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", HISTORY 2
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://185.234.59.200:80/channel/nd616c3e/index.m3u8?q=a337dc45492495b4dbf99ba13b19f560
+http://tv.woobl.ru:9090/channel/nd616c3e/index.m3u8?q=a337dc45492495b4dbf99ba13b19f560
 #EXTINF:-1 tvg-id="sovsek" tvg-name="СОВЕРШЕННО СЕКРЕТНО" tvg-logo="http://epg.it999.ru/img2/275.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", СОВЕРШЕННО СЕКРЕТНО
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 https://stream-msk-03.ott.tricolor.tv:443/dtv/id698_MSKSG-PVR-1--Top_secret/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3MzQ0MTAwNywiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzcyODM2MjA3LCJzZXNzaW9uX2lkIjoiNTQ3MmYyNGQ2YzQ0ZDgzZjliYTU5MjliYjVhYTFlOWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.f2oFwTNGPO89H-GoR2IpAFq91V5Ld6WjV-8lFXRF5-A
