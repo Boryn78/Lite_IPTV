@@ -2709,10 +2709,7 @@ http://188.225.31.197/bpk-tv/000000160/tve/index.m3u8
 #EXTINF:-1 tvg-name="BCU KIDS HD" tvg-logo="https://iptvx.one/picons/bcu-kids.png" group-title="🧸 ДЕТСКИЕ", BCU KIDS HD 
 #EXTGRP:🧸 ДЕТСКИЕ
 http://tv.woobl.ru/BCU_Kids_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-name="BCU KIDS+ HD" tvg-logo="https://iptvx.one/picons/bcu-kids-plus.png" group-title="🧸 ДЕТСКИЕ", BCU KIDS+ HD
-#EXTGRP:🧸 ДЕТСКИЕ
-http://tv.woobl.ru/BCU_Kids_Plus_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-name="BCU МУЛЬТСЕРИАЛ" tvg-logo="https://iptvx.one/picons/bcu-multserial.png" group-title="🧸 ДЕТСКИЕ", BCU МУЛЬТСЕРИАЛ
+#EXTINF:-1 tvg-name="BCU МУЛЬТСЕРИАЛ" tvg-logo="https://iptvx.one/picons/bcu-multserial.png" group-title="🧸 ДЕТСКИЕ", BCU МУЛЬТСЕРИАЛ HD
 #EXTGRP:🧸 ДЕТСКИЕ
 http://tv.woobl.ru/BCU_Multserial_HD/video.m3u8?token=5uGLTS1oibSIu
 #EXTINF:-1 tvg-name="SCREAM" tvg-logo="https://iptvx.one/picons/scream.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", SCREAM
