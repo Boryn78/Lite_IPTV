@@ -2720,7 +2720,10 @@ https://stream-msk-08.ott.tricolor.tv/dtv/id669_MSKSG-PVR-1--Flix_Snip/03/plst.m
 http://sirius.greenhosting.ru/Kino24Ru/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="VHS-ка" tvg-logo="https://iptvx.one/picons/vhs-ka.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VHS-ка
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://list.onlinetv-sochi.ru:8080/live/channel.php?id=726&token=Ym9yeW43ODpMYW5jZXIxNg==
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=VHSka_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NDA0NTU2NSwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzczNDQwNzY1LCJzZXNzaW9uX2lkIjoiYzM2MWQ2YzFkYzFlMjMwYzQ0MThkNDQyMWQyMDliYWEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EGm5CF7r_AvfAGbILY-0YArDos4eKCIS0acA9ErDsF0
+#EXTINF:-1 tvg-name="VHS-ка Сериал" tvg-id="vhska-serial" tvg-logo="https://epg.iptvx.one/picons/vhska-serial.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VHS-ка СЕРИАЛ
+#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=VHS_Serial_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NDA0NTU2NSwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzczNDQwNzY1LCJzZXNzaW9uX2lkIjoiYzM2MWQ2YzFkYzFlMjMwYzQ0MThkNDQyMWQyMDliYWEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EGm5CF7r_AvfAGbILY-0YArDos4eKCIS0acA9ErDsF0
 #EXTINF:-1 tvg-name="TV XXI" tvg-id="tvxxi" tvg-logo="https://epg.iptvx.one/picons/tvxxi.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", TV XXI
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://188.225.31.197/bpk-tv/000000006/tve/index.m3u8
@@ -2757,3 +2760,6 @@ http://list.onlinetv-sochi.ru:8080/live/arx.php?id=plan_b&token=Ym9yeW43ODpMYW5j
 #EXTINF:-1 tvg-name="Телекафе" tvg-id="telekafe" tvg-logo="https://epg.iptvx.one/picons/telekafe.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", ТЕЛЕКАФЕ
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Telecafe.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NDA0NTU2NSwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzczNDQwNzY1LCJzZXNzaW9uX2lkIjoiYzM2MWQ2YzFkYzFlMjMwYzQ0MThkNDQyMWQyMDliYWEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EGm5CF7r_AvfAGbILY-0YArDos4eKCIS0acA9ErDsF0
+#EXTINF:-1 tvg-name="Наше Наследие" tvg-id="nashe-nasledie" tvg-logo="https://epg.iptvx.one/picons/nashe-nasledie.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", НАШЕ НАСЛЕДИЕ
+#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Nashe_Nasledie_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NDA0NTU2NSwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzczNDQwNzY1LCJzZXNzaW9uX2lkIjoiYzM2MWQ2YzFkYzFlMjMwYzQ0MThkNDQyMWQyMDliYWEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EGm5CF7r_AvfAGbILY-0YArDos4eKCIS0acA9ErDsF0
