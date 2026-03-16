@@ -737,21 +737,12 @@ https://stream-msk-01.ott.tricolor.tv:443/dtv/id130_MSKSG-PVR-1--Muz_Perv/03/pls
 #EXTINF:-1 tvg-name="ЕВРОПА ПЛЮС ТВ" tvg-logo="https://iptvx.one/picons/europa-plus-tv.png" group-title="🎵 МУЗЫКА", ЕВРОПА ПЛЮС ТВ
 #EXTGRP:🎵 МУЗЫКА
 https://stream-msk-01.ott.tricolor.tv/dtv/id133_MSKSG-PVR-1--Eur_Plus/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NDA0NTU2NSwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzczNDQwNzY1LCJzZXNzaW9uX2lkIjoiYzM2MWQ2YzFkYzFlMjMwYzQ0MThkNDQyMWQyMDliYWEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EGm5CF7r_AvfAGbILY-0YArDos4eKCIS0acA9ErDsF0
-#EXTINF:-1 tvg-name="ЖАР ПТИЦА" tvg-logo="https://iptvx.one/picons/zhar-ptica.png" group-title="🎵 МУЗЫКА", ЖАР ПТИЦА
-#EXTGRP:🎵 МУЗЫКА
-http://streamer.rtcommufa.ru:1935/ptica/ptica1/chunklist.m3u8
-#EXTINF:-1 tvg-name="Ля-минор" tvg-logo="https://iptvx.one/picons/la-minor.png" group-title="🎵 МУЗЫКА", ЛЯ-МИНОР ТВ (Torrent TV)
-#EXTGRP:🎵 МУЗЫКА
-http://127.0.0.1:6878/ace/getstream?id=e72eb5bd621666fdcb1cf7689ce9a1f66fe20c22
 #EXTINF:-1 tvg-name="ЖАРА" tvg-logo="http://media.24h.tv/img/ch/53/62/5362bc465209770ea0eb3ac3c4eccb3c.png" group-title="🎵 МУЗЫКА", ЖАРА
 #EXTGRP:🎵 МУЗЫКА
 https://stream-msk-12.ott.tricolor.tv:443/dtv/id389_MSKSG-PVR-1--Zhara/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NDA0NTU2NSwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzczNDQwNzY1LCJzZXNzaW9uX2lkIjoiYzM2MWQ2YzFkYzFlMjMwYzQ0MThkNDQyMWQyMDliYWEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EGm5CF7r_AvfAGbILY-0YArDos4eKCIS0acA9ErDsF0
 #EXTINF:-1 tvg-name="MEZZO" tvg-logo="https://karnei4.github.io/convert/index_files/mezzo.png" group-title="🎵 МУЗЫКА", MEZZO
 #EXTGRP:🎵 МУЗЫКА
 http://185.221.213.254/live/stream4.php?q=OWWGT5_z5DqjdLW9cndeOneG0NRqItKIrGpIm0X_0rfmr1qwfB_IyqX69Dw5Nem1CPBN3T9JmLJX1O6yHbV0VA&token=Ym9yeW43ODpMYW5jZXIxNg==
-#EXTINF:-1 tvg-name="Mezzo Live HD" group-title="🎵 МУЗЫКА", MEZZO LIVE HD
-#EXTGRP:🎵 МУЗЫКА
-https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Mezzo_Live_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NDA0NTU2NSwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzczNDQwNzY1LCJzZXNzaW9uX2lkIjoiYzM2MWQ2YzFkYzFlMjMwYzQ0MThkNDQyMWQyMDliYWEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EGm5CF7r_AvfAGbILY-0YArDos4eKCIS0acA9ErDsF0
 #EXTINF:-1 tvg-name="CLASSIC MUSIC" tvg-logo="https://kino.tricolor.tv/upload/iblock/a0f/mp587afre2j7hfjqv9t2r0bhxa1io7nh.webp" group-title="🎵 МУЗЫКА", CLASSIC MUSIC
 #EXTGRP:🎵 МУЗЫКА
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Classic_Music_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NDA0NTU2NSwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzczNDQwNzY1LCJzZXNzaW9uX2lkIjoiYzM2MWQ2YzFkYzFlMjMwYzQ0MThkNDQyMWQyMDliYWEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EGm5CF7r_AvfAGbILY-0YArDos4eKCIS0acA9ErDsF0
