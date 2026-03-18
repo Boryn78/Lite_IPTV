@@ -625,13 +625,13 @@ http://127.0.0.1:6878/ace/getstream?infohash=42832fbf9a1d3bdcca043e09951d6769fbb
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Volleyball_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NDA0NTU2NSwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzczNDQwNzY1LCJzZXNzaW9uX2lkIjoiYzM2MWQ2YzFkYzFlMjMwYzQ0MThkNDQyMWQyMDliYWEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EGm5CF7r_AvfAGbILY-0YArDos4eKCIS0acA9ErDsF0
 #EXTINF:-1 tvg-id="box-tv" tvg-name="БОКС ТВ" tvg-logo="https://karnei4.github.io/convert/index_files/box-tv.png" group-title="🏅 СПОРТ", БОКС ТВ
 #EXTGRP:🏅 СПОРТ
-http://146.120.14.239:3001/play/a08c
+http://tv.woobl.ru/boks_hd/video.m3u8?token=GmwCwPLQ
 #EXTINF:-1 tvg-id="box-tv" tvg-name="БОКС ТВ" tvg-logo="https://karnei4.github.io/convert/index_files/box-tv.png" group-title="🏅 СПОРТ", БОКС ТВ FHD (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=1acaf203502983cd2993c6835bf0cbde8d016c3d
-#EXTINF:-1 tvg-id="MMA-TV" tvg-name="MMA-TV" tvg-logo="https://ntvplus.tv/files/image/88/57/77/7z5.png" group-title="🏅 СПОРТ", MMA-TV.COM (Torrent TV)
+#EXTINF:-1 tvg-id="MMA-TV" tvg-name="MMA-TV" tvg-logo="https://ntvplus.tv/files/image/88/57/77/7z5.png" group-title="🏅 СПОРТ", MMA-TV.COM
 #EXTGRP:🏅 СПОРТ
-http://127.0.0.1:6878/ace/getstream?infohash=f562d8a45a5475599fbd2ad18886b0cc847f75e4
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=M1_Global.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NDA0NTU2NSwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzczNDQwNzY1LCJzZXNzaW9uX2lkIjoiYzM2MWQ2YzFkYzFlMjMwYzQ0MThkNDQyMWQyMDliYWEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EGm5CF7r_AvfAGbILY-0YArDos4eKCIS0acA9ErDsF0
 #EXTINF:-1 tvg-id="ufc" tvg-name="UFC HD" tvg-logo="https://epg.iptvx.one/picons/ufc.png" group-title="🏅 СПОРТ", UDAR HD (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=d2374e2375a4275738e0dbed2f47d0114ad1cb64
