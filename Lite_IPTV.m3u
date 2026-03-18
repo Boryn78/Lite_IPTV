@@ -470,9 +470,8 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Luxury_HD.m3
 #EXTINF:-1 tvg-id="nano-tv" tvg-name="НАНО" tvg-logo="http://media.24h.tv/img/ch/64/80/6480c09f732a4bf58c8a887e848c239e.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", НАНО HD
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Nano_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NDA0NTU2NSwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzczNDQwNzY1LCJzZXNzaW9uX2lkIjoiYzM2MWQ2YzFkYzFlMjMwYzQ0MThkNDQyMWQyMDliYWEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EGm5CF7r_AvfAGbILY-0YArDos4eKCIS0acA9ErDsF0
-#EXTINF:-1 tvg-id="zhivaya-planeta" tvg-name="Живая планета" tvg-logo="https://epg.iptvx.one/picons/zhivaya-planeta.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ЖИВАЯ ПЛАНЕТА
-#EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Zhivaya_Planeta.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NDA0NTU2NSwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzczNDQwNzY1LCJzZXNzaW9uX2lkIjoiYzM2MWQ2YzFkYzFlMjMwYzQ0MThkNDQyMWQyMDliYWEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.EGm5CF7r_AvfAGbILY-0YArDos4eKCIS0acA9ErDsF0
+#EXTINF:-1 tvg-id="zhivaya-priroda" tvg-name="ЖИВАЯ ПРИРОДА HD" tvg-logo="https://karnei4.github.io/convert/index_files/zhivaya-priroda.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ЖИВАЯ ПРИРОДА
+http://tv.woobl.ru:9090/channel/1e018087/index.m3u8?q=44272c3a540344ba83ccfb50a34ee517
 #EXTINF:-1 tvg-id="zvezda-plus" tvg-name="ЗВЕЗДА ПЛЮС" tvg-logo="https://iptvx.one/picons/zvezda-plus.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ЗВЕЗДА ПЛЮС
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://178.212.71.253:8000/play/130/index.m3u8
