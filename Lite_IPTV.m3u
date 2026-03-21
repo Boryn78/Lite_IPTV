@@ -2626,7 +2626,7 @@ https://5a8d73edc0407.streamlock.net/bnuip200/bnuip20002.stream/chunklist.m3u8
 https://5a8d73edc0407.streamlock.net/bnuip20/bnuip2005.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="bcu-russian" tvg-name="BCU RUSSIAN HD" tvg-logo="https://bcumedia.pro/images/homepage/ch_12.png" group-title="🎞️ КИНОЗАЛЫ", BCU RUSSIAN HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
-http://tv.woobl.ru/BCU_Russian_HD/video.m3u8?token=5uGLTS1oibSIu0
+http://127.0.0.1:6878/ace/getstream?id=5e38456d774827e7312b7eabdde388532a3dfec9
 #EXTINF:-1 tvg-id="bcu-stars" tvg-name="BCU STARS HD" tvg-logo="https://iptvx.one/picons/bcu-stars.png" group-title="🎞️ КИНОЗАЛЫ", BCU STARS HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
 http://127.0.0.1:6878/ace/getstream?id=05fe94b726e99b1dd548013bd281980f9f27b617
