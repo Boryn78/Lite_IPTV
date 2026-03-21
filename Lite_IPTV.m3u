@@ -568,13 +568,13 @@ http://127.0.0.1:6878/ace/getstream?id=822654b2c0db24d1de149cb21fdd44a3b968fbfa
 http://188.225.31.197/bpk-tv/000000135/tve/index.m3u8
 #EXTINF:-1 tvg-name="KHL" tvg-logo="https://iptvx.one/picons/kxl.png" group-title="🏅 СПОРТ", KHL
 #EXTGRP:🏅 СПОРТ
-http://tv.woobl.ru/KHL_HD/video.m3u8?token=GmwCwPLQ
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=khl&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-name="KHL" tvg-logo="https://iptvx.one/picons/kxl.png" group-title="🏅 СПОРТ", KHL FHD (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=aa6c193b9de1e6b6277e3075299fdeea925e2dc0
 #EXTINF:-1 tvg-name="KHL Prime" tvg-logo="https://beeline.kz/binaries/content/gallery/about/beetv_logos/last/711.png" group-title="🏅 СПОРТ", KHL PRIME
 #EXTGRP:🏅 СПОРТ
-http://tv.woobl.ru/KHL_Prime_HD/video.m3u8?token=GmwCwPLQ
+http://95.143.188.242:8080/live/stream123mov.php?seg=swgLKRxkXV8jE7LfhhKfxbSQbSjpus2lLcdR_u0GK_U1KF7NBNaKnN0NHD_LYoXCthOrUVTmCTwfjQDUj6Ew7eB3OaDc8y0qY8q9eBPZM2MIrVIBflLsN_AvADhZGWicXKQI26rA0WvNAV5VQE7KU9dfRCohooBPhsRWWR4PBXCZ8pLMtVoGyoj_1S_US_KZ6RgCv_HUU9rNum5YYxKBS2_r9oNb5-GyWV1rBXS87Wt-HOKFi2gNspViAER3kkY8YxJGuC1BcgpCrfbENQnbVullWC-wYbwJb0vlMwabzIkjC3t1XAmBtWwTaPXlZD40CdBm8e11T78ND_OihFqq2ak_T8upa_f3_7K5p27xmUTmcHlvdF-htGUQr3V3FS_T-Zawt03LxzkcyaDagBQd6_kPWl9J0e9kFNPfQVkkq-izWOjIZ6w-4NV5jG3y8LAPUj-HSfoPbRRkF-_SHWHBYnec3MPYVL7vtMTGnV16riYjlxdoaaXKiBYTiC_bwJY9_LYuCwv5Whna0oZr9L7KldiOqFY9vlPmJpNR2MlyfqiRhrc8xnCExZyp8GZ9BrslOduOahzzdg5Ej3xS1N3GFYV5Yv5XEWYTskUgyLaBqmnzc2mCM6mblj_V1jq_N1AqsSvgYjDMLgFC91zVDZko04P0pKcw7ubqm-FyN0Pak66GWLsjCykn5zv7FfAi_AwJ5n4ihXDumEsJna20mRGqVZnlFS6H1gPOTyXVkV230jyVo3TwAYByCPcITt0vzDPFLRG9fWdZyWx4PA-w-Bll2dSH7E1silSaprOHc8sh8lXxeznyi3btTlyDdsIlM5eQ2Z7Lx1NUc1kmTqyz21CKZoZOUBmebXSFGqnw4Q_4tPv1IUhiYRidM-c1BWAIk6waDnmPzosWNuAyPnT1NGd6dtrbDZ7_5EyE2Oa9Q5G6h9C2ZN_YdF9Kz_RFcZURCUSovQJgzR--L25pWdX3ZX6KzqWpHSDBDLeSbiIdbuFA3gQ-yInlCHUNgAw0-qz26vx3JQ3W1zA4fd1VjelS3Ht76jwE8q3pOYV2w--QM1Y-X9FAVongfiqtHWdEH5kxtGvz&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-name="KHL Prime" tvg-logo="https://beeline.kz/binaries/content/gallery/about/beetv_logos/last/711.png" group-title="🏅 СПОРТ", KHL PRIME FHD (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=dcda9de85f7d662c5c3c2efd74eca0fb5c6aab3b
