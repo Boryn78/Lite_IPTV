@@ -340,13 +340,13 @@ http://188.225.31.197/bpk-tv/000004157/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000005528/tve/index.m3u8
 #EXTINF:-1 tvg-id="viasat-nature-history-hd" tvg-name="VIJU+ PLANET" tvg-logo="https://fast.ntvplus.tv/files/image/79/84/42/-channel!k6r.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", VIJU+ PLANET
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://tv.woobl.ru/viju_plus_planet_hd/video.m3u8?token=5uGLTS1oibSIu0
+https://livetv-app.mylifeisgood.net.ru/channels/50c0316fa37fc4a9866a66f817e6c4383cb23cc0a49f0c322c505ffd7b8b4774.m3u8
 #EXTINF:-1 tvg-id="dialogi-o-rybalke" tvg-name="ДИАЛОГИ О РЫБАЛКЕ" tvg-logo="https://karnei4.github.io/convert/index_files/dialogi-o-rybalke.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ДИАЛОГИ О РЫБАЛКЕ
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://188.225.31.197/bpk-tv/000003174/tve/index.m3u8
 #EXTINF:-1 tvg-id="dikaya-rybalka-hd" tvg-name="ДИКАЯ РЫБАЛКА HD" tvg-logo="http://epg.it999.ru/img2/2484.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ДИКАЯ РЫБАЛКА
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://tv.woobl.ru/dikaya_rybalka_hd/video.m3u8?token=5uGLTS1oibSIu0
+http://46.53.208.4:80/live/2324-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 tvg-id="dikaya-oxota-hd" tvg-name="ДИКАЯ ОХОТА HD" tvg-logo="http://epg.it999.ru/img2/2483.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ДИКАЯ ОХОТА
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://185.234.59.200:9090/channel/n14f876d2/index.m3u8?q=44272c3a540344ba83ccfb50a34ee517
@@ -421,7 +421,7 @@ https://stream-msk-03.ott.tricolor.tv:443/dtv/id283_MSKSG-PVR-1--Tehno24/03/plst
 http://188.225.31.197/bpk-tv/000000815/tve/index.m3u8
 #EXTINF:-1 tvg-id="avto-plus" tvg-name="АВТО ПЛЮС" tvg-logo="https://iptvx.one/picons/avto-plus.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", АВТО ПЛЮС
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://tv.woobl.ru/avto_plyus/video.m3u8?token=GmwCwPLQ
+https://stream8.cinerama.uz/1036/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="drive" tvg-name="ДРАЙВ" tvg-logo="https://iptvx.one/picons/drive.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ДРАЙВ
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://185.164.82.18:9009/aDxLhVQm_Drive
@@ -448,7 +448,7 @@ http://185.57.68.33/40/mpegts
 http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/usadba/16/playlist.m3u8
 #EXTINF:-1 tvg-id="kuxnia-tv" tvg-name="КУХНЯ ТВ" tvg-logo="https://iptvx.one/picons/kuxnia-tv.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", КУХНЯ ТВ
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://tv.woobl.ru/kuhnya_hd/video.m3u8?token=GmwCwPLQ
+https://stream8.cinerama.uz/1236/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="eda-hd" tvg-name="FOODTIME" tvg-logo="https://karnei4.github.io/convert/index_files/food-network.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", FOOD TIME HD
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=HD_Eda.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NDY1MDgxNCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzc0MDQ2MDE0LCJzZXNzaW9uX2lkIjoiZWE2ZmE5NDAyZTViNWVlZmM0OGQzNWIwNTQ5MmM1MjciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RzDbolIczB_sGQuq1kbJvbXCKdNOfSsxucnrlZX4rHM
@@ -629,9 +629,9 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=M1_Global.m3
 #EXTINF:-1 tvg-id="ufc" tvg-name="UFC HD" tvg-logo="https://epg.iptvx.one/picons/ufc.png" group-title="🏅 СПОРТ", UDAR HD (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=d2374e2375a4275738e0dbed2f47d0114ad1cb64
-#EXTINF:-1 tvg-id="konny-mir" tvg-name="КОННЫЙ МИР" tvg-logo="https://iptvx.one/picons/konny-mir.png" group-title="🏅 СПОРТ", КОННЫЙ МИР
+#EXTINF:-1 tvg-id="konny-mir" tvg-name="КОННЫЙ МИР" tvg-logo="https://iptvx.one/picons/konny-mir.png" group-title="🏅 СПОРТ", КОННЫЙ МИР HD  (Torrent TV)
 #EXTGRP:🏅 СПОРТ
-http://tv.woobl.ru/konnyy_mir_hd/video.m3u8?token=GmwCwPLQ
+http://127.0.0.1:6878/ace/getstream?id=96951e5de62a3e7095a1ed8a191817c8935e7017
 #EXTINF:-1 tvg-id="sportivny" tvg-name="ТВ СПОРТ" tvg-logo="https://iptvx.one/picons/sportivny.png" group-title="🏅 СПОРТ", ТВ СПОРТ
 #EXTGRP:🏅 СПОРТ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Sportivnii.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NDY1MDgxNCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzc0MDQ2MDE0LCJzZXNzaW9uX2lkIjoiZWE2ZmE5NDAyZTViNWVlZmM0OGQzNWIwNTQ5MmM1MjciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RzDbolIczB_sGQuq1kbJvbXCKdNOfSsxucnrlZX4rHM
