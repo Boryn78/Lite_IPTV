@@ -2638,10 +2638,10 @@ http://185.234.59.200:9090/channel/n794d8763/index.m3u8?q=44272c3a540344ba83ccfb
 http://127.0.0.1:6878/ace/getstream?id=1d316bb0fd6a7741ac8c9a8972b6710e71d84791
 #EXTINF:-1 tvg-name="BCU VHS HD" tvg-logo="https://bcumedia.pro/images/homepage/ch_6.png" group-title="🎞️ КИНОЗАЛЫ", BCU VHS HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
-http://tv.woobl.ru/BCU_VHS_HD/video.m3u8?token=5uGLTS1oibSIu0
+http://127.0.0.1:6878/ace/getstream?id=5752b846dab618e12a0a1541ad6573a81ae1265d
 #EXTINF:-1 tvg-name="BCU СВАТЫ HD" tvg-logo="https://bcumedia.pro/images/homepage/ch_8.png" group-title="🎞️ КИНОЗАЛЫ", BCU СВАТЫ HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
-http://tv.woobl.ru/BCU_Svaty_HD/video.m3u8?token=5uGLTS1oibSIu0
+http://127.0.0.1:6878/ace/getstream?id=5cea434c891d27aa66d87d3b23d91ab74c1c72f8
 #EXTINF:-1 tvg-id="bcu-sssr" tvg-name="BCU СССР HD" tvg-logo="https://bcumedia.pro/images/homepage/ch_7.png" group-title="🎞️ КИНОЗАЛЫ", BCU СССР HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
 http://tv.woobl.ru/BCU_USSR_HD/video.m3u8?token=5uGLTS1oibSIu0
