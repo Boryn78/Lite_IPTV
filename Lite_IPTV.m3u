@@ -205,10 +205,10 @@ https://stream-msk-01.ott.tricolor.tv:443/dtv/id518_MSKSG-PVR-1--NST/03/plst.m3u
 https://stream-msk-06.ott.tricolor.tv/dtv/id423_MSKSG-PVR-1--Cinema/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NDY1MDgxNCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzc0MDQ2MDE0LCJzZXNzaW9uX2lkIjoiZWE2ZmE5NDAyZTViNWVlZmM0OGQzNWIwNTQ5MmM1MjciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RzDbolIczB_sGQuq1kbJvbXCKdNOfSsxucnrlZX4rHM
 #EXTINF:-1 tvg-id="kinopremiera-hd" tvg-name="КИНОПРЕМЬЕРА" tvg-logo="https://iptvx.one/picons/kinopremiera.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНОПРЕМЬЕРА
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://tv.woobl.ru/kinopremera_hd/video.m3u8?token=GmwCwPLQ
+http://185.221.213.254/live/stream113.php?seg=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXUkiX6CbKJZ4YmS8aoUuaabVPq4g7Ym1HqpM4vOE8G9gg&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="kinosvidanie" tvg-name="КИНОСВИДАНИЕ" tvg-logo="https://iptvx.one/picons/kinosvidanie.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНОСВИДАНИЕ
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://tv.woobl.ru/kinosvidanie_hd/video.m3u8?token=GmwCwPLQ
+http://185.221.213.254/live/stream113.php?seg=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXWSkubHO0Wc3F1cDsW7p-9-lr7Wphwx22GzwvLz1E9h4w&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-name="Для каналов (Torrent TV) запустите AceServe 1.5" tvg-logo="https://liteiptv.ucoz.net/AceServe15.png" group-title="🎞️ КИНОЗАЛЫ", Для каналов (Torrent TV) запустите AceServe 1.5
 #EXTGRP:🎞️ КИНОЗАЛЫ
 https://liteiptv.ucoz.net/AceServe_15.mov
@@ -520,13 +520,13 @@ http://server-2.onlinetv-sochi.ru:8080/live/bol_tv.php?id=1nvenc/NTVplusfut1HD/7
 http://127.0.0.1:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
 #EXTINF:-1 tvg-id="match-football2" tvg-name="МАТЧ! ФУТБОЛ 2" tvg-logo="https://iptvx.one/picons/match-football2.png" group-title="🏅 СПОРТ", МАТЧ! ФУТБОЛ 2 HD
 #EXTGRP:🏅 СПОРТ
-http://tv.woobl.ru/match_futbol_2_hd/video.m3u8?token=GmwCwPLQ
+http://185.221.213.254/live/stream113.php?seg=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXXalvhY8IDu41Bl8P_RByb9eNfKte6INw-2SzOxpFW_aA&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="match-football2" tvg-name="МАТЧ! ФУТБОЛ 2" tvg-logo="https://iptvx.one/picons/match-football2.png" group-title="🏅 СПОРТ", МАТЧ! ФУТБОЛ 2 FHD 50 (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=ffbf8c687c788d9a1a7c651e24802ee773ff3f04
 #EXTINF:-1 tvg-id="match-football3" tvg-name="МАТЧ! ФУТБОЛ 3" tvg-logo="https://iptvx.one/picons/match-football3.png" group-title="🏅 СПОРТ", МАТЧ! ФУТБОЛ 3 HD
 #EXTGRP:🏅 СПОРТ
-http://tv.woobl.ru/match_futbol_3_hd/video.m3u8?token=GmwCwPLQ
+http://185.221.213.254/live/stream113.php?seg=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXUSzfVztn-sRrLoPEkv8IAOUsYd7TfDy973Kbcw4ZqBBA&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="match-football3" tvg-name="МАТЧ! ФУТБОЛ 3" tvg-logo="https://iptvx.one/picons/match-football3.png" group-title="🏅 СПОРТ", МАТЧ! ФУТБОЛ 3 FHD 50 (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
@@ -544,7 +544,7 @@ http://server-2.onlinetv-sochi.ru:8080/live/bol_tv.php?id=dvr02/hd1/sport1HD&tok
 http://127.0.0.1:6878/ace/getstream?id=a1d67cb505881b2b5bc58ce2af367e5e6d26cab5
 #EXTINF:-1 tvg-id="match-igra" tvg-name="МАТЧ! ИГРА" tvg-logo="https://iptvx.one/picons/match-igra.png" group-title="🏅 СПОРТ", МАТЧ! ИГРА HD
 #EXTGRP:🏅 СПОРТ
-http://tv.woobl.ru/match_igra_hd/video.m3u8?token=GmwCwPLQ
+http://185.221.213.254/live/stream113.php?seg=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXXXrhVIVewwNjwE7I5S_5yEMLJ6jMfQ2OcvbeaCY6IoMg&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="match-igra" tvg-name="МАТЧ! ИГРА" tvg-logo="https://iptvx.one/picons/match-igra.png" group-title="🏅 СПОРТ", МАТЧ! ИГРА FHD 50 (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=762e1d11f7d07029f316c6f61b8ef73289c6673c
@@ -574,7 +574,7 @@ http://list.onlinetv-sochi.ru:8080/live/arx.php?id=khl&token=Ym9yeW43ODpMYW5jZXI
 http://127.0.0.1:6878/ace/getstream?id=aa6c193b9de1e6b6277e3075299fdeea925e2dc0
 #EXTINF:-1 tvg-name="KHL Prime" tvg-logo="https://beeline.kz/binaries/content/gallery/about/beetv_logos/last/711.png" group-title="🏅 СПОРТ", KHL PRIME
 #EXTGRP:🏅 СПОРТ
-http://95.143.188.242:8080/live/stream123mov.php?seg=swgLKRxkXV8jE7LfhhKfxbSQbSjpus2lLcdR_u0GK_U1KF7NBNaKnN0NHD_LYoXCthOrUVTmCTwfjQDUj6Ew7eB3OaDc8y0qY8q9eBPZM2MIrVIBflLsN_AvADhZGWicXKQI26rA0WvNAV5VQE7KU9dfRCohooBPhsRWWR4PBXCZ8pLMtVoGyoj_1S_US_KZ6RgCv_HUU9rNum5YYxKBS2_r9oNb5-GyWV1rBXS87Wt-HOKFi2gNspViAER3kkY8YxJGuC1BcgpCrfbENQnbVullWC-wYbwJb0vlMwabzIkjC3t1XAmBtWwTaPXlZD40CdBm8e11T78ND_OihFqq2ak_T8upa_f3_7K5p27xmUTmcHlvdF-htGUQr3V3FS_T-Zawt03LxzkcyaDagBQd6_kPWl9J0e9kFNPfQVkkq-izWOjIZ6w-4NV5jG3y8LAPUj-HSfoPbRRkF-_SHWHBYnec3MPYVL7vtMTGnV16riYjlxdoaaXKiBYTiC_bwJY9_LYuCwv5Whna0oZr9L7KldiOqFY9vlPmJpNR2MlyfqiRhrc8xnCExZyp8GZ9BrslOduOahzzdg5Ej3xS1N3GFYV5Yv5XEWYTskUgyLaBqmnzc2mCM6mblj_V1jq_N1AqsSvgYjDMLgFC91zVDZko04P0pKcw7ubqm-FyN0Pak66GWLsjCykn5zv7FfAi_AwJ5n4ihXDumEsJna20mRGqVZnlFS6H1gPOTyXVkV230jyVo3TwAYByCPcITt0vzDPFLRG9fWdZyWx4PA-w-Bll2dSH7E1silSaprOHc8sh8lXxeznyi3btTlyDdsIlM5eQ2Z7Lx1NUc1kmTqyz21CKZoZOUBmebXSFGqnw4Q_4tPv1IUhiYRidM-c1BWAIk6waDnmPzosWNuAyPnT1NGd6dtrbDZ7_5EyE2Oa9Q5G6h9C2ZN_YdF9Kz_RFcZURCUSovQJgzR--L25pWdX3ZX6KzqWpHSDBDLeSbiIdbuFA3gQ-yInlCHUNgAw0-qz26vx3JQ3W1zA4fd1VjelS3Ht76jwE8q3pOYV2w--QM1Y-X9FAVongfiqtHWdEH5kxtGvz&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://185.221.213.254/live/stream113.php?seg=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXWHbxvn6yZV3WUWE7NEPs5XSap1Hr3toMx9Y3AfIo6DzQ&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-name="KHL Prime" tvg-logo="https://beeline.kz/binaries/content/gallery/about/beetv_logos/last/711.png" group-title="🏅 СПОРТ", KHL PRIME FHD (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=dcda9de85f7d662c5c3c2efd74eca0fb5c6aab3b
@@ -619,7 +619,7 @@ http://127.0.0.1:6878/ace/getstream?infohash=42832fbf9a1d3bdcca043e09951d6769fbb
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Volleyball_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NDY1MDgxNCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzc0MDQ2MDE0LCJzZXNzaW9uX2lkIjoiZWE2ZmE5NDAyZTViNWVlZmM0OGQzNWIwNTQ5MmM1MjciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RzDbolIczB_sGQuq1kbJvbXCKdNOfSsxucnrlZX4rHM
 #EXTINF:-1 tvg-id="box-tv" tvg-name="БОКС ТВ" tvg-logo="https://karnei4.github.io/convert/index_files/box-tv.png" group-title="🏅 СПОРТ", БОКС ТВ
 #EXTGRP:🏅 СПОРТ
-http://tv.woobl.ru/boks_hd/video.m3u8?token=GmwCwPLQ
+http://185.221.213.254/live/stream113.php?seg=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXVt3X0CFn1BIVHIBFJsOc4cZP7nwl8XLPEN_lnOw48F7A&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="box-tv" tvg-name="БОКС ТВ" tvg-logo="https://karnei4.github.io/convert/index_files/box-tv.png" group-title="🏅 СПОРТ", БОКС ТВ FHD (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=1acaf203502983cd2993c6835bf0cbde8d016c3d
@@ -1949,7 +1949,7 @@ https://stream-msk-12.ott.tricolor.tv:443/dtv/id656_MSKSG-PVR-1--CGTN_Rus/03/pls
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_URAL_SUR/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="rodnoe-kino" tvg-name="РОДНОЕ КИНО" tvg-logo="https://iptvx.one/picons/rodnoe-kino.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", РОДНОЕ КИНО
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://tv.woobl.ru/rodnoe_kino/video.m3u8?token=GmwCwPLQ
+http://185.221.213.254/live/stream113.php?seg=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXVaF2i88y3Sn333rzTBlmboxAzbp5VfBP6WHOnasAvb0g&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-name="Travel+Adventure HD" tvg-logo="https://karnei4.github.io/convert/Travel%2BAdventure_HD.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", TRAVEL+ADVENTURE HD
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 https://stream-msk-16.ott.tricolor.tv/dtv/id1019_MSKSG-PVR-1--TravelplusAdventure_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NDY1MDgxNCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzc0MDQ2MDE0LCJzZXNzaW9uX2lkIjoiZWE2ZmE5NDAyZTViNWVlZmM0OGQzNWIwNTQ5MmM1MjciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RzDbolIczB_sGQuq1kbJvbXCKdNOfSsxucnrlZX4rHM
