@@ -382,7 +382,7 @@ http://188.225.31.197/bpk-tv/000001496/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000001000/tve/index.m3u8
 #EXTINF:-1 tvg-id="h2-hd" tvg-name="H2" tvg-logo="https://karnei4.github.io/convert/index_files/h2.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", HISTORY 2
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://tv.woobl.ru:9090/channel/nd616c3e/index.m3u8?q=44272c3a540344ba83ccfb50a34ee517
+http://185.221.213.254/live/stream113.php?seg=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXU2SY59e-MGRULDQyGDMIUMiNFXtbaDROtY_o4DKUp0dA&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="sovsek" tvg-name="СОВЕРШЕННО СЕКРЕТНО" tvg-logo="http://epg.it999.ru/img2/275.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", СОВЕРШЕННО СЕКРЕТНО
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 https://stream-msk-03.ott.tricolor.tv:443/dtv/id698_MSKSG-PVR-1--Top_secret/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NDY1MDgxNCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzc0MDQ2MDE0LCJzZXNzaW9uX2lkIjoiZWE2ZmE5NDAyZTViNWVlZmM0OGQzNWIwNTQ5MmM1MjciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RzDbolIczB_sGQuq1kbJvbXCKdNOfSsxucnrlZX4rHM
@@ -1992,12 +1992,9 @@ https://osnmedia.servicecdn.ru/streams/17603_88089/1080n/index.m3u8
 #EXTINF:-1  tvg-name="Now 90's" tvg-logo="https://e1.pngegg.com/pngimages/708/152/png-clipart-mon3y-set-now-90-s-decor.png" group-title="🎵 МУЗЫКА", Now 90's
 #EXTGRP:🎵 МУЗЫКА
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="tennis-cnl-us" tvg-name="Tennis Channel [US]" tvg-logo="https://epg.iptvx.one/picons/tennis-cnl-us.png" group-title="🏅 СПОРТ", TENNIS CHANNEL
-#EXTGRP:🏅 СПОРТ
-http://185.234.59.200:9090/channel/7d307ef4/index.m3u8?q=44272c3a540344ba83ccfb50a34ee517
 #EXTINF:-1 tvg-id="supertennis" tvg-name="Super-Tennis" tvg-logo="https://epg.iptvx.one/picons/supertennis.png" group-title="🏅 СПОРТ", SUPER TENNIS
 #EXTGRP:🏅 СПОРТ
-http://185.234.59.200:9090/channel/n6263ad12/index.m3u8?q=44272c3a540344ba83ccfb50a34ee517
+http://185.221.213.254/live/stream113.php?seg=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXWG7M-F3MywtG5P8Yf4hG_cYn5SQOuMg2pZvRuXZsutRA&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-name="БУМ" tvg-logo="https://epg.iptvx.one/picons/sportmaster-tv.png" group-title="🏅 СПОРТ, БУМ
 #EXTGRP:🏅 СПОРТ
 https://stream-msk-05.ott.tricolor.tv:443/dtv/id628_MSKSG-PVR-1--Channel_LIVE1/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NDY1MDgxNCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzc0MDQ2MDE0LCJzZXNzaW9uX2lkIjoiZWE2ZmE5NDAyZTViNWVlZmM0OGQzNWIwNTQ5MmM1MjciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RzDbolIczB_sGQuq1kbJvbXCKdNOfSsxucnrlZX4rHM
