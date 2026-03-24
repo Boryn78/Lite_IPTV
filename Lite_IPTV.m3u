@@ -600,6 +600,9 @@ http://127.0.0.1:6878/ace/getstream?id=fce354f24fe26ca527e2c38b14eb7b0c81f756dd
 #EXTINF:-1 tvg-id="start" tvg-name="СТАРТ HD" tvg-logo="https://iptvx.one/picons/start.png" group-title="🏅 СПОРТ", СТАРТ HD
 #EXTGRP:🏅 СПОРТ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Start.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NDY1MDgxNCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzc0MDQ2MDE0LCJzZXNzaW9uX2lkIjoiZWE2ZmE5NDAyZTViNWVlZmM0OGQzNWIwNTQ5MmM1MjciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RzDbolIczB_sGQuq1kbJvbXCKdNOfSsxucnrlZX4rHM
+#EXTINF:-1 tvg-id="start-triumf" tvg-name="Старт Триумф" tvg-logo="https://epg.iptvx.one/picons/start-triumf.png" group-title="🏅 СПОРТ", СТАРТ ТРИУМФ HD
+#EXTGRP:🏅 СПОРТ
+https://msk2-cdp2.playfamily.ru/tv/cid/364162160-1774450544-L-HoQTv9DLkAjeO_o37iQg/msk-ix/hls/Start_Triumph_HD/playlist.m3u8
 #EXTINF:-1 tvg-id="eurosport1" tvg-name="EUROSPORT 1" tvg-logo="https://karnei4.github.io/convert/index_files/eurosport1_hd.png" group-title="🏅 СПОРТ", EUROSPORT 1 HD
 #EXTGRP:🏅 СПОРТ
 http://188.225.31.197/bpk-tv/000002478/tve/index.m3u8
@@ -618,6 +621,9 @@ http://127.0.0.1:6878/ace/getstream?id=c4acde347445b0a07a9e8695b4254bee2b2df570
 #EXTINF:-1 tvg-id="nba-tv" tvg-name="NBA TV" tvg-logo="https://karnei4.github.io/convert/index_files/nba-tv.png" group-title="🏅 СПОРТ", NBA FHD (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?infohash=42832fbf9a1d3bdcca043e09951d6769fbbe04e7
+#EXTINF:-1 tvg-id="start-basket" tvg-name="Старт Баскет" tvg-logo="https://epg.iptvx.one/picons/start-basket.png" group-title="🏅 СПОРТ", СТАРТ БАСКЕТ HD
+#EXTGRP:🏅 СПОРТ
+https://msk2-cdp11.playfamily.ru/tv/cid/364162160-1774434681-NjOvGPkNHP6ZG2cc_bHDZw/msk-ix/hls/Start_Basket_HD/playlist.m3u8
 #EXTINF:-1 tvg-id="voleybol" tvg-name="Волейбол" tvg-logo="https://epg.iptvx.one/picons/voleybol.png" group-title="🏅 СПОРТ", ВОЛЕЙБОЛ
 #EXTGRP:🏅 СПОРТ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Volleyball_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NDY1MDgxNCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzc0MDQ2MDE0LCJzZXNzaW9uX2lkIjoiZWE2ZmE5NDAyZTViNWVlZmM0OGQzNWIwNTQ5MmM1MjciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RzDbolIczB_sGQuq1kbJvbXCKdNOfSsxucnrlZX4rHM
