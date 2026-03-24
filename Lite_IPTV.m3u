@@ -2748,3 +2748,9 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Nashe_Nasled
 #EXTINF:-1 tvg-name="Смотрим 100% Мужское" tvg-id="smotrim-100-muzhskoe" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-muzhskoe.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", СМОТРИМ 100% МУЖСКОЕ
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 https://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d/playlist.m3u8
+#EXTINF:-1 tvg-name="Смотрим 100% Классика" tvg-id="smotrim-100-klassika" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-klassika.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", СМОТРИМ 100% КЛАССИКА
+#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
+https://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338/playlist.m3u8
+#EXTINF:-1 tvg-name="Смотрим 100% Любовь" tvg-id="smotrim-100-lubov" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-lubov.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", СМОТРИМ 100% ЛЮБОВЬ
+#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
+https://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4248/playlist.m3u8
