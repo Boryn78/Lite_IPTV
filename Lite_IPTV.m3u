@@ -741,9 +741,6 @@ https://stream-msk-01.ott.tricolor.tv/dtv/id133_MSKSG-PVR-1--Eur_Plus/03/plst.m3
 #EXTINF:-1 tvg-name="ЖАРА" tvg-logo="http://media.24h.tv/img/ch/53/62/5362bc465209770ea0eb3ac3c4eccb3c.png" group-title="🎵 МУЗЫКА", ЖАРА
 #EXTGRP:🎵 МУЗЫКА
 https://stream-msk-12.ott.tricolor.tv:443/dtv/id389_MSKSG-PVR-1--Zhara/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NDY1MDgxNCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzc0MDQ2MDE0LCJzZXNzaW9uX2lkIjoiZWE2ZmE5NDAyZTViNWVlZmM0OGQzNWIwNTQ5MmM1MjciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RzDbolIczB_sGQuq1kbJvbXCKdNOfSsxucnrlZX4rHM
-#EXTINF:-1 tvg-name="MEZZO" tvg-logo="https://karnei4.github.io/convert/index_files/mezzo.png" group-title="🎵 МУЗЫКА", MEZZO
-#EXTGRP:🎵 МУЗЫКА
-http://185.221.213.254/live/stream4.php?q=OWWGT5_z5DqjdLW9cndeOneG0NRqItKIrGpIm0X_0rfmr1qwfB_IyqX69Dw5Nem1CPBN3T9JmLJX1O6yHbV0VA&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-name="CLASSIC MUSIC" tvg-logo="https://kino.tricolor.tv/upload/iblock/a0f/mp587afre2j7hfjqv9t2r0bhxa1io7nh.webp" group-title="🎵 МУЗЫКА", CLASSIC MUSIC
 #EXTGRP:🎵 МУЗЫКА
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Classic_Music_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NDY1MDgxNCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzc0MDQ2MDE0LCJzZXNzaW9uX2lkIjoiZWE2ZmE5NDAyZTViNWVlZmM0OGQzNWIwNTQ5MmM1MjciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RzDbolIczB_sGQuq1kbJvbXCKdNOfSsxucnrlZX4rHM
@@ -1492,18 +1489,9 @@ http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="hustler-hd" tvg-name="Hustler HD" tvg-logo="https://epg.iptvx.one/picons/hustler-hd.png" group-title="💘 ВЗРОСЛЫЕ", HUSTLER HD
 #EXTGRP:💘 ВЗРОСЛЫЕ
 http://185.221.213.254/live/stream113.php?seg=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXX3-lONju6nEWevIkE9ZMuNvkGzc_ANJCJvvbgEU3tBQg&token=Ym9yeW43ODpMYW5jZXIxNg==
-#EXTINF:-1 tvg-id="private-tv" tvg-name="Private TV" tvg-logo="https://epg.iptvx.one/picons/private-tv.png" group-title="💘 ВЗРОСЛЫЕ", PRIVATE
-#EXTGRP:💘 ВЗРОСЛЫЕ
-http://185.221.213.254/live/stream113.php?seg=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXXKeGnDn_esyMo54xLq82oBU5BZXJIqAFL0-gVmctNNnQ&token=Ym9yeW43ODpMYW5jZXIxNg==
-#EXTINF:-1 tvg-id="vivid-red" tvg-name="Vivid Red HD" tvg-logo="https://epg.iptvx.one/picons/vivid-red.png" group-title="💘 ВЗРОСЛЫЕ", VIVID RED HD 
-#EXTGRP:💘 ВЗРОСЛЫЕ
-http://185.221.213.254/live/stream113.php?seg=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXVmSZMlRZsbAl2J-yLh5fkDerlEWujcTBCHeBSn01-4sw&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="penthouse-gold" tvg-name="Penthouse Gold HD" tvg-logo="https://epg.iptvx.one/picons/penthouse-gold.png" group-title="💘 ВЗРОСЛЫЕ", PENTHOUSE GOLD
 #EXTGRP:💘 ВЗРОСЛЫЕ
 http://185.221.213.254/live/stream113.php?seg=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXXjTQBsPeaKmr0oTPAXM-kQ6UDPr8AgBz5pNNmd_p8Few&token=Ym9yeW43ODpMYW5jZXIxNg==
-#EXTINF:-1 tvg-id="penthouse-passion-ua tvg-name="Penthouse Passion Украина" tvg-logo="https://epg.iptvx.one/picons/penthouse-passion-ua.png" group-title="💘 ВЗРОСЛЫЕ", PENTHOUSE PASSION
-#EXTGRP:💘 ВЗРОСЛЫЕ
-http://185.221.213.254/live/stream113.php?seg=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXWOeKRJV8FpQsDSmrKcSj5fc9eMSW7_bAmm69VlsvDS4w&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m3u.admuspeh.my/icon/%D0%9E%D0%A5-%D0%90%D0%A5%20HD.png" group-title="💘 ВЗРОСЛЫЕ", ОХ-АХ HD
 #EXTGRP:💘 ВЗРОСЛЫЕ
 http://185.221.213.254/live/stream113.php?seg=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXW_0Z--ZBBJ1d1EwPMpVMjUh5AQOIDJfKFOyoIZGSkwsw&token=Ym9yeW43ODpMYW5jZXIxNg==
@@ -1998,9 +1986,6 @@ https://osnmedia.servicecdn.ru/streams/17603_88089/1080n/index.m3u8
 #EXTINF:-1  tvg-name="Now 90's" tvg-logo="https://e1.pngegg.com/pngimages/708/152/png-clipart-mon3y-set-now-90-s-decor.png" group-title="🎵 МУЗЫКА", Now 90's
 #EXTGRP:🎵 МУЗЫКА
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="supertennis" tvg-name="Super-Tennis" tvg-logo="https://epg.iptvx.one/picons/supertennis.png" group-title="🏅 СПОРТ", SUPER TENNIS
-#EXTGRP:🏅 СПОРТ
-http://185.221.213.254/live/stream113.php?seg=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXWG7M-F3MywtG5P8Yf4hG_cYn5SQOuMg2pZvRuXZsutRA&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-name="БУМ" tvg-logo="https://epg.iptvx.one/picons/sportmaster-tv.png" group-title="🏅 СПОРТ, БУМ
 #EXTGRP:🏅 СПОРТ
 https://stream-msk-05.ott.tricolor.tv:443/dtv/id628_MSKSG-PVR-1--Channel_LIVE1/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NDY1MDgxNCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzc0MDQ2MDE0LCJzZXNzaW9uX2lkIjoiZWE2ZmE5NDAyZTViNWVlZmM0OGQzNWIwNTQ5MmM1MjciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RzDbolIczB_sGQuq1kbJvbXCKdNOfSsxucnrlZX4rHM
