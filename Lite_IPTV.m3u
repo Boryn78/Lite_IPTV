@@ -380,9 +380,9 @@ http://188.225.31.197/bpk-tv/000001496/tve/index.m3u8
 #EXTINF:-1 tvg-id="history-ru" tvg-name="HISTORY" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/history.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", HISTORY
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://188.225.31.197/bpk-tv/000001000/tve/index.m3u8
-#EXTINF:-1 tvg-id="h2-hd" tvg-name="H2" tvg-logo="https://karnei4.github.io/convert/index_files/h2.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", HISTORY 2
+#EXTINF:-1 tvg-id="h2-hd" tvg-name="H2" tvg-logo="https://karnei4.github.io/convert/index_files/h2.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", HISTORY 2 (Torrent TV)
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://185.221.213.254/live/stream113.php?seg=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXU2SY59e-MGRULDQyGDMIUMiNFXtbaDROtY_o4DKUp0dA&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://127.0.0.1:6878/ace/getstream?id=88e804faf482b3caa0a680c931bdd1578c4bfbee
 #EXTINF:-1 tvg-id="sovsek" tvg-name="СОВЕРШЕННО СЕКРЕТНО" tvg-logo="http://epg.it999.ru/img2/275.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", СОВЕРШЕННО СЕКРЕТНО
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 https://stream-msk-03.ott.tricolor.tv:443/dtv/id698_MSKSG-PVR-1--Top_secret/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NDY1MDgxNCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzc0MDQ2MDE0LCJzZXNzaW9uX2lkIjoiZWE2ZmE5NDAyZTViNWVlZmM0OGQzNWIwNTQ5MmM1MjciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RzDbolIczB_sGQuq1kbJvbXCKdNOfSsxucnrlZX4rHM
@@ -424,7 +424,7 @@ http://188.225.31.197/bpk-tv/000000815/tve/index.m3u8
 https://stream8.cinerama.uz/1036/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="drive" tvg-name="ДРАЙВ" tvg-logo="https://iptvx.one/picons/drive.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ДРАЙВ
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://185.164.82.18:9009/aDxLhVQm_Drive
+http://46.53.208.4:80/live/336.m3u8
 #EXTINF:-1 tvg-id="muzhskoy" tvg-name="МУЖСКОЙ" tvg-logo="https://iptvx.one/picons/muzhskoy.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", МУЖСКОЙ
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://188.225.31.197/bpk-tv/000000286/tve/index.m3u8
@@ -588,9 +588,6 @@ https://liteiptv.ucoz.net/AceServe_15.mov
 #EXTINF:-1 tvg-id="xokkejny" tvg-name="ХОККЕЙ ТВ" tvg-logo="https://iptvx.one/picons/xokkejny.png" group-title="🏅 СПОРТ", ХОККЕЙ ТВ HD
 #EXTGRP:🏅 СПОРТ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Hokeinii_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NDY1MDgxNCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzc0MDQ2MDE0LCJzZXNzaW9uX2lkIjoiZWE2ZmE5NDAyZTViNWVlZmM0OGQzNWIwNTQ5MmM1MjciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RzDbolIczB_sGQuq1kbJvbXCKdNOfSsxucnrlZX4rHM
-#EXTINF:-1 tvg-id="nhl" tvg-name="NHL" tvg-logo="https://bonus-betting.ru/wp-content/uploads/2021/10/nhl-logo.png" group-title="🏅 СПОРТ", NHL HD
-#EXTGRP:🏅 СПОРТ
-http://185.221.213.254/live/stream113.php?seg=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXWC1mMwhj0FkHUIXh0_EkF2k6Wejz7GNOL_OA5ql2SQBg&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="footbolny" tvg-name="МЯЧ" tvg-logo="https://pic.rutubelist.ru/user/1f/f7/1ff75574ff67dd8a1d57fa346fb44cdc.jpg" group-title="🏅 СПОРТ", МЯЧ HD
 #EXTGRP:🏅 СПОРТ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Futbolnyy_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NDY1MDgxNCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzc0MDQ2MDE0LCJzZXNzaW9uX2lkIjoiZWE2ZmE5NDAyZTViNWVlZmM0OGQzNWIwNTQ5MmM1MjciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RzDbolIczB_sGQuq1kbJvbXCKdNOfSsxucnrlZX4rHM
@@ -629,7 +626,7 @@ https://msk2-cdp11.playfamily.ru/tv/cid/364162160-1774434681-NjOvGPkNHP6ZG2cc_bH
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Volleyball_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NDY1MDgxNCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzc0MDQ2MDE0LCJzZXNzaW9uX2lkIjoiZWE2ZmE5NDAyZTViNWVlZmM0OGQzNWIwNTQ5MmM1MjciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RzDbolIczB_sGQuq1kbJvbXCKdNOfSsxucnrlZX4rHM
 #EXTINF:-1 tvg-id="box-tv" tvg-name="БОКС ТВ" tvg-logo="https://karnei4.github.io/convert/index_files/box-tv.png" group-title="🏅 СПОРТ", БОКС ТВ
 #EXTGRP:🏅 СПОРТ
-http://185.221.213.254/live/stream113.php?seg=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXVt3X0CFn1BIVHIBFJsOc4cZP7nwl8XLPEN_lnOw48F7A&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://31.210.208.171:8080/box_tv/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="box-tv" tvg-name="БОКС ТВ" tvg-logo="https://karnei4.github.io/convert/index_files/box-tv.png" group-title="🏅 СПОРТ", БОКС ТВ FHD (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=1acaf203502983cd2993c6835bf0cbde8d016c3d
@@ -689,7 +686,7 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Disney.m3u8&
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Ryzhiy.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NDY1MDgxNCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzc0MDQ2MDE0LCJzZXNzaW9uX2lkIjoiZWE2ZmE5NDAyZTViNWVlZmM0OGQzNWIwNTQ5MmM1MjciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RzDbolIczB_sGQuq1kbJvbXCKdNOfSsxucnrlZX4rHM
 #EXTINF:-1 tvg-name="О!" tvg-logo="https://karnei4.github.io/convert/index_files/o_.png" group-title="🧸 ДЕТСКИЕ", О!
 #EXTGRP:🧸 ДЕТСКИЕ
-http://185.221.213.254/live/stream4.php?q=OWWGT5_z5DqjdLW9cndeOneG0NRqItKIrGpIm0X_0rf7OEPPV7FNntPi8YFyC_wiphR8DjEiQLdHp3OdKVUdyw&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://46.53.208.4:80/live/3013.m3u8
 #EXTINF:-1 tvg-name="УНИКУМ" tvg-logo="https://vestnik-lesnoy.ru/wp-content/uploads/2020/01/1576616446_un.jpg" group-title="🧸 ДЕТСКИЕ", УНИКУМ
 #EXTGRP:🧸 ДЕТСКИЕ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Unikum.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NDY1MDgxNCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzc0MDQ2MDE0LCJzZXNzaW9uX2lkIjoiZWE2ZmE5NDAyZTViNWVlZmM0OGQzNWIwNTQ5MmM1MjciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RzDbolIczB_sGQuq1kbJvbXCKdNOfSsxucnrlZX4rHM
@@ -1961,7 +1958,7 @@ https://stream-msk-12.ott.tricolor.tv:443/dtv/id656_MSKSG-PVR-1--CGTN_Rus/03/pls
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_URAL_SUR/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="rodnoe-kino" tvg-name="РОДНОЕ КИНО" tvg-logo="https://iptvx.one/picons/rodnoe-kino.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", РОДНОЕ КИНО
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://185.221.213.254/live/stream113.php?seg=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXVaF2i88y3Sn333rzTBlmboxAzbp5VfBP6WHOnasAvb0g&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://31.210.208.171:8080/rodnoe_kino/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-name="Travel+Adventure HD" tvg-logo="https://karnei4.github.io/convert/Travel%2BAdventure_HD.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", TRAVEL+ADVENTURE HD
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 https://stream-msk-16.ott.tricolor.tv/dtv/id1019_MSKSG-PVR-1--TravelplusAdventure_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NDY1MDgxNCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzc0MDQ2MDE0LCJzZXNzaW9uX2lkIjoiZWE2ZmE5NDAyZTViNWVlZmM0OGQzNWIwNTQ5MmM1MjciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RzDbolIczB_sGQuq1kbJvbXCKdNOfSsxucnrlZX4rHM
