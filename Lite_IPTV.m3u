@@ -2049,9 +2049,12 @@ http://127.0.0.1:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
 #EXTINF:-1 tvg-id="sky-sport-bl1" tvg-name="Sky Sport Bundesliga 1 HD" tvg-logo="https://iptvx.one/picons/sky-sport-bl1.png" group-title="🏅 СПОРТ", SKY SPORT BUNDESLIGA 1 HD (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=38d8789a448dd0eaf99e0274b555974e4e8f3f3b
-#EXTINF:-1 tvg-id="bolshoj-efir" tvg-name="Большой эфир" tvg-logo="https://iptvx.one/picons/bolshoj-efir.png" group-title="👀 РАЗНОЕ", Большой эфир
+#EXTINF:-1 tvg-id="bolshoj-efir" tvg-name="Большой эфир" tvg-logo="https://iptvx.one/picons/bolshoj-efir.png" group-title="👀 РАЗНОЕ", БОЛЬШОЙ ЭФИР
 #EXTGRP:👀 РАЗНОЕ
 https://stream-msk-10.ott.tricolor.tv:443/dtv/id621_MSKSG-PVR-1--ChannelLIVE/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NDY1MDgxNCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzc0MDQ2MDE0LCJzZXNzaW9uX2lkIjoiZWE2ZmE5NDAyZTViNWVlZmM0OGQzNWIwNTQ5MmM1MjciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RzDbolIczB_sGQuq1kbJvbXCKdNOfSsxucnrlZX4rHM
+#EXTINF:-1 tvg-id="era" tvg-name="Эра" tvg-logo="https://epg.iptvx.one/picons/era.png" group-title="👀 РАЗНОЕ", ЭРА
+#EXTGRP:👀 РАЗНОЕ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Channel_LIVE3.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NDY1MDgxNCwiaHdpZCI6IjhmNzZlNDIxMjg3NWYzNDU0OThlMWNlZjlhOThjNTk1YzM5NWI0YmY1OTQ0Y2Y5YTlmNWFlOTJjY2Q5NTIwYzgiLCJsYXN0X3JlcV9kYXRlIjoxNzc0MDQ2MDE0LCJzZXNzaW9uX2lkIjoiZWE2ZmE5NDAyZTViNWVlZmM0OGQzNWIwNTQ5MmM1MjciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RzDbolIczB_sGQuq1kbJvbXCKdNOfSsxucnrlZX4rHM
 #EXTINF:-1 tvg-id="4KurdHD.fr" tvg-logo="https://i.imgur.com/xy7W0wD.png" group-title="КУРДИСТАН",4Kurd HD
 https://4kuhls.persiana.live/hls/stream.m3u8
 #EXTGRP:КУРДИСТАН
