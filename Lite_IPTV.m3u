@@ -2170,7 +2170,7 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 http://list.onlinetv-sochi.ru:8080/live/channel.php?id=175&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="hollywood-hd" tvg-name="HOLLYWOOD HD" tvg-logo="https://iptvx.one/picons/hollywood-hd.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", HOLLYWOOD HD
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://list.onlinetv-sochi.ru:8080/live/channel.php?id=140&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://cdn.bisv.tv:81/hollywoodhd/index.m3u8?token=b614edc31b0ca412c34b88dbed6408ca
 #EXTINF:-1 tvg-id="bcu-kinozal-prem-2" tvg-name="BCU КИНОЗАЛ PREMIERE 2 HD" tvg-logo="https://iptvx.one/picons/bcu-kinozal-prem-2.png" group-title="🎞️ КИНОЗАЛЫ", BCU КИНОЗАЛ PREMIERE 2 HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
 http://127.0.0.1:6878/ace/getstream?id=d488e696aba7b6a2d3a8977d762bcf4eee1bfd07
