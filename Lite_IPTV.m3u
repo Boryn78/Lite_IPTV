@@ -1494,13 +1494,16 @@ http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
 http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="hustler-hd" tvg-name="Hustler HD" tvg-logo="https://epg.iptvx.one/picons/hustler-hd.png" group-title="💘 ВЗРОСЛЫЕ", HUSTLER HD
 #EXTGRP:💘 ВЗРОСЛЫЕ
-http://185.221.213.254/live/stream113.php?seg=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXX3-lONju6nEWevIkE9ZMuNvkGzc_ANJCJvvbgEU3tBQg&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://66.90.92.162:80/8128/video.m3u8?token=Wy2gfV7oxFMkYCS4
 #EXTINF:-1 tvg-id="penthouse-gold" tvg-name="Penthouse Gold HD" tvg-logo="https://epg.iptvx.one/picons/penthouse-gold.png" group-title="💘 ВЗРОСЛЫЕ", PENTHOUSE GOLD
 #EXTGRP:💘 ВЗРОСЛЫЕ
-http://185.221.213.254/live/stream113.php?seg=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXXjTQBsPeaKmr0oTPAXM-kQ6UDPr8AgBz5pNNmd_p8Few&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://66.90.92.162:80/8342/video.m3u8?token=Wy2gfV7oxFMkYCS4
+#EXTINF:-1 tvg-id="redlight-hd" tvg-name="Redlight HD" tvg-logo="https://epg.iptvx.one/picons/redlight-hd.png" group-title="💘 ВЗРОСЛЫЕ", REDLIGHT HD
+#EXTGRP:💘 ВЗРОСЛЫЕ
+http://66.90.92.162:80/9247/video.m3u8?token=Wy2gfV7oxFMkYCS4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m3u.admuspeh.my/icon/%D0%9E%D0%A5-%D0%90%D0%A5%20HD.png" group-title="💘 ВЗРОСЛЫЕ", ОХ-АХ HD
 #EXTGRP:💘 ВЗРОСЛЫЕ
-http://185.221.213.254/live/stream113.php?seg=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXW_0Z--ZBBJ1d1EwPMpVMjUh5AQOIDJfKFOyoIZGSkwsw&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://66.90.92.162:80/9250/video.m3u8?token=Wy2gfV7oxFMkYCS4
 #EXTINF:-1 tvg-name="Сочи - Пляж Мамайка" group-title="📷 WEB КАМЕРЫ", Сочи - Пляж Мамайка
 #EXTGRP:📷 WEB КАМЕРЫ
 https://fl.tvintel.info:8443/mix-kukuruza-plyaz/index.m3u8
