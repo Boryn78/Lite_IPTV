@@ -418,7 +418,7 @@ https://stream-msk-04.ott.tricolor.tv:443/dtv/id154_MSKSG-PVR-1--Telepyt/03/plst
 https://stream-msk-03.ott.tricolor.tv:443/dtv/id283_MSKSG-PVR-1--Tehno24/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NTI1NTUwNCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc0NjUwNzA0LCJzZXNzaW9uX2lkIjoiZWJmNjE1NzYxNjU5MWFlM2IxMmUwYmIyMWM4NmI1NjAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CS3-B4lpnt5T0-a6IOPRp0Ex7UVpisDO6odJXf2G6Cs
 #EXTINF:-1 tvg-id="avto-24" tvg-name="АВТО 24" tvg-logo="http://epg.it999.ru/img2/2008.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", АВТО 24
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://188.225.31.197/bpk-tv/000000815/tve/index.m3u8
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=avto_24&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="avto-plus" tvg-name="АВТО ПЛЮС" tvg-logo="https://iptvx.one/picons/avto-plus.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", АВТО ПЛЮС
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 https://stream8.cinerama.uz/1036/tracks-v1a1/mono.m3u8
@@ -2164,7 +2164,7 @@ http://127.0.0.1:6878/ace/getstream?id=122b81e6c37b49a37c3b1984efaf5626371d5df5
 http://188.225.31.197/bpk-tv/000000283/tve/index.m3u8
 #EXTINF:-1 tvg-id="mir-seriala" tvg-name="МИР СЕРИАЛА" tvg-logo="https://iptvx.one/picons/mir-seriala.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", МИР СЕРИАЛА
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://188.225.31.197/bpk-tv/000000319/tve/index.m3u8
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=mir_seriala&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="doverie" tvg-name="Москва. Доверие" tvg-logo="https://iptvx.one/picons/doverie.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", МОСКВА ДОВЕРИЕ
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
