@@ -208,7 +208,7 @@ https://stream-msk-06.ott.tricolor.tv/dtv/id423_MSKSG-PVR-1--Cinema/03/plst.m3u8
 http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
 #EXTINF:-1 tvg-id="kinosvidanie" tvg-name="КИНОСВИДАНИЕ" tvg-logo="https://iptvx.one/picons/kinosvidanie.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНОСВИДАНИЕ
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://5.188.159.128:8070/kinosvidanie/index.m3u8
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=kinoklub&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-name="Для каналов (Torrent TV) запустите AceServe 1.5" tvg-logo="https://liteiptv.ucoz.net/AceServe15.png" group-title="🎞️ КИНОЗАЛЫ", Для каналов (Torrent TV) запустите AceServe 1.5
 #EXTGRP:🎞️ КИНОЗАЛЫ
 https://liteiptv.ucoz.net/AceServe_15.mov
@@ -262,7 +262,7 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Romantichnoe
 http://158.101.222.193:88/georgia_play.php?id=kinokomediya
 #EXTINF:-1 tvg-id="kinoseria" tvg-name="КИНОСЕРИЯ" tvg-logo="https://iptvx.one/picons/kinoseria.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНОСЕРИЯ
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://158.101.222.193:88/georgia_play.php?id=kinoseria
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=kinoseriya&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="komedijnoe-hd" tvg-name="КОМЕДИЙНОЕ HD" tvg-logo="https://iptvx.one/picons/komedijnoe-hd.png" group-title="🎞️ КИНОЗАЛЫ", КОМЕДИЙНОЕ HD
 #EXTGRP:🎞️ КИНОЗАЛЫ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Komediinoe.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NTI1NTUwNCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc0NjUwNzA0LCJzZXNzaW9uX2lkIjoiZWJmNjE1NzYxNjU5MWFlM2IxMmUwYmIyMWM4NmI1NjAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CS3-B4lpnt5T0-a6IOPRp0Ex7UVpisDO6odJXf2G6Cs
@@ -902,7 +902,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/variant.m3u8
 #EXTINF:-1 tvg-id="kinomiks" tvg-name="КИНОМИКС" tvg-logo="https://iptvx.one/picons/kinomiks.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНОМИКС
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://158.101.222.193:88/georgia_play.php?id=kinomiks
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=ntv_kino_plyus&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="Суббота! (+7)" tvg-name="СУББОТА! (+7)" tvg-logo="https://iptvx.one/picons/subbota.png" group-title="⌚ ЧАСОВЫЕ СДВИГИ", СУББОТА! (+7)
 #EXTGRP:⌚ ЧАСОВЫЕ СДВИГИ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
@@ -1813,7 +1813,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1 tvg-id="kinosemiya" tvg-name="КИНОСЕМЬЯ" tvg-logo="https://iptvx.one/picons/kinosemia.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНОСЕМЬЯ
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://158.101.222.193:88/georgia_play.php?id=kinosemya
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=hd_kino&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-name="Зал 27" tvg-id="zal-27-tricolor" tvg-logo="https://epg.iptvx.one/picons/zal-27-tricolor.png" group-title="🎞️ КИНОЗАЛЫ", УЛИЦЫ РАЗБИТЫХ ФОНАРЕЙ
 #EXTGRP:🎞️ КИНОЗАЛЫ
 https://stream-msk-18.ott.tricolor.tv/dtv/id1015_MSKSG-PVR-1--Kinozal27_SD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NTI1NTUwNCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc0NjUwNzA0LCJzZXNzaW9uX2lkIjoiZWJmNjE1NzYxNjU5MWFlM2IxMmUwYmIyMWM4NmI1NjAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CS3-B4lpnt5T0-a6IOPRp0Ex7UVpisDO6odJXf2G6Cs
@@ -1885,7 +1885,7 @@ https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="kinoxit" tvg-name="КИНОХИТ" tvg-logo="https://iptvx.one/picons/kinoxit.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНОХИТ
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://158.101.222.193:88/georgia_play.php?id=kinohit
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=kinohit&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="6627" tvg-name="Now 80's" tvg-logo="https://w7.pngwing.com/pngs/675/222/png-transparent-now-80-s-text-ad-now-that-s-what-i-call-the-80s-now-that-s-what-i-call-music-compilation-album-now-that-s-what-i-call-80s-party-flyer-party-80-s-miscellaneous-album-text.png" group-title="🎵 МУЗЫКА", Now 80's
 #EXTGRP:🎵 МУЗЫКА
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
