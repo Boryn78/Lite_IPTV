@@ -292,7 +292,7 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kriminalnoe_
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Den_Pobedy.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NTI1NTUwNCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc0NjUwNzA0LCJzZXNzaW9uX2lkIjoiZWJmNjE1NzYxNjU5MWFlM2IxMmUwYmIyMWM4NmI1NjAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CS3-B4lpnt5T0-a6IOPRp0Ex7UVpisDO6odJXf2G6Cs
 #EXTINF:-1 tvg-id="pobeda" tvg-name="ПОБЕДА" tvg-logo="https://iptvx.one/picons/pobeda.png" group-title="🎞️ КИНОЗАЛЫ", ПОБЕДА
 #EXTGRP:🎞️ КИНОЗАЛЫ
-https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Pobeda.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NTI1NTUwNCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc0NjUwNzA0LCJzZXNzaW9uX2lkIjoiZWJmNjE1NzYxNjU5MWFlM2IxMmUwYmIyMWM4NmI1NjAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CS3-B4lpnt5T0-a6IOPRp0Ex7UVpisDO6odJXf2G6Cs
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=pobeda_hd&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="mosfilm" tvg-name="Мосфильм. Золотая коллекция" tvg-logo="https://iptvx.one/picons/mosfilm.png" group-title="🎞️ КИНОЗАЛЫ", МОСФИЛЬМ. ЗОЛОТАЯ КОЛЛЕКЦИЯ HD
 #EXTGRP:🎞️ КИНОЗАЛЫ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Mosfilm_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NTI1NTUwNCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc0NjUwNzA0LCJzZXNzaW9uX2lkIjoiZWJmNjE1NzYxNjU5MWFlM2IxMmUwYmIyMWM4NmI1NjAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CS3-B4lpnt5T0-a6IOPRp0Ex7UVpisDO6odJXf2G6Cs
@@ -2760,3 +2760,12 @@ http://46.53.208.4/live/545.m3u8
 #EXTINF:-1 tvg-id="viju-tv1000-romantica" tvg-name="viju TV1000 romantica" tvg-logo="https://epg.iptvx.one/picons/viju-tv1000-romantica.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU TV1000 ROMANTICA
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://46.53.208.4/live/3111.m3u8
+#EXTINF:-1 tvg-id="bolt-ru" tvg-name="Bolt Россия" tvg-logo="https://epg.iptvx.one/picons/bolt.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", BOLT HD
+#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=bolt_hd&token=Ym9yeW43ODpMYW5jZXIxNg==
+#EXTINF:-1 tvg-id="kinosat" tvg-name="Киносат" tvg-logo="https://epg.iptvx.one/picons/kinosat.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНОСАТ
+#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=kinosat&token=Ym9yeW43ODpMYW5jZXIxNg==
+#EXTINF:-1 tvg-id="sovkino" tvg-name="Советское кино" tvg-logo="https://epg.iptvx.one/picons/sovkino.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", СОВЕТСКОЕ КИНО
+#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=sovetskoekino&token=Ym9yeW43ODpMYW5jZXIxNg==
