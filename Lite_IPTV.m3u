@@ -2769,3 +2769,6 @@ http://list.onlinetv-sochi.ru:8080/live/arx.php?id=kinosat&token=Ym9yeW43ODpMYW5
 #EXTINF:-1 tvg-id="sovkino" tvg-name="Советское кино" tvg-logo="https://epg.iptvx.one/picons/sovkino.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", СОВЕТСКОЕ КИНО
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://list.onlinetv-sochi.ru:8080/live/arx.php?id=sovetskoekino&token=Ym9yeW43ODpMYW5jZXIxNg==
+#EXTINF:-1 tvg-id="klassika-kino" tvg-name="Классика Кино" tvg-logo="https://epg.iptvx.one/picons/klassika-kino.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КЛАССИКА КИНО
+#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=klassikakino&token=Ym9yeW43ODpMYW5jZXIxNg==
