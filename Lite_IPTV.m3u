@@ -581,7 +581,7 @@ http://list.onlinetv-sochi.ru:8080/live/arx.php?id=khl&token=Ym9yeW43ODpMYW5jZXI
 http://127.0.0.1:6878/ace/getstream?id=aa6c193b9de1e6b6277e3075299fdeea925e2dc0
 #EXTINF:-1 tvg-name="KHL Prime" tvg-logo="https://beeline.kz/binaries/content/gallery/about/beetv_logos/last/711.png" group-title="🏅 СПОРТ", KHL PRIME
 #EXTGRP:🏅 СПОРТ
-http://66.90.92.162:80/8297/video.m3u8?token=Wy2gfV7oxFMkYCS4
+http://31.133.46.225:8003/play/a025
 #EXTINF:-1 tvg-name="KHL Prime" tvg-logo="https://beeline.kz/binaries/content/gallery/about/beetv_logos/last/711.png" group-title="🏅 СПОРТ", KHL PRIME FHD (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=dcda9de85f7d662c5c3c2efd74eca0fb5c6aab3b
@@ -1506,7 +1506,7 @@ http://66.90.92.162:80/9247/video.m3u8?token=Wy2gfV7oxFMkYCS4
 http://66.90.92.162:80/9250/video.m3u8?token=Wy2gfV7oxFMkYCS4
 #EXTINF:-1 tvg-id="private-tv" tvg-name="Private TV" tvg-logo="https://epg.iptvx.one/picons/private-tv.png" group-title="💘 ВЗРОСЛЫЕ", PRIVATE
 #EXTGRP:💘 ВЗРОСЛЫЕ
-http://66.90.92.162:80/8203/video.m3u8?token=Wy2gfV7oxFMkYCS4
+http://77.46.130.252:99/private
 #EXTINF:-1 tvg-id="" tvg-name="Cineman ExExEx" tvg-logo="https://img.rnx.ru/logotvchannel/1249-250.jpg" group-title="💘 ВЗРОСЛЫЕ", CINEMAN XXX
 #EXTGRP:💘 ВЗРОСЛЫЕ
 http://66.90.92.162:80/8868/video.m3u8?token=Wy2gfV7oxFMkYCS4
