@@ -533,7 +533,7 @@ http://66.90.92.162:80/8237/video.m3u8?token=Wy2gfV7oxFMkYCS4
 http://127.0.0.1:6878/ace/getstream?id=ffbf8c687c788d9a1a7c651e24802ee773ff3f04
 #EXTINF:-1 tvg-id="match-football3" tvg-name="МАТЧ! ФУТБОЛ 3" tvg-logo="https://iptvx.one/picons/match-football3.png" group-title="🏅 СПОРТ", МАТЧ! ФУТБОЛ 3
 #EXTGRP:🏅 СПОРТ
-http://185.57.68.33/110/mpegts
+http://server-2.onlinetv-sochi.ru:8080/live/bol_tv.php?id=dvr01/sd2/NTVplusfut3HD&token=VmlwaXBUdjpWaXBpcFR2Nzc=|user-agent=VipipTv
 #EXTINF:-1 tvg-id="match-football3" tvg-name="МАТЧ! ФУТБОЛ 3" tvg-logo="https://iptvx.one/picons/match-football3.png" group-title="🏅 СПОРТ", МАТЧ! ФУТБОЛ 3 FHD 50 (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
