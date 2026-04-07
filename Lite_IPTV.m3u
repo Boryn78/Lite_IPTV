@@ -648,9 +648,6 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Channel_LIVE
 #EXTINF:-1 tvg-name="БУМ" tvg-logo="https://epg.iptvx.one/picons/sportmaster-tv.png" group-title="🏅 СПОРТ, БУМ
 #EXTGRP:🏅 СПОРТ
 https://stream-msk-05.ott.tricolor.tv:443/dtv/id628_MSKSG-PVR-1--Channel_LIVE1/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NTg2MDI3NSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc1MjU1NDc1LCJzZXNzaW9uX2lkIjoiYTE2YmQ3NDQwODhhZWFlMzEyNTg2OTIxMWUxM2UxY2EiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GwqQIKumlrYZ7Ok91wYTRo0Vxx8V4UTiMhoiTXSHADE
-#EXTINF:-1 tvg-id="ultra-hd-cinema" tvg-name="ULTRA HD CINEMA" tvg-logo="https://www.msk-ix.ru/images/1423922.png" group-title="📡 ULTRA HD", ULTRA HD CINEMA (Torrent TV)
-#EXTGRP:📡 ULTRA HD
-http://127.0.0.1:6878/ace/getstream?id=6c76dccd15ff935fb1442223529d1aecc8f515d8
 #EXTINF:-1 tvg-id="kino-ultra-hd" tvg-name="КИНО UHD" tvg-logo="https://karnei4.github.io/convert/kino_uhd.png" group-title="📡 ULTRA HD", КИНО UHD (Torrent TV)
 #EXTGRP:📡 ULTRA HD
 http://127.0.0.1:6878/ace/getstream?id=038b448c810cad19a2a9e615d94696a23141e379
@@ -2359,10 +2356,7 @@ http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
 http://127.0.0.1:6878/ace/getstream?infohash=f25b57322b5337df43bfde801e03f70363737581
 #EXTINF:-1 tvg-id="love-nature-4k" tvg-name="LOVE NATURE 4K" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/LOVENATURE4K200.png" group-title="📡 ULTRA HD", LOVE NATURE 4K (Torrent TV)
 #EXTGRP:📡 ULTRA HD
-http://127.0.0.1:6878/ace/getstream?infohash=cd8c7fcc7fb8c597d64b41429e0596887e097e54&pid=38900686757
-#EXTINF:-1 tvg-id="nasha-sibir-4k" tvg-name="НАША СИБИРЬ 4K" tvg-logo="https://karnei4.github.io/convert/index_files/nasha-sibir-4k.png" group-title="📡 ULTRA HD", НАША СИБИРЬ 4К (Torrent TV)
-#EXTGRP:📡 ULTRA HD
-http://127.0.0.1:6878/ace/getstream?id=4b7237f2e654d6c1e03ece1d2fffc249e0324ae6
+http://127.0.0.1:6878/ace/getstream?infohash=cd8c7fcc7fb8c597d64b41429e0596887e097e54
 #EXTINF:-1 tvg-id="no_epg_xxx" tvg-name="PORN CLASSIC" tvg-logo="https://s.rbk.ru/v1_companies_s3/media/trademarks/0737acd5-1854-4f3c-9521-2b9d82c4d54e.jpg" group-title="💘 ВЗРОСЛЫЕ", PORN CLASSIC
 #EXTGRP:💘 ВЗРОСЛЫЕ
 http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
