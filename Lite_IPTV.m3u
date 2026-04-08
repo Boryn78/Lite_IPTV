@@ -2532,6 +2532,24 @@ http://66.90.92.162:80/8873/video.m3u8?token=Wy2gfV7oxFMkYCS4
 #EXTINF:-1 tvg-id="bcu-premiere" tvg-name="BCU PREMIERE HD" tvg-logo="https://epg.iptvx.one/picons/bcu-premiere.png" group-title="🎞️ КИНОЗАЛЫ", BCU PREMIERE HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
 http://66.90.92.162:80/8883/video.m3u8?token=Wy2gfV7oxFMkYCS4
+#EXTINF:-1 tvg-id="bcu-action" tvg-name="BCU ACTION HD" tvg-logo="https://epg.iptvx.one/picons/bcu-action.png" group-title="🎞️ КИНОЗАЛЫ", BCU ACTION HD (Torrent TV)
+#EXTGRP:🎞️ КИНОЗАЛЫ
+http://127.0.0.1:6878/ace/getstream?id=3c679a39456838ea8abc77b288c95df2b7a3f45d
+#EXTINF:-1 tvg-name="BCU FILMYSTIC HD" tvg-logo="https://epg.iptvx.one/picons/bcu-filmystic.png" group-title="🎞️ КИНОЗАЛЫ", BCU FILMYSTIC HD (Torrent TV)
+#EXTGRP:🎞️ КИНОЗАЛЫ
+http://127.0.0.1:6878/ace/getstream?id=2814982beb7bb4bd74ad2f8c721ba4bcf7e93a04
+#EXTINF:-1 tvg-name="BCU FANTASTIC HD" tvg-logo="https://epg.iptvx.one/picons/bcu-fantastic.png" group-title="🎞️ КИНОЗАЛЫ", BCU FANTASTIC HD (Torrent TV)
+#EXTGRP:🎞️ КИНОЗАЛЫ
+http://127.0.0.1:6878/ace/getstream?id=2d04b4c1391b16a4995e7b7fe74833d6c9d850ac
+#EXTINF:-1 tvg-name="BCU MARVEL HD" tvg-logo="https://bcumedia.pro/images/homepage/ch_5.png" group-title="🎞️ КИНОЗАЛЫ", BCU MARVEL HD (Torrent TV)
+#EXTGRP:🎞️ КИНОЗАЛЫ
+http://127.0.0.1:6878/ace/getstream?id=bbb0e5dbb5f0059de7b9ffc0cbcd1f9728449fd7
+#EXTINF:-1 tvg-name="BCU COSMO HD" tvg-logo="https://iptvx.one/picons/bcu-cosmo.png" group-title="🎞️ КИНОЗАЛЫ", BCU COSMO HD (Torrent TV)
+#EXTGRP:🎞️ КИНОЗАЛЫ
+http://127.0.0.1:6878/ace/getstream?id=41e81ad4d12bf52b23e58c4c3fda62bc8ba1bbb5
+#EXTINF:-1 tvg-name="BCU COMEDY HD" tvg-logo="https://epg.iptvx.one/picons/bcu-comedy.png" group-title="🎞️ КИНОЗАЛЫ", BCU COMEDY HD (Torrent TV)
+#EXTGRP:🎞️ КИНОЗАЛЫ
+http://127.0.0.1:6878/ace/getstream?id=5c878afe25deb6a7f1cfe198df39d5a073af4134
 #EXTINF:-1 tvg-id="zal-11-tricolor" tvg-name="Зал 11 (Смешарики)" tvg-logo="https://profranch.com/wp-content/uploads/2013/11/frrDTq0y.jpg" group-title="🧸 ДЕТСКИЕ", СМЕШАРИКИ
 #EXTGRP:🧸 ДЕТСКИЕ
 https://stream-msk-20.ott.tricolor.tv/dtv/id976_MSKSG-PVR-1--Kinozal_11/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NTg2MDI3NSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc1MjU1NDc1LCJzZXNzaW9uX2lkIjoiYTE2YmQ3NDQwODhhZWFlMzEyNTg2OTIxMWUxM2UxY2EiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GwqQIKumlrYZ7Ok91wYTRo0Vxx8V4UTiMhoiTXSHADE
@@ -2643,9 +2661,6 @@ http://127.0.0.1:6878/ace/getstream?id=5cea434c891d27aa66d87d3b23d91ab74c1c72f8
 #EXTINF:-1 tvg-id="bcu-sssr" tvg-name="BCU СССР HD" tvg-logo="https://bcumedia.pro/images/homepage/ch_7.png" group-title="🎞️ КИНОЗАЛЫ", BCU СССР HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
 http://127.0.0.1:6878/ace/getstream?id=59623cb797c031a5aa4922eb219851547cb346b0
-#EXTINF:-1 tvg-id="bcu-action" tvg-name="BCU ACTION HD" tvg-logo="https://epg.iptvx.one/picons/bcu-action.png" group-title="🎞️ КИНОЗАЛЫ", BCU ACTION HD (Torrent TV)
-#EXTGRP:🎞️ КИНОЗАЛЫ
-http://127.0.0.1:6878/ace/getstream?id=3c679a39456838ea8abc77b288c95df2b7a3f45d
 #EXTINF:-1 tvg-name="BCU Catastrophe HD" tvg-logo="https://bcumedia.pro/images/homepage/ch_15.png" group-title="🎞️ КИНОЗАЛЫ", BCU CATASTROPHE HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
 http://127.0.0.1:6878/ace/getstream?id=07d24566226c5851b9c3a3235e3451854d6baeac
@@ -2655,21 +2670,9 @@ http://127.0.0.1:6878/ace/getstream?id=ed699504c5010cab9046530306960e998a92f5e6
 #EXTINF:-1 tvg-name="BCU CINEMA+ HD" tvg-logo="https://iptvx.one/picons/bcu-cinemaplus.png" group-title="🎞️ КИНОЗАЛЫ", BCU CINEMA+ HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
 http://127.0.0.1:6878/ace/getstream?id=4d6232def7e751c47eb44a017021055e8362b54a
-#EXTINF:-1 tvg-name="BCU COMEDY HD" tvg-logo="https://epg.iptvx.one/picons/bcu-comedy.png" group-title="🎞️ КИНОЗАЛЫ", BCU COMEDY HD (Torrent TV)
-#EXTGRP:🎞️ КИНОЗАЛЫ
-http://127.0.0.1:6878/ace/getstream?id=5c878afe25deb6a7f1cfe198df39d5a073af4134
-#EXTINF:-1 tvg-name="BCU COSMO HD" tvg-logo="https://iptvx.one/picons/bcu-cosmo.png" group-title="🎞️ КИНОЗАЛЫ", BCU COSMO HD (Torrent TV)
-#EXTGRP:🎞️ КИНОЗАЛЫ
-http://127.0.0.1:6878/ace/getstream?id=41e81ad4d12bf52b23e58c4c3fda62bc8ba1bbb5
 #EXTINF:-1 tvg-name="BCU CRIMINAL HD" tvg-logo="https://iptvx.one/picons/bcu-criminal.png" group-title="🎞️ КИНОЗАЛЫ", BCU CRIMINAL HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
 http://127.0.0.1:6878/ace/getstream?id=ddb42884acd341255390cda62387b5a42d8c2180
-#EXTINF:-1 tvg-name="BCU FANTASTIC HD" tvg-logo="https://epg.iptvx.one/picons/bcu-fantastic.png" group-title="🎞️ КИНОЗАЛЫ", BCU FANTASTIC HD (Torrent TV)
-#EXTGRP:🎞️ КИНОЗАЛЫ
-http://127.0.0.1:6878/ace/getstream?id=2d04b4c1391b16a4995e7b7fe74833d6c9d850ac
-#EXTINF:-1 tvg-name="BCU FILMYSTIC HD" tvg-logo="https://epg.iptvx.one/picons/bcu-filmystic.png" group-title="🎞️ КИНОЗАЛЫ", BCU FILMYSTIC HD (Torrent TV)
-#EXTGRP:🎞️ КИНОЗАЛЫ
-http://127.0.0.1:6878/ace/getstream?id=2814982beb7bb4bd74ad2f8c721ba4bcf7e93a04
 #EXTINF:-1 tvg-name="КИНОМУЛЬТ" tvg-logo="https://iptvx.one/picons/kinomult.png" group-title="🧸 ДЕТСКИЕ", КИНОМУЛЬТ
 #EXTGRP:🧸 ДЕТСКИЕ
 https://stream-msk-17.ott.tricolor.tv/dtv/id944_MSKSG-PVR-1--KinoMult_SD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NTg2MDI3NSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc1MjU1NDc1LCJzZXNzaW9uX2lkIjoiYTE2YmQ3NDQwODhhZWFlMzEyNTg2OTIxMWUxM2UxY2EiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GwqQIKumlrYZ7Ok91wYTRo0Vxx8V4UTiMhoiTXSHADE
@@ -2724,9 +2727,6 @@ http://127.0.0.1:6878/ace/getstream?id=21fcd8e73936b64435d07832c2d8382609f48d6d
 #EXTINF:-1 tvg-name="BCU Kinorating HD" tvg-logo="https://bcumedia.pro/images/homepage/ch_4.png" group-title="🎞️ КИНОЗАЛЫ", BCU KINORATING HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
 http://127.0.0.1:6878/ace/getstream?id=57401c50a256f68da4bc9ebe9965e2f12a9d20e2
-#EXTINF:-1 tvg-name="BCU MARVEL HD" tvg-logo="https://bcumedia.pro/images/homepage/ch_5.png" group-title="🎞️ КИНОЗАЛЫ", BCU MARVEL HD (Torrent TV)
-#EXTGRP:🎞️ КИНОЗАЛЫ
-http://127.0.0.1:6878/ace/getstream?id=bbb0e5dbb5f0059de7b9ffc0cbcd1f9728449fd7
 #EXTINF:-1 tvg-name="Зал 28" tvg-id="zal-28-tricolor" tvg-logo="https://epg.iptvx.one/picons/zal-28-tricolor.png" group-title="👀 РАЗНОЕ", КЛУБ ЮМОРА
 #EXTGRP:👀 РАЗНОЕ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kinozal28_SD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NTg2MDI3NSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc1MjU1NDc1LCJzZXNzaW9uX2lkIjoiYTE2YmQ3NDQwODhhZWFlMzEyNTg2OTIxMWUxM2UxY2EiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GwqQIKumlrYZ7Ok91wYTRo0Vxx8V4UTiMhoiTXSHADE
