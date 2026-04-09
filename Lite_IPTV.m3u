@@ -657,6 +657,9 @@ http://list.onlinetv-sochi.ru:8080/live/channel.php?id=699&token=Ym9yeW43ODpMYW5
 #EXTINF:-1 tvg-id="bcu-ultra4k" tvg-name="BCU Ultra 4K" tvg-logo="https://karnei4.github.io/convert/img/3906.png" group-title="📡 ULTRA HD", BCU ULTRA 4K (Torrent tV)
 #EXTGRP:📡 ULTRA HD
 http://list.onlinetv-sochi.ru:8080/live/channel.php?id=659&token=Ym9yeW43ODpMYW5jZXIxNg==
+#EXTINF:-1 tvg-id="ultra-hd-cinema" tvg-name="ULTRA HD CINEMA" tvg-logo="https://www.msk-ix.ru/images/1423922.png" group-title="📡 ULTRA HD", ULTRA HD CINEMA (Torrent TV)
+#EXTGRP:📡 ULTRA HD
+http://127.0.0.1:6878/ace/getstream?id=6c76dccd15ff935fb1442223529d1aecc8f515d8
 #EXTINF:-1 tvg-id="sts-kids-hd" tvg-name="СТС KIDS" tvg-logo="https://iptvx.one/picons/sts-kids-hd.png" group-title="🧸 ДЕТСКИЕ", СТС KIDS
 #EXTGRP:🧸 ДЕТСКИЕ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=CTC_Kids.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NTg2MDI3NSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc1MjU1NDc1LCJzZXNzaW9uX2lkIjoiYTE2YmQ3NDQwODhhZWFlMzEyNTg2OTIxMWUxM2UxY2EiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GwqQIKumlrYZ7Ok91wYTRo0Vxx8V4UTiMhoiTXSHADE
@@ -2730,6 +2733,15 @@ http://127.0.0.1:6878/ace/getstream?id=21fcd8e73936b64435d07832c2d8382609f48d6d
 #EXTINF:-1 tvg-name="BCU Kinorating HD" tvg-logo="https://bcumedia.pro/images/homepage/ch_4.png" group-title="🎞️ КИНОЗАЛЫ", BCU KINORATING HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
 http://127.0.0.1:6878/ace/getstream?id=57401c50a256f68da4bc9ebe9965e2f12a9d20e2
+#EXTINF:-1 tvg-id="cineman" tvg-name="CINEMAN" tvg-logo="https://crdtv.net/b/templates/ottch/cineman.png" group-title="🎞️ КИНОЗАЛЫ", CINEMAN HD (Torrent TV)
+#EXTGRP:🎞️ КИНОЗАЛЫ
+http://127.0.0.1:6878/ace/getstream?id=00d0649880b17050d8a9ed559fc824f98fd578be
+#EXTINF:-1 tvg-id="cineman-top" tvg-name="CINEMAN TOP" tvg-logo="https://crdtv.net/b/templates/ottch/cineman-top.png" group-title="🎞️ КИНОЗАЛЫ", CINEMAN TOP HD (Torrent TV)
+#EXTGRP:🎞️ КИНОЗАЛЫ
+http://127.0.0.1:6878/ace/getstream?id=21f0299cce733ec3a481135553de468440b3630f
+#EXTINF:-1 tvg-id="cineman-rukino" tvg-name="CINEMAN РУКИНО" tvg-logo="https://iptvx.one/picons/cineman-rukino.png" group-title="🎞️ КИНОЗАЛЫ", CINEMAN РУКИНО HD (Torrent TV)
+#EXTGRP:🎞️ КИНОЗАЛЫ
+http://127.0.0.1:6878/ace/getstream?id=51a8548ddcff18ba9f89c4c4cb6eb359fc24b30b
 #EXTINF:-1 tvg-name="Зал 28" tvg-id="zal-28-tricolor" tvg-logo="https://epg.iptvx.one/picons/zal-28-tricolor.png" group-title="👀 РАЗНОЕ", КЛУБ ЮМОРА
 #EXTGRP:👀 РАЗНОЕ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kinozal28_SD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NTg2MDI3NSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc1MjU1NDc1LCJzZXNzaW9uX2lkIjoiYTE2YmQ3NDQwODhhZWFlMzEyNTg2OTIxMWUxM2UxY2EiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GwqQIKumlrYZ7Ok91wYTRo0Vxx8V4UTiMhoiTXSHADE
