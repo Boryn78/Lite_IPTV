@@ -376,7 +376,7 @@ http://list.onlinetv-sochi.ru:8080/live/channel.php?id=147&token=Ym9yeW43ODpMYW5
 http://188.225.31.197/bpk-tv/000000216/tve/index.m3u8
 #EXTINF:-1 tvg-id="discovery-channel" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://iptvx.one/picons/discovery-channel.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", DISCOVERY CHANNEL
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://37.46.49.14:18010/play/a01q/index.m3u8
+http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
 #EXTINF:-1 tvg-id="history-ru" tvg-name="HISTORY" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/history.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", HISTORY
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://188.225.31.197/bpk-tv/000001000/tve/index.m3u8
