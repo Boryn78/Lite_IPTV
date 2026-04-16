@@ -539,7 +539,7 @@ http://timeshift.arpinet.am/110/mpegts
 http://127.0.0.1:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
 #EXTINF:-1 tvg-id="match-premier" tvg-name="МАТЧ! ПРЕМЬЕР HD" tvg-logo="https://iptvx.one/picons/match-premiere.png" group-title="🏅 СПОРТ", МАТЧ! ПРЕМЬЕР
 #EXTGRP:🏅 СПОРТ
-http://89.218.32.179:18000/play/a01o
+http://66.90.92.162:80/8023/video.m3u8?token=Wy2gfV7oxFMkYCS4
 #EXTINF:-1 tvg-id="match-premier" tvg-name="МАТЧ! ПРЕМЬЕР" tvg-logo="https://iptvx.one/picons/match-premiere.png" group-title="🏅 СПОРТ", МАТЧ! ПРЕМЬЕР FHD 50 (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
