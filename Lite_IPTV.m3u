@@ -1894,7 +1894,7 @@ https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="kinoxit" tvg-name="КИНОХИТ" tvg-logo="https://iptvx.one/picons/kinoxit.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНОХИТ
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://list.onlinetv-sochi.ru:8080/live/arx.php?id=kinohit&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://158.101.222.193:88/georgia_play.php?id=kinohit
 #EXTINF:-1 tvg-id="6627" tvg-name="Now 80's" tvg-logo="https://w7.pngwing.com/pngs/675/222/png-transparent-now-80-s-text-ad-now-that-s-what-i-call-the-80s-now-that-s-what-i-call-music-compilation-album-now-that-s-what-i-call-80s-party-flyer-party-80-s-miscellaneous-album-text.png" group-title="🎵 МУЗЫКА", Now 80's
 #EXTGRP:🎵 МУЗЫКА
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
@@ -2173,7 +2173,7 @@ http://66.90.92.162:80/8870/video.m3u8?token=Wy2gfV7oxFMkYCS4
 http://188.225.31.197/bpk-tv/000000283/tve/index.m3u8
 #EXTINF:-1 tvg-id="mir-seriala" tvg-name="МИР СЕРИАЛА" tvg-logo="https://iptvx.one/picons/mir-seriala.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", МИР СЕРИАЛА
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://list.onlinetv-sochi.ru:8080/live/arx.php?id=mir_seriala&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://188.225.31.197/bpk-tv/000000319/tve/index.m3u8
 #EXTINF:-1 tvg-id="doverie" tvg-name="Москва. Доверие" tvg-logo="https://iptvx.one/picons/doverie.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", МОСКВА ДОВЕРИЕ
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
@@ -2756,7 +2756,7 @@ http://188.225.31.197/bpk-tv/000004472/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000004471/tve/index.m3u8
 #EXTINF:-1 tvg-name="Plan B" tvg-id="plan-b" tvg-logo="https://epg.iptvx.one/picons/plan-b.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", PLAN B
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://list.onlinetv-sochi.ru:8080/live/arx.php?id=plan_b&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://188.225.31.197/bpk-tv/000007625/tve/index.m3u8
 #EXTINF:-1 tvg-name="Телекафе" tvg-id="telekafe" tvg-logo="https://epg.iptvx.one/picons/telekafe.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", ТЕЛЕКАФЕ
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Telecafe.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NjQ2NTA1NywiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc1ODYwMjU3LCJzZXNzaW9uX2lkIjoiMmRlM2IyZGJhMzE3NzNkMDQ5Yzk0ODYyMjE2YTMyY2YiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.bzX6WicPFNFv_AC9bdZYhduu47esxRgjFXPfN-NGHww
@@ -2778,15 +2778,3 @@ http://46.53.208.4/live/545.m3u8
 #EXTINF:-1 tvg-id="viju-tv1000-romantica" tvg-name="viju TV1000 romantica" tvg-logo="https://epg.iptvx.one/picons/viju-tv1000-romantica.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU TV1000 ROMANTICA
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://46.53.208.4/live/3111.m3u8
-#EXTINF:-1 tvg-id="bolt-ru" tvg-name="Bolt Россия" tvg-logo="https://epg.iptvx.one/picons/bolt.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", BOLT HD
-#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://list.onlinetv-sochi.ru:8080/live/arx.php?id=bolt_hd&token=Ym9yeW43ODpMYW5jZXIxNg==
-#EXTINF:-1 tvg-id="kinosat" tvg-name="Киносат" tvg-logo="https://epg.iptvx.one/picons/kinosat.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНОСАТ
-#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://list.onlinetv-sochi.ru:8080/live/arx.php?id=kinosat&token=Ym9yeW43ODpMYW5jZXIxNg==
-#EXTINF:-1 tvg-id="sovkino" tvg-name="Советское кино" tvg-logo="https://epg.iptvx.one/picons/sovkino.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", СОВЕТСКОЕ КИНО
-#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://list.onlinetv-sochi.ru:8080/live/arx.php?id=sovetskoekino&token=Ym9yeW43ODpMYW5jZXIxNg==
-#EXTINF:-1 tvg-id="klassika-kino" tvg-name="Классика Кино" tvg-logo="https://epg.iptvx.one/picons/klassika-kino.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КЛАССИКА КИНО
-#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://list.onlinetv-sochi.ru:8080/live/arx.php?id=klassikakino&token=Ym9yeW43ODpMYW5jZXIxNg==
