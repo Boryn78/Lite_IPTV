@@ -541,7 +541,7 @@ http://66.90.92.162:80/8023/video.m3u8?token=Wy2gfV7oxFMkYCS4
 #EXTINF:-1 tvg-id="match-premier" tvg-name="МАТЧ! ПРЕМЬЕР" tvg-logo="https://iptvx.one/picons/match-premiere.png" group-title="🏅 СПОРТ", МАТЧ! ПРЕМЬЕР FHD 50 (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
-#EXTINF:-1 tvg-id="match-arena" tvg-name="МАТЧ! АРЕНА" tvg-logo="https://iptvx.one/picons/match-arena.png" group-title="🏅 СПОРТ", МАТЧ! АРЕНА HD
+#EXTINF:-1 tvg-id="match-arena" tvg-name="МАТЧ! АРЕНА" tvg-logo="https://iptvx.one/picons/match-arena.png" group-title="🏅 СПОРТ", МАТЧ! АРЕНА
 #EXTGRP:🏅 СПОРТ
 http://31.210.208.171:8080/match_arena/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="match-arena" tvg-name="МАТЧ! АРЕНА" tvg-logo="https://iptvx.one/picons/match-arena.png" group-title="🏅 СПОРТ", МАТЧ! АРЕНА FHD 50 (Torrent TV)
@@ -2159,7 +2159,7 @@ http://188.225.31.197/bpk-tv/000000319/tve/index.m3u8
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 #EXTINF:-1 tvg-id="hollywood" tvg-name="Hollywood" tvg-logo="https://epg.iptvx.one/picons/hollywood.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", HOLLYWOOD
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://5.188.159.128:8070/HOLLYWOOD_HD/index.m3u8
+http://188.225.31.197/bpk-tv/000000031/tve/index.m3u8
 #EXTINF:-1 tvg-id="hollywood-hd" tvg-name="HOLLYWOOD HD" tvg-logo="https://iptvx.one/picons/hollywood-hd.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", HOLLYWOOD HD
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://5.188.159.128:8070/HOLLYWOOD_HD/index.m3u8
