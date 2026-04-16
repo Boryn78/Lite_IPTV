@@ -2162,7 +2162,7 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 http://188.225.31.197/bpk-tv/000000031/tve/index.m3u8
 #EXTINF:-1 tvg-id="hollywood-hd" tvg-name="HOLLYWOOD HD" tvg-logo="https://iptvx.one/picons/hollywood-hd.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", HOLLYWOOD HD
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://5.188.159.128:8070/HOLLYWOOD_HD/index.m3u8
+https://a3569457567-s70378.cdn.ngenix.net/amc/2/index.m3u8
 #EXTINF:-1 tvg-id="bcu-kinozal-prem-2" tvg-name="BCU КИНОЗАЛ PREMIERE 2 HD" tvg-logo="https://iptvx.one/picons/bcu-kinozal-prem-2.png" group-title="🎞️ КИНОЗАЛЫ", BCU КИНОЗАЛ PREMIERE 2 HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
 http://66.90.92.162:80/8872/video.m3u8?token=Wy2gfV7oxFMkYCS4
