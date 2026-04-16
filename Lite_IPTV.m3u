@@ -208,7 +208,7 @@ https://stream-msk-06.ott.tricolor.tv/dtv/id423_MSKSG-PVR-1--Cinema/03/plst.m3u8
 http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
 #EXTINF:-1 tvg-id="kinosvidanie" tvg-name="КИНОСВИДАНИЕ" tvg-logo="https://iptvx.one/picons/kinosvidanie.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНОСВИДАНИЕ
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://list.onlinetv-sochi.ru:8080/live/arx.php?id=kinoklub&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://5.188.159.128:8070/kinosvidanie/index.m3u8
 #EXTINF:-1 tvg-name="Для каналов (Torrent TV) запустите AceServe 1.5" tvg-logo="https://liteiptv.ucoz.net/AceServe15.png" group-title="🎞️ КИНОЗАЛЫ", Для каналов (Torrent TV) запустите AceServe 1.5
 #EXTGRP:🎞️ КИНОЗАЛЫ
 https://liteiptv.ucoz.net/AceServe_15.mov
@@ -262,7 +262,7 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Romantichnoe
 http://158.101.222.193:88/georgia_play.php?id=kinokomediya
 #EXTINF:-1 tvg-id="kinoseria" tvg-name="КИНОСЕРИЯ" tvg-logo="https://iptvx.one/picons/kinoseria.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНОСЕРИЯ
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://list.onlinetv-sochi.ru:8080/live/arx.php?id=kinoseriya&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://158.101.222.193:88/georgia_play.php?id=kinoseria
 #EXTINF:-1 tvg-id="komedijnoe-hd" tvg-name="КОМЕДИЙНОЕ HD" tvg-logo="https://iptvx.one/picons/komedijnoe-hd.png" group-title="🎞️ КИНОЗАЛЫ", КОМЕДИЙНОЕ HD
 #EXTGRP:🎞️ КИНОЗАЛЫ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Komediinoe.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NjQ2NTA1NywiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc1ODYwMjU3LCJzZXNzaW9uX2lkIjoiMmRlM2IyZGJhMzE3NzNkMDQ5Yzk0ODYyMjE2YTMyY2YiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.bzX6WicPFNFv_AC9bdZYhduu47esxRgjFXPfN-NGHww
@@ -361,7 +361,7 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=SolovievLive
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Ohotnik_i_ryb_int_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NjQ2NTA1NywiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc1ODYwMjU3LCJzZXNzaW9uX2lkIjoiMmRlM2IyZGJhMzE3NzNkMDQ5Yzk0ODYyMjE2YTMyY2YiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.bzX6WicPFNFv_AC9bdZYhduu47esxRgjFXPfN-NGHww
 #EXTINF:-1 tvg-id="oxota-i-rybalka" tvg-name="ОХОТА И РЫБАЛКА" tvg-logo="https://iptvx.one/picons/oxota-i-rybalka.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ОХОТА И РЫБАЛКА
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://list.onlinetv-sochi.ru:8080/live/arx.php?id=hafi&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://46.53.208.4/live/244.m3u8
 #EXTINF:-1 tvg-id="Рыболов" tvg-name="РЫБОЛОВ" tvg-logo="https://iptvx.one/picons/oxotnik-i-rybolov.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", РЫБОЛОВ
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 https://stream-msk-12.ott.tricolor.tv:443/dtv/id665_MSKSG-PVR-1--Rybalov/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NjQ2NTA1NywiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc1ODYwMjU3LCJzZXNzaW9uX2lkIjoiMmRlM2IyZGJhMzE3NzNkMDQ5Yzk0ODYyMjE2YTMyY2YiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.bzX6WicPFNFv_AC9bdZYhduu47esxRgjFXPfN-NGHww
@@ -370,7 +370,7 @@ https://stream-msk-12.ott.tricolor.tv:443/dtv/id665_MSKSG-PVR-1--Rybalov/03/plst
 http://list.onlinetv-sochi.ru:8080/live/channel.php?id=284&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="tlc" tvg-name="TLC HD" tvg-logo="https://iptvx.one/picons/tlc.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", TLC
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://list.onlinetv-sochi.ru:8080/live/channel.php?id=147&token=Ym9yeW43ODpMYW5jZXIxNg==
+http://188.225.31.197/bpk-tv/000001498/tve/index.m3u8
 #EXTINF:-1 tvg-id="animal-planet" tvg-name="ANIMAL PLANET" tvg-logo="https://iptvx.one/picons/animal-planet-eu.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ANIMAL PLANET
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://188.225.31.197/bpk-tv/000000216/tve/index.m3u8
