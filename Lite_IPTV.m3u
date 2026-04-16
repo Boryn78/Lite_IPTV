@@ -545,13 +545,13 @@ http://66.90.92.162:80/8023/video.m3u8?token=Wy2gfV7oxFMkYCS4
 http://127.0.0.1:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
 #EXTINF:-1 tvg-id="match-arena" tvg-name="МАТЧ! АРЕНА" tvg-logo="https://iptvx.one/picons/match-arena.png" group-title="🏅 СПОРТ", МАТЧ! АРЕНА HD
 #EXTGRP:🏅 СПОРТ
-http://server-2.onlinetv-sochi.ru:8080/live/bol_tv.php?id=dvr02/hd1/sport1HD&token=VmlwaXBUdjpWaXBpcFR2Nzc=|user-agent=VipipTv
+http://31.210.208.171:8080/match_arena/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="match-arena" tvg-name="МАТЧ! АРЕНА" tvg-logo="https://iptvx.one/picons/match-arena.png" group-title="🏅 СПОРТ", МАТЧ! АРЕНА FHD 50 (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=a1d67cb505881b2b5bc58ce2af367e5e6d26cab5
 #EXTINF:-1 tvg-id="match-igra" tvg-name="МАТЧ! ИГРА" tvg-logo="https://iptvx.one/picons/match-igra.png" group-title="🏅 СПОРТ", МАТЧ! ИГРА
 #EXTGRP:🏅 СПОРТ
-http://list.onlinetv-sochi.ru:8080/live/arx.php?id=sport_2&token=Ym9yeW43ODpMYW5jZXIxNg==
+https://flussonic.mkpnet.ru/tv-1bfac9df3d938c1f/video.m3u8
 #EXTINF:-1 tvg-id="match-igra" tvg-name="МАТЧ! ИГРА" tvg-logo="https://iptvx.one/picons/match-igra.png" group-title="🏅 СПОРТ", МАТЧ! ИГРА FHD 50 (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=762e1d11f7d07029f316c6f61b8ef73289c6673c
@@ -566,7 +566,7 @@ http://127.0.0.1:6878/ace/getstream?id=ef9c77bd94783448b8edb552109f5f15b2bd82d1
 http://127.0.0.1:6878/ace/getstream?id=106c8656fca0ca91a696110467788d202d7111af
 #EXTINF:-1 tvg-id="match-boets" tvg-name="МАТЧ! БОЕЦ" tvg-logo="https://karnei4.github.io/convert/match_boetc.png" group-title="🏅 СПОРТ", МАТЧ! БОЕЦ HD
 #EXTGRP:🏅 СПОРТ
-http://87.120.142.11:18000/Match!
+http://31.210.208.171:8080/match_boec/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="match-boets" tvg-name="Матч! Боец" tvg-logo="https://karnei4.github.io/convert/match_boetc.png" group-title="🏅 СПОРТ", МАТЧ! БОЕЦ FHD 50 (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=822654b2c0db24d1de149cb21fdd44a3b968fbfa
