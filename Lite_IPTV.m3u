@@ -2758,3 +2758,6 @@ http://46.53.208.4/live/545.m3u8
 #EXTINF:-1 tvg-id="viju-tv1000-romantica" tvg-name="viju TV1000 romantica" tvg-logo="https://epg.iptvx.one/picons/viju-tv1000-romantica.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU TV1000 ROMANTICA
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://46.53.208.4/live/3111.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="👀 РАЗНОЕ", ТЕСТ
+#EXTGRP:👀 РАЗНОЕ
+http://92.63.106.41/24hp/stream.php?id=329
