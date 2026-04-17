@@ -531,7 +531,7 @@ http://66.90.92.162:80/8237/video.m3u8?token=Wy2gfV7oxFMkYCS4
 http://127.0.0.1:6878/ace/getstream?id=ffbf8c687c788d9a1a7c651e24802ee773ff3f04
 #EXTINF:-1 tvg-id="match-football3" tvg-name="МАТЧ! ФУТБОЛ 3" tvg-logo="https://iptvx.one/picons/match-football3.png" group-title="🏅 СПОРТ", МАТЧ! ФУТБОЛ 3
 #EXTGRP:🏅 СПОРТ
-http://92.63.106.41/24hp/stream.php?id=329
+http://timeshift.arpinet.am/110/mpegts
 #EXTINF:-1 tvg-id="match-football3" tvg-name="МАТЧ! ФУТБОЛ 3" tvg-logo="https://iptvx.one/picons/match-football3.png" group-title="🏅 СПОРТ", МАТЧ! ФУТБОЛ 3 FHD 50 (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
@@ -554,8 +554,9 @@ https://flussonic.mkpnet.ru/tv-1bfac9df3d938c1f/video.m3u8
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=762e1d11f7d07029f316c6f61b8ef73289c6673c
 #EXTINF:-1 tvg-id="Матч! Страна" tvg-name="МАТЧ! СТРАНА" tvg-logo="https://iptvx.one/picons/match-strana.png" group-title="🏅 СПОРТ", МАТЧ! СТРАНА
+#EXTVLCOPT:http-user-agent=WINK/1.130.1 (AndroidTV/9) HlsWinkPlayer
 #EXTGRP:🏅 СПОРТ
-http://31.210.208.171:8080/match_strana/index.m3u8?token=+W2MSER
+http://92.63.106.41/24hp/stream.php?id=5718
 #EXTINF:-1 tvg-id="Матч! Страна" tvg-name="МАТЧ! СТРАНА" tvg-logo="https://iptvx.one/picons/match-strana.png" group-title="🏅 СПОРТ", МАТЧ! СТРАНА FHD 50 (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=ef9c77bd94783448b8edb552109f5f15b2bd82d1
