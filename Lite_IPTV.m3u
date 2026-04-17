@@ -2760,6 +2760,5 @@ http://46.53.208.4/live/545.m3u8
 http://46.53.208.4/live/3111.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="👀 РАЗНОЕ", ТЕСТ
 #EXTGRP:👀 РАЗНОЕ
-#EXT-X-STREAM-INF:CLOSED-CAPTIONS=NONE,RESOLUTION=960x720,FRAME-RATE=25.000,CODECS="avc1.4d001f,mp4a.40.2",AVERAGE-BANDWIDTH=650000,BANDWIDTH=820000
-tracks-v1a1/mono.m3u8
+#EXTVLCOPT:http-user-agent=VLC/3.0.7 LibVLC/3.0.7
 http://92.63.106.41/24hp/stream.php?id=329
