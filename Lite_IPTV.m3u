@@ -245,7 +245,7 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Arsenal_HD.m
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Nashe_Muzhskoe_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NjQ2NTA1NywiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc1ODYwMjU3LCJzZXNzaW9uX2lkIjoiMmRlM2IyZGJhMzE3NzNkMDQ5Yzk0ODYyMjE2YTMyY2YiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.bzX6WicPFNFv_AC9bdZYhduu47esxRgjFXPfN-NGHww
 #EXTINF:-1 tvg-id="trashtv" tvg-name="TRASH" tvg-logo="https://iptvx.one/picons/trashtv.png" group-title="🎞️ КИНОЗАЛЫ", TRASH
 #EXTGRP:🎞️ КИНОЗАЛЫ
-https://livetv-app.mylifeisgood.net.ru/channels/trash.m3u8
+http://66.90.92.162:80/8945/video.m3u8?token=Wy2gfV7oxFMkYCS4
 #EXTINF:-1 tvg-id="tvoyo-tv-hd" tvg-name="ТВОЕ ТВ HD" tvg-logo="http://epg.it999.ru/img2/5441.png" group-title="👀 РАЗНОЕ", ТВОЕ ТВ HD
 #EXTGRP:👀 РАЗНОЕ
 http://tvoetv.space:8080/tvoetv/index.m3u8
@@ -555,7 +555,7 @@ https://flussonic.mkpnet.ru/tv-1bfac9df3d938c1f/video.m3u8
 http://127.0.0.1:6878/ace/getstream?id=762e1d11f7d07029f316c6f61b8ef73289c6673c
 #EXTINF:-1 tvg-id="Матч! Страна" tvg-name="МАТЧ! СТРАНА" tvg-logo="https://iptvx.one/picons/match-strana.png" group-title="🏅 СПОРТ", МАТЧ! СТРАНА
 #EXTGRP:🏅 СПОРТ
-http://server-2.onlinetv-sochi.ru:8080/live/bol_tv.php?id=dvr01/mobile2/ntvsport&token=VmlwaXBUdjpWaXBpcFR2Nzc=|user-agent=VipipTv
+http://31.210.208.171:8080/match_strana/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="Матч! Страна" tvg-name="МАТЧ! СТРАНА" tvg-logo="https://iptvx.one/picons/match-strana.png" group-title="🏅 СПОРТ", МАТЧ! СТРАНА FHD 50 (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=ef9c77bd94783448b8edb552109f5f15b2bd82d1
