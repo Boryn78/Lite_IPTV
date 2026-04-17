@@ -554,9 +554,8 @@ https://flussonic.mkpnet.ru/tv-1bfac9df3d938c1f/video.m3u8
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=762e1d11f7d07029f316c6f61b8ef73289c6673c
 #EXTINF:-1 tvg-id="Матч! Страна" tvg-name="МАТЧ! СТРАНА" tvg-logo="https://iptvx.one/picons/match-strana.png" group-title="🏅 СПОРТ", МАТЧ! СТРАНА
-#EXTVLCOPT:http-user-agent=WINK/1.130.1 (AndroidTV/9) HlsWinkPlayer
 #EXTGRP:🏅 СПОРТ
-http://92.63.106.41/24hp/stream.php?id=5718
+http://195.191.208.233/jwt/c6e9b6f4ece3e545a3b5fe5edc4cbf9b2f7e6bd2-5718-0-24h5859361-5-1547659817-1776436240--GFMpTIxYTp1IVoFAyfQYxkY88uYpEuK8C-RQeHBJM1w-0
 #EXTINF:-1 tvg-id="Матч! Страна" tvg-name="МАТЧ! СТРАНА" tvg-logo="https://iptvx.one/picons/match-strana.png" group-title="🏅 СПОРТ", МАТЧ! СТРАНА FHD 50 (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=ef9c77bd94783448b8edb552109f5f15b2bd82d1
