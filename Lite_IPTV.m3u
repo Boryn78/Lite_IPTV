@@ -212,7 +212,7 @@ http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
 http://5.188.159.128:8070/kinosvidanie/index.m3u8
 #EXTINF:-1 tvg-name="Для каналов (Torrent TV) запустите AceServe 1.5" tvg-logo="https://liteiptv.ucoz.net/AceServe15.png" group-title="🎞️ КИНОЗАЛЫ", Для каналов (Torrent TV) запустите AceServe 1.5
 #EXTGRP:🎞️ КИНОЗАЛЫ
-https://liteiptv.ucoz.net/AceServe_15.mov
+https://liteiptv.ucoz.net/AceServe_156.mov
 #EXTINF:-1 tvg-id="khit-hd" tvg-name="ХИТ HD" tvg-logo="https://iptvx.one/picons/khit.png" group-title="🎞️ КИНОЗАЛЫ", ХИТ HD
 #EXTGRP:🎞️ КИНОЗАЛЫ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Hit_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NzA3MDA5MCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc2NDY1MjkwLCJzZXNzaW9uX2lkIjoiZjY2N2Q3NTNjNDM2ZWJmMGVlZWExN2MyYjNhMDhlZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.q7KmzO-mCE9_WOq2WHGow6om-94Sd8fGCF6g0UWDJgY
@@ -506,7 +506,7 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=HD_Russkiy_E
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kinozal_9.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NzA3MDA5MCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc2NDY1MjkwLCJzZXNzaW9uX2lkIjoiZjY2N2Q3NTNjNDM2ZWJmMGVlZWExN2MyYjNhMDhlZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.q7KmzO-mCE9_WOq2WHGow6om-94Sd8fGCF6g0UWDJgY
 #EXTINF:-1 tvg-name="Для каналов (Torrent TV) запустите AceServe 1.5" tvg-logo="https://liteiptv.ucoz.net/AceServe15.png" group-title="🏅 СПОРТ", Для каналов (Torrent TV) запустите AceServe 1.5
 #EXTGRP:🏅 СПОРТ
-https://liteiptv.ucoz.net/AceServe_15.mov
+https://liteiptv.ucoz.net/AceServe_156.mov
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Матч!" tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="🏅 СПОРТ", МАТЧ! (архив)
 #EXTGRP:🏅 СПОРТ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
@@ -585,7 +585,7 @@ http://37.46.49.14:18010/play/a01q/index.m3u8
 http://127.0.0.1:6878/ace/getstream?id=dcda9de85f7d662c5c3c2efd74eca0fb5c6aab3b
 #EXTINF:-1 tvg-name="Для каналов (Torrent TV) запустите AceServe 1.5" tvg-logo="https://liteiptv.ucoz.net/AceServe15.png" group-title="📡 ULTRA HD", Для каналов (Torrent TV) запустите AceServe 1.5
 #EXTGRP:📡 ULTRA HD
-https://liteiptv.ucoz.net/AceServe_15.mov
+https://liteiptv.ucoz.net/AceServe_156.mov
 #EXTINF:-1 tvg-id="xokkejny" tvg-name="ХОККЕЙ ТВ" tvg-logo="https://iptvx.one/picons/xokkejny.png" group-title="🏅 СПОРТ", ХОККЕЙ ТВ HD
 #EXTGRP:🏅 СПОРТ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Hokeinii_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NzA3MDA5MCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc2NDY1MjkwLCJzZXNzaW9uX2lkIjoiZjY2N2Q3NTNjNDM2ZWJmMGVlZWExN2MyYjNhMDhlZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.q7KmzO-mCE9_WOq2WHGow6om-94Sd8fGCF6g0UWDJgY
