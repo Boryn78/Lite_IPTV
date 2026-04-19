@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG_NOARCH" Num="channel-id="
 #EXTINF:-1 tvg-logo="https://liteiptv.ucoz.net/AceServe15.png" group-title="🔺 ИНФОКАНАЛ 🔺", Для каналов (Torrent TV) запустите AceServe 1.5
 #EXTGRP:🔺 ИНФОКАНАЛ 🔺
-https://liteiptv.ucoz.net/AceServe_15.mov
+https://liteiptv.ucoz.net/AceServe_156.mov
 #EXTINF:-1 tvg-id="pervy" tvg-name="ПЕРВЫЙ КАНАЛ HD" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="🇷🇺 ФЕДЕРАЛЬНЫЕ HD", ПЕРВЫЙ КАНАЛ HD
 #EXTGRP:🇷🇺 ФЕДЕРАЛЬНЫЕ HD
 https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
