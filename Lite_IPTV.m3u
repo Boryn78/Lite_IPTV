@@ -703,7 +703,7 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Chizhik.m3u8
 #EXTINF:-1 tvg-name="FAMILYJAM" tvg-logo="https://epg.iptvx.one/picons/familyjam.png" group-title="🧸 ДЕТСКИЕ", FAMILYJAM
 #EXTGRP:🧸 ДЕТСКИЕ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=FamilyJam.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NzA3MDA5MCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc2NDY1MjkwLCJzZXNzaW9uX2lkIjoiZjY2N2Q3NTNjNDM2ZWJmMGVlZWExN2MyYjNhMDhlZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.q7KmzO-mCE9_WOq2WHGow6om-94Sd8fGCF6g0UWDJgY
-#EXTINF:-1 tvg-name="ТНТ MUSIC" tvg-logo="https://iptvx.one/picons/tnt-music.png" group-title="🎵 МУЗЫКА", ТНТ MUSIC
+#EXTINF:-1 tvg-name="ТНТ MUSIC" tvg-id="tnt-music" tvg-logo="https://iptvx.one/picons/tnt-music.png" group-title="🎵 МУЗЫКА", FON MUSIC
 #EXTGRP:🎵 МУЗЫКА
 https://livetv.mylifeisgood.net.ru/channels/tntmusicru.m3u8
 #EXTINF:-1 tvg-name="BRIDGE TV" tvg-logo="https://karnei4.github.io/convert/BRIDGETVHD.png" group-title="🎵 МУЗЫКА", BRIDGE TV
