@@ -140,6 +140,12 @@ http://188.225.31.197/bpk-tv/000003910/tve/index.m3u8
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-name="VIJU TV1000 РУССКОЕ HD" tvg-logo="https://iptvx.one/picons/tv1000-russkoe-kino.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU TV1000 РУССКОЕ
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://188.225.31.197/bpk-tv/000003748/tve/index.m3u8
+#EXTINF:-1 tvg-id="viju-tv1000-novella" tvg-name="viju TV1000 Новелла" tvg-logo="https://epg.iptvx.one/picons/viju-tv1000-novella.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU TV1000 НОВЕЛЛА
+#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
+http://46.53.208.4/live/545.m3u8
+#EXTINF:-1 tvg-id="viju-tv1000-romantica" tvg-name="viju TV1000 romantica" tvg-logo="https://epg.iptvx.one/picons/viju-tv1000-romantica.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU TV1000 ROMANTICA
+#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
+http://46.53.208.4/live/3111.m3u8
 #EXTINF:-1 tvg-id="start-air" tvg-name="START AIR" tvg-logo="https://iptvx.one/picons/start-air.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", START AIR
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://188.225.31.197/bpk-tv/000007815/tve/index.m3u8
@@ -2653,12 +2659,18 @@ https://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c9
 #EXTINF:-1 tvg-name="Смотрим 100% Любовь" tvg-id="smotrim-100-lubov" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-lubov.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", СМОТРИМ 100% ЛЮБОВЬ
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 https://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4248/playlist.m3u8
-#EXTINF:-1 tvg-id="viju-tv1000-novella" tvg-name="viju TV1000 Новелла" tvg-logo="https://epg.iptvx.one/picons/viju-tv1000-novella.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU TV1000 НОВЕЛЛА
+#EXTINF:-1 tvg-id="mirovoe-kino-kz" tvg-name="Мировое Кино KZ" tvg-logo="https://iptvx.one/picons/mirovoe-kino-kz.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", МИРОВОЕ КИНО HD
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://46.53.208.4/live/545.m3u8
-#EXTINF:-1 tvg-id="viju-tv1000-romantica" tvg-name="viju TV1000 romantica" tvg-logo="https://epg.iptvx.one/picons/viju-tv1000-romantica.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU TV1000 ROMANTICA
+http://188.225.31.197/bpk-tv/000008488/tve/index.m3u8
+#EXTINF:-1 tvg-id="premium-kino-kz" tvg-name="ПРЕМИУМ КИНО KZ" tvg-logo="https://iptvx.one/picons/premium-kino-kz.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", ПРЕМИУМ КИНО HD
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://46.53.208.4/live/3111.m3u8
+http://188.225.31.197/bpk-tv/000008491/tve/index.m3u8
+#EXTINF:-1 tvg-id="kinoboevik-kz" tvg-name="КИНОБОЕВИК KZ" tvg-logo="https://cerato.ucoz.net/Logo/kino_boevik.jpg" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНОБОЕВИК HD
+#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
+http://188.225.31.197/bpk-tv/000008490/tve/index.m3u8
+#EXTINF:-1 tvg-id="semejnoe-kino-kz" tvg-name="Семейное Кино KZ" tvg-logo="https://iptvx.one/picons/semejnoe-kino-kz.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", СЕМЕЙНОЕ КИНО HD
+#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
+http://188.225.31.197/bpk-tv/000008489/tve/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="👀 РАЗНОЕ", ТЕСТ
 #EXTGRP:👀 РАЗНОЕ
 http://195.191.208.237/jwt/66ee8dc20efa182d64d1d2e05dd5f6aa541a4d17-329-0-24h5859361-5-1547659817-1776433874--pWH0RHPlrbfxuDXzvafQ1xE4jwoXbWzckRmkG-LaCgg-0
