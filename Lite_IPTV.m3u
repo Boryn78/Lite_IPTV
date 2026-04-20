@@ -341,7 +341,7 @@ http://188.225.31.197/bpk-tv/000004157/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000005528/tve/index.m3u8
 #EXTINF:-1 tvg-id="viasat-nature-history-hd" tvg-name="VIJU+ PLANET" tvg-logo="https://fast.ntvplus.tv/files/image/79/84/42/-channel!k6r.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", VIJU+ PLANET
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-https://livetv-app.mylifeisgood.net.ru/channels/50c0316fa37fc4a9866a66f817e6c4383cb23cc0a49f0c322c505ffd7b8b4774.m3u8
+http://46.53.208.17/live/6006.m3u8 
 #EXTINF:-1 tvg-id="dialogi-o-rybalke" tvg-name="ДИАЛОГИ О РЫБАЛКЕ" tvg-logo="https://karnei4.github.io/convert/index_files/dialogi-o-rybalke.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ДИАЛОГИ О РЫБАЛКЕ
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://188.225.31.197/bpk-tv/000003174/tve/index.m3u8
