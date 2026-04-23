@@ -549,7 +549,7 @@ https://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
 http://127.0.0.1:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
 #EXTINF:-1 tvg-id="match-arena" tvg-name="МАТЧ! АРЕНА" tvg-logo="https://iptvx.one/picons/match-arena.png" group-title="🏅 СПОРТ", МАТЧ! АРЕНА
 #EXTGRP:🏅 СПОРТ
-http://31.210.208.171:8080/match_arena/index.m3u8?token=+W2MSER
+https://flussonic.mkpnet.ru/tv-9dda1dd9d740a9a4/video.m3u8
 #EXTINF:-1 tvg-id="match-arena" tvg-name="МАТЧ! АРЕНА" tvg-logo="https://iptvx.one/picons/match-arena.png" group-title="🏅 СПОРТ", МАТЧ! АРЕНА FHD 50 (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=a1d67cb505881b2b5bc58ce2af367e5e6d26cab5
@@ -561,7 +561,7 @@ https://flussonic.mkpnet.ru/tv-1bfac9df3d938c1f/video.m3u8
 http://127.0.0.1:6878/ace/getstream?id=762e1d11f7d07029f316c6f61b8ef73289c6673c
 #EXTINF:-1 tvg-id="Матч! Страна" tvg-name="МАТЧ! СТРАНА" tvg-logo="https://iptvx.one/picons/match-strana.png" group-title="🏅 СПОРТ", МАТЧ! СТРАНА
 #EXTGRP:🏅 СПОРТ
-http://31.210.208.171:8080/match_strana/index.m3u8?token=+W2MSER
+https://flussonic.mkpnet.ru/tv-6db4f59c21aec361/video.m3u8
 #EXTINF:-1 tvg-id="Матч! Страна" tvg-name="МАТЧ! СТРАНА" tvg-logo="https://iptvx.one/picons/match-strana.png" group-title="🏅 СПОРТ", МАТЧ! СТРАНА FHD 50 (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=ef9c77bd94783448b8edb552109f5f15b2bd82d1
@@ -579,7 +579,7 @@ http://127.0.0.1:6878/ace/getstream?id=822654b2c0db24d1de149cb21fdd44a3b968fbfa
 http://188.225.31.197/bpk-tv/000000135/tve/index.m3u8
 #EXTINF:-1 tvg-name="KHL" tvg-logo="https://iptvx.one/picons/kxl.png" group-title="🏅 СПОРТ", KHL
 #EXTGRP:🏅 СПОРТ
-http://31.210.208.171:8080/khl/index.m3u8?token=+W2MSER
+https://flussonic.mkpnet.ru/tv-e3d23fc7511b5fcd/video.m3u8
 #EXTINF:-1 tvg-name="KHL" tvg-logo="https://iptvx.one/picons/kxl.png" group-title="🏅 СПОРТ", KHL FHD (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=aa6c193b9de1e6b6277e3075299fdeea925e2dc0
