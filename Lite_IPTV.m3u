@@ -338,13 +338,13 @@ http://188.225.31.197/bpk-tv/000000034/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000004474/tve/index.m3u8
 #EXTINF:-1 tvg-id="viasat-nature" tvg-name="VIJU NATURE" tvg-logo="https://fast.ntvplus.tv/files/image/79/84/30/-channel!9rl.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", VIJU NATURE
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://188.225.31.197/bpk-tv/000006482/tve/index.m3u8
+http://46.53.208.4/live/542.m3u8
 #EXTINF:-1 tvg-id="viasat-explore" tvg-name="VIJU EXPLORE" tvg-logo="https://fast.ntvplus.tv/files/image/80/00/03/-channel!djf.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", VIJU EXPLORE
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://188.225.31.197/bpk-tv/000004157/tve/index.m3u8
+http://46.53.208.4/live/540.m3u8
 #EXTINF:-1 tvg-id="viasat-history" tvg-name="VIJU HISTORY" tvg-logo="https://ntvplus.tv/files/image/79/84/28/e2e.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", VIJU HISTORY
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://188.225.31.197/bpk-tv/000005528/tve/index.m3u8
+http://46.53.208.4/live/541.m3u8
 #EXTINF:-1 tvg-id="viasat-nature-history-hd" tvg-name="VIJU+ PLANET" tvg-logo="https://fast.ntvplus.tv/files/image/79/84/42/-channel!k6r.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", VIJU+ PLANET
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://46.53.208.17/live/6006.m3u8 
@@ -2659,18 +2659,6 @@ https://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c9
 #EXTINF:-1 tvg-name="Смотрим 100% Любовь" tvg-id="smotrim-100-lubov" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-lubov.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", СМОТРИМ 100% ЛЮБОВЬ
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 https://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4248/playlist.m3u8
-#EXTINF:-1 tvg-id="mirovoe-kino-kz" tvg-name="Мировое Кино KZ" tvg-logo="https://iptvx.one/picons/mirovoe-kino-kz.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", МИРОВОЕ КИНО HD
-#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://188.225.31.197/bpk-tv/000008488/tve/index.m3u8
-#EXTINF:-1 tvg-id="premium-kino-kz" tvg-name="ПРЕМИУМ КИНО KZ" tvg-logo="https://iptvx.one/picons/premium-kino-kz.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", ПРЕМИУМ КИНО HD
-#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://188.225.31.197/bpk-tv/000008491/tve/index.m3u8
-#EXTINF:-1 tvg-id="kinoboevik-kz" tvg-name="КИНОБОЕВИК KZ" tvg-logo="https://epg.iptvx.one/picons/kinoboevik-kz.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНОБОЕВИК HD
-#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://188.225.31.197/bpk-tv/000008490/tve/index.m3u8
-#EXTINF:-1 tvg-id="semejnoe-kino-kz" tvg-name="Семейное Кино KZ" tvg-logo="https://iptvx.one/picons/semejnoe-kino-kz.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", СЕМЕЙНОЕ КИНО HD
-#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://188.225.31.197/bpk-tv/000008489/tve/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="👀 РАЗНОЕ", ТЕСТ
 #EXTGRP:👀 РАЗНОЕ
 http://92.63.106.41/24hp/stream.php?id=329
