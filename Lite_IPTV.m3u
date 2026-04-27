@@ -133,19 +133,13 @@ https://a3569457567-s70378.cdn.ngenix.net/vip_comedy/2/index.m3u8
 https://a3569457567-s70378.cdn.ngenix.net/vip_serial/2/index.m3u8
 #EXTINF:-1 tvg-id="tv1000" tvg-name="VIJU TV1000 HD" tvg-logo="https://iptvx.one/picons/tv1000.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU TV1000
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://46.53.208.4/live/5107.m3u8
+https://flussonic.mkpnet.ru/tv-aab84159a39fbe84/video.m3u8
 #EXTINF:-1 tvg-id="tv1000-action" tvg-name="VIJU TV1000 ACTION HD" tvg-logo="https://iptvx.one/picons/tv1000-action.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU TV1000 ACTION
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://46.53.208.4/live/5106.m3u8
+https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-name="VIJU TV1000 РУССКОЕ HD" tvg-logo="https://iptvx.one/picons/tv1000-russkoe-kino.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU TV1000 РУССКОЕ
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://46.53.208.4/live/5109.m3u8
-#EXTINF:-1 tvg-id="viju-tv1000-novella" tvg-name="viju TV1000 Новелла" tvg-logo="https://epg.iptvx.one/picons/viju-tv1000-novella.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU TV1000 НОВЕЛЛА
-#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://46.53.208.4/live/545.m3u8
-#EXTINF:-1 tvg-id="viju-tv1000-romantica" tvg-name="viju TV1000 romantica" tvg-logo="https://epg.iptvx.one/picons/viju-tv1000-romantica.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU TV1000 ROMANTICA
-#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://46.53.208.4/live/3111.m3u8
+https://flussonic.mkpnet.ru/tv-7510472b0133abb2/video.m3u8
 #EXTINF:-1 tvg-id="start-air" tvg-name="START AIR" tvg-logo="https://iptvx.one/picons/start-air.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", START AIR
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://46.53.208.4/live/1804.m3u8
