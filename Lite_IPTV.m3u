@@ -121,49 +121,55 @@ https://flussonic.mkpnet.ru/tv-8f04998179283ee5/video.m3u8
 http://46.32.176.50/AmediaPremium/index.m3u8
 #EXTINF:-1 tvg-id="vip-megahit" tvg-name="VIJU+ MEGAHIT HD" tvg-logo="https://iptvx.one/picons/vip-megahit.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU+ MEGAHIT
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-https://a3569457567-s70378.cdn.ngenix.net/vip_megahit/2/index.m3u8
+http://46.53.208.17/live/6002.m3u8
 #EXTINF:-1 tvg-id="vip-premiere" tvg-name="VIJU+ PREMIERE HD" tvg-logo="https://iptvx.one/picons/vip-premiere.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU+ PREMIERE
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-https://a3569457567-s70378.cdn.ngenix.net/vip_premiere/2/index.m3u8
+http://46.53.208.17/live/6001.m3u8
 #EXTINF:-1 tvg-id="vip-comedy" tvg-name="VIJU+ COMEDY" tvg-logo="https://iptvx.one/picons/vip-comedy.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU+ COMEDY
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-https://a3569457567-s70378.cdn.ngenix.net/vip_comedy/2/index.m3u8
+http://46.53.208.17/live/6003.m3u8
 #EXTINF:-1 tvg-id="vip-serial" tvg-name="VIJU+ SERIAL HD" tvg-logo="https://iptvx.one/picons/vip-serial.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU+ SERIAL
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-https://a3569457567-s70378.cdn.ngenix.net/vip_serial/2/index.m3u8
+http://46.53.208.17/live/6004.m3u8
 #EXTINF:-1 tvg-id="tv1000" tvg-name="VIJU TV1000 HD" tvg-logo="https://iptvx.one/picons/tv1000.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU TV1000
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-https://flussonic.mkpnet.ru/tv-aab84159a39fbe84/video.m3u8
+http://46.53.208.17/live/5107.m3u8
 #EXTINF:-1 tvg-id="tv1000-action" tvg-name="VIJU TV1000 ACTION HD" tvg-logo="https://iptvx.one/picons/tv1000-action.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU TV1000 ACTION
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
+http://46.53.208.17/live/5106.m3u8
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-name="VIJU TV1000 РУССКОЕ HD" tvg-logo="https://iptvx.one/picons/tv1000-russkoe-kino.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU TV1000 РУССКОЕ
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-https://flussonic.mkpnet.ru/tv-7510472b0133abb2/video.m3u8
+http://46.53.208.17/live/5109.m3u8
+#EXTINF:-1 tvg-id="viju-tv1000-novella" tvg-name="viju TV1000 Новелла" tvg-logo="https://epg.iptvx.one/picons/viju-tv1000-novella.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU TV1000 НОВЕЛЛА
+#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
+http://46.53.208.17/live/545.m3u8
+#EXTINF:-1 tvg-id="viju-tv1000-romantica" tvg-name="viju TV1000 romantica" tvg-logo="https://epg.iptvx.one/picons/viju-tv1000-romantica.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU TV1000 ROMANTICA
+#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
+http://46.53.208.17/live/3111.m3u8
 #EXTINF:-1 tvg-id="start-air" tvg-name="START AIR" tvg-logo="https://iptvx.one/picons/start-air.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", START AIR
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://46.53.208.4/live/1804.m3u8
+http://46.53.208.17/live/1804.m3u8
 #EXTINF:-1 tvg-id="start-world" tvg-name="START WORLD" tvg-logo="http://epg.it999.ru/img2/6240.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", START WORLD
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://46.53.208.4/live/9011.m3u8
+http://46.53.208.17/live/9011.m3u8
 #EXTINF:-1 tvg-id="kineko" tvg-name="КИНЕКО" tvg-logo="https://iptvx.one/picons/kineko.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНЕКО
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kineko_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NzY3NDU5MiwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MDY5NzkyLCJzZXNzaW9uX2lkIjoiMDU3ZGNkMGJhY2U5OWM0ODIxNDdkYzhmN2Y3YjhkZmQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.X4oL8mClwGyBDaClHWmm6LqAeDmm7sxyKMWq7vO2YWk
 #EXTINF:-1 tvg-id="sapfir" tvg-name="САПФИР HD" tvg-logo="https://iptvx.one/picons/sapfir.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", САПФИР
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Sapphire_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NzY3NDU5MiwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MDY5NzkyLCJzZXNzaW9uX2lkIjoiMDU3ZGNkMGJhY2U5OWM0ODIxNDdkYzhmN2Y3YjhkZmQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.X4oL8mClwGyBDaClHWmm6LqAeDmm7sxyKMWq7vO2YWk
-#EXTINF:-1 tvg-id="feniks-plus-kino" tvg-name="Феникс+Кино" tvg-logo="https://iptvx.one/picons/feniks-plus-kino.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", ФЕНИКС + КИНО (Torrent TV)
+#EXTINF:-1 tvg-id="feniks-plus-kino" tvg-name="Феникс+Кино" tvg-logo="https://iptvx.one/picons/feniks-plus-kino.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", ФЕНИКС + КИНО
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://127.0.0.1:6878/ace/getstream?id=505d4c6259acfea0ee5d9b1f26f7badd447f69f6
+http://46.53.208.17/live/332.m3u8
 #EXTINF:-1 tvg-id="sony-turbo" tvg-name=".BLACK" tvg-logo="https://iptvx.one/picons/sony-turbo.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", ⬤ BLACK
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-https://a3569457567-s70378.cdn.ngenix.net/sony_turbo/2/index.m3u8
+http://46.53.208.17/live/3001.m3u8
 #EXTINF:-1 tvg-id="sony-tv" tvg-name=".RED" tvg-logo="https://iptvx.one/picons/sony.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", ⬤ RED
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-https://a3285272783-s80718.cdn.ngenix.net/hls/CH_REDHD/video_1920x1080_avc1/playlist.m3u8
+http://46.53.208.17/live/1400.m3u8
 #EXTINF:-1 tvg-id="sony-scifi" tvg-name=".SCI-FI" tvg-logo="https://iptvx.one/picons/sony-scifi.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", ⬤ SCI-FI
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-https://flussonic.mkpnet.ru/tv-e80cc885d4ae14d1/video.m3u8
+http://46.53.208.17/live/207.m3u8
 #EXTINF:-1 tvg-id="ntv-xit" tvg-name="НТВ ХИТ" tvg-logo="https://iptvx.one/picons/ntv-xit.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", НТВ ХИТ
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 #EXTVLCOPT:http-user-agent=WINK/1.130.1 (AndroidTV/9) HlsWinkPlayer
