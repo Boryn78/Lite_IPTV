@@ -119,18 +119,18 @@ https://flussonic.mkpnet.ru/tv-8f04998179283ee5/video.m3u8
 #EXTINF:-1 tvg-id="amedia-premium" tvg-name="AMEDIA PREMIUM" tvg-logo="https://iptvx.one/picons/amedia-premium.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", AMEDIA PREMIUM
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://46.32.176.50/AmediaPremium/index.m3u8
-#EXTINF:-1 tvg-id="vip-megahit" tvg-name="VIJU+ MEGAHIT HD" tvg-logo="https://iptvx.one/picons/vip-megahit.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU+ MEGAHIT HD
+#EXTINF:-1 tvg-id="vip-megahit" tvg-name="VIJU+ MEGAHIT HD" tvg-logo="https://iptvx.one/picons/vip-megahit.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU+ MEGAHIT
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://46.53.208.4/live/6002.m3u8
-#EXTINF:-1 tvg-id="vip-premiere" tvg-name="VIJU+ PREMIERE HD" tvg-logo="https://iptvx.one/picons/vip-premiere.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU+ PREMIERE HD
+https://a3569457567-s70378.cdn.ngenix.net/vip_megahit/2/index.m3u8
+#EXTINF:-1 tvg-id="vip-premiere" tvg-name="VIJU+ PREMIERE HD" tvg-logo="https://iptvx.one/picons/vip-premiere.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU+ PREMIERE
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://46.53.208.4/live/6001.m3u8
-#EXTINF:-1 tvg-id="vip-comedy" tvg-name="VIJU+ COMEDY" tvg-logo="https://iptvx.one/picons/vip-comedy.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU+ COMEDY HD
+https://a3569457567-s70378.cdn.ngenix.net/vip_premiere/2/index.m3u8
+#EXTINF:-1 tvg-id="vip-comedy" tvg-name="VIJU+ COMEDY" tvg-logo="https://iptvx.one/picons/vip-comedy.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU+ COMEDY
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://46.53.208.4/live/6003.m3u8
+https://a3569457567-s70378.cdn.ngenix.net/vip_comedy/2/index.m3u8
 #EXTINF:-1 tvg-id="vip-serial" tvg-name="VIJU+ SERIAL HD" tvg-logo="https://iptvx.one/picons/vip-serial.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU+ SERIAL
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://46.53.208.4/live/6004.m3u8
+https://a3569457567-s70378.cdn.ngenix.net/vip_serial/2/index.m3u8
 #EXTINF:-1 tvg-id="tv1000" tvg-name="VIJU TV1000 HD" tvg-logo="https://iptvx.one/picons/tv1000.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU TV1000
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://46.53.208.4/live/5107.m3u8
