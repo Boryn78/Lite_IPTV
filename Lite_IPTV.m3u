@@ -2359,42 +2359,6 @@ http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
 #EXTGRP:💘 ВЗРОСЛЫЕ
 #EXTVLCOPT:http-user-agent=SmartTV
 http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="xxl-xxx" tvg-name="XXL" tvg-logo="https://epg.iptvx.one/picons/xxl-xxx.png" group-title="💘 ВЗРОСЛЫЕ", XXL
-#EXTGRP:💘 ВЗРОСЛЫЕ
-http://66.90.92.162:80/9249/video.m3u8?token=Wy2gfV7oxFMkYCS4
-#EXTINF:-1 tvg-id="no_epg_xxx" tvg-name="Kino XXX" tvg-logo="https://cdn1.flamp.ru/abec7e54bc2522552919ef8655f5a2ac.png" group-title="💘 ВЗРОСЛЫЕ", KINOXXX
-#EXTGRP:💘 ВЗРОСЛЫЕ
-http://66.90.92.162:80/9240/video.m3u8?token=Wy2gfV7oxFMkYCS4
-#EXTINF:-1 tvg-id="vivid-red" tvg-name="Vivid Red" tvg-logo="https://epg.iptvx.one/picons/vivid-red.png" group-title="💘 ВЗРОСЛЫЕ", VIVID RED
-#EXTGRP:💘 ВЗРОСЛЫЕ
-http://66.90.92.162:80/8374/video.m3u8?token=Wy2gfV7oxFMkYCS4
-#EXTINF:-1 tvg-id="no_epg_xxx" tvg-name="" tvg-logo="https://cdn1.flamp.ru/abec7e54bc2522552919ef8655f5a2ac.png" group-title="💘 ВЗРОСЛЫЕ", FAP TV
-#EXTGRP:💘 ВЗРОСЛЫЕ
-http://66.90.92.162:80/9238/video.m3u8?token=Wy2gfV7oxFMkYCS4
-#EXTINF:-1 tvg-id="no_epg_xxx" tvg-name="" tvg-logo="https://cdn1.flamp.ru/abec7e54bc2522552919ef8655f5a2ac.png" group-title="💘 ВЗРОСЛЫЕ", FAP TV 2
-#EXTGRP:💘 ВЗРОСЛЫЕ
-http://66.90.92.162:80/9242/video.m3u8?token=Wy2gfV7oxFMkYCS4
-#EXTINF:-1 tvg-id="no_epg_xxx" tvg-name="" tvg-logo="https://cdn1.flamp.ru/abec7e54bc2522552919ef8655f5a2ac.png" group-title="💘 ВЗРОСЛЫЕ", FAP TV 3
-#EXTGRP:💘 ВЗРОСЛЫЕ
-http://66.90.92.162:80/9243/video.m3u8?token=Wy2gfV7oxFMkYCS4
-#EXTINF:-1 tvg-id="no_epg_xxx" tvg-name="" tvg-logo="https://cdn1.flamp.ru/abec7e54bc2522552919ef8655f5a2ac.png" group-title="💘 ВЗРОСЛЫЕ", FAP TV 4
-#EXTGRP:💘 ВЗРОСЛЫЕ
-http://66.90.92.162:80/9244/video.m3u8?token=Wy2gfV7oxFMkYCS4
-#EXTINF:-1 tvg-id="no_epg_xxx" tvg-name="" tvg-logo="https://cdn1.flamp.ru/abec7e54bc2522552919ef8655f5a2ac.png" group-title="💘 ВЗРОСЛЫЕ", FAP TV 5
-#EXTGRP:💘 ВЗРОСЛЫЕ
-http://66.90.92.162:80/8407/video.m3u8?token=Wy2gfV7oxFMkYCS4
-#EXTINF:-1 tvg-id="no_epg_xxx" tvg-name="" tvg-logo="https://cdn1.flamp.ru/abec7e54bc2522552919ef8655f5a2ac.png" group-title="💘 ВЗРОСЛЫЕ", FAP TV 6
-#EXTGRP:💘 ВЗРОСЛЫЕ
-http://66.90.92.162:80/9177/video.m3u8?token=Wy2gfV7oxFMkYCS4
-#EXTINF:-1 tvg-id="no_epg_xxx" tvg-name="" tvg-logo="https://cdn1.flamp.ru/abec7e54bc2522552919ef8655f5a2ac.png" group-title="💘 ВЗРОСЛЫЕ", FAP TV 7
-#EXTGRP:💘 ВЗРОСЛЫЕ
-http://66.90.92.162:80/9239/video.m3u8?token=Wy2gfV7oxFMkYCS4
-#EXTINF:-1 tvg-id="no_epg_xxx" tvg-name="" tvg-logo="https://cdn1.flamp.ru/abec7e54bc2522552919ef8655f5a2ac.png" group-title="💘 ВЗРОСЛЫЕ", FAP TV 8
-#EXTGRP:💘 ВЗРОСЛЫЕ
-http://66.90.92.162:80/9241/video.m3u8?token=Wy2gfV7oxFMkYCS4
-#EXTINF:-1 tvg-id="no_epg_xxx" tvg-name="" tvg-logo="https://cdn1.flamp.ru/abec7e54bc2522552919ef8655f5a2ac.png" group-title="💘 ВЗРОСЛЫЕ", FAP TV 9
-#EXTGRP:💘 ВЗРОСЛЫЕ
-http://66.90.92.162:80/9245/video.m3u8?token=Wy2gfV7oxFMkYCS4
 #EXTINF:-1 tvg-id="kinojam1" tvg-name="KINOJAM 1 HD" tvg-logo="https://iptvx.one/picons/kinojam1.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", KINOJAM 1 HD
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kinojam_1.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NzY3NDU5MiwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MDY5NzkyLCJzZXNzaW9uX2lkIjoiMDU3ZGNkMGJhY2U5OWM0ODIxNDdkYzhmN2Y3YjhkZmQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.X4oL8mClwGyBDaClHWmm6LqAeDmm7sxyKMWq7vO2YWk
