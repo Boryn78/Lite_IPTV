@@ -182,10 +182,10 @@ https://stream-msk-08.ott.tricolor.tv/dtv/id517_MSKSG-PVR-1--Rus_Bests/03/plst.m
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Ruskiy_roman_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NzY3NDU5MiwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MDY5NzkyLCJzZXNzaW9uX2lkIjoiMDU3ZGNkMGJhY2U5OWM0ODIxNDdkYzhmN2Y3YjhkZmQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.X4oL8mClwGyBDaClHWmm6LqAeDmm7sxyKMWq7vO2YWk
 #EXTINF:-1 tvg-id="russky-illuzion" tvg-name="РУССКИЙ ИЛЛЮЗИОН" tvg-logo="https://iptvx.one/picons/russky-illuzion.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", РУССКИЙ ИЛЛЮЗИОН
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://46.53.208.17/live/616.m3u8
+https://fs.uplink.kz/russkiy_illusion/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="illuzion-plus" tvg-name="ИЛЛЮЗИОН+" tvg-logo="https://iptvx.one/picons/illuzion-plus.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", ИЛЛЮЗИОН+
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://46.53.208.17/live/603.m3u8
+https://a3569457567-s70378.cdn.ngenix.net/illusion_plus/1/index.m3u8
 #EXTINF:-1 tvg-name="КОМЕДИЯ" tvg-logo="https://iptvx.one/picons/russkaya-komedia.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КОМЕДИЯ
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 https://stream-msk-09.ott.tricolor.tv:443/dtv/id422_MSKSG-PVR-1--Komediya/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NzY3NDU5MiwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MDY5NzkyLCJzZXNzaW9uX2lkIjoiMDU3ZGNkMGJhY2U5OWM0ODIxNDdkYzhmN2Y3YjhkZmQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.X4oL8mClwGyBDaClHWmm6LqAeDmm7sxyKMWq7vO2YWk
@@ -197,7 +197,7 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=HD_Dom_Kino_
 https://stream-msk-13.ott.tricolor.tv:443/dtv/id176_MSKSG-PVR-1--D_Kino/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NzY3NDU5MiwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MDY5NzkyLCJzZXNzaW9uX2lkIjoiMDU3ZGNkMGJhY2U5OWM0ODIxNDdkYzhmN2Y3YjhkZmQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.X4oL8mClwGyBDaClHWmm6LqAeDmm7sxyKMWq7vO2YWk
 #EXTINF:-1 tvg-id="evrokino" tvg-name="ЕВРОКИНО" tvg-logo="https://iptvx.one/picons/eurokino.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", ЕВРОКИНО
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://46.53.208.17/live/903.m3u8
+https://fs.uplink.kz/eurokino/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="nst" tvg-name="НСТ" tvg-logo="https://iptvx.one/picons/nst.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", НСТ
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 https://stream-msk-01.ott.tricolor.tv:443/dtv/id518_MSKSG-PVR-1--NST/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NzY3NDU5MiwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MDY5NzkyLCJzZXNzaW9uX2lkIjoiMDU3ZGNkMGJhY2U5OWM0ODIxNDdkYzhmN2Y3YjhkZmQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.X4oL8mClwGyBDaClHWmm6LqAeDmm7sxyKMWq7vO2YWk
@@ -329,13 +329,13 @@ https://stream8.cinerama.uz/1041/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1042/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="viasat-nature" tvg-name="VIJU NATURE" tvg-logo="https://fast.ntvplus.tv/files/image/79/84/30/-channel!9rl.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", VIJU NATURE
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://46.53.208.17/live/542.m3u8
+https://flussonic.mkpnet.ru/tv-7a85ea25208f5bf7/video.m3u8
 #EXTINF:-1 tvg-id="viasat-explore" tvg-name="VIJU EXPLORE" tvg-logo="https://fast.ntvplus.tv/files/image/80/00/03/-channel!djf.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", VIJU EXPLORE
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://46.53.208.17/live/540.m3u8
+https://flussonic.mkpnet.ru/tv-7c57a4c3f9a896ea/video.m3u8
 #EXTINF:-1 tvg-id="viasat-history" tvg-name="VIJU HISTORY" tvg-logo="https://ntvplus.tv/files/image/79/84/28/e2e.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", VIJU HISTORY
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://46.53.208.17/live/541.m3u8
+https://fs.uplink.kz/viju_history/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="viasat-nature-history-hd" tvg-name="VIJU+ PLANET" tvg-logo="https://fast.ntvplus.tv/files/image/79/84/42/-channel!k6r.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", VIJU+ PLANET
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://46.53.208.17/live/6006.m3u8
