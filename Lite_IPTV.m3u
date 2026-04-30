@@ -1484,10 +1484,7 @@ http://185.98.209.11:81/penthouse1/index.m3u8?token=test
 #EXTINF:-1 tvg-id="redlight-hd" tvg-name="Redlight HD" tvg-logo="https://epg.iptvx.one/picons/redlight-hd.png" group-title="💘 ВЗРОСЛЫЕ", REDLIGHT HD
 #EXTGRP:💘 ВЗРОСЛЫЕ
 http://78.130.250.2:8023/play/a05q/index.m3u8
-#EXTINF:-1 tvg-id="private-tv" tvg-name="Private TV" tvg-logo="https://epg.iptvx.one/picons/private-tv.png" group-title="💘 ВЗРОСЛЫЕ", PRIVATE
-#EXTGRP:💘 ВЗРОСЛЫЕ
-http://77.46.130.252:99/private
-#EXTINF:-1 tvg-id="penthouse-quickies" tvg-name="Penthouse Reality TV" tvg-logo="https://epg.iptvx.one/picons/penthouse-quickies.png" group-title="💘 ВЗРОСЛЫЕ", PENTHOUSE 
+#EXTINF:-1 tvg-id="penthouse-quickies" tvg-name="Penthouse Reality TV" tvg-logo="https://epg.iptvx.one/picons/penthouse-quickies.png" group-title="💘 ВЗРОСЛЫЕ", PENTHOUSE REALITY TV
 #EXTGRP:💘 ВЗРОСЛЫЕ
 http://185.98.209.11:81/penthouse2/index.m3u8?token=test
 #EXTINF:-1 tvg-name="Сочи - Пляж Мамайка" group-title="📷 WEB КАМЕРЫ", Сочи - Пляж Мамайка
