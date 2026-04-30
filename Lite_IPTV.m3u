@@ -145,7 +145,7 @@ https://flussonic.mkpnet.ru/tv-7510472b0133abb2/video.m3u8
 http://37.46.49.14:18010/play/a08u/index.m3u8
 #EXTINF:-1 tvg-id="start-world" tvg-name="START WORLD" tvg-logo="http://epg.it999.ru/img2/6240.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", START WORLD
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://46.53.208.17/live/9011.m3u8
+http://77.245.98.18:8000/play/a02c
 #EXTINF:-1 tvg-id="kineko" tvg-name="КИНЕКО" tvg-logo="https://iptvx.one/picons/kineko.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНЕКО
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kineko_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc3NzY3NDU5MiwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MDY5NzkyLCJzZXNzaW9uX2lkIjoiMDU3ZGNkMGJhY2U5OWM0ODIxNDdkYzhmN2Y3YjhkZmQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.X4oL8mClwGyBDaClHWmm6LqAeDmm7sxyKMWq7vO2YWk
