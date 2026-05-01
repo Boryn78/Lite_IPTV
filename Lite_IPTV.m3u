@@ -2321,7 +2321,7 @@ http://127.0.0.1:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
 #EXTGRP:💘 ВЗРОСЛЫЕ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
 http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="no_epg_xxx" tvg-name="REALITY KINGS TV" tvg-logo="https://www.goiptv.top/upload/REALITY-KINGS-TV-LOGO.png" group-title="💘 ВЗРОСЛЫЕ", REALITY KINGS TV
+#EXTINF:-1 tvg-id="no_epg_xxx" tvg-name="REALITY KINGS TV" tvg-logo="https://obob.tv/wp-content/uploads/2015/03/rktvlogosmall-trans.png" group-title="💘 ВЗРОСЛЫЕ", REALITY KINGS TV
 #EXTGRP:💘 ВЗРОСЛЫЕ
 #EXTVLCOPT:http-user-agent=SmartTV
 http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
