@@ -441,9 +441,9 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Zagorodniy_i
 #EXTINF:-1 tvg-id="zagorodnaya-zhizn" tvg-name="ЗАГОРОДНАЯ ЖИЗНЬ" tvg-logo="https://iptvx.one/picons/zagorodnaya-zhizn.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ЗАГОРОДНАЯ ЖИЗНЬ
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://185.57.68.33/40/mpegts
-#EXTINF:-1 tvg-id="tonus-tv" tvg-name="УСАДЬБА" tvg-logo="https://iptvx.one/picons/usadba.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", УСАДЬБА
+#EXTINF:-1 tvg-id="tonus-tv" tvg-name="УСАДЬБА" tvg-logo="https://iptvx.one/picons/usadba.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", УСАДЬБА (Torrent TV)
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/usadba/16/playlist.m3u8
+http://127.0.0.1:6878/ace/getstream?id=8753c67ddaedb391cca8e6a043ec85999f6b3199
 #EXTINF:-1 tvg-id="kuxnia-tv" tvg-name="КУХНЯ ТВ" tvg-logo="https://iptvx.one/picons/kuxnia-tv.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", КУХНЯ ТВ
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 https://stream8.cinerama.uz/1236/tracks-v1a1/mono.m3u8
