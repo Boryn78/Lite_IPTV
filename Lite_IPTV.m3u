@@ -130,7 +130,7 @@ https://flussonic.mkpnet.ru/tv-e107d21a90cb808f/video.m3u8
 https://flussonic.mkpnet.ru/tv-c385ec3bab3a3605/video.m3u8
 #EXTINF:-1 tvg-id="vip-serial" tvg-name="VIJU+ SERIAL HD" tvg-logo="https://iptvx.one/picons/vip-serial.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU+ SERIAL
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-https://a3569457567-s70378.cdn.ngenix.net/vip_serial/2/index.m3u8
+http://46.32.176.50/ViasatSportHD/index.m3u8
 #EXTINF:-1 tvg-id="tv1000" tvg-name="VIJU TV1000 HD" tvg-logo="https://iptvx.one/picons/tv1000.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU TV1000
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 https://flussonic.mkpnet.ru/tv-aab84159a39fbe84/video.m3u8
@@ -160,7 +160,7 @@ http://127.0.0.1:6878/ace/getstream?id=505d4c6259acfea0ee5d9b1f26f7badd447f69f6
 http://158.101.222.193:88/georgia_play.php?id=black
 #EXTINF:-1 tvg-id="sony-tv" tvg-name=".RED" tvg-logo="https://iptvx.one/picons/sony.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", ⬤ RED
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-https://a3285272783-s80718.cdn.ngenix.net/hls/CH_REDHD/video_1920x1080_avc1/playlist.m3u8
+http://5.188.159.128:8070/RED/index.m3u8
 #EXTINF:-1 tvg-id="sony-scifi" tvg-name=".SCI-FI" tvg-logo="https://iptvx.one/picons/sony-scifi.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", ⬤ SCI-FI
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 https://flussonic.mkpnet.ru/tv-e80cc885d4ae14d1/video.m3u8
@@ -206,7 +206,7 @@ https://stream-msk-01.ott.tricolor.tv:443/dtv/id518_MSKSG-PVR-1--NST/03/plst.m3u
 https://stream-msk-06.ott.tricolor.tv/dtv/id423_MSKSG-PVR-1--Cinema/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4MDA5MzYxMiwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc5NDg4ODEyLCJzZXNzaW9uX2lkIjoiNTUzMjIyYTJkZmNmNWRkNTE1N2RkNmQwNmIwYmFjZGYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TqRKrCtCzYDII3IAynv1hCr4di6TmmF-E3FrAJETEWs
 #EXTINF:-1 tvg-id="kinopremiera-hd" tvg-name="КИНОПРЕМЬЕРА" tvg-logo="https://iptvx.one/picons/kinopremiera.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНОПРЕМЬЕРА
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-https://a3285272783-s80718.cdn.ngenix.net//hls//CH_KINOPREMIERAHD//video_800x450_avc1/playlist.m3u8
+http://217.174.229.136:8000/play/a09h
 #EXTINF:-1 tvg-id="kinosvidanie" tvg-name="КИНОСВИДАНИЕ" tvg-logo="https://iptvx.one/picons/kinosvidanie.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНОСВИДАНИЕ
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://5.188.159.128:8070/kinosvidanie/index.m3u8
@@ -365,7 +365,7 @@ https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
 https://stream-msk-12.ott.tricolor.tv:443/dtv/id665_MSKSG-PVR-1--Rybalov/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4MDA5MzYxMiwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc5NDg4ODEyLCJzZXNzaW9uX2lkIjoiNTUzMjIyYTJkZmNmNWRkNTE1N2RkNmQwNmIwYmFjZGYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TqRKrCtCzYDII3IAynv1hCr4di6TmmF-E3FrAJETEWs
 #EXTINF:-1 tvg-id="dikiy" tvg-name="ДИКИЙ" tvg-logo="http://epg.it999.ru/img2/2283.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ДИКИЙ
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://176.96.241.40/Dikiy/index.m3u8
+http://46.32.176.50/dikiy/index.m3u8
 #EXTINF:-1 tvg-id="tlc" tvg-name="TLC HD" tvg-logo="https://iptvx.one/picons/tlc.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", TLC
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://46.32.176.50/tlc/index.m3u8
@@ -458,7 +458,7 @@ https://stream-msk-01.ott.tricolor.tv:443/dtv/id380_MSKSG-PVR-1--Eda/03/plst.m3u
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=kinozal_20_hd.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4MDA5MzYxMiwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc5NDg4ODEyLCJzZXNzaW9uX2lkIjoiNTUzMjIyYTJkZmNmNWRkNTE1N2RkNmQwNmIwYmFjZGYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TqRKrCtCzYDII3IAynv1hCr4di6TmmF-E3FrAJETEWs
 #EXTINF:-1 tvg-id="pervy-vegetariansky" tvg-name="ПЕРВЫЙ ВЕГЕТАРИАНСКИЙ" tvg-logo="https://iptvx.one/picons/pervy-vegetariansky.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ПЕРВЫЙ ВЕГЕТАРИАНСКИЙ
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-https://stream-msk-03.ott.tricolor.tv:443/dtv/id471_MSKSG-PVR-1--Perviy_Vegetor/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4MDA5MzYxMiwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc5NDg4ODEyLCJzZXNzaW9uX2lkIjoiNTUzMjIyYTJkZmNmNWRkNTE1N2RkNmQwNmIwYmFjZGYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TqRKrCtCzYDII3IAynv1hCr4di6TmmF-E3FrAJETEWs
+http://217.174.229.136:8000/play/a08y
 #EXTINF:-1 tvg-id="tochka-otryva" tvg-name="ТОЧКА ОТРЫВА" tvg-logo="http://epg.it999.ru/img2/617.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ТОЧКА ОТРЫВА
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 https://stream8.cinerama.uz/1031/tracks-v1a1/mono.m3u8
@@ -479,7 +479,7 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
 https://stream-msk-10.ott.tricolor.tv:443/dtv/id360_MSKSG-PVR-1--Vremya/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4MDA5MzYxMiwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc5NDg4ODEyLCJzZXNzaW9uX2lkIjoiNTUzMjIyYTJkZmNmNWRkNTE1N2RkNmQwNmIwYmFjZGYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TqRKrCtCzYDII3IAynv1hCr4di6TmmF-E3FrAJETEWs
 #EXTINF:-1 tvg-id="galaxy-tv" tvg-name="Galaxy-TV" tvg-logo="https://iptvx.one/picons/galaxy-tv.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", GALAXY
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://195.26.83.96:7007/play/a00j/index.m3u8
+http://193.25.8.59:8000/galaxy
 #EXTINF:-1 tvg-id="poexali" tvg-name="ПОЕХАЛИ!" tvg-logo="https://iptvx.one/picons/poexali.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ПОЕХАЛИ!
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Poehali.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4MDA5MzYxMiwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc5NDg4ODEyLCJzZXNzaW9uX2lkIjoiNTUzMjIyYTJkZmNmNWRkNTE1N2RkNmQwNmIwYmFjZGYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TqRKrCtCzYDII3IAynv1hCr4di6TmmF-E3FrAJETEWs
@@ -2153,7 +2153,7 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 https://stream8.cinerama.uz/1443/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="hollywood-hd" tvg-name="HOLLYWOOD HD" tvg-logo="https://iptvx.one/picons/hollywood-hd.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", HOLLYWOOD HD
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-https://a3569457567-s70378.cdn.ngenix.net/amc/2/index.m3u8
+http://46.32.176.50/HollywoodHD/index.m3u8
 #EXTINF:-1 tvg-id="bcu-kinozal-prem-2" tvg-name="BCU КИНОЗАЛ PREMIERE 2 HD" tvg-logo="https://iptvx.one/picons/bcu-kinozal-prem-2.png" group-title="🎞️ КИНОЗАЛЫ", BCU КИНОЗАЛ PREMIERE 2 HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
 http://127.0.0.1:6878/ace/getstream?id=d488e696aba7b6a2d3a8977d762bcf4eee1bfd07
