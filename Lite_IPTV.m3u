@@ -115,7 +115,7 @@ http://158.101.222.193:88/georgia_play.php?id=amedia
 http://158.101.222.193:88/georgia_play.php?id=amedia2
 #EXTINF:-1 tvg-id="amedia-hit" tvg-name="AMEDIA HIT" tvg-logo="https://iptvx.one/picons/amedia-hit.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", AMEDIA HIT
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-https://a3569457567-s70378.cdn.ngenix.net/amedia_hit/2/index.m3u8
+https://flussonic.mkpnet.ru/tv-8f04998179283ee5/video.m3u8
 #EXTINF:-1 tvg-id="amedia-premium" tvg-name="AMEDIA PREMIUM" tvg-logo="https://iptvx.one/picons/amedia-premium.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", AMEDIA PREMIUM
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://46.32.176.50/AmediaPremium/index.m3u8
@@ -157,7 +157,7 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Sapphire_HD.
 http://127.0.0.1:6878/ace/getstream?id=505d4c6259acfea0ee5d9b1f26f7badd447f69f6
 #EXTINF:-1 tvg-id="sony-turbo" tvg-name=".BLACK" tvg-logo="https://iptvx.one/picons/sony-turbo.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", ⬤ BLACK
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-https://a3569457567-s70378.cdn.ngenix.net/sony_turbo/2/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=black
 #EXTINF:-1 tvg-id="sony-tv" tvg-name=".RED" tvg-logo="https://iptvx.one/picons/sony.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", ⬤ RED
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 https://a3285272783-s80718.cdn.ngenix.net/hls/CH_REDHD/video_1920x1080_avc1/playlist.m3u8
@@ -185,7 +185,7 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Ruskiy_roman
 https://fs.uplink.kz/russkiy_illusion/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="illuzion-plus" tvg-name="ИЛЛЮЗИОН+" tvg-logo="https://iptvx.one/picons/illuzion-plus.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", ИЛЛЮЗИОН+
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-https://a3569457567-s70378.cdn.ngenix.net/illusion_plus/1/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=illuzionplus
 #EXTINF:-1 tvg-name="КОМЕДИЯ" tvg-logo="https://iptvx.one/picons/russkaya-komedia.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КОМЕДИЯ
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 https://stream-msk-09.ott.tricolor.tv:443/dtv/id422_MSKSG-PVR-1--Komediya/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4MDA5MzYxMiwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc5NDg4ODEyLCJzZXNzaW9uX2lkIjoiNTUzMjIyYTJkZmNmNWRkNTE1N2RkNmQwNmIwYmFjZGYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TqRKrCtCzYDII3IAynv1hCr4di6TmmF-E3FrAJETEWs
@@ -377,7 +377,7 @@ http://46.32.176.50/animalplanet/index.m3u8
 http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
 #EXTINF:-1 tvg-id="history-ru" tvg-name="HISTORY" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/history.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", HISTORY
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-https://a3569457567-s70378.cdn.ngenix.net/history/1/index.m3u8
+http://46.32.176.50/HistoryHD/index.m3u8
 #EXTINF:-1 tvg-id="h2-hd" tvg-name="H2" tvg-logo="https://karnei4.github.io/convert/index_files/h2.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", HISTORY 2 (Torrent TV)
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://127.0.0.1:6878/ace/getstream?id=88e804faf482b3caa0a680c931bdd1578c4bfbee
@@ -479,7 +479,7 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
 https://stream-msk-10.ott.tricolor.tv:443/dtv/id360_MSKSG-PVR-1--Vremya/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4MDA5MzYxMiwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc5NDg4ODEyLCJzZXNzaW9uX2lkIjoiNTUzMjIyYTJkZmNmNWRkNTE1N2RkNmQwNmIwYmFjZGYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TqRKrCtCzYDII3IAynv1hCr4di6TmmF-E3FrAJETEWs
 #EXTINF:-1 tvg-id="galaxy-tv" tvg-name="Galaxy-TV" tvg-logo="https://iptvx.one/picons/galaxy-tv.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", GALAXY
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-https://a3569457567-s70378.cdn.ngenix.net/galaxy/1/index.m3u8
+http://195.26.83.96:7007/play/a00j/index.m3u8
 #EXTINF:-1 tvg-id="poexali" tvg-name="ПОЕХАЛИ!" tvg-logo="https://iptvx.one/picons/poexali.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ПОЕХАЛИ!
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Poehali.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4MDA5MzYxMiwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc5NDg4ODEyLCJzZXNzaW9uX2lkIjoiNTUzMjIyYTJkZmNmNWRkNTE1N2RkNmQwNmIwYmFjZGYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TqRKrCtCzYDII3IAynv1hCr4di6TmmF-E3FrAJETEWs
@@ -1802,7 +1802,7 @@ http://158.101.222.193:88/georgia_play.php?id=kinosemya
 https://stream-msk-18.ott.tricolor.tv/dtv/id1015_MSKSG-PVR-1--Kinozal27_SD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4MDA5MzYxMiwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzc5NDg4ODEyLCJzZXNzaW9uX2lkIjoiNTUzMjIyYTJkZmNmNWRkNTE1N2RkNmQwNmIwYmFjZGYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TqRKrCtCzYDII3IAynv1hCr4di6TmmF-E3FrAJETEWs
 #EXTINF:-1 tvg-id="nashe-novoe-kino" tvg-name="НАШЕ НОВОЕ КИНО" tvg-logo="https://iptvx.one/picons/nashe-novoe-kino.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", НАШЕ НОВОЕ КИНО
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-https://a3569457567-s70378.cdn.ngenix.net/nashe_novoe_kino/1/index.m3u8
+https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kinouzhas" tvg-name="КИНОУЖАС" tvg-logo="https://iptvx.one/picons/kinouzhas.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНОУЖАС
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://158.101.222.193:88/georgia_play.php?id=kinoujas
