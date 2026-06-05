@@ -1474,7 +1474,7 @@ http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
 http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="hustler-hd" tvg-name="Hustler HD" tvg-logo="https://epg.iptvx.one/picons/hustler-hd.png" group-title="💘 ВЗРОСЛЫЕ", HUSTLER HD
 #EXTGRP:💘 ВЗРОСЛЫЕ
-http://woobl.ru/op/WW05eWVXNDNPRUI1WVc1a1pYZ3VjblU9/1240.m3u8
+http://81.15.109.89:8001/play/Hustler
 #EXTINF:-1 tvg-id="penthouse-gold" tvg-name="Penthouse Gold HD" tvg-logo="https://epg.iptvx.one/picons/penthouse-gold.png" group-title="💘 ВЗРОСЛЫЕ", PENTHOUSE GOLD
 #EXTGRP:💘 ВЗРОСЛЫЕ
 http://185.98.209.11:81/penthouse1/index.m3u8?token=test
@@ -1484,6 +1484,9 @@ http://78.130.250.2:8023/play/a05q/index.m3u8
 #EXTINF:-1 tvg-id="penthouse-quickies" tvg-name="Penthouse Reality TV" tvg-logo="https://epg.iptvx.one/picons/penthouse-quickies.png" group-title="💘 ВЗРОСЛЫЕ", PENTHOUSE REALITY TV
 #EXTGRP:💘 ВЗРОСЛЫЕ
 http://185.98.209.11:81/penthouse2/index.m3u8?token=test
+#EXTINF:-1 tvg-id="private-tv" tvg-name="Private HD" tvg-logo="https://epg.iptvx.one/picons/private-tv.png" group-title="💘 ВЗРОСЛЫЕ", PRIVATE HD
+#EXTGRP:💘 ВЗРОСЛЫЕ
+http://81.15.109.89:8001/play/Private
 #EXTINF:-1 tvg-name="Сочи - Пляж Мамайка" group-title="📷 WEB КАМЕРЫ", Сочи - Пляж Мамайка
 #EXTGRP:📷 WEB КАМЕРЫ
 https://fl.tvintel.info:8443/mix-kukuruza-plyaz/index.m3u8
