@@ -329,10 +329,10 @@ http://37.186.70.39:40/play/105/index.m3u8
 http://127.0.0.1:6878/ace/getstream?id=5347a5417c376ac10cdf9c1a3a26eadbe76c280a
 #EXTINF:-1 tvg-id="viasat-nature" tvg-name="VIJU NATURE" tvg-logo="https://fast.ntvplus.tv/files/image/79/84/30/-channel!9rl.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", VIJU NATURE
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-https://flussonic.mkpnet.ru/tv-7a85ea25208f5bf7/video.m3u8
+http://109.70.186.82:9090/udp/239.185.1.7:1234
 #EXTINF:-1 tvg-id="viasat-explore" tvg-name="VIJU EXPLORE" tvg-logo="https://fast.ntvplus.tv/files/image/80/00/03/-channel!djf.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", VIJU EXPLORE
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-https://flussonic.mkpnet.ru/tv-7c57a4c3f9a896ea/video.m3u8
+http://158.101.222.193:88/georgia_play.php?id=viasatexp
 #EXTINF:-1 tvg-id="viasat-history" tvg-name="VIJU HISTORY" tvg-logo="https://ntvplus.tv/files/image/79/84/28/e2e.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", VIJU HISTORY
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 https://fs.uplink.kz/viju_history/tracks-v1a1/mono.ts.m3u8?token=onlinetv
