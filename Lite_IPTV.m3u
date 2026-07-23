@@ -419,10 +419,10 @@ https://stream-msk-03.ott.tricolor.tv:443/dtv/id283_MSKSG-PVR-1--Tehno24/03/plst
 http://158.101.222.193:88/georgia_play.php?id=auto24
 #EXTINF:-1 tvg-id="avto-plus" tvg-name="АВТО ПЛЮС" tvg-logo="https://iptvx.one/picons/avto-plus.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", АВТО ПЛЮС
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://37.186.70.39:40/play/103/index.m3u8
-#EXTINF:-1 tvg-id="drive" tvg-name="ДРАЙВ" tvg-logo="https://iptvx.one/picons/drive.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ДРАЙВ
+http://158.101.222.193:88/georgia_play.php?id=autoplus
+#EXTINF:-1 tvg-id="drive" tvg-name="ДРАЙВ" tvg-logo="https://iptvx.one/picons/drive.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ДРАЙВ (Torrent TV)
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://193.25.8.59:8000/drive
+http://127.0.0.1:6878/ace/getstream?id=2893ea38cf923c7efcfaf3eead798dd73b2cf2d0
 #EXTINF:-1 tvg-id="muzhskoy" tvg-name="МУЖСКОЙ" tvg-logo="https://iptvx.one/picons/muzhskoy.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", МУЖСКОЙ
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 https://flussonic.mkpnet.ru/tv-55c94e838b306657/video.m3u8
