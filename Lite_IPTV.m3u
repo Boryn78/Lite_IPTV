@@ -476,7 +476,7 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
 https://stream-msk-10.ott.tricolor.tv:443/dtv/id360_MSKSG-PVR-1--Vremya/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4NTUzNzQ2NywiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzg0OTMyNjY3LCJzZXNzaW9uX2lkIjoiMGNhZmFjNzM2NDQ1YjViNjZhNjMxYzJlZjk3N2U1ODQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.mVmrCJl8fgUT5XGbB6tbbl4UIWS0xu4JmJ06tMnpiWE
 #EXTINF:-1 tvg-id="galaxy-tv" tvg-name="Galaxy-TV" tvg-logo="https://iptvx.one/picons/galaxy-tv.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", GALAXY
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://193.25.8.59:8000/galaxy
+http://188.134.7.215:4022/udp/235.10.10.152:1234
 #EXTINF:-1 tvg-id="poexali" tvg-name="ПОЕХАЛИ!" tvg-logo="https://iptvx.one/picons/poexali.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", ПОЕХАЛИ!
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Poehali.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4NTUzNzQ2NywiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzg0OTMyNjY3LCJzZXNzaW9uX2lkIjoiMGNhZmFjNzM2NDQ1YjViNjZhNjMxYzJlZjk3N2U1ODQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.mVmrCJl8fgUT5XGbB6tbbl4UIWS0xu4JmJ06tMnpiWE
