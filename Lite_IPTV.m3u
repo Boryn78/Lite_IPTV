@@ -1943,10 +1943,6 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kinozal_33.m
 #EXTGRP:🗺️ РЕГИОНАЛЬНЫЕ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://s34351.cdn.ngenix.net/hls/CH_R14_OTT_DV_YKT_YKT/variant.m3u8?version=2
-#EXTINF:-1 tvg-name="РАМЕНСКОЕ ТВ HD" tvg-logo="http://epg.it999.ru/img2/6763.png" group-title="🗺️ РЕГИОНАЛЬНЫЕ", РАМЕНСКОЕ ТВ HD
-#EXTGRP:🗺️ РЕГИОНАЛЬНЫЕ
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://dmi3y-tv.ru/hls/region/CH_RTVHD720_RNKOE.m3u8
 #EXTINF:-1 tvg-name="6 ТВ ГОРЛОВКА" tvg-logo="https://i.ibb.co/nP0rkQR/TV6-Horlovka.jpg" group-title="🗺️ РЕГИОНАЛЬНЫЕ", 6 ТВ ГОРЛОВКА
 #EXTGRP:🗺️ РЕГИОНАЛЬНЫЕ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
