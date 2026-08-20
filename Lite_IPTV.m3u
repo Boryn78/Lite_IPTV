@@ -10,7 +10,7 @@ https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 http://cdngw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=1TV_hd.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4NzM1MDc1MSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzg2NzQ1OTUxLCJzZXNzaW9uX2lkIjoiYTdjZDcxNmRhNWM0MGVmM2Q2OThiOTMyYmQ4NDMwYmUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.bid-n6gYWnUGwU_6kR99F1TUOe50UwNDB3wnFOgomHY
 #EXTINF:-1 tvg-id="rossia1" tvg-name="РОССИЯ 1 HD" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="🇷🇺 ФЕДЕРАЛЬНЫЕ HD", РОССИЯ 1 FHD
 #EXTGRP:🇷🇺 ФЕДЕРАЛЬНЫЕ HD
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
+https://live.smotrim.ru/vgtrk/0/russia1-hd/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-name="РОССИЯ HD" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="🇷🇺 ФЕДЕРАЛЬНЫЕ HD", РОССИЯ 1 HD
 #EXTGRP:🇷🇺 ФЕДЕРАЛЬНЫЕ HD
 http://cdngw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Rossia_1_0_hd.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4NzM1MDc1MSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzg2NzQ1OTUxLCJzZXNzaW9uX2lkIjoiYTdjZDcxNmRhNWM0MGVmM2Q2OThiOTMyYmQ4NDMwYmUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.bid-n6gYWnUGwU_6kR99F1TUOe50UwNDB3wnFOgomHY
