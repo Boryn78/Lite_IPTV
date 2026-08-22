@@ -161,9 +161,9 @@ https://s70378.cdn.ngenix.net/sony_turbo/2/index.m3u8
 #EXTINF:-1 tvg-id="sony-tv" tvg-name=".RED" tvg-logo="https://iptvx.one/picons/sony.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", ⬤ RED
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://5.188.159.128:8070/RED/index.m3u8
-#EXTINF:-1 tvg-id="sony-scifi" tvg-name=".SCI-FI" tvg-logo="https://iptvx.one/picons/sony-scifi.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", ⬤ SCI-FI
+#EXTINF:-1 tvg-id="sony-scifi" tvg-name=".SCI-FI" tvg-logo="https://iptvx.one/picons/sony-scifi.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", ⬤ SCI-FI (Torrent TV)
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-https://s70378.cdn.ngenix.net/sony_sci_fi/2/index.m3u8
+http://127.0.0.1:6878/ace/getstream?id=ed6a12719fbc9c9b38c2ce69c065a84f3a9b42e6
 #EXTINF:-1 tvg-id="ntv-xit" tvg-name="НТВ ХИТ" tvg-logo="https://iptvx.one/picons/ntv-xit.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", НТВ ХИТ
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 #EXTVLCOPT:http-user-agent=WINK/1.130.1 (AndroidTV/9) HlsWinkPlayer
@@ -415,7 +415,7 @@ https://stream-msk-04.ott.tricolor.tv:443/dtv/id154_MSKSG-PVR-1--Telepyt/03/plst
 https://stream-msk-03.ott.tricolor.tv:443/dtv/id283_MSKSG-PVR-1--Tehno24/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4Nzk1NTc0NCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzg3MzUwOTQ0LCJzZXNzaW9uX2lkIjoiODNiZDZiYWJjYTBlOTBkNWQzZDliYWVkNjIyNWRhM2YiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.2AHvTU2Y5S5gvCkmh_qJyb-BSgz8WPXSqH-ZEzC0iCE
 #EXTINF:-1 tvg-id="avto-24" tvg-name="АВТО 24" tvg-logo="http://epg.it999.ru/img2/2008.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", АВТО 24
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-https://fs.uplink.kz/avto24/mono.m3u8?token=onlinetv
+http://31.210.208.171:8080/avto_24/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="avto-plus" tvg-name="АВТО ПЛЮС" tvg-logo="https://iptvx.one/picons/avto-plus.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", АВТО ПЛЮС
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://31.210.208.171:8080/avto_plus/index.m3u8?token=+W2MSER
@@ -2137,7 +2137,7 @@ http://176.118.197.101/MirSeriala/index.m3u8
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 #EXTINF:-1 tvg-id="hollywood-hd" tvg-name="HOLLYWOOD HD" tvg-logo="https://iptvx.one/picons/hollywood-hd.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", HOLLYWOOD HD
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://45.145.32.13:20440/hollywood_hd/index.m3u8?token=test
+https://s70378.cdn.ngenix.net/amc/2/index.m3u8
 #EXTINF:-1 tvg-id="bcu-kinozal-prem-2" tvg-name="BCU КИНОЗАЛ PREMIERE 2 HD" tvg-logo="https://iptvx.one/picons/bcu-kinozal-prem-2.png" group-title="🎞️ КИНОЗАЛЫ", BCU КИНОЗАЛ PREMIERE 2 HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
 http://127.0.0.1:6878/ace/getstream?id=d488e696aba7b6a2d3a8977d762bcf4eee1bfd07
