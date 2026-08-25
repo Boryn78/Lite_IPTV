@@ -118,7 +118,7 @@ https://flussonic.mkpnet.ru/tv-cad19a32f4a82824/video.m3u8
 https://flussonic.mkpnet.ru/tv-8f04998179283ee5/video.m3u8
 #EXTINF:-1 tvg-id="amedia-premium" tvg-name="AMEDIA PREMIUM" tvg-logo="https://iptvx.one/picons/amedia-premium.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", AMEDIA PREMIUM
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://45.145.32.13:20440/amedia_premium_hd/index.m3u8?token=test
+https://fs.uplink.kz/amedia_premium_hd/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="vip-megahit" tvg-name="VIJU+ MEGAHIT HD" tvg-logo="https://iptvx.one/picons/vip-megahit.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", VIJU+ MEGAHIT
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 https://flussonic.mkpnet.ru/tv-3d1cedf99303d057/video.m3u8
