@@ -382,9 +382,9 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kinozal_6.m3
 #EXTINF:-1 tvg-name="Зал 3 (Ментовские войны)" tvg-id="zal-03-tricolor" tvg-logo="https://epg.iptvx.one/picons/zal-03-tricolor.png" group-title="🎞️ КИНОЗАЛЫ", МЕНТОВСКИЕ ВОЙНЫ
 #EXTGRP:🎞️ КИНОЗАЛЫ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kinozal_3.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4Nzk1NTc0NCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzg3MzUwOTQ0LCJzZXNzaW9uX2lkIjoiODNiZDZiYWJjYTBlOTBkNWQzZDliYWVkNjIyNWRhM2YiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.2AHvTU2Y5S5gvCkmh_qJyb-BSgz8WPXSqH-ZEzC0iCE
-#EXTINF:-1 tvg-id="national-geographic" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/NATGEO200.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-id="national-geographic" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/NATGEO200.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", NATIONAL GEOGRAPHIC (Torrent TV)
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-https://s70378.cdn.ngenix.net/national_geographic/1/index.m3u8
+http://127.0.0.1:6878/ace/getstream?id=3a08c5a973e162429910f441bf8aa45b24d667e0
 #EXTINF:-1 tvg-id="nat-geo-wild" tvg-name="NAT GEO WILD" tvg-logo="https://iptvx.one/picons/nat-geo-wild.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", NAT GEO WILD (Torrent TV)
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://127.0.0.1:6878/ace/getstream?id=5347a5417c376ac10cdf9c1a3a26eadbe76c280a
@@ -1928,7 +1928,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 https://fs.uplink.kz/kinohit/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="kinoxit" tvg-name="КИНОХИТ" tvg-logo="https://iptvx.one/picons/kinoxit.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНОХИТ HD (Torrent TV)
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://127.0.0.1:6878/ace/getstream?id=f1fe45c8d5f58301c74dde7acaf4db13e497b58
+http://127.0.0.1:6878/ace/getstream?id=f1fe45c8d5f58301c74dde7acaf4db13e497b586
 #EXTINF:-1 tvg-id="6627" tvg-name="Now 80's" tvg-logo="https://w7.pngwing.com/pngs/675/222/png-transparent-now-80-s-text-ad-now-that-s-what-i-call-the-80s-now-that-s-what-i-call-music-compilation-album-now-that-s-what-i-call-80s-party-flyer-party-80-s-miscellaneous-album-text.png" group-title="🎵 МУЗЫКА", Now 80's
 #EXTGRP:🎵 МУЗЫКА
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
