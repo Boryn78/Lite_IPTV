@@ -1507,7 +1507,7 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Zal_suda.m3u
 https://tvshops.bonus-tv.ru/cdn/shop24/tracks-v1a1/mono.m3u8?token=cdn
 #EXTINF:-1 tvg-id="exxxotica" tvg-name="EXXXOTICA" tvg-logo="https://ntvplus.tv/files/image/88/97/03/-channel!avk.png" group-title="💘 ВЗРОСЛЫЕ", EXXXOTICA
 #EXTGRP:💘 ВЗРОСЛЫЕ
-http://31.148.48.15:80/O-la-la/index.m3u8
+http://stream.mcquack.net/57/index.m3u8
 #EXTINF:-1 tvg-id="erox" tvg-name="EROX" tvg-logo="https://karnei4.github.io/convert/EroX.png" group-title="💘 ВЗРОСЛЫЕ", EROX
 #EXTGRP:💘 ВЗРОСЛЫЕ
 http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
@@ -1532,9 +1532,9 @@ http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="penthouse-gold" tvg-name="Penthouse Gold HD" tvg-logo="https://epg.iptvx.one/picons/penthouse-gold.png" group-title="💘 ВЗРОСЛЫЕ", PENTHOUSE GOLD
 #EXTGRP:💘 ВЗРОСЛЫЕ
 http://185.98.209.11:81/penthouse1/index.m3u8?token=test
-#EXTINF:-1 tvg-id="passionxxx tvg-name="PassionXXX" tvg-logo="https://epg.iptvx.one/picons/passionxxx.png" group-title="💘 ВЗРОСЛЫЕ", PASSION XXX
+#EXTINF:-1 tvg-id="penthouse-quickies" tvg-name="Penthouse Reality TV" tvg-logo="https://epg.iptvx.one/picons/penthouse-quickies.png" group-title="💘 ВЗРОСЛЫЕ", PENTHOUSE REALITY TV
 #EXTGRP:💘 ВЗРОСЛЫЕ
-http://94.156.59.233:8899/udp/239.10.2.180:30000
+http://185.98.209.11:81/penthouse2/index.m3u8?token=test
 #EXTINF:-1 tvg-id="hustler-hd" tvg-name="Hustler HD" tvg-logo="https://epg.iptvx.one/picons/hustler-hd.png" group-title="💘 ВЗРОСЛЫЕ", HUSTLER HD
 #EXTGRP:💘 ВЗРОСЛЫЕ
 http://185.221.213.254/live/stream113.php?seg=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXVKImXSsLeKX0KX7w1btzqarqYkIuzphkip1kpD5buyVg&token=Ym9yeW43ODpMYW5jZXIxNg==
