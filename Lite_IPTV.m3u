@@ -435,7 +435,7 @@ http://stream.mcquack.net/168/index.m3u8
 http://127.0.0.1:6878/ace/getstream?infohash=568159b1059c7bbe3eaf40f123541fef86ef83cb
 #EXTINF:-1 tvg-id="discovery-channel" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://iptvx.one/picons/discovery-channel.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", DISCOVERY CHANNEL
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
+https://bl.rutube.ru/livestream/6422d62f7e1f87bc3aec45b462cd89ea/index.m3u8?s=rp8F_B1WwlkmLIlDy8jW6g&e=2089455178&scheme=https
 #EXTINF:-1 tvg-id="history-ru" tvg-name="HISTORY" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/history.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", HISTORY (Torrent TV)
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://127.0.0.1:6878/ace/getstream?id=b5e4d600404702a7d50e01e64f82ea1d26b68f63
