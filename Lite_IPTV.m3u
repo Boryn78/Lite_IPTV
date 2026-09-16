@@ -2473,15 +2473,6 @@ http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 tvg-id="fashion-tv" tvg-name="Fashion TV" tvg-logo="https://iptvx.one/picons/fashion-tv.png" group-title="📡 ULTRA HD", FTV UHD
 #EXTGRP:📡 ULTRA HD
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="fashion-tv" tvg-name="Fashion TV" tvg-logo="https://iptvx.one/picons/fashion-tv.png" group-title="📡 ULTRA HD", СЕРИАЛ UHD
-#EXTGRP:📡 ULTRA HD
-http://127.0.0.1:6878/ace/getstream?id=3a71745381e1a6821a881c96a230b6cd365d4da5
-#EXTINF:-1 tvg-id="fashion-tv" tvg-name="Fashion TV" tvg-logo="https://iptvx.one/picons/fashion-tv.png" group-title="📡 ULTRA HD", F1 UHD
-#EXTGRP:📡 ULTRA HD
-http://127.0.0.1:6878/ace/getstream?infohash=c95512caeb8ab562d2dbb4242e97ac3283fba1ec
-#EXTINF:-1 tvg-id="fashion-tv" tvg-name="Fashion TV" tvg-logo="https://iptvx.one/picons/fashion-tv.png" group-title="📡 ULTRA HD", BUNDESLIGA UHD
-#EXTGRP:📡 ULTRA HD
-http://127.0.0.1:6878/ace/getstream?id=169da1e59ffd3947c09d65eb1a0de0c831bef390
 #EXTINF:-1 tvg-id="bcu-romantic" tvg-name="BCU Romantic HD" tvg-logo="https://bcumedia.pro/images/homepage/ch_16.png" group-title="🎞️ КИНОЗАЛЫ", BCU ROMANTIC HD (Torrent TV)
 #EXTGRP:🎞️ КИНОЗАЛЫ
 http://127.0.0.1:6878/ace/getstream?id=62f68471bab075eb96e5db4559e7994427db111b
