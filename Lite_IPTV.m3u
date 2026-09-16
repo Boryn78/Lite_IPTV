@@ -609,24 +609,18 @@ http://127.0.0.1:6878/ace/getstream?id=ef9c77bd94783448b8edb552109f5f15b2bd82d1
 #EXTINF:-1 tvg-id="match-planeta" tvg-name="МАТЧ! ПЛАНЕТА" tvg-logo="https://iptvx.one/picons/match-planeta.png" group-title="🏅 СПОРТ", МАТЧ! ПЛАНЕТА (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=106c8656fca0ca91a696110467788d202d7111af
-#EXTINF:-1 tvg-id="match-boets" tvg-name="МАТЧ! БОЕЦ" tvg-logo="https://karnei4.github.io/convert/match_boetc.png" group-title="🏅 СПОРТ", МАТЧ! БОЕЦ HD
-#EXTGRP:🏅 СПОРТ
-http://89.218.32.179:18000/play/a037
-#EXTINF:-1 tvg-id="match-boets" tvg-name="Матч! Боец" tvg-logo="https://karnei4.github.io/convert/match_boetc.png" group-title="🏅 СПОРТ", МАТЧ! БОЕЦ FHD 50 (Torrent TV)
+#EXTINF:-1 tvg-id="match-boets" tvg-name="Матч! Боец" tvg-logo="https://karnei4.github.io/convert/match_boetc.png" group-title="🏅 СПОРТ", МАТЧ! БОЕЦ FHD (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=822654b2c0db24d1de149cb21fdd44a3b968fbfa
-#EXTINF:-1 tvg-id="viasat-sport" tvg-name="VIJU+ SPORT" tvg-logo="https://iptvx.one/picons/viasat-sport.png" group-title="🏅 СПОРТ", VIJU+ SPORT
+#EXTINF:-1 tvg-id="viasat-sport" tvg-name="VIJU+ SPORT" tvg-logo="https://iptvx.one/picons/viasat-sport.png" group-title="🏅 СПОРТ", VIJU+ SPORT FHD (Torrent TV)
 #EXTGRP:🏅 СПОРТ
-http://37.46.49.14:18010/play/a03l/index.m3u8
+http://127.0.0.1:6878/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b
 #EXTINF:-1 tvg-name="KHL" tvg-logo="https://iptvx.one/picons/kxl.png" group-title="🏅 СПОРТ", KHL
 #EXTGRP:🏅 СПОРТ
 https://flussonic.mkpnet.ru/tv-e3d23fc7511b5fcd/video.m3u8
 #EXTINF:-1 tvg-name="KHL" tvg-logo="https://iptvx.one/picons/kxl.png" group-title="🏅 СПОРТ", KHL FHD (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=aa6c193b9de1e6b6277e3075299fdeea925e2dc0
-#EXTINF:-1 tvg-name="KHL Prime" tvg-logo="https://beeline.kz/binaries/content/gallery/about/beetv_logos/last/711.png" group-title="🏅 СПОРТ", KHL PRIME
-#EXTGRP:🏅 СПОРТ
-http://37.46.49.14:18010/play/a01q/index.m3u8
 #EXTINF:-1 tvg-name="KHL Prime" tvg-logo="https://beeline.kz/binaries/content/gallery/about/beetv_logos/last/711.png" group-title="🏅 СПОРТ", KHL PRIME FHD (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=dcda9de85f7d662c5c3c2efd74eca0fb5c6aab3b
@@ -666,9 +660,6 @@ http://127.0.0.1:6878/ace/getstream?infohash=42832fbf9a1d3bdcca043e09951d6769fbb
 #EXTINF:-1 tvg-id="voleybol" tvg-name="Волейбол" tvg-logo="https://epg.iptvx.one/picons/voleybol.png" group-title="🏅 СПОРТ", ВОЛЕЙБОЛ
 #EXTGRP:🏅 СПОРТ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Volleyball_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4OTc3MDcxNSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzg5MTY1OTE1LCJzZXNzaW9uX2lkIjoiYTBjNWE4OWVkZmI3YjFlZjBmOTY1NzE1ODBkZTJkMzkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ._1APtybH54h8HaE9IKRcnGptLzcAslseuaz8OJftrWo
-#EXTINF:-1 tvg-id="box-tv" tvg-name="БОКС ТВ" tvg-logo="https://karnei4.github.io/convert/index_files/box-tv.png" group-title="🏅 СПОРТ", БОКС ТВ
-#EXTGRP:🏅 СПОРТ
-http://185.78.112.47:8077/boks-tv/index.m3u8
 #EXTINF:-1 tvg-id="box-tv" tvg-name="БОКС ТВ" tvg-logo="https://karnei4.github.io/convert/index_files/box-tv.png" group-title="🏅 СПОРТ", БОКС ТВ FHD (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=1acaf203502983cd2993c6835bf0cbde8d016c3d
