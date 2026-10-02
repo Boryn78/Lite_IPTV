@@ -2024,9 +2024,6 @@ https://sgw.ottgoods.ru/streamingGateway/GetLivePlayList?source=kinozal_21_sd.m3
 #EXTINF:-1 tvg-name="Зал 22" tvg-id="zal-22-tricolor" tvg-logo="https://epg.iptvx.one/picons/zal-22-tricolor.png" group-title="🎞️ КИНОЗАЛЫ", СЕЛЬСКИЙ ДЕТЕКТИВ
 #EXTGRP:🎞️ КИНОЗАЛЫ
 https://sgw.ottgoods.ru/streamingGateway/GetLivePlayList?source=kinozal_22_sd.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc5MDk4MDMxNywiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzkwMzc1NTE3LCJzZXNzaW9uX2lkIjoiYWExZGQ3YjFjZmM1ZmI1NTRiZWQ4ODE3NTg1MTdmZGIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.oxuOtqSpgt9NJsm6u9cxM3Kg1cv9OnL4bbM1GbK5v-k
-#EXTINF:-1 tvg-name="Зал 16" tvg-id="zal-16-tricolor" tvg-logo="https://epg.iptvx.one/picons/zal-16-tricolor.png" group-title="🎞️ КИНОЗАЛЫ", ЖЕНСКИЙ ДОКТОР
-#EXTGRP:🎞️ КИНОЗАЛЫ
-https://sgw.ottgoods.ru/streamingGateway/GetLivePlayList?source=kinozal_16.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc5MDk4MDMxNywiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzkwMzc1NTE3LCJzZXNzaW9uX2lkIjoiYWExZGQ3YjFjZmM1ZmI1NTRiZWQ4ODE3NTg1MTdmZGIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.oxuOtqSpgt9NJsm6u9cxM3Kg1cv9OnL4bbM1GbK5v-k
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="Якутия 24" tvg-name="ЯКУТИЯ 24" tvg-logo="https://karnei4.github.io/convert/logo-z/ec13e06757f6238f6924b6427913b4e5.png" group-title="🗺️ РЕГИОНАЛЬНЫЕ", ЯКУТИЯ 24
 #EXTGRP:🗺️ РЕГИОНАЛЬНЫЕ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
