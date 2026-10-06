@@ -2650,6 +2650,12 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Telecafe.m3u
 #EXTINF:-1 tvg-name="Kinojam 3 HD" tvg-id="kinojam3" tvg-logo="https://epg.iptvx.one/picons/kinojam3.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", KINOJAM 3 HD
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Nashe_Nasledie_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc5MTU4NjQyNSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzkwOTgxNjI1LCJzZXNzaW9uX2lkIjoiNmY1NTIxNTRmZjU3ZmZmZWIyMDUyNjMyNTlmMTc5MDMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.X3-2gmBB37qft68AXRJ4IyzS-PagU-kEI7WaJIAC_0A
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="👀 РАЗНОЕ", ТЕСТ
-#EXTGRP:👀 РАЗНОЕ
-http://92.63.106.41/24hp/stream.php?id=329
+#EXTINF:-1 tvg-name="Кино и Жизнь" tvg-id="kino-i-zhizn" tvg-logo="https://epg.iptvx.one/picons/kino-i-zhizn.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНО И ЖИЗНЬ
+#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
+https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=YNZZagwMZs1zUlkJ_Hb7nA&e=2091270838&scheme=https
+#EXTINF:-1 tvg-name="Кинолаффка" tvg-id="" tvg-logo="https://pic.rtbcdn.ru/video/2025-03-14/87/c6/87c6d211fd30f5019ebf2bc074b5f7e5.jpg?width=500" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНОЛАФФКА
+#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
+https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=IBP61BYuuDLdM4bq0ZUokg&e=2091270837&scheme=https
+#EXTINF:-1 tvg-name="Детективы каждый день" tvg-id="" tvg-logo="https://avatars.mds.yandex.net/i?id=8e7b7206144c6c54a414e074400b5c3da962ecfe-5287720-images-thumbs&n=13" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", ДЕТЕКТИВЫ КАЖДЫЙ ДЕНЬ
+#EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
+https://bl.rutube.ru/livestream/e05401be60a9cc719fa7075b6e77b86d/index.m3u8?s=kRMnWT3L1BYMHuLVb8w1sQ&e=2091270838&scheme=https
