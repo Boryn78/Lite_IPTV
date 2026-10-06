@@ -23,6 +23,9 @@ https://cdn.ntv.ru/ntv-msk_hd/rewind-7150.m3u8?filter.tracks=v2v1v3v4v5a1l1t1
 http://cdngw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=NTV_0_hd.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc5MTU4NjQyNSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzkwOTgxNjI1LCJzZXNzaW9uX2lkIjoiNmY1NTIxNTRmZjU3ZmZmZWIyMDUyNjMyNTlmMTc5MDMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.X3-2gmBB37qft68AXRJ4IyzS-PagU-kEI7WaJIAC_0A
 #EXTINF:-1 tvg-id="tnt" tvg-name="ТНТ HD" tvg-logo="https://iptvx.one/picons/tnt.png" group-title="🇷🇺 ФЕДЕРАЛЬНЫЕ HD", ТНТ FHD
 #EXTGRP:🇷🇺 ФЕДЕРАЛЬНЫЕ HD
+https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=hOsaGSdMarg9o_OFMDJfkA&e=2091270829&scheme=https
+#EXTINF:-1 tvg-id="tnt" tvg-name="ТНТ HD" tvg-logo="https://iptvx.one/picons/tnt.png" group-title="🇷🇺 ФЕДЕРАЛЬНЫЕ HD", ТНТ HD
+#EXTGRP:🇷🇺 ФЕДЕРАЛЬНЫЕ HD
 http://cdngw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=tnt_hd.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc5MTU4NjQyNSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzkwOTgxNjI1LCJzZXNzaW9uX2lkIjoiNmY1NTIxNTRmZjU3ZmZmZWIyMDUyNjMyNTlmMTc5MDMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.X3-2gmBB37qft68AXRJ4IyzS-PagU-kEI7WaJIAC_0A
 #EXTINF:-1 tvg-id="sts" tvg-name="СТС HD" tvg-logo="https://iptvx.one/picons/sts.png" group-title="🇷🇺 ФЕДЕРАЛЬНЫЕ HD", СТС FHD
 #EXTGRP:🇷🇺 ФЕДЕРАЛЬНЫЕ HD
@@ -390,10 +393,10 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kinozal_6.m3
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kinozal_3.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc5MTU4NjQyNSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzkwOTgxNjI1LCJzZXNzaW9uX2lkIjoiNmY1NTIxNTRmZjU3ZmZmZWIyMDUyNjMyNTlmMTc5MDMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.X3-2gmBB37qft68AXRJ4IyzS-PagU-kEI7WaJIAC_0A
 #EXTINF:-1 tvg-id="national-geographic" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/NATGEO200.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", NATIONAL GEOGRAPHIC 
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-https://fs.uplink.kz/nat_geo/mono.m3u8?token=onlinetv
+https://bl.rutube.ru/livestream/2619fc295c16585ef018041d88f14db0/index.m3u8?s=33YSBORTlX_IGCdo38vLYQ&e=2091270834&scheme=https
 #EXTINF:-1 tvg-id="nat-geo-wild" tvg-name="NAT GEO WILD" tvg-logo="https://iptvx.one/picons/nat-geo-wild.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", NAT GEO WILD
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
-https://fs.uplink.kz/nat_geo_wild/mono.m3u8?token=onlinetv
+https://bl.rutube.ru/livestream/c11af26c0ab831ce6c37a4888056479b/index.m3u8?s=im6yTbLm47y4j9Be61H5bw&e=2091270835&scheme=https
 #EXTINF:-1 tvg-id="viasat-nature" tvg-name="VIJU NATURE" tvg-logo="https://fast.ntvplus.tv/files/image/79/84/30/-channel!9rl.png" group-title="🌏 ПОЗНАВАТЕЛЬНЫЕ", VIJU NATURE (Torrent TV) 
 #EXTGRP:🌏 ПОЗНАВАТЕЛЬНЫЕ
 http://127.0.0.1:6878/ace/getstream?id=2128074a1ebba9d320b148d25001b356f1057dda
