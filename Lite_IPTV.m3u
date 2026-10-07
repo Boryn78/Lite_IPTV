@@ -1962,7 +1962,7 @@ http://127.0.0.1:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kinopokaz_9.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc5MTU4NjQyNSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzkwOTgxNjI1LCJzZXNzaW9uX2lkIjoiNmY1NTIxNTRmZjU3ZmZmZWIyMDUyNjMyNTlmMTc5MDMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.X3-2gmBB37qft68AXRJ4IyzS-PagU-kEI7WaJIAC_0A
 #EXTINF:-1 tvg-id="kvn-tv" tvg-name="КВН ТВ" tvg-logo="https://iptvx.one/picons/kvn-tv.png" group-title="👀 РАЗНОЕ", КВН ТВ
 #EXTGRP:👀 РАЗНОЕ
-http://158.101.222.193:88/georgia_play.php?id=kvntv
+http://31.210.208.171:8080/kvn_tv/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-name="Новый игровой канал" tvg-id="nowy-igrowoj" tvg-logo="https://epg.iptvx.one/picons/nowy-igrowoj.png" group-title="👀 РАЗНОЕ", НОВЫЙ ИГРОВОЙ КАНАЛ
 #EXTGRP:👀 РАЗНОЕ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=NIK_SD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc5MTU4NjQyNSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzkwOTgxNjI1LCJzZXNzaW9uX2lkIjoiNmY1NTIxNTRmZjU3ZmZmZWIyMDUyNjMyNTlmMTc5MDMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.X3-2gmBB37qft68AXRJ4IyzS-PagU-kEI7WaJIAC_0A
