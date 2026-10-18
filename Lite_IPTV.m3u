@@ -267,7 +267,7 @@ https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv
 http://127.0.0.1:6878/ace/getstream?id=94ed8b55a5e30f9ce93b018c80fba3c0a29a3ce6
 #EXTINF:-1 tvg-id="kinosvidanie" tvg-name="КИНОСВИДАНИЕ" tvg-logo="https://iptvx.one/picons/kinosvidanie.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНОСВИДАНИЕ
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://5.188.159.128:8070/kinosvidanie/index.m3u8
+http://195.64.140.147:10045/45
 #EXTINF:-1 tvg-id="kinosvidanie" tvg-name="КИНОСВИДАНИЕ" tvg-logo="https://iptvx.one/picons/kinosvidanie.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНОСВИДАНИЕ HD (Torrent TV)
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://127.0.0.1:6878/ace/getstream?id=f5302ed56cf6af61378b2527524398558d9cddde
@@ -324,7 +324,7 @@ http://176.118.197.101/Kinokomediya/index.m3u8
 http://127.0.0.1:6878/ace/getstream?id=dfb83e3ff3c570ba7346641c827d89bd472a18a2
 #EXTINF:-1 tvg-id="kinoseria" tvg-name="КИНОСЕРИЯ" tvg-logo="https://iptvx.one/picons/kinoseria.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНОСЕРИЯ
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-https://s70378.cdn.ngenix.net/mnogo_tv/1/index.m3u8
+http://195.64.140.147:10048/48
 #EXTINF:-1 tvg-id="kinoseria" tvg-name="КИНОСЕРИЯ" tvg-logo="https://iptvx.one/picons/kinoseria.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНОСЕРИЯ HD (Torrent TV)
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://127.0.0.1:6878/ace/getstream?id=f4fbf1c1f58b77f1343675b0aeb7b1c22feebbbd
