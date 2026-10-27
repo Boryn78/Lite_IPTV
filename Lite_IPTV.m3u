@@ -184,7 +184,7 @@ http://127.0.0.1:6878/ace/getstream?id=af4baf7f76a3057eeea815c90747860e9fec488a
 http://185.221.213.254/live/stream113.php?seg=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXVdgFUtIMlEu_F3KDAwz3qP_ZxwikFOlvAWWX1UNsV7BQ&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="start-world" tvg-name="START WORLD" tvg-logo="http://epg.it999.ru/img2/6240.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", START WORLD
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-https://fs.uplink.kz/start_world/mono.m3u8?token=onlinetv
+http://185.221.213.254/live/stream113.php?seg=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXVsNakwGlEt63AmfqmzWtfVRAEzceWXOiXe3ZL45DoReg&token=Ym9yeW43ODpMYW5jZXIxNg==
 #EXTINF:-1 tvg-id="kineko" tvg-name="КИНЕКО" tvg-logo="https://iptvx.one/picons/kineko.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНЕКО
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kineko_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc5MzM5OTU4NiwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzkyNzk0Nzg2LCJzZXNzaW9uX2lkIjoiYmYxYmNjNTRmMzNiNDMxNTk3M2M1Y2UzYjExZDI2MWQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.zLCqoHLKrXtGToj6NJK1DKvfzPrjvrZQaD98qAi_z08
