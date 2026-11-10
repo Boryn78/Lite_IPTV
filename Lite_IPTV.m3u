@@ -726,15 +726,21 @@ http://31.210.208.171:8080/mult_i_muzika/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="solnce" tvg-name="СОЛНЦЕ" tvg-logo="https://iptvx.one/picons/solnce.png" group-title="🧸 ДЕТСКИЕ", СОЛНЦЕ
 #EXTGRP:🧸 ДЕТСКИЕ
 https://flussonic.mkpnet.ru/tv-ac43800065b9b1b7/video.m3u8
-#EXTINF:-1 tvg-id="ryzhy" tvg-name="РЫЖИЙ" tvg-logo="https://iptvx.one/picons/ryzhy.png" group-title="🧸 ДЕТСКИЕ", РЫЖИЙ  (Torrent TV)
+#EXTINF:-1 tvg-id="ryzhy" tvg-name="РЫЖИЙ" tvg-logo="https://iptvx.one/picons/ryzhy.png" group-title="🧸 ДЕТСКИЕ", РЫЖИЙ 
 #EXTGRP:🧸 ДЕТСКИЕ
-http://127.0.0.1:6878/ace/getstream?id=0ef17cf868ef54b443dd41516803276779b76aac
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Ryzhiy.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc5NDkxMjAyOSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzk0MzA3MjI5LCJzZXNzaW9uX2lkIjoiNDYzNWFiMjhmNmEzN2FjNmZjNDk3YWYxYWQ1MjE0OGIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Z9PqRRPqV7-I6JKav-ysQ6QAn_573i0as3lW8RJ04Qw
 #EXTINF:-1 tvg-name="О!" tvg-logo="https://karnei4.github.io/convert/index_files/o_.png" group-title="🧸 ДЕТСКИЕ", О!
 #EXTGRP:🧸 ДЕТСКИЕ
 https://fs.uplink.kz/o/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 tvg-name="УНИКУМ" tvg-logo="https://vestnik-lesnoy.ru/wp-content/uploads/2020/01/1576616446_un.jpg" group-title="🧸 ДЕТСКИЕ", УНИКУМ (Torrent TV)
+#EXTINF:-1 tvg-name="УНИКУМ" tvg-logo="https://vestnik-lesnoy.ru/wp-content/uploads/2020/01/1576616446_un.jpg" group-title="🧸 ДЕТСКИЕ", УНИКУМ
 #EXTGRP:🧸 ДЕТСКИЕ
-http://127.0.0.1:6878/ace/getstream?id=dc5cf63b879b13f10c439d90b82bd91a5ba957ee
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Unikum.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc5NDkxMjAyOSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzk0MzA3MjI5LCJzZXNzaW9uX2lkIjoiNDYzNWFiMjhmNmEzN2FjNmZjNDk3YWYxYWQ1MjE0OGIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Z9PqRRPqV7-I6JKav-ysQ6QAn_573i0as3lW8RJ04Qw
+#EXTINF:-1 tvg-id="chizhik" tvg-name="ЧИЖИК" tvg-logo="http://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL2NoaXpoaWtfaGQucG5n" group-title="🧸 ДЕТСКИЕ", ЧИЖИК
+#EXTGRP:🧸 ДЕТСКИЕ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Chizhik.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc5NDkxMjAyOSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzk0MzA3MjI5LCJzZXNzaW9uX2lkIjoiNDYzNWFiMjhmNmEzN2FjNmZjNDk3YWYxYWQ1MjE0OGIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Z9PqRRPqV7-I6JKav-ysQ6QAn_573i0as3lW8RJ04Qw
+#EXTINF:-1 tvg-name="FAMILYJAM" tvg-logo="https://epg.iptvx.one/picons/familyjam.png" group-title="🧸 ДЕТСКИЕ", FAMILYJAM
+#EXTGRP:🧸 ДЕТСКИЕ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=FamilyJam.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc5NDkxMjAyOSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzk0MzA3MjI5LCJzZXNzaW9uX2lkIjoiNDYzNWFiMjhmNmEzN2FjNmZjNDk3YWYxYWQ1MjE0OGIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Z9PqRRPqV7-I6JKav-ysQ6QAn_573i0as3lW8RJ04Qw
 #EXTINF:-1 tvg-name="ТНТ MUSIC" tvg-id="tnt-music" tvg-logo="https://iptvx.one/picons/tnt-music.png" group-title="🎵 МУЗЫКА", FON MUSIC
 #EXTGRP:🎵 МУЗЫКА
 https://bl.rutube.ru/livestream/5a294ae1ed12c44c7053301fb5fa9ba0/index.m3u8?s=JceB6vrstRdr3ilKJdagog&e=2091270865&scheme=https
@@ -1855,6 +1861,12 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kinozal_7.m3
 #EXTINF:-1 tvg-id="v-gostiax-u-skazki" tvg-name="В ГОСТЯХ У СКАЗКИ" tvg-logo="https://iptvx.one/picons/v-gostiax-u-skazki.png" group-title="🧸 ДЕТСКИЕ", В ГОСТЯХ У СКАЗКИ
 #EXTGRP:🧸 ДЕТСКИЕ
 http://31.210.208.171:8080/v_gostyah_u_skazki/index.m3u8?token=+W2MSER
+#EXTINF:-1 tvg-id="tiptop" tvg-name="ТипТоп" tvg-logo="https://iptvx.one/picons/tiptop.png" group-title="🧸 ДЕТСКИЕ", ТИП ТОП HD
+#EXTGRP:🧸 ДЕТСКИЕ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=TipTop.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc5NDkxMjAyOSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzk0MzA3MjI5LCJzZXNzaW9uX2lkIjoiNDYzNWFiMjhmNmEzN2FjNmZjNDk3YWYxYWQ1MjE0OGIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Z9PqRRPqV7-I6JKav-ysQ6QAn_573i0as3lW8RJ04Qw
+#EXTINF:-1 tvg-id="detsky-mir" tvg-name="ДЕТСКИЙ МИР" tvg-logo="https://iptvx.one/picons/detsky-mir.png" group-title="🧸 ДЕТСКИЕ", ДЕТСКИЙ МИР
+#EXTGRP:🧸 ДЕТСКИЕ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Detskiy_Mir.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc5NDkxMjAyOSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzk0MzA3MjI5LCJzZXNzaW9uX2lkIjoiNDYzNWFiMjhmNmEzN2FjNmZjNDk3YWYxYWQ1MjE0OGIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Z9PqRRPqV7-I6JKav-ysQ6QAn_573i0as3lW8RJ04Qw
 #EXTINF:-1 tvg-name="OCKO EXPRES" tvg-logo="https://iptvx.one/picons/ocko-expres-cz.png" group-title="🎵 МУЗЫКА", OCKO EXPRES
 #EXTGRP:🎵 МУЗЫКА
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
@@ -2569,6 +2581,12 @@ https://stream-msk-10.ott.tricolor.tv/dtv/id905_MSKSG-PVR-1--Kinozal_10/03/plst.
 #EXTINF:-1 tvg-name="Зал 18" tvg-id="zal-18-tricolor" tvg-logo="https://sun1-17.userapi.com/q_MEzi3fbrwSDeI6O4WGwHtp-LB94t3TrMNMYA/yXnf6Z4ND0s.jpg" group-title="🧸 ДЕТСКИЕ", ПРОСТОКВАШИНО
 #EXTGRP:🧸 ДЕТСКИЕ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kinopokaz_3.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc5NDkxMjAyOSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzk0MzA3MjI5LCJzZXNzaW9uX2lkIjoiNDYzNWFiMjhmNmEzN2FjNmZjNDk3YWYxYWQ1MjE0OGIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Z9PqRRPqV7-I6JKav-ysQ6QAn_573i0as3lW8RJ04Qw
+#EXTINF:-1 tvg-name="КИНОМУЛЬТ" tvg-logo="https://iptvx.one/picons/kinomult.png" group-title="🧸 ДЕТСКИЕ", КИНОМУЛЬТ
+#EXTGRP:🧸 ДЕТСКИЕ
+https://stream-msk-17.ott.tricolor.tv/dtv/id944_MSKSG-PVR-1--KinoMult_SD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc5NDkxMjAyOSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzk0MzA3MjI5LCJzZXNzaW9uX2lkIjoiNDYzNWFiMjhmNmEzN2FjNmZjNDk3YWYxYWQ1MjE0OGIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Z9PqRRPqV7-I6JKav-ysQ6QAn_573i0as3lW8RJ04Qw
+#EXTINF:-1 tvg-name="Тарарам!" tvg-id="tararam" tvg-logo="https://epg.iptvx.one/picons/tararam.png" group-title="🧸 ДЕТСКИЕ", ТАРАРАМ!
+#EXTGRP:🧸 ДЕТСКИЕ
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=TARARAM_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc5NDkxMjAyOSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzk0MzA3MjI5LCJzZXNzaW9uX2lkIjoiNDYzNWFiMjhmNmEzN2FjNmZjNDk3YWYxYWQ1MjE0OGIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Z9PqRRPqV7-I6JKav-ysQ6QAn_573i0as3lW8RJ04Qw
 #EXTINF:-1 tvg-name="SCREAM" tvg-logo="https://iptvx.one/picons/scream.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", SCREAM
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Scream.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc5NDkxMjAyOSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzk0MzA3MjI5LCJzZXNzaW9uX2lkIjoiNDYzNWFiMjhmNmEzN2FjNmZjNDk3YWYxYWQ1MjE0OGIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Z9PqRRPqV7-I6JKav-ysQ6QAn_573i0as3lW8RJ04Qw
