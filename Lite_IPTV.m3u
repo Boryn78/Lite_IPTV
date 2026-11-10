@@ -1849,18 +1849,12 @@ http://31.210.208.171:8080/kinouzhas/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="kinouzhas" tvg-name="КИНОУЖАС" tvg-logo="https://iptvx.one/picons/kinouzhas.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНОУЖАС HD (Torrent TV)
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://127.0.0.1:6878/ace/getstream?id=fd386c089ec9cc7d1d75ef5d59cf2199211515e7
-#EXTINF:-1 tvg-id="tiptop" tvg-name="ТипТоп" tvg-logo="https://iptvx.one/picons/tiptop.png" group-title="🧸 ДЕТСКИЕ", ТИП ТОП HD
-#EXTGRP:🧸 ДЕТСКИЕ
-https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=TipTop.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNTAyNTUwMzAxNzA4NCIsImV4cCI6MTc5NDg5OTI2MiwiaHdpZCI6IjgxYzFkMWM1ZDE1YTIzN2NiOTBiZGU4ZGJlNzU1ODVmZDVhZTU5Y2M4YjNjNzlhZGMwMjQyMTExMjgxNGMyNTAiLCJsYXN0X3JlcV9kYXRlIjoxNzk0Mjk0NDYyLCJzZXNzaW9uX2lkIjoiMDQ2ZDFkNWRhZmFhNDkwNjRiZjFkNGViNzAyNDM1ZDEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ZolchBvxu-AuEPbFHnnUJRiuzW6adllq9jIt-zrUP9g
-#EXTINF:-1 tvg-id="detsky-mir" tvg-name="ДЕТСКИЙ МИР" tvg-logo="https://iptvx.one/picons/detsky-mir.png" group-title="🧸 ДЕТСКИЕ", ДЕТСКИЙ МИР
-#EXTGRP:🧸 ДЕТСКИЕ
-https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Detskiy_Mir.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNTAyNTUwMzAxNzA4NCIsImV4cCI6MTc5NDg5OTI2MiwiaHdpZCI6IjgxYzFkMWM1ZDE1YTIzN2NiOTBiZGU4ZGJlNzU1ODVmZDVhZTU5Y2M4YjNjNzlhZGMwMjQyMTExMjgxNGMyNTAiLCJsYXN0X3JlcV9kYXRlIjoxNzk0Mjk0NDYyLCJzZXNzaW9uX2lkIjoiMDQ2ZDFkNWRhZmFhNDkwNjRiZjFkNGViNzAyNDM1ZDEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ZolchBvxu-AuEPbFHnnUJRiuzW6adllq9jIt-zrUP9g
 #EXTINF:-1 tvg-name="Зал 7" tvg-id="zal-07-tricolor" tvg-logo="https://epg.iptvx.one/picons/zal-07-tricolor.png" group-title="🧸 ДЕТСКИЕ", ANGRY BIRDS
 #EXTGRP:🧸 ДЕТСКИЕ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kinozal_7.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNTAyNTUwMzAxNzA4NCIsImV4cCI6MTc5NDg5OTI2MiwiaHdpZCI6IjgxYzFkMWM1ZDE1YTIzN2NiOTBiZGU4ZGJlNzU1ODVmZDVhZTU5Y2M4YjNjNzlhZGMwMjQyMTExMjgxNGMyNTAiLCJsYXN0X3JlcV9kYXRlIjoxNzk0Mjk0NDYyLCJzZXNzaW9uX2lkIjoiMDQ2ZDFkNWRhZmFhNDkwNjRiZjFkNGViNzAyNDM1ZDEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ZolchBvxu-AuEPbFHnnUJRiuzW6adllq9jIt-zrUP9g
 #EXTINF:-1 tvg-id="v-gostiax-u-skazki" tvg-name="В ГОСТЯХ У СКАЗКИ" tvg-logo="https://iptvx.one/picons/v-gostiax-u-skazki.png" group-title="🧸 ДЕТСКИЕ", В ГОСТЯХ У СКАЗКИ
 #EXTGRP:🧸 ДЕТСКИЕ
-https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=V_gostyakh_u_skazki.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNTAyNTUwMzAxNzA4NCIsImV4cCI6MTc5NDg5OTI2MiwiaHdpZCI6IjgxYzFkMWM1ZDE1YTIzN2NiOTBiZGU4ZGJlNzU1ODVmZDVhZTU5Y2M4YjNjNzlhZGMwMjQyMTExMjgxNGMyNTAiLCJsYXN0X3JlcV9kYXRlIjoxNzk0Mjk0NDYyLCJzZXNzaW9uX2lkIjoiMDQ2ZDFkNWRhZmFhNDkwNjRiZjFkNGViNzAyNDM1ZDEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ZolchBvxu-AuEPbFHnnUJRiuzW6adllq9jIt-zrUP9g
+http://31.210.208.171:8080/v_gostyah_u_skazki/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-name="OCKO EXPRES" tvg-logo="https://iptvx.one/picons/ocko-expres-cz.png" group-title="🎵 МУЗЫКА", OCKO EXPRES
 #EXTGRP:🎵 МУЗЫКА
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
