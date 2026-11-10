@@ -720,18 +720,18 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
 #EXTINF:-1 tvg-id="ani" tvg-name="ANI" tvg-logo="https://karnei4.github.io/convert/index_files/ani.png" group-title="🧸 ДЕТСКИЕ", ANI
 #EXTGRP:🧸 ДЕТСКИЕ
 http://185.46.16.239:8000/Ani
-#EXTINF:-1 tvg-id="284" tvg-name="МУЛЬТИМУЗЫКА" tvg-logo="https://karnei4.github.io/convert/multimuzika.png" group-title="🧸 ДЕТСКИЕ", МУЛЬТИМУЗЫКА
+#EXTINF:-1 tvg-id="284" tvg-name="МУЛЬТИМУЗЫКА" tvg-logo="https://karnei4.github.io/convert/multimuzika.png" group-title="🧸 ДЕТСКИЕ", МУЛЬТИМУЗЫКА (Torrent TV)
 #EXTGRP:🧸 ДЕТСКИЕ
-http://31.210.208.171:8080/mult_i_muzika/index.m3u8?token=+W2MSER
+http://127.0.0.1:6878/ace/getstream?id=5cb13f2670c56d4e5d507c2f963136adad34aa19
 #EXTINF:-1 tvg-id="solnce" tvg-name="СОЛНЦЕ" tvg-logo="https://iptvx.one/picons/solnce.png" group-title="🧸 ДЕТСКИЕ", СОЛНЦЕ
 #EXTGRP:🧸 ДЕТСКИЕ
 https://flussonic.mkpnet.ru/tv-ac43800065b9b1b7/video.m3u8
 #EXTINF:-1 tvg-id="ryzhy" tvg-name="РЫЖИЙ" tvg-logo="https://iptvx.one/picons/ryzhy.png" group-title="🧸 ДЕТСКИЕ", РЫЖИЙ 
 #EXTGRP:🧸 ДЕТСКИЕ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Ryzhiy.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc5NDkxMjAyOSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzk0MzA3MjI5LCJzZXNzaW9uX2lkIjoiNDYzNWFiMjhmNmEzN2FjNmZjNDk3YWYxYWQ1MjE0OGIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Z9PqRRPqV7-I6JKav-ysQ6QAn_573i0as3lW8RJ04Qw
-#EXTINF:-1 tvg-name="О!" tvg-logo="https://karnei4.github.io/convert/index_files/o_.png" group-title="🧸 ДЕТСКИЕ", О!
+#EXTINF:-1 tvg-name="О!" tvg-logo="https://karnei4.github.io/convert/index_files/o_.png" group-title="🧸 ДЕТСКИЕ", О! (Torrent TV)
 #EXTGRP:🧸 ДЕТСКИЕ
-https://fs.uplink.kz/o/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+http://127.0.0.1:6878/ace/getstream?id=f629f91eaeee18118080c0211516469495af04f2
 #EXTINF:-1 tvg-name="УНИКУМ" tvg-logo="https://vestnik-lesnoy.ru/wp-content/uploads/2020/01/1576616446_un.jpg" group-title="🧸 ДЕТСКИЕ", УНИКУМ
 #EXTGRP:🧸 ДЕТСКИЕ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Unikum.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc5NDkxMjAyOSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzk0MzA3MjI5LCJzZXNzaW9uX2lkIjoiNDYzNWFiMjhmNmEzN2FjNmZjNDk3YWYxYWQ1MjE0OGIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Z9PqRRPqV7-I6JKav-ysQ6QAn_573i0as3lW8RJ04Qw
