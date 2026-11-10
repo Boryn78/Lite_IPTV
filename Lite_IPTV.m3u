@@ -719,28 +719,22 @@ https://flussonic.mkpnet.ru/tv-d66fcf59f2f4c966/video.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
 #EXTINF:-1 tvg-id="ani" tvg-name="ANI" tvg-logo="https://karnei4.github.io/convert/index_files/ani.png" group-title="🧸 ДЕТСКИЕ", ANI
 #EXTGRP:🧸 ДЕТСКИЕ
-https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Ani.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNTAyNTUwMzAxNzA4NCIsImV4cCI6MTc5NDg5OTI2MiwiaHdpZCI6IjgxYzFkMWM1ZDE1YTIzN2NiOTBiZGU4ZGJlNzU1ODVmZDVhZTU5Y2M4YjNjNzlhZGMwMjQyMTExMjgxNGMyNTAiLCJsYXN0X3JlcV9kYXRlIjoxNzk0Mjk0NDYyLCJzZXNzaW9uX2lkIjoiMDQ2ZDFkNWRhZmFhNDkwNjRiZjFkNGViNzAyNDM1ZDEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ZolchBvxu-AuEPbFHnnUJRiuzW6adllq9jIt-zrUP9g
+http://185.46.16.239:8000/Ani
 #EXTINF:-1 tvg-id="284" tvg-name="МУЛЬТИМУЗЫКА" tvg-logo="https://karnei4.github.io/convert/multimuzika.png" group-title="🧸 ДЕТСКИЕ", МУЛЬТИМУЗЫКА
 #EXTGRP:🧸 ДЕТСКИЕ
-https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Multimuzyka.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNTAyNTUwMzAxNzA4NCIsImV4cCI6MTc5NDg5OTI2MiwiaHdpZCI6IjgxYzFkMWM1ZDE1YTIzN2NiOTBiZGU4ZGJlNzU1ODVmZDVhZTU5Y2M4YjNjNzlhZGMwMjQyMTExMjgxNGMyNTAiLCJsYXN0X3JlcV9kYXRlIjoxNzk0Mjk0NDYyLCJzZXNzaW9uX2lkIjoiMDQ2ZDFkNWRhZmFhNDkwNjRiZjFkNGViNzAyNDM1ZDEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ZolchBvxu-AuEPbFHnnUJRiuzW6adllq9jIt-zrUP9g
+http://31.210.208.171:8080/mult_i_muzika/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="solnce" tvg-name="СОЛНЦЕ" tvg-logo="https://iptvx.one/picons/solnce.png" group-title="🧸 ДЕТСКИЕ", СОЛНЦЕ
 #EXTGRP:🧸 ДЕТСКИЕ
-https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Disney.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNTAyNTUwMzAxNzA4NCIsImV4cCI6MTc5NDg5OTI2MiwiaHdpZCI6IjgxYzFkMWM1ZDE1YTIzN2NiOTBiZGU4ZGJlNzU1ODVmZDVhZTU5Y2M4YjNjNzlhZGMwMjQyMTExMjgxNGMyNTAiLCJsYXN0X3JlcV9kYXRlIjoxNzk0Mjk0NDYyLCJzZXNzaW9uX2lkIjoiMDQ2ZDFkNWRhZmFhNDkwNjRiZjFkNGViNzAyNDM1ZDEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ZolchBvxu-AuEPbFHnnUJRiuzW6adllq9jIt-zrUP9g
-#EXTINF:-1 tvg-id="ryzhy" tvg-name="РЫЖИЙ" tvg-logo="https://iptvx.one/picons/ryzhy.png" group-title="🧸 ДЕТСКИЕ", РЫЖИЙ
+https://flussonic.mkpnet.ru/tv-ac43800065b9b1b7/video.m3u8
+#EXTINF:-1 tvg-id="ryzhy" tvg-name="РЫЖИЙ" tvg-logo="https://iptvx.one/picons/ryzhy.png" group-title="🧸 ДЕТСКИЕ", РЫЖИЙ  (Torrent TV)
 #EXTGRP:🧸 ДЕТСКИЕ
-https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Ryzhiy.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNTAyNTUwMzAxNzA4NCIsImV4cCI6MTc5NDg5OTI2MiwiaHdpZCI6IjgxYzFkMWM1ZDE1YTIzN2NiOTBiZGU4ZGJlNzU1ODVmZDVhZTU5Y2M4YjNjNzlhZGMwMjQyMTExMjgxNGMyNTAiLCJsYXN0X3JlcV9kYXRlIjoxNzk0Mjk0NDYyLCJzZXNzaW9uX2lkIjoiMDQ2ZDFkNWRhZmFhNDkwNjRiZjFkNGViNzAyNDM1ZDEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ZolchBvxu-AuEPbFHnnUJRiuzW6adllq9jIt-zrUP9g
+http://127.0.0.1:6878/ace/getstream?id=0ef17cf868ef54b443dd41516803276779b76aac
 #EXTINF:-1 tvg-name="О!" tvg-logo="https://karnei4.github.io/convert/index_files/o_.png" group-title="🧸 ДЕТСКИЕ", О!
 #EXTGRP:🧸 ДЕТСКИЕ
 https://fs.uplink.kz/o/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 tvg-name="УНИКУМ" tvg-logo="https://vestnik-lesnoy.ru/wp-content/uploads/2020/01/1576616446_un.jpg" group-title="🧸 ДЕТСКИЕ", УНИКУМ
+#EXTINF:-1 tvg-name="УНИКУМ" tvg-logo="https://vestnik-lesnoy.ru/wp-content/uploads/2020/01/1576616446_un.jpg" group-title="🧸 ДЕТСКИЕ", УНИКУМ (Torrent TV)
 #EXTGRP:🧸 ДЕТСКИЕ
-https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Unikum.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNTAyNTUwMzAxNzA4NCIsImV4cCI6MTc5NDg5OTI2MiwiaHdpZCI6IjgxYzFkMWM1ZDE1YTIzN2NiOTBiZGU4ZGJlNzU1ODVmZDVhZTU5Y2M4YjNjNzlhZGMwMjQyMTExMjgxNGMyNTAiLCJsYXN0X3JlcV9kYXRlIjoxNzk0Mjk0NDYyLCJzZXNzaW9uX2lkIjoiMDQ2ZDFkNWRhZmFhNDkwNjRiZjFkNGViNzAyNDM1ZDEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ZolchBvxu-AuEPbFHnnUJRiuzW6adllq9jIt-zrUP9g
-#EXTINF:-1 tvg-id="chizhik" tvg-name="ЧИЖИК" tvg-logo="http://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL2NoaXpoaWtfaGQucG5n" group-title="🧸 ДЕТСКИЕ", ЧИЖИК
-#EXTGRP:🧸 ДЕТСКИЕ
-https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Chizhik.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNTAyNTUwMzAxNzA4NCIsImV4cCI6MTc5NDg5OTI2MiwiaHdpZCI6IjgxYzFkMWM1ZDE1YTIzN2NiOTBiZGU4ZGJlNzU1ODVmZDVhZTU5Y2M4YjNjNzlhZGMwMjQyMTExMjgxNGMyNTAiLCJsYXN0X3JlcV9kYXRlIjoxNzk0Mjk0NDYyLCJzZXNzaW9uX2lkIjoiMDQ2ZDFkNWRhZmFhNDkwNjRiZjFkNGViNzAyNDM1ZDEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ZolchBvxu-AuEPbFHnnUJRiuzW6adllq9jIt-zrUP9g
-#EXTINF:-1 tvg-name="FAMILYJAM" tvg-logo="https://epg.iptvx.one/picons/familyjam.png" group-title="🧸 ДЕТСКИЕ", FAMILYJAM
-#EXTGRP:🧸 ДЕТСКИЕ
-https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=FamilyJam.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNTAyNTUwMzAxNzA4NCIsImV4cCI6MTc5NDg5OTI2MiwiaHdpZCI6IjgxYzFkMWM1ZDE1YTIzN2NiOTBiZGU4ZGJlNzU1ODVmZDVhZTU5Y2M4YjNjNzlhZGMwMjQyMTExMjgxNGMyNTAiLCJsYXN0X3JlcV9kYXRlIjoxNzk0Mjk0NDYyLCJzZXNzaW9uX2lkIjoiMDQ2ZDFkNWRhZmFhNDkwNjRiZjFkNGViNzAyNDM1ZDEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ZolchBvxu-AuEPbFHnnUJRiuzW6adllq9jIt-zrUP9g
+http://127.0.0.1:6878/ace/getstream?id=dc5cf63b879b13f10c439d90b82bd91a5ba957ee
 #EXTINF:-1 tvg-name="ТНТ MUSIC" tvg-id="tnt-music" tvg-logo="https://iptvx.one/picons/tnt-music.png" group-title="🎵 МУЗЫКА", FON MUSIC
 #EXTGRP:🎵 МУЗЫКА
 https://bl.rutube.ru/livestream/5a294ae1ed12c44c7053301fb5fa9ba0/index.m3u8?s=JceB6vrstRdr3ilKJdagog&e=2091270865&scheme=https
