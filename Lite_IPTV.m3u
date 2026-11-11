@@ -698,41 +698,41 @@ http://127.0.0.1:6878/ace/getstream?id=6c82a952053419ef358907fc2fc52151626be0b7
 http://127.0.0.1:6878/ace/getstream?id=6c76dccd15ff935fb1442223529d1aecc8f515d8
 #EXTINF:-1 tvg-id="sts-kids-hd" tvg-name="СТС KIDS" tvg-logo="https://iptvx.one/picons/sts-kids-hd.png" group-title="🧸 ДЕТСКИЕ", СТС KIDS
 #EXTGRP:🧸 ДЕТСКИЕ
-https://flussonic.mkpnet.ru/tv-4af112c31b77e2a8/video.m3u8
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=CTC_Kids.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc5NDkxMjAyOSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzk0MzA3MjI5LCJzZXNzaW9uX2lkIjoiNDYzNWFiMjhmNmEzN2FjNmZjNDk3YWYxYWQ1MjE0OGIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Z9PqRRPqV7-I6JKav-ysQ6QAn_573i0as3lW8RJ04Qw
 #EXTINF:-1 tvg-name="МУЛЬТИЛАНДИЯ" tvg-logo="https://iptvx.one/picons/multimania.png" group-title="🧸 ДЕТСКИЕ", МУЛЬТИЛАНДИЯ
 #EXTGRP:🧸 ДЕТСКИЕ
-https://flussonic.mkpnet.ru/tv-89530153f25733fe/video.m3u8
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Multilandiya.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc5NDkxMjAyOSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzk0MzA3MjI5LCJzZXNzaW9uX2lkIjoiNDYzNWFiMjhmNmEzN2FjNmZjNDk3YWYxYWQ1MjE0OGIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Z9PqRRPqV7-I6JKav-ysQ6QAn_573i0as3lW8RJ04Qw
 #EXTINF:-1 tvg-name="Мульт" tvg-logo="https://iptvx.one/picons/mult.png" group-title="🧸 ДЕТСКИЕ", МУЛЬТ HD
 #EXTGRP:🧸 ДЕТСКИЕ
-http://31.210.208.171:8080/mult_HD/index.m3u8?token=+W2MSER
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Mult_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc5NDkxMjAyOSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzk0MzA3MjI5LCJzZXNzaW9uX2lkIjoiNDYzNWFiMjhmNmEzN2FjNmZjNDk3YWYxYWQ1MjE0OGIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Z9PqRRPqV7-I6JKav-ysQ6QAn_573i0as3lW8RJ04Qw
 #EXTINF:-1 tvg-id="2438" tvg-name="КАПИТАН ФАНТАСТИКА HD" tvg-logo="https://karnei4.github.io/convert/kapitan_fantastika.png" group-title="🧸 ДЕТСКИЕ", КАПИТАН ФАНТАСТИКА HD
 #EXTGRP:🧸 ДЕТСКИЕ
-http://stream.mcquack.net/144/tracks-v1a1/mono.ts.m3u8
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=HD_Ginger.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc5NDkxMjAyOSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzk0MzA3MjI5LCJzZXNzaW9uX2lkIjoiNDYzNWFiMjhmNmEzN2FjNmZjNDk3YWYxYWQ1MjE0OGIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Z9PqRRPqV7-I6JKav-ysQ6QAn_573i0as3lW8RJ04Qw
 #EXTINF:-1 tvg-id="tiji" tvg-name="TIJI" tvg-logo="https://iptvx.one/picons/tiji.png" group-title="🧸 ДЕТСКИЕ", TIJI
 #EXTGRP:🧸 ДЕТСКИЕ
-https://flussonic.mkpnet.ru/tv-3848dd8604a262e0/video.m3u8
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Tiji.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc5NDkxMjAyOSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzk0MzA3MjI5LCJzZXNzaW9uX2lkIjoiNDYzNWFiMjhmNmEzN2FjNmZjNDk3YWYxYWQ1MjE0OGIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Z9PqRRPqV7-I6JKav-ysQ6QAn_573i0as3lW8RJ04Qw
 #EXTINF:-1 tvg-name="GULLI GIRL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Gulli_Girl_%282018-%D0%BD.%D0%B2.%29.png" group-title="🧸 ДЕТСКИЕ", GULLI GIRL
 #EXTGRP:🧸 ДЕТСКИЕ
-https://flussonic.mkpnet.ru/tv-d66fcf59f2f4c966/video.m3u8
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Gulli.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc5NDkxMjAyOSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzk0MzA3MjI5LCJzZXNzaW9uX2lkIjoiNDYzNWFiMjhmNmEzN2FjNmZjNDk3YWYxYWQ1MjE0OGIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Z9PqRRPqV7-I6JKav-ysQ6QAn_573i0as3lW8RJ04Qw
 #EXTINF:-1 tvg-id="karusel" tvg-name="КАРУСЕЛЬ" tvg-logo="https://iptvx.one/picons/karusel.png" group-title="🧸 ДЕТСКИЕ", КАРУСЕЛЬ
 #EXTGRP:🧸 ДЕТСКИЕ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
 #EXTINF:-1 tvg-id="ani" tvg-name="ANI" tvg-logo="https://karnei4.github.io/convert/index_files/ani.png" group-title="🧸 ДЕТСКИЕ", ANI
 #EXTGRP:🧸 ДЕТСКИЕ
-http://185.46.16.239:8000/Ani
-#EXTINF:-1 tvg-id="284" tvg-name="МУЛЬТИМУЗЫКА" tvg-logo="https://karnei4.github.io/convert/multimuzika.png" group-title="🧸 ДЕТСКИЕ", МУЛЬТИМУЗЫКА (Torrent TV)
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Ani.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc5NDkxMjAyOSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzk0MzA3MjI5LCJzZXNzaW9uX2lkIjoiNDYzNWFiMjhmNmEzN2FjNmZjNDk3YWYxYWQ1MjE0OGIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Z9PqRRPqV7-I6JKav-ysQ6QAn_573i0as3lW8RJ04Qw
+#EXTINF:-1 tvg-id="284" tvg-name="МУЛЬТИМУЗЫКА" tvg-logo="https://karnei4.github.io/convert/multimuzika.png" group-title="🧸 ДЕТСКИЕ", МУЛЬТИМУЗЫКА
 #EXTGRP:🧸 ДЕТСКИЕ
-http://127.0.0.1:6878/ace/getstream?id=5cb13f2670c56d4e5d507c2f963136adad34aa19
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Multimuzyka.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc5NDkxMjAyOSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzk0MzA3MjI5LCJzZXNzaW9uX2lkIjoiNDYzNWFiMjhmNmEzN2FjNmZjNDk3YWYxYWQ1MjE0OGIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Z9PqRRPqV7-I6JKav-ysQ6QAn_573i0as3lW8RJ04Qw
 #EXTINF:-1 tvg-id="solnce" tvg-name="СОЛНЦЕ" tvg-logo="https://iptvx.one/picons/solnce.png" group-title="🧸 ДЕТСКИЕ", СОЛНЦЕ
 #EXTGRP:🧸 ДЕТСКИЕ
-https://flussonic.mkpnet.ru/tv-ac43800065b9b1b7/video.m3u8
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Disney.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc5NDkxMjAyOSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzk0MzA3MjI5LCJzZXNzaW9uX2lkIjoiNDYzNWFiMjhmNmEzN2FjNmZjNDk3YWYxYWQ1MjE0OGIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Z9PqRRPqV7-I6JKav-ysQ6QAn_573i0as3lW8RJ04Qw
 #EXTINF:-1 tvg-id="ryzhy" tvg-name="РЫЖИЙ" tvg-logo="https://iptvx.one/picons/ryzhy.png" group-title="🧸 ДЕТСКИЕ", РЫЖИЙ 
 #EXTGRP:🧸 ДЕТСКИЕ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Ryzhiy.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc5NDkxMjAyOSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzk0MzA3MjI5LCJzZXNzaW9uX2lkIjoiNDYzNWFiMjhmNmEzN2FjNmZjNDk3YWYxYWQ1MjE0OGIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Z9PqRRPqV7-I6JKav-ysQ6QAn_573i0as3lW8RJ04Qw
 #EXTINF:-1 tvg-name="О!" tvg-logo="https://karnei4.github.io/convert/index_files/o_.png" group-title="🧸 ДЕТСКИЕ", О! (Torrent TV)
 #EXTGRP:🧸 ДЕТСКИЕ
 http://127.0.0.1:6878/ace/getstream?id=f629f91eaeee18118080c0211516469495af04f2
-#EXTINF:-1 tvg-name="УНИКУМ" tvg-logo="https://vestnik-lesnoy.ru/wp-content/uploads/2020/01/1576616446_un.jpg" group-title="🧸 ДЕТСКИЕ", УНИКУМ
+#EXTINF:-1 tvg-id="detsky" tvg-name="Детский" tvg-logo="https://epg.iptvx.one/picons/detsky.png" group-title="🧸 ДЕТСКИЕ", ДЕТСКИЙ
 #EXTGRP:🧸 ДЕТСКИЕ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Unikum.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc5NDkxMjAyOSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzk0MzA3MjI5LCJzZXNzaW9uX2lkIjoiNDYzNWFiMjhmNmEzN2FjNmZjNDk3YWYxYWQ1MjE0OGIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Z9PqRRPqV7-I6JKav-ysQ6QAn_573i0as3lW8RJ04Qw
 #EXTINF:-1 tvg-id="chizhik" tvg-name="ЧИЖИК" tvg-logo="http://img.smotreshka.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL2NoaXpoaWtfaGQucG5n" group-title="🧸 ДЕТСКИЕ", ЧИЖИК
