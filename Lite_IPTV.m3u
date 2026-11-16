@@ -566,7 +566,7 @@ https://liteiptv.ucoz.net/AceServe_156.mov
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 #EXTINF:-1 tvg-id="match-tv" tvg-name="МАТЧ! ТВ" tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="🏅 СПОРТ", МАТЧ! HD
 #EXTGRP:🏅 СПОРТ
-https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=p-_20YMPNWBp3A-q0HdO5A&e=2094126745&scheme=https
+https://cdngw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=match.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc5NTQ3MTEwMSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzk0ODY2MzAxLCJzZXNzaW9uX2lkIjoiYmVjY2ZiMDQ4M2QwM2VkMTAyNTc3YTY5ZWIyNGRmZDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.n_Bf689su8HZVgVA3pRbzfB862R8Cf9xJzZuDOt7UKc
 #EXTINF:-1 tvg-id="match-tv" tvg-name="МАТЧ! ТВ" tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="🏅 СПОРТ", МАТЧ! FHD 50 (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
@@ -1854,7 +1854,7 @@ http://127.0.0.1:6878/ace/getstream?id=fd386c089ec9cc7d1d75ef5d59cf2199211515e7
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kinozal_7.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc5NTQ3MTEwMSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzk0ODY2MzAxLCJzZXNzaW9uX2lkIjoiYmVjY2ZiMDQ4M2QwM2VkMTAyNTc3YTY5ZWIyNGRmZDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.n_Bf689su8HZVgVA3pRbzfB862R8Cf9xJzZuDOt7UKc
 #EXTINF:-1 tvg-id="v-gostiax-u-skazki" tvg-name="В ГОСТЯХ У СКАЗКИ" tvg-logo="https://iptvx.one/picons/v-gostiax-u-skazki.png" group-title="🧸 ДЕТСКИЕ", В ГОСТЯХ У СКАЗКИ
 #EXTGRP:🧸 ДЕТСКИЕ
-http://31.210.208.171:8080/v_gostyah_u_skazki/index.m3u8?token=+W2MSER
+https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=V_gostyakh_u_skazki.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc5NTQ3MTEwMSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzk0ODY2MzAxLCJzZXNzaW9uX2lkIjoiYmVjY2ZiMDQ4M2QwM2VkMTAyNTc3YTY5ZWIyNGRmZDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.n_Bf689su8HZVgVA3pRbzfB862R8Cf9xJzZuDOt7UKc
 #EXTINF:-1 tvg-id="tiptop" tvg-name="ТипТоп" tvg-logo="https://iptvx.one/picons/tiptop.png" group-title="🧸 ДЕТСКИЕ", ТИП ТОП HD
 #EXTGRP:🧸 ДЕТСКИЕ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=TipTop.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc5NTQ3MTEwMSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzk0ODY2MzAxLCJzZXNzaW9uX2lkIjoiYmVjY2ZiMDQ4M2QwM2VkMTAyNTc3YTY5ZWIyNGRmZDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.n_Bf689su8HZVgVA3pRbzfB862R8Cf9xJzZuDOt7UKc
