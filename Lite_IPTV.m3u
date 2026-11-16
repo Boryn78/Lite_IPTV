@@ -2601,7 +2601,7 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=VHSka_HD.m3u
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=VHS_Serial_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc5NDkxMjAyOSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzk0MzA3MjI5LCJzZXNzaW9uX2lkIjoiNDYzNWFiMjhmNmEzN2FjNmZjNDk3YWYxYWQ1MjE0OGIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Z9PqRRPqV7-I6JKav-ysQ6QAn_573i0as3lW8RJ04Qw
 #EXTINF:-1 tvg-name="TV XXI" tvg-id="tvxxi" tvg-logo="https://epg.iptvx.one/picons/tvxxi.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", TV XXI
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://31.210.208.171:8080/xxi/index.m3u8?token=+W2MSER
+http://46.53.200.153:7777/play/TV-21M/index.m3u8
 #EXTINF:-1  tvg-name="Музыка 2 International" tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-muzyka-2-international.jpg?itok=QBzJqaoB" group-title="🎵 МУЗЫКА", Музыка 2 International
 #EXTGRP:🎵 МУЗЫКА
 http://kino-1.catcast.tv/content/37742/index.m3u8
