@@ -1498,7 +1498,7 @@ http://stream.mcquack.net/57/index.m3u8
 http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="playboy-tv" tvg-name="PLAYBOY TV" tvg-logo="https://karnei4.github.io/convert/Playboy_TV_(18).png" group-title="💘 ВЗРОСЛЫЕ", PLAYBOY TV
 #EXTGRP:💘 ВЗРОСЛЫЕ
-http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+http://stream.mcquack.net/290/index.m3u8
 #EXTINF:-1 tvg-id="brazzers-tv-europe-ru" agerestriction="0" tvg-name="BRAZZERS TV" tvg-logo="https://epg.iptvx.one/picons/brazzers.png" group-title="💘 ВЗРОСЛЫЕ", BRAZZERS TV
 #EXTGRP:💘 ВЗРОСЛЫЕ
 http://45.145.32.13:20440/brazzers/index.m3u8?token=test
@@ -1514,15 +1514,12 @@ http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="extasytv" tvg-name="EXTASY TV" tvg-logo="https://iptvx.one/picons/extasytv.png" group-title="💘 ВЗРОСЛЫЕ", EXTASY TV
 #EXTGRP:💘 ВЗРОСЛЫЕ
 http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="penthouse-gold" tvg-name="Penthouse Gold HD" tvg-logo="https://epg.iptvx.one/picons/penthouse-gold.png" group-title="💘 ВЗРОСЛЫЕ", PENTHOUSE GOLD
+#EXTINF:-1 tvg-id="vivid-red" tvg-name="Vivid Red" tvg-logo="https://epg.iptvx.one/picons/vivid-red.png" group-title="💘 ВЗРОСЛЫЕ", VIVID RED
 #EXTGRP:💘 ВЗРОСЛЫЕ
-http://185.98.209.11:81/penthouse1/index.m3u8?token=test
-#EXTINF:-1 tvg-id="penthouse-quickies" tvg-name="Penthouse Reality TV" tvg-logo="https://epg.iptvx.one/picons/penthouse-quickies.png" group-title="💘 ВЗРОСЛЫЕ", PENTHOUSE REALITY TV
+http://stream.mcquack.net/284/index.m3u8
+#EXTINF:-1 tvg-id="hustler-hd" tvg-name="Hustler HD" tvg-logo="https://epg.iptvx.one/picons/hustler-hd.png" group-title="💘 ВЗРОСЛЫЕ", HUSTLER HD
 #EXTGRP:💘 ВЗРОСЛЫЕ
-http://185.98.209.11:81/penthouse2/index.m3u8?token=test
-#EXTINF:-1 tvg-id="private-tv" tvg-name="Private TV" tvg-logo="https://epg.iptvx.one/picons/private-tv.png" group-title="💘 ВЗРОСЛЫЕ", PRIVATE
-#EXTGRP:💘 ВЗРОСЛЫЕ
-http://77.46.130.252:99/private
+http://85.14.32.26:8800/udp/239.100.10.58:5000
 #EXTINF:-1 tvg-name="Сочи - Пляж Мамайка" group-title="📷 WEB КАМЕРЫ", Сочи - Пляж Мамайка
 #EXTGRP:📷 WEB КАМЕРЫ
 https://fl.tvintel.info:8443/mix-kukuruza-plyaz/index.m3u8
