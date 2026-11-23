@@ -2392,24 +2392,9 @@ http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
 #EXTGRP:💘 ВЗРОСЛЫЕ
 #EXTVLCOPT:http-user-agent=SmartTV
 http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="vivid-red" tvg-name="Vivid Red" tvg-logo="https://epg.iptvx.one/picons/vivid-red.png" group-title="💘 ВЗРОСЛЫЕ", VIVID RED
-#EXTGRP:💘 ВЗРОСЛЫЕ
-http://stream.mcquack.net/284/index.m3u8
-#EXTINF:-1 tvg-id="private-tv" tvg-name="Private HD" tvg-logo="https://epg.iptvx.one/picons/private-tv.png" group-title="💘 ВЗРОСЛЫЕ", PRIVATE HD
-#EXTGRP:💘 ВЗРОСЛЫЕ
-http://stream.mcquack.net/282/index.m3u8
 #EXTINF:-1 tvg-id="hustler-hd" tvg-name="Hustler HD" tvg-logo="https://epg.iptvx.one/picons/hustler-hd.png" group-title="💘 ВЗРОСЛЫЕ", HUSTLER HD
 #EXTGRP:💘 ВЗРОСЛЫЕ
-http://stream.mcquack.net/52/index.m3u8
-#EXTINF:-1 tvg-id="penthouse-gold" tvg-name="Penthouse Gold HD" tvg-logo="https://epg.iptvx.one/picons/penthouse-gold.png" group-title="💘 ВЗРОСЛЫЕ", PENTHOUSE GOLD
-#EXTGRP:💘 ВЗРОСЛЫЕ
-http://stream.mcquack.net/66/index.m3u8
-#EXTINF:-1 tvg-id="redlight-hd" tvg-name="Redlight HD" tvg-logo="https://epg.iptvx.one/picons/redlight-hd.png" group-title="💘 ВЗРОСЛЫЕ", REDLIGHT HD
-#EXTGRP:💘 ВЗРОСЛЫЕ
-http://stream.mcquack.net/51/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GONZO" tvg-logo="https:" group-title="💘 ВЗРОСЛЫЕ", GONZO
-#EXTGRP:💘 ВЗРОСЛЫЕ
-http://stream.mcquack.net/59/index.m3u8
+http://85.14.32.26:8800/udp/239.100.10.58:5000
 #EXTINF:-1 tvg-id="kinojam1" tvg-name="KINOJAM 1 HD" tvg-logo="https://iptvx.one/picons/kinojam1.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", KINOJAM 1 HD
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Kinojam_1.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc5NTQ3MTEwMSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzk0ODY2MzAxLCJzZXNzaW9uX2lkIjoiYmVjY2ZiMDQ4M2QwM2VkMTAyNTc3YTY5ZWIyNGRmZDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.n_Bf689su8HZVgVA3pRbzfB862R8Cf9xJzZuDOt7UKc
