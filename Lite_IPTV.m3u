@@ -240,7 +240,7 @@ https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=HD_Dom_Kino_
 https://stream-msk-13.ott.tricolor.tv:443/dtv/id176_MSKSG-PVR-1--D_Kino/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc5NjA3NjkwNCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzk1NDcyMTA0LCJzZXNzaW9uX2lkIjoiMzBhOTQ1OWMzYjI3NWIwODA3MzBkOGU0ZTZmOGRiODciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.HPfE_I3RRbAp8jh86O39Yj9R4sOiu3ZqqcC8QMSGr24
 #EXTINF:-1 tvg-id="evrokino" tvg-name="ЕВРОКИНО" tvg-logo="https://iptvx.one/picons/eurokino.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", ЕВРОКИНО
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://31.210.208.171:8080/evrokino/index.m3u8?token=+W2MSER
+http://195.64.140.147:10088/88
 #EXTINF:-1 tvg-id="evrokino" tvg-name="ЕВРОКИНО" tvg-logo="https://iptvx.one/picons/eurokino.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", ЕВРОКИНО HD (Torrent TV)
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://127.0.0.1:6878/ace/getstream?id=cda16e6d488958942dcd9cd96284c0910dc29cce
@@ -1818,7 +1818,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1 tvg-id="kinosemiya" tvg-name="КИНОСЕМЬЯ" tvg-logo="https://iptvx.one/picons/kinosemia.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНОСЕМЬЯ
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://31.210.208.171:8080/kinofamily/index.m3u8?token=+W2MSER
+http://195.64.140.147:10042/42
 #EXTINF:-1 tvg-id="kinosemiya" tvg-name="КИНОСЕМЬЯ" tvg-logo="https://iptvx.one/picons/kinosemia.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНОСЕМЬЯ HD (Torrent TV)
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://127.0.0.1:6878/ace/getstream?id=e177586ae336f410e95e784348e4a1f7a82e0952
@@ -1827,13 +1827,13 @@ http://127.0.0.1:6878/ace/getstream?id=e177586ae336f410e95e784348e4a1f7a82e0952
 https://stream-msk-18.ott.tricolor.tv/dtv/id1015_MSKSG-PVR-1--Kinozal27_SD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc5NjA3NjkwNCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzk1NDcyMTA0LCJzZXNzaW9uX2lkIjoiMzBhOTQ1OWMzYjI3NWIwODA3MzBkOGU0ZTZmOGRiODciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.HPfE_I3RRbAp8jh86O39Yj9R4sOiu3ZqqcC8QMSGr24
 #EXTINF:-1 tvg-id="nashe-novoe-kino" tvg-name="НАШЕ НОВОЕ КИНО" tvg-logo="https://iptvx.one/picons/nashe-novoe-kino.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", НАШЕ НОВОЕ КИНО
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://185.46.16.239:8000/Nickelodeon
+http://195.64.140.147:10053/53
 #EXTINF:-1 tvg-id="nashe-novoe-kino" tvg-name="НАШЕ НОВОЕ КИНО" tvg-logo="https://iptvx.one/picons/nashe-novoe-kino.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", НАШЕ НОВОЕ КИНО HD (Torrent TV)
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://127.0.0.1:6878/ace/getstream?id=ae38625cca3cae6873509ba05b99aa1af5ec0f4e
 #EXTINF:-1 tvg-id="kinouzhas" tvg-name="КИНОУЖАС" tvg-logo="https://iptvx.one/picons/kinouzhas.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНОУЖАС
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://31.210.208.171:8080/kinouzhas/index.m3u8?token=+W2MSER
+http://195.64.140.147:10043/43
 #EXTINF:-1 tvg-id="kinouzhas" tvg-name="КИНОУЖАС" tvg-logo="https://iptvx.one/picons/kinouzhas.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНОУЖАС HD (Torrent TV)
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://127.0.0.1:6878/ace/getstream?id=fd386c089ec9cc7d1d75ef5d59cf2199211515e7
@@ -1896,7 +1896,7 @@ https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="kinoxit" tvg-name="КИНОХИТ" tvg-logo="https://iptvx.one/picons/kinoxit.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНОХИТ
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://31.210.208.171:8080/kinohit/index.m3u8?token=+W2MSER
+https://flussonic.mkpnet.ru/tv-513b9c22f4277475/video.m3u8
 #EXTINF:-1 tvg-id="kinoxit" tvg-name="КИНОХИТ" tvg-logo="https://iptvx.one/picons/kinoxit.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", КИНОХИТ HD (Torrent TV)
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://127.0.0.1:6878/ace/getstream?id=f1fe45c8d5f58301c74dde7acaf4db13e497b586
@@ -1908,7 +1908,7 @@ https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 http://hls.tv.3angels.ru/stream/HQ.m3u8
 #EXTINF:-1 tvg-id="muzhskoe-kino" tvg-name="МУЖСКОЕ КИНО" tvg-logo="https://iptvx.one/picons/muzhskoe-kino.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", МУЖСКОЕ КИНО
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://31.210.208.171:8080/muzhskoe_kino/index.m3u8?token=+W2MSER
+https://fs.uplink.kz/muzhskoe_kino/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-id="muzhskoe-kino" tvg-name="МУЖСКОЕ КИНО" tvg-logo="https://iptvx.one/picons/muzhskoe-kino.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", МУЖСКОЕ КИНО HD (Torrent TV)
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://127.0.0.1:6878/ace/getstream?id=26491abeef0cc9d0646bb8de880fe73d5ca285af
@@ -1926,7 +1926,7 @@ https://stream-msk-15.ott.tricolor.tv/dtv/id906_MSKSG-PVR-1--Kinozal_12/03/plst.
 https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Bollywood.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc5NjA3NjkwNCwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzk1NDcyMTA0LCJzZXNzaW9uX2lkIjoiMzBhOTQ1OWMzYjI3NWIwODA3MzBkOGU0ZTZmOGRiODciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.HPfE_I3RRbAp8jh86O39Yj9R4sOiu3ZqqcC8QMSGr24
 #EXTINF:-1 tvg-name="ИНДИЯ" tvg-logo="https://iptvx.one/picons/zee-tv.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", ИНДИЯ
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://31.210.208.171:8080/indiya/index.m3u8?token=+W2MSER
+https://fs.uplink.kz/india/mono.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-id="setanta-sports" tvg-name="SETANTA SPORTS 1" tvg-logo="https://iptvx.one/picons/setanta-sports.png" group-title="🏅 СПОРТ", SETANTA SPORTS 1 FHD (Torrent TV)
 #EXTGRP:🏅 СПОРТ
 http://127.0.0.1:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
@@ -1969,7 +1969,7 @@ https://stream-msk-12.ott.tricolor.tv:443/dtv/id656_MSKSG-PVR-1--CGTN_Rus/03/pls
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_URAL_SUR/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="rodnoe-kino" tvg-name="РОДНОЕ КИНО" tvg-logo="https://iptvx.one/picons/rodnoe-kino.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", РОДНОЕ КИНО
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://31.210.208.171:8080/rodnoe_kino/index.m3u8?token=+W2MSER
+http://195.64.140.147:10052/52
 #EXTINF:-1 tvg-id="rodnoe-kino" tvg-name="РОДНОЕ КИНО" tvg-logo="https://iptvx.one/picons/rodnoe-kino.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", РОДНОЕ КИНО (Torrent TV)
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://127.0.0.1:6878/ace/getstream?id=b46c879a624e1d0aa8eeb18300cda7413657e80a
@@ -2186,7 +2186,7 @@ http://127.0.0.1:6878/ace/getstream?id=04448c3ca0b7518819491e468adbabc8a2551bd7
 http://127.0.0.1:6878/ace/getstream?id=122b81e6c37b49a37c3b1984efaf5626371d5df5
 #EXTINF:-1 tvg-id="lubimoe-kino" tvg-name="ЛЮБИМОЕ КИНО" tvg-logo="https://iptvx.one/picons/lubimoe-kino.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", ЛЮБИМОЕ КИНО
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
-http://31.210.208.171:8080/lubimoe_kino/index.m3u8?token=+W2MSER
+http://195.64.140.147:10091/91
 #EXTINF:-1 tvg-id="lubimoe-kino" tvg-name="ЛЮБИМОЕ КИНО" tvg-logo="https://iptvx.one/picons/lubimoe-kino.png" group-title="📽️ ФИЛЬМЫ И СЕРИАЛЫ", ЛЮБИМОЕ КИНО HD (Torrent TV)
 #EXTGRP:📽️ ФИЛЬМЫ И СЕРИАЛЫ
 http://127.0.0.1:6878/ace/getstream?id=ed833df0a763fa26f180acac44634eb4c3918d86
